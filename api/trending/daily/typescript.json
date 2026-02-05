@@ -1,0 +1,574 @@
+[
+  {
+    "rank": 1,
+    "author": "bytedance",
+    "repoName": "UI-TARS-desktop",
+    "url": "https://github.com/bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 26431,
+    "forks": 2582,
+    "currentPeriodStars": 862,
+    "builtBy": [
+      {
+        "username": "ulivz",
+        "avatar": "https://avatars.githubusercontent.com/u/23133919?s=40&v=4"
+      },
+      {
+        "username": "ycjcl868",
+        "avatar": "https://avatars.githubusercontent.com/u/13595509?s=40&v=4"
+      },
+      {
+        "username": "ZhaoHeh",
+        "avatar": "https://avatars.githubusercontent.com/u/38528320?s=40&v=4"
+      },
+      {
+        "username": "cjraft",
+        "avatar": "https://avatars.githubusercontent.com/u/13687952?s=40&v=4"
+      },
+      {
+        "username": "skychx",
+        "avatar": "https://avatars.githubusercontent.com/u/24872439?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:57:10.145Z"
+  },
+  {
+    "rank": 2,
+    "author": "thedotmack",
+    "repoName": "claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 23312,
+    "forks": 1535,
+    "currentPeriodStars": 1899,
+    "builtBy": [
+      {
+        "username": "thedotmack",
+        "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4"
+      },
+      {
+        "username": "claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      },
+      {
+        "username": "apps/copilot-swe-agent",
+        "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
+      },
+      {
+        "username": "apps/github-actions",
+        "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+      },
+      {
+        "username": "bigph00t",
+        "avatar": "https://avatars.githubusercontent.com/u/166455923?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:57:10.145Z"
+  },
+  {
+    "rank": 3,
+    "author": "linshenkx",
+    "repoName": "prompt-optimizer",
+    "url": "https://github.com/linshenkx/prompt-optimizer",
+    "description": "一款提示词优化器，助力于编写高质量的提示词",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 19232,
+    "forks": 2389,
+    "currentPeriodStars": 45,
+    "builtBy": [
+      {
+        "username": "linshenkx",
+        "avatar": "https://avatars.githubusercontent.com/u/32978552?s=40&v=4"
+      },
+      {
+        "username": "hexart",
+        "avatar": "https://avatars.githubusercontent.com/u/5528016?s=40&v=4"
+      },
+      {
+        "username": "claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      },
+      {
+        "username": "lanyuanxiaoyao",
+        "avatar": "https://avatars.githubusercontent.com/u/15119304?s=40&v=4"
+      },
+      {
+        "username": "prazjain",
+        "avatar": "https://avatars.githubusercontent.com/u/1950036?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:57:10.146Z"
+  },
+  {
+    "rank": 4,
+    "author": "MotiaDev",
+    "repoName": "motia",
+    "url": "https://github.com/MotiaDev/motia",
+    "description": "Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 14809,
+    "forks": 986,
+    "currentPeriodStars": 178,
+    "builtBy": [
+      {
+        "username": "sergiofilhowz",
+        "avatar": "https://avatars.githubusercontent.com/u/4141723?s=40&v=4"
+      },
+      {
+        "username": "mfpiccolo",
+        "avatar": "https://avatars.githubusercontent.com/u/3249825?s=40&v=4"
+      },
+      {
+        "username": "ytallo",
+        "avatar": "https://avatars.githubusercontent.com/u/5348335?s=40&v=4"
+      },
+      {
+        "username": "rohitg00",
+        "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&v=4"
+      },
+      {
+        "username": "actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:57:10.146Z"
+  },
+  {
+    "rank": 5,
+    "author": "aidenybai",
+    "repoName": "react-grab",
+    "url": "https://github.com/aidenybai/react-grab",
+    "description": "Select context for coding agents directly from your website",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 4887,
+    "forks": 226,
+    "currentPeriodStars": 90,
+    "builtBy": [
+      {
+        "username": "aidenybai",
+        "avatar": "https://avatars.githubusercontent.com/u/38025074?s=40&v=4"
+      },
+      {
+        "username": "ben-million",
+        "avatar": "https://avatars.githubusercontent.com/u/210088851?s=40&v=4"
+      },
+      {
+        "username": "cursoragent",
+        "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
+      },
+      {
+        "username": "apps/cubic-dev-ai",
+        "avatar": "https://avatars.githubusercontent.com/in/1082092?s=40&v=4"
+      },
+      {
+        "username": "aymanch-03",
+        "avatar": "https://avatars.githubusercontent.com/u/126724835?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:57:10.147Z"
+  },
+  {
+    "rank": 6,
+    "author": "google-gemini",
+    "repoName": "gemini-cli",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 93651,
+    "forks": 11026,
+    "currentPeriodStars": 139,
+    "builtBy": [
+      {
+        "username": "jacob314",
+        "avatar": "https://avatars.githubusercontent.com/u/1226812?s=40&v=4"
+      },
+      {
+        "username": "scidomino",
+        "avatar": "https://avatars.githubusercontent.com/u/13950003?s=40&v=4"
+      },
+      {
+        "username": "NTaylorMullen",
+        "avatar": "https://avatars.githubusercontent.com/u/2008729?s=40&v=4"
+      },
+      {
+        "username": "abhipatel12",
+        "avatar": "https://avatars.githubusercontent.com/u/43648792?s=40&v=4"
+      },
+      {
+        "username": "mattKorwel",
+        "avatar": "https://avatars.githubusercontent.com/u/1538695?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:57:10.147Z"
+  },
+  {
+    "rank": 7,
+    "author": "cjpais",
+    "repoName": "Handy",
+    "url": "https://github.com/cjpais/Handy",
+    "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 14150,
+    "forks": 952,
+    "currentPeriodStars": 148,
+    "builtBy": [
+      {
+        "username": "cjpais",
+        "avatar": "https://avatars.githubusercontent.com/u/1559480?s=40&v=4"
+      },
+      {
+        "username": "vladstudio",
+        "avatar": "https://avatars.githubusercontent.com/u/914320?s=40&v=4"
+      },
+      {
+        "username": "VirenMohindra",
+        "avatar": "https://avatars.githubusercontent.com/u/10460518?s=40&v=4"
+      },
+      {
+        "username": "jacksongoode",
+        "avatar": "https://avatars.githubusercontent.com/u/54308792?s=40&v=4"
+      },
+      {
+        "username": "claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:57:10.147Z"
+  },
+  {
+    "rank": 8,
+    "author": "mermaid-js",
+    "repoName": "mermaid",
+    "url": "https://github.com/mermaid-js/mermaid",
+    "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 85842,
+    "forks": 8586,
+    "currentPeriodStars": 34,
+    "builtBy": [
+      {
+        "username": "sidharthv96",
+        "avatar": "https://avatars.githubusercontent.com/u/10703445?s=40&v=4"
+      },
+      {
+        "username": "knsv",
+        "avatar": "https://avatars.githubusercontent.com/u/5837277?s=40&v=4"
+      },
+      {
+        "username": "ashishjain0512",
+        "avatar": "https://avatars.githubusercontent.com/u/16836093?s=40&v=4"
+      },
+      {
+        "username": "apps/dependabot",
+        "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      },
+      {
+        "username": "NeilCuzon",
+        "avatar": "https://avatars.githubusercontent.com/u/58763315?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:57:10.147Z"
+  },
+  {
+    "rank": 9,
+    "author": "virattt",
+    "repoName": "dexter",
+    "url": "https://github.com/virattt/dexter",
+    "description": "An autonomous agent for deep financial research",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 10544,
+    "forks": 1272,
+    "currentPeriodStars": 234,
+    "builtBy": [
+      {
+        "username": "virattt",
+        "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&v=4"
+      },
+      {
+        "username": "gupta-8",
+        "avatar": "https://avatars.githubusercontent.com/u/215169640?s=40&v=4"
+      },
+      {
+        "username": "sjhddh",
+        "avatar": "https://avatars.githubusercontent.com/u/5778228?s=40&v=4"
+      },
+      {
+        "username": "bittoby",
+        "avatar": "https://avatars.githubusercontent.com/u/218712309?s=40&v=4"
+      },
+      {
+        "username": "axyr",
+        "avatar": "https://avatars.githubusercontent.com/u/345155?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:57:10.148Z"
+  },
+  {
+    "rank": 10,
+    "author": "microsoft",
+    "repoName": "vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 181407,
+    "forks": 37749,
+    "currentPeriodStars": 71,
+    "builtBy": [
+      {
+        "username": "bpasero",
+        "avatar": "https://avatars.githubusercontent.com/u/900690?s=40&v=4"
+      },
+      {
+        "username": "Tyriar",
+        "avatar": "https://avatars.githubusercontent.com/u/2193314?s=40&v=4"
+      },
+      {
+        "username": "jrieken",
+        "avatar": "https://avatars.githubusercontent.com/u/1794099?s=40&v=4"
+      },
+      {
+        "username": "mjbvz",
+        "avatar": "https://avatars.githubusercontent.com/u/12821956?s=40&v=4"
+      },
+      {
+        "username": "joaomoreno",
+        "avatar": "https://avatars.githubusercontent.com/u/22350?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:57:10.148Z"
+  },
+  {
+    "rank": 11,
+    "author": "vm0-ai",
+    "repoName": "vm0",
+    "url": "https://github.com/vm0-ai/vm0",
+    "description": "the easiest way to run natural language-described workflows automatically",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 948,
+    "forks": 38,
+    "currentPeriodStars": 112,
+    "builtBy": [
+      {
+        "username": "claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      },
+      {
+        "username": "lancy",
+        "avatar": "https://avatars.githubusercontent.com/u/1206841?s=40&v=4"
+      },
+      {
+        "username": "e7h4n",
+        "avatar": "https://avatars.githubusercontent.com/u/813596?s=40&v=4"
+      },
+      {
+        "username": "apps/github-actions",
+        "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+      },
+      {
+        "username": "seven332",
+        "avatar": "https://avatars.githubusercontent.com/u/4018618?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:57:10.148Z"
+  },
+  {
+    "rank": 12,
+    "author": "KuekHaoYang",
+    "repoName": "KVideo",
+    "url": "https://github.com/KuekHaoYang/KVideo",
+    "description": "一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 \"Liquid Glass\" 设计语言，提供流畅的视觉体验和强大的视频搜索功能。",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 1623,
+    "forks": 2098,
+    "currentPeriodStars": 118,
+    "builtBy": [
+      {
+        "username": "KuekHaoYang",
+        "avatar": "https://avatars.githubusercontent.com/u/143677684?s=40&v=4"
+      },
+      {
+        "username": "Troray",
+        "avatar": "https://avatars.githubusercontent.com/u/16841721?s=40&v=4"
+      },
+      {
+        "username": "WuChenDi",
+        "avatar": "https://avatars.githubusercontent.com/u/31385662?s=40&v=4"
+      },
+      {
+        "username": "apps/gemini-code-assist",
+        "avatar": "https://avatars.githubusercontent.com/in/956858?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:57:10.148Z"
+  },
+  {
+    "rank": 13,
+    "author": "anthropics",
+    "repoName": "anthropic-sdk-typescript",
+    "url": "https://github.com/anthropics/anthropic-sdk-typescript",
+    "description": "Access to Anthropic's safety-first language model APIs in TypeScript",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 1577,
+    "forks": 210,
+    "currentPeriodStars": 5,
+    "builtBy": [
+      {
+        "username": "stainless-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/107565488?s=40&v=4"
+      },
+      {
+        "username": "apps/stainless-app",
+        "avatar": "https://avatars.githubusercontent.com/in/378072?s=40&v=4"
+      },
+      {
+        "username": "RobertCraigie",
+        "avatar": "https://avatars.githubusercontent.com/u/23125036?s=40&v=4"
+      },
+      {
+        "username": "jspahrsummers",
+        "avatar": "https://avatars.githubusercontent.com/u/432536?s=40&v=4"
+      },
+      {
+        "username": "dtmeadows",
+        "avatar": "https://avatars.githubusercontent.com/u/23490846?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:57:10.149Z"
+  },
+  {
+    "rank": 14,
+    "author": "Canner",
+    "repoName": "WrenAI",
+    "url": "https://github.com/Canner/WrenAI",
+    "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 14095,
+    "forks": 1520,
+    "currentPeriodStars": 89,
+    "builtBy": [
+      {
+        "username": "cyyeh",
+        "avatar": "https://avatars.githubusercontent.com/u/11023068?s=40&v=4"
+      },
+      {
+        "username": "onlyjackfrost",
+        "avatar": "https://avatars.githubusercontent.com/u/38731840?s=40&v=4"
+      },
+      {
+        "username": "wwwy3y3",
+        "avatar": "https://avatars.githubusercontent.com/u/1208829?s=40&v=4"
+      },
+      {
+        "username": "andreashimin",
+        "avatar": "https://avatars.githubusercontent.com/u/9657305?s=40&v=4"
+      },
+      {
+        "username": "paopa",
+        "avatar": "https://avatars.githubusercontent.com/u/52045032?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:57:10.149Z"
+  },
+  {
+    "rank": 15,
+    "author": "likec4",
+    "repoName": "likec4",
+    "url": "https://github.com/likec4/likec4",
+    "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 1627,
+    "forks": 129,
+    "currentPeriodStars": 29,
+    "builtBy": [
+      {
+        "username": "davydkov",
+        "avatar": "https://avatars.githubusercontent.com/u/824903?s=40&v=4"
+      },
+      {
+        "username": "apps/renovate",
+        "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+      },
+      {
+        "username": "pavelpykhtin",
+        "avatar": "https://avatars.githubusercontent.com/u/14885777?s=40&v=4"
+      },
+      {
+        "username": "apps/dependabot",
+        "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      },
+      {
+        "username": "apps/likec4-ci",
+        "avatar": "https://avatars.githubusercontent.com/in/631189?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:57:10.150Z"
+  },
+  {
+    "rank": 16,
+    "author": "activepieces",
+    "repoName": "activepieces",
+    "url": "https://github.com/activepieces/activepieces",
+    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 20726,
+    "forks": 3253,
+    "currentPeriodStars": 47,
+    "builtBy": [
+      {
+        "username": "AbdulTheActivePiecer",
+        "avatar": "https://avatars.githubusercontent.com/u/106555838?s=40&v=4"
+      },
+      {
+        "username": "abuaboud",
+        "avatar": "https://avatars.githubusercontent.com/u/1812998?s=40&v=4"
+      },
+      {
+        "username": "automated-commits-ap",
+        "avatar": "https://avatars.githubusercontent.com/u/228716196?s=40&v=4"
+      },
+      {
+        "username": "kishanprmr",
+        "avatar": "https://avatars.githubusercontent.com/u/135701940?s=40&v=4"
+      },
+      {
+        "username": "khaledmashaly",
+        "avatar": "https://avatars.githubusercontent.com/u/61781545?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:57:10.150Z"
+  }
+]
