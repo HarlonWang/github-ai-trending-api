@@ -1,0 +1,43 @@
+name: Daily Trending Crawl
+
+on:
+  schedule:
+    # 北京时间 10:00 (UTC 02:00)
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 允许 push 代码
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run Crawler
+        run: npm start
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 检查是否有文件变更
+          if [[ -n $(git status --porcelain api/ archives/) ]]; then
+            git add api/ archives/
+            git commit -m "chore(data): update trending data $(date +'%Y-%m-%d')"
+            git push
+          else
+            echo "No changes to commit."
+          fi

@@ -1,0 +1,494 @@
+[
+  {
+    "rank": 1,
+    "author": "openai",
+    "repoName": "skills",
+    "url": "https://github.com/openai/skills",
+    "description": "Skills Catalog for Codex",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 3988,
+    "forks": 233,
+    "currentPeriodStars": 746,
+    "builtBy": [
+      {
+        "username": "gverma-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
+      },
+      {
+        "username": "dkundel-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4"
+      },
+      {
+        "username": "vb-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&v=4"
+      },
+      {
+        "username": "ae-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&v=4"
+      },
+      {
+        "username": "quuu",
+        "avatar": "https://avatars.githubusercontent.com/u/32676955?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:11.127Z"
+  },
+  {
+    "rank": 2,
+    "author": "disler",
+    "repoName": "claude-code-hooks-mastery",
+    "url": "https://github.com/disler/claude-code-hooks-mastery",
+    "description": "Master Claude Code Hooks",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 2507,
+    "forks": 508,
+    "currentPeriodStars": 47,
+    "builtBy": [
+      {
+        "username": "disler",
+        "avatar": "https://avatars.githubusercontent.com/u/7570811?s=40&v=4"
+      },
+      {
+        "username": "claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:11.127Z"
+  },
+  {
+    "rank": 3,
+    "author": "OpenBMB",
+    "repoName": "ChatDev",
+    "url": "https://github.com/OpenBMB/ChatDev",
+    "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 30139,
+    "forks": 3719,
+    "currentPeriodStars": 227,
+    "builtBy": [
+      {
+        "username": "thinkwee",
+        "avatar": "https://avatars.githubusercontent.com/u/11889052?s=40&v=4"
+      },
+      {
+        "username": "Alphamasterliu",
+        "avatar": "https://avatars.githubusercontent.com/u/110011045?s=40&v=4"
+      },
+      {
+        "username": "NA-Wen",
+        "avatar": "https://avatars.githubusercontent.com/u/92134380?s=40&v=4"
+      },
+      {
+        "username": "qianc62",
+        "avatar": "https://avatars.githubusercontent.com/u/48988402?s=40&v=4"
+      },
+      {
+        "username": "zxrys",
+        "avatar": "https://avatars.githubusercontent.com/u/115414113?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:11.127Z"
+  },
+  {
+    "rank": 4,
+    "author": "microsoft",
+    "repoName": "qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 36727,
+    "forks": 5711,
+    "currentPeriodStars": 83,
+    "builtBy": [
+      {
+        "username": "you-n-g",
+        "avatar": "https://avatars.githubusercontent.com/u/465606?s=40&v=4"
+      },
+      {
+        "username": "bxdd",
+        "avatar": "https://avatars.githubusercontent.com/u/45119470?s=40&v=4"
+      },
+      {
+        "username": "Derek-Wds",
+        "avatar": "https://avatars.githubusercontent.com/u/26081991?s=40&v=4"
+      },
+      {
+        "username": "zhupr",
+        "avatar": "https://avatars.githubusercontent.com/u/18660661?s=40&v=4"
+      },
+      {
+        "username": "SunsetWolf",
+        "avatar": "https://avatars.githubusercontent.com/u/30293408?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:11.127Z"
+  },
+  {
+    "rank": 5,
+    "author": "karpathy",
+    "repoName": "nanochat",
+    "url": "https://github.com/karpathy/nanochat",
+    "description": "The best ChatGPT that $100 can buy.",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 42294,
+    "forks": 5456,
+    "currentPeriodStars": 313,
+    "builtBy": [
+      {
+        "username": "karpathy",
+        "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4"
+      },
+      {
+        "username": "svlandeg",
+        "avatar": "https://avatars.githubusercontent.com/u/8796347?s=40&v=4"
+      },
+      {
+        "username": "lukestanley",
+        "avatar": "https://avatars.githubusercontent.com/u/306671?s=40&v=4"
+      },
+      {
+        "username": "claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      },
+      {
+        "username": "ericsilberstein",
+        "avatar": "https://avatars.githubusercontent.com/u/10590453?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:11.127Z"
+  },
+  {
+    "rank": 6,
+    "author": "AtsushiSakai",
+    "repoName": "PythonRobotics",
+    "url": "https://github.com/AtsushiSakai/PythonRobotics",
+    "description": "Python sample codes and textbook for robotics algorithms.",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 28562,
+    "forks": 7210,
+    "currentPeriodStars": 14,
+    "builtBy": [
+      {
+        "username": "AtsushiSakai",
+        "avatar": "https://avatars.githubusercontent.com/u/3813847?s=40&v=4"
+      },
+      {
+        "username": "apps/dependabot",
+        "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      },
+      {
+        "username": "actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4"
+      },
+      {
+        "username": "Gjacquenot",
+        "avatar": "https://avatars.githubusercontent.com/u/6797340?s=40&v=4"
+      },
+      {
+        "username": "guilyx",
+        "avatar": "https://avatars.githubusercontent.com/u/43545812?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:11.128Z"
+  },
+  {
+    "rank": 7,
+    "author": "zhayujie",
+    "repoName": "chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "description": "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 41050,
+    "forks": 9710,
+    "currentPeriodStars": 32,
+    "builtBy": [
+      {
+        "username": "zhayujie",
+        "avatar": "https://avatars.githubusercontent.com/u/26161723?s=40&v=4"
+      },
+      {
+        "username": "lanvent",
+        "avatar": "https://avatars.githubusercontent.com/u/26515464?s=40&v=4"
+      },
+      {
+        "username": "6vision",
+        "avatar": "https://avatars.githubusercontent.com/u/38057450?s=40&v=4"
+      },
+      {
+        "username": "Saboteur7",
+        "avatar": "https://avatars.githubusercontent.com/u/138805485?s=40&v=4"
+      },
+      {
+        "username": "JS00000",
+        "avatar": "https://avatars.githubusercontent.com/u/9778880?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:11.128Z"
+  },
+  {
+    "rank": 8,
+    "author": "masoncl",
+    "repoName": "review-prompts",
+    "url": "https://github.com/masoncl/review-prompts",
+    "description": "AI review prompts",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 577,
+    "forks": 44,
+    "currentPeriodStars": 289,
+    "builtBy": [
+      {
+        "username": "masoncl",
+        "avatar": "https://avatars.githubusercontent.com/u/3902556?s=40&v=4"
+      },
+      {
+        "username": "yghannam",
+        "avatar": "https://avatars.githubusercontent.com/u/1633702?s=40&v=4"
+      },
+      {
+        "username": "chucklever",
+        "avatar": "https://avatars.githubusercontent.com/u/2586432?s=40&v=4"
+      },
+      {
+        "username": "brauner",
+        "avatar": "https://avatars.githubusercontent.com/u/7353573?s=40&v=4"
+      },
+      {
+        "username": "jlelli",
+        "avatar": "https://avatars.githubusercontent.com/u/1210679?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:11.128Z"
+  },
+  {
+    "rank": 9,
+    "author": "pipecat-ai",
+    "repoName": "pipecat",
+    "url": "https://github.com/pipecat-ai/pipecat",
+    "description": "Open Source framework for voice and multimodal conversational AI",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 10188,
+    "forks": 1697,
+    "currentPeriodStars": 26,
+    "builtBy": [
+      {
+        "username": "aconchillo",
+        "avatar": "https://avatars.githubusercontent.com/u/951761?s=40&v=4"
+      },
+      {
+        "username": "markbackman",
+        "avatar": "https://avatars.githubusercontent.com/u/1924426?s=40&v=4"
+      },
+      {
+        "username": "kompfner",
+        "avatar": "https://avatars.githubusercontent.com/u/782801?s=40&v=4"
+      },
+      {
+        "username": "filipi87",
+        "avatar": "https://avatars.githubusercontent.com/u/26225509?s=40&v=4"
+      },
+      {
+        "username": "kwindla",
+        "avatar": "https://avatars.githubusercontent.com/u/7378232?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:11.128Z"
+  },
+  {
+    "rank": 10,
+    "author": "dagster-io",
+    "repoName": "dagster",
+    "url": "https://github.com/dagster-io/dagster",
+    "description": "An orchestration platform for the development, production, and observation of data assets.",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 14897,
+    "forks": 1967,
+    "currentPeriodStars": 13,
+    "builtBy": [
+      {
+        "username": "schrockn",
+        "avatar": "https://avatars.githubusercontent.com/u/28738937?s=40&v=4"
+      },
+      {
+        "username": "gibsondan",
+        "avatar": "https://avatars.githubusercontent.com/u/8451211?s=40&v=4"
+      },
+      {
+        "username": "hellendag",
+        "avatar": "https://avatars.githubusercontent.com/u/2823852?s=40&v=4"
+      },
+      {
+        "username": "sryza",
+        "avatar": "https://avatars.githubusercontent.com/u/654855?s=40&v=4"
+      },
+      {
+        "username": "prha",
+        "avatar": "https://avatars.githubusercontent.com/u/1040172?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:11.128Z"
+  },
+  {
+    "rank": 11,
+    "author": "QwenLM",
+    "repoName": "Qwen3-Coder",
+    "url": "https://github.com/QwenLM/Qwen3-Coder",
+    "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 15292,
+    "forks": 1062,
+    "currentPeriodStars": 123,
+    "builtBy": [
+      {
+        "username": "huybery",
+        "avatar": "https://avatars.githubusercontent.com/u/13436140?s=40&v=4"
+      },
+      {
+        "username": "cyente",
+        "avatar": "https://avatars.githubusercontent.com/u/17844362?s=40&v=4"
+      },
+      {
+        "username": "CSJianYang",
+        "avatar": "https://avatars.githubusercontent.com/u/17171126?s=40&v=4"
+      },
+      {
+        "username": "JustinLin610",
+        "avatar": "https://avatars.githubusercontent.com/u/27664428?s=40&v=4"
+      },
+      {
+        "username": "Yangjiaxi",
+        "avatar": "https://avatars.githubusercontent.com/u/6203054?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:11.128Z"
+  },
+  {
+    "rank": 12,
+    "author": "confident-ai",
+    "repoName": "deepeval",
+    "url": "https://github.com/confident-ai/deepeval",
+    "description": "The LLM Evaluation Framework",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 13452,
+    "forks": 1210,
+    "currentPeriodStars": 109,
+    "builtBy": [
+      {
+        "username": "penguine-ip",
+        "avatar": "https://avatars.githubusercontent.com/u/143328635?s=40&v=4"
+      },
+      {
+        "username": "jwongster2",
+        "avatar": "https://avatars.githubusercontent.com/u/108557828?s=40&v=4"
+      },
+      {
+        "username": "A-Vamshi",
+        "avatar": "https://avatars.githubusercontent.com/u/123094948?s=40&v=4"
+      },
+      {
+        "username": "kritinv",
+        "avatar": "https://avatars.githubusercontent.com/u/73642562?s=40&v=4"
+      },
+      {
+        "username": "spike-spiegel-21",
+        "avatar": "https://avatars.githubusercontent.com/u/83648453?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:11.129Z"
+  },
+  {
+    "rank": 13,
+    "author": "microsoft",
+    "repoName": "agent-lightning",
+    "url": "https://github.com/microsoft/agent-lightning",
+    "description": "The absolute trainer to light up AI agents.",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 14031,
+    "forks": 1180,
+    "currentPeriodStars": 315,
+    "builtBy": [
+      {
+        "username": "actions-user",
+        "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4"
+      },
+      {
+        "username": "ultmaster",
+        "avatar": "https://avatars.githubusercontent.com/u/8463288?s=40&v=4"
+      },
+      {
+        "username": "acured",
+        "avatar": "https://avatars.githubusercontent.com/u/10276763?s=40&v=4"
+      },
+      {
+        "username": "wizardlancet",
+        "avatar": "https://avatars.githubusercontent.com/u/5806609?s=40&v=4"
+      },
+      {
+        "username": "apps/copilot-pull-request-reviewer",
+        "avatar": "https://avatars.githubusercontent.com/in/946600?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:11.129Z"
+  },
+  {
+    "rank": 14,
+    "author": "TauricResearch",
+    "repoName": "TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 29317,
+    "forks": 5614,
+    "currentPeriodStars": 135,
+    "builtBy": [
+      {
+        "username": "Yijia-Xiao",
+        "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4"
+      },
+      {
+        "username": "EdwardoSunny",
+        "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&v=4"
+      },
+      {
+        "username": "luohy15",
+        "avatar": "https://avatars.githubusercontent.com/u/15189961?s=40&v=4"
+      },
+      {
+        "username": "claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      },
+      {
+        "username": "ZeroAct",
+        "avatar": "https://avatars.githubusercontent.com/u/46982469?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:11.129Z"
+  }
+]

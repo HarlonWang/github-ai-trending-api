@@ -1,0 +1,422 @@
+[
+  {
+    "rank": 1,
+    "author": "thedotmack",
+    "repoName": "claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 23259,
+    "forks": 1529,
+    "currentPeriodStars": 2638,
+    "builtBy": [
+      {
+        "username": "thedotmack",
+        "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4"
+      },
+      {
+        "username": "claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      },
+      {
+        "username": "apps/copilot-swe-agent",
+        "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
+      },
+      {
+        "username": "apps/github-actions",
+        "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+      },
+      {
+        "username": "dreamiurg",
+        "avatar": "https://avatars.githubusercontent.com/u/369468?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:04.619Z"
+  },
+  {
+    "rank": 2,
+    "author": "openai",
+    "repoName": "skills",
+    "url": "https://github.com/openai/skills",
+    "description": "Skills Catalog for Codex",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 3988,
+    "forks": 233,
+    "currentPeriodStars": 746,
+    "builtBy": [
+      {
+        "username": "gverma-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
+      },
+      {
+        "username": "dkundel-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4"
+      },
+      {
+        "username": "vb-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&v=4"
+      },
+      {
+        "username": "ae-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&v=4"
+      },
+      {
+        "username": "lukeqin-oai",
+        "avatar": "https://avatars.githubusercontent.com/u/247480705?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:04.620Z"
+  },
+  {
+    "rank": 3,
+    "author": "disler",
+    "repoName": "claude-code-hooks-mastery",
+    "url": "https://github.com/disler/claude-code-hooks-mastery",
+    "description": "Master Claude Code Hooks",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 2507,
+    "forks": 508,
+    "currentPeriodStars": 47,
+    "builtBy": [
+      {
+        "username": "disler",
+        "avatar": "https://avatars.githubusercontent.com/u/7570811?s=40&v=4"
+      },
+      {
+        "username": "claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:04.620Z"
+  },
+  {
+    "rank": 4,
+    "author": "OpenBMB",
+    "repoName": "ChatDev",
+    "url": "https://github.com/OpenBMB/ChatDev",
+    "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 30139,
+    "forks": 3719,
+    "currentPeriodStars": 227,
+    "builtBy": [
+      {
+        "username": "thinkwee",
+        "avatar": "https://avatars.githubusercontent.com/u/11889052?s=40&v=4"
+      },
+      {
+        "username": "Alphamasterliu",
+        "avatar": "https://avatars.githubusercontent.com/u/110011045?s=40&v=4"
+      },
+      {
+        "username": "NA-Wen",
+        "avatar": "https://avatars.githubusercontent.com/u/92134380?s=40&v=4"
+      },
+      {
+        "username": "qianc62",
+        "avatar": "https://avatars.githubusercontent.com/u/48988402?s=40&v=4"
+      },
+      {
+        "username": "zxrys",
+        "avatar": "https://avatars.githubusercontent.com/u/115414113?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:04.620Z"
+  },
+  {
+    "rank": 5,
+    "author": "ankitects",
+    "repoName": "anki",
+    "url": "https://github.com/ankitects/anki",
+    "description": "Anki is a smart spaced repetition flashcard program",
+    "language": "Rust",
+    "languageColor": "#dea584",
+    "stars": 26252,
+    "forks": 2789,
+    "currentPeriodStars": 28,
+    "builtBy": [
+      {
+        "username": "dae",
+        "avatar": "https://avatars.githubusercontent.com/u/180542?s=40&v=4"
+      },
+      {
+        "username": "hgiesel",
+        "avatar": "https://avatars.githubusercontent.com/u/7188844?s=40&v=4"
+      },
+      {
+        "username": "RumovZ",
+        "avatar": "https://avatars.githubusercontent.com/u/48286681?s=40&v=4"
+      },
+      {
+        "username": "abdnh",
+        "avatar": "https://avatars.githubusercontent.com/u/41397710?s=40&v=4"
+      },
+      {
+        "username": "Arthur-Milchior",
+        "avatar": "https://avatars.githubusercontent.com/u/357361?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:04.621Z"
+  },
+  {
+    "rank": 6,
+    "author": "open-telemetry",
+    "repoName": "opentelemetry-collector-contrib",
+    "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "description": "Contrib repository for the OpenTelemetry Collector",
+    "language": "Go",
+    "languageColor": "#00ADD8",
+    "stars": 4379,
+    "forks": 3301,
+    "currentPeriodStars": 3,
+    "builtBy": [
+      {
+        "username": "apps/renovate",
+        "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+      },
+      {
+        "username": "bogdandrutu",
+        "avatar": "https://avatars.githubusercontent.com/u/1373887?s=40&v=4"
+      },
+      {
+        "username": "opentelemetrybot",
+        "avatar": "https://avatars.githubusercontent.com/u/107717825?s=40&v=4"
+      },
+      {
+        "username": "atoulme",
+        "avatar": "https://avatars.githubusercontent.com/u/16758?s=40&v=4"
+      },
+      {
+        "username": "apps/dependabot",
+        "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:04.621Z"
+  },
+  {
+    "rank": 7,
+    "author": "Canner",
+    "repoName": "WrenAI",
+    "url": "https://github.com/Canner/WrenAI",
+    "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 14092,
+    "forks": 1519,
+    "currentPeriodStars": 89,
+    "builtBy": [
+      {
+        "username": "cyyeh",
+        "avatar": "https://avatars.githubusercontent.com/u/11023068?s=40&v=4"
+      },
+      {
+        "username": "onlyjackfrost",
+        "avatar": "https://avatars.githubusercontent.com/u/38731840?s=40&v=4"
+      },
+      {
+        "username": "wwwy3y3",
+        "avatar": "https://avatars.githubusercontent.com/u/1208829?s=40&v=4"
+      },
+      {
+        "username": "andreashimin",
+        "avatar": "https://avatars.githubusercontent.com/u/9657305?s=40&v=4"
+      },
+      {
+        "username": "paopa",
+        "avatar": "https://avatars.githubusercontent.com/u/52045032?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:04.621Z"
+  },
+  {
+    "rank": 8,
+    "author": "pedramamini",
+    "repoName": "Maestro",
+    "url": "https://github.com/pedramamini/Maestro",
+    "description": "Agent Orchestration Command Center",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 1752,
+    "forks": 170,
+    "currentPeriodStars": 187,
+    "builtBy": [
+      {
+        "username": "pedramamini",
+        "avatar": "https://avatars.githubusercontent.com/u/1253573?s=40&v=4"
+      },
+      {
+        "username": "reachraza",
+        "avatar": "https://avatars.githubusercontent.com/u/64740326?s=40&v=4"
+      },
+      {
+        "username": "chr1syy",
+        "avatar": "https://avatars.githubusercontent.com/u/24278827?s=40&v=4"
+      },
+      {
+        "username": "claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      },
+      {
+        "username": "denniswebb",
+        "avatar": "https://avatars.githubusercontent.com/u/16431200?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:04.621Z"
+  },
+  {
+    "rank": 9,
+    "author": "nvm-sh",
+    "repoName": "nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "languageColor": "#89e051",
+    "stars": 91304,
+    "forks": 9824,
+    "currentPeriodStars": 35,
+    "builtBy": [
+      {
+        "username": "ljharb",
+        "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&v=4"
+      },
+      {
+        "username": "PeterDaveHello",
+        "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&v=4"
+      },
+      {
+        "username": "creationix",
+        "avatar": "https://avatars.githubusercontent.com/u/89353?s=40&v=4"
+      },
+      {
+        "username": "koenpunt",
+        "avatar": "https://avatars.githubusercontent.com/u/351038?s=40&v=4"
+      },
+      {
+        "username": "lukechilds",
+        "avatar": "https://avatars.githubusercontent.com/u/2123375?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:04.621Z"
+  },
+  {
+    "rank": 10,
+    "author": "microsoft",
+    "repoName": "qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 36727,
+    "forks": 5711,
+    "currentPeriodStars": 83,
+    "builtBy": [
+      {
+        "username": "you-n-g",
+        "avatar": "https://avatars.githubusercontent.com/u/465606?s=40&v=4"
+      },
+      {
+        "username": "bxdd",
+        "avatar": "https://avatars.githubusercontent.com/u/45119470?s=40&v=4"
+      },
+      {
+        "username": "Derek-Wds",
+        "avatar": "https://avatars.githubusercontent.com/u/26081991?s=40&v=4"
+      },
+      {
+        "username": "zhupr",
+        "avatar": "https://avatars.githubusercontent.com/u/18660661?s=40&v=4"
+      },
+      {
+        "username": "SunsetWolf",
+        "avatar": "https://avatars.githubusercontent.com/u/30293408?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:04.621Z"
+  },
+  {
+    "rank": 11,
+    "author": "LadybirdBrowser",
+    "repoName": "ladybird",
+    "url": "https://github.com/LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser",
+    "language": "C++",
+    "languageColor": "#f34b7d",
+    "stars": 58358,
+    "forks": 2652,
+    "currentPeriodStars": 68,
+    "builtBy": [
+      {
+        "username": "awesomekling",
+        "avatar": "https://avatars.githubusercontent.com/u/5954907?s=40&v=4"
+      },
+      {
+        "username": "trflynn89",
+        "avatar": "https://avatars.githubusercontent.com/u/5600524?s=40&v=4"
+      },
+      {
+        "username": "AtkinsSJ",
+        "avatar": "https://avatars.githubusercontent.com/u/222642?s=40&v=4"
+      },
+      {
+        "username": "linusg",
+        "avatar": "https://avatars.githubusercontent.com/u/19366641?s=40&v=4"
+      },
+      {
+        "username": "alimpfard",
+        "avatar": "https://avatars.githubusercontent.com/u/14001776?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:04.621Z"
+  },
+  {
+    "rank": 12,
+    "author": "likec4",
+    "repoName": "likec4",
+    "url": "https://github.com/likec4/likec4",
+    "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 1623,
+    "forks": 129,
+    "currentPeriodStars": 29,
+    "builtBy": [
+      {
+        "username": "davydkov",
+        "avatar": "https://avatars.githubusercontent.com/u/824903?s=40&v=4"
+      },
+      {
+        "username": "apps/renovate",
+        "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+      },
+      {
+        "username": "pavelpykhtin",
+        "avatar": "https://avatars.githubusercontent.com/u/14885777?s=40&v=4"
+      },
+      {
+        "username": "apps/dependabot",
+        "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      },
+      {
+        "username": "apps/likec4-ci",
+        "avatar": "https://avatars.githubusercontent.com/in/631189?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-05T11:02:04.622Z"
+  }
+]
