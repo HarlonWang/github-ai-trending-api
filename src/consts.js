@@ -8,15 +8,8 @@ export const LANGUAGES = [
   'typescript',
   'c++',
   'c',
-  'c#',
   'swift',
   'kotlin',
-  'dart',
-  'php',
-  'html',
-  'css',
-  'vue',
-  'ruby'
 ];
 
 export const PERIODS = ['daily', 'weekly', 'monthly'];

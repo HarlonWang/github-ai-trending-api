@@ -22,9 +22,9 @@ async function main() {
       const langName = lang || 'All Languages';
       console.log(`
 --- Processing: ${langName} ---`);
-      
+
       const repos = await fetchTrending(lang, since);
-      
+
       if (repos.length > 0) {
         await saveTrendingData(repos, lang, since);
         console.log(`Success: ${repos.length} repos fetched.`);
@@ -36,7 +36,7 @@ async function main() {
       const delay = Math.floor(Math.random() * (5000 - 2000 + 1)) + 2000;
       console.log(`Waiting ${delay}ms...`);
       await new Promise(resolve => setTimeout(resolve, delay));
-      
+
     } catch (error) {
       console.error(`Fatal error processing ${lang}:`, error);
     }
@@ -47,4 +47,4 @@ async function main() {
 All tasks completed in ${duration}s`);
 }
 
-main();
+main().catch(err => { console.error(err.stack); });
