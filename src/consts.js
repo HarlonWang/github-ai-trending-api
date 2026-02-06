@@ -53,7 +53,7 @@ export const AI_CONFIG = {
 
   providerConfig: {
     gemini: {
-      model: 'gemini-3-flash-preview',
+      model: 'gemini-2.5-pro',
       apiKey: process.env.GEMINI_API_KEY,
     }
   }
