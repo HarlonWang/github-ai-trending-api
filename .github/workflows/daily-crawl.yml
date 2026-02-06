@@ -26,6 +26,9 @@ jobs:
         run: npm ci
 
       - name: Run Crawler
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          AI_ENABLED: ${{ vars.AI_ENABLED }}
         run: npm start
 
       - name: Commit and Push changes
