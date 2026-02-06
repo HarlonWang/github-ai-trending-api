@@ -1,14 +1,14 @@
 export const LANGUAGES = [
   '', // All languages
-  'python',
+  // 'python',
   'javascript',
-  'java',
-  'go',
-  'rust',
-  'typescript',
-  'c++',
-  'c',
-  'swift',
+  // 'java',
+  // 'go',
+  // 'rust',
+  // 'typescript',
+  // 'c++',
+  // 'c',
+  // 'swift',
   'kotlin',
 ];
 
