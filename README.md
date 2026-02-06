@@ -1,6 +1,6 @@
 # GitHub AI Trending API
 
-这是一个基于 GitHub Actions 的自动化爬虫系统，每日定时从 GitHub Trending 抓取热门项目信息，并利用 **Google Gemini** 生成 AI 技术总结，通过 JSON API 形式对外提供数据。
+每日定时从 GitHub Trending 抓取热门项目信息，并利用 **Google Gemini** 生成 AI 技术总结，通过 JSON API 形式对外提供数据。
 
 ## 功能特性
 
