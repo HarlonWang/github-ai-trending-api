@@ -7,8 +7,8 @@
     "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 168399,
-    "forks": 26892,
+    "stars": 168933,
+    "forks": 27007,
     "currentPeriodStars": 164864,
     "builtBy": [
       {
@@ -33,7 +33,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:45.498Z"
+    "fetchedAt": "2026-02-06T06:54:08.817Z"
   },
   {
     "rank": 2,
@@ -43,8 +43,8 @@
     "description": "An agentic skills framework & software development methodology that works.",
     "language": "Shell",
     "languageColor": "#89e051",
-    "stars": 45536,
-    "forks": 3440,
+    "stars": 45645,
+    "forks": 3451,
     "currentPeriodStars": 31332,
     "builtBy": [
       {
@@ -56,20 +56,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       },
       {
-        "username": "arittr",
-        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&v=4"
-      },
-      {
         "username": "clkao",
         "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&v=4"
       },
       {
         "username": "jjshanks",
         "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
+      },
+      {
+        "username": "oribarilan",
+        "avatar": "https://avatars.githubusercontent.com/u/8760762?s=40&v=4"
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:45.498Z"
+    "fetchedAt": "2026-02-06T06:54:08.818Z"
   },
   {
     "rank": 3,
@@ -79,8 +79,8 @@
     "description": "The open source coding agent.",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 98597,
-    "forks": 9342,
+    "stars": 98704,
+    "forks": 9351,
     "currentPeriodStars": 49728,
     "builtBy": [
       {
@@ -105,7 +105,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:45.499Z"
+    "fetchedAt": "2026-02-06T06:54:08.818Z"
   },
   {
     "rank": 4,
@@ -115,7 +115,7 @@
     "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
     "language": "Shell",
     "languageColor": "#89e051",
-    "stars": 6371,
+    "stars": 6375,
     "forks": 443,
     "currentPeriodStars": 5951,
     "builtBy": [
@@ -141,7 +141,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:45.499Z"
+    "fetchedAt": "2026-02-06T06:54:08.818Z"
   },
   {
     "rank": 5,
@@ -151,8 +151,8 @@
     "description": "Public repository for Agent Skills",
     "language": "Python",
     "languageColor": "#3572A5",
-    "stars": 64153,
-    "forks": 6332,
+    "stars": 64260,
+    "forks": 6344,
     "currentPeriodStars": 30463,
     "builtBy": [
       {
@@ -177,7 +177,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:45.499Z"
+    "fetchedAt": "2026-02-06T06:54:08.818Z"
   },
   {
     "rank": 6,
@@ -187,8 +187,8 @@
     "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "language": "Python",
     "languageColor": "#3572A5",
-    "stars": 13651,
-    "forks": 987,
+    "stars": 13677,
+    "forks": 988,
     "currentPeriodStars": 8994,
     "builtBy": [
       {
@@ -205,7 +205,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:45.500Z"
+    "fetchedAt": "2026-02-06T06:54:08.819Z"
   },
   {
     "rank": 7,
@@ -215,8 +215,8 @@
     "description": "The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 28609,
-    "forks": 2108,
+    "stars": 28662,
+    "forks": 2113,
     "currentPeriodStars": 20198,
     "builtBy": [
       {
@@ -241,7 +241,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:45.500Z"
+    "fetchedAt": "2026-02-06T06:54:08.820Z"
   },
   {
     "rank": 8,
@@ -251,8 +251,8 @@
     "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 7287,
-    "forks": 737,
+    "stars": 7349,
+    "forks": 742,
     "currentPeriodStars": 5773,
     "builtBy": [
       {
@@ -277,7 +277,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:45.501Z"
+    "fetchedAt": "2026-02-06T06:54:08.820Z"
   },
   {
     "rank": 9,
@@ -287,8 +287,8 @@
     "description": "🎥 Make videos programmatically with React",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 35195,
-    "forks": 2136,
+    "stars": 35218,
+    "forks": 2137,
     "currentPeriodStars": 10016,
     "builtBy": [
       {
@@ -313,7 +313,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:45.501Z"
+    "fetchedAt": "2026-02-06T06:54:08.821Z"
   },
   {
     "rank": 10,
@@ -323,8 +323,8 @@
     "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
     "language": "Shell",
     "languageColor": "#89e051",
-    "stars": 6656,
-    "forks": 643,
+    "stars": 6669,
+    "forks": 644,
     "currentPeriodStars": 4927,
     "builtBy": [
       {
@@ -349,7 +349,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:45.502Z"
+    "fetchedAt": "2026-02-06T06:54:08.821Z"
   },
   {
     "rank": 11,
@@ -359,8 +359,8 @@
     "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
     "language": "JavaScript",
     "languageColor": "#f1e05a",
-    "stars": 30322,
-    "forks": 4870,
+    "stars": 30334,
+    "forks": 4871,
     "currentPeriodStars": 5531,
     "builtBy": [
       {
@@ -385,7 +385,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:45.502Z"
+    "fetchedAt": "2026-02-06T06:54:08.821Z"
   },
   {
     "rank": 12,
@@ -395,8 +395,8 @@
     "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
     "language": "Shell",
     "languageColor": "#89e051",
-    "stars": 64534,
-    "forks": 4910,
+    "stars": 64591,
+    "forks": 4913,
     "currentPeriodStars": 13261,
     "builtBy": [
       {
@@ -421,7 +421,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:45.503Z"
+    "fetchedAt": "2026-02-06T06:54:08.822Z"
   },
   {
     "rank": 13,
@@ -431,8 +431,8 @@
     "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
     "language": "Rust",
     "languageColor": "#dea584",
-    "stars": 21502,
-    "forks": 2431,
+    "stars": 21529,
+    "forks": 2435,
     "currentPeriodStars": 13180,
     "builtBy": [
       {
@@ -444,20 +444,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/50072344?s=40&v=4"
       },
       {
+        "username": "claude",
+        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+      },
+      {
         "username": "salacoste",
         "avatar": "https://avatars.githubusercontent.com/u/12632895?s=40&v=4"
       },
       {
         "username": "Mag1cFall",
         "avatar": "https://avatars.githubusercontent.com/u/107487022?s=40&v=4"
-      },
-      {
-        "username": "claude",
-        "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:45.504Z"
+    "fetchedAt": "2026-02-06T06:54:08.823Z"
   },
   {
     "rank": 14,
@@ -467,8 +467,8 @@
     "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 26811,
-    "forks": 2622,
+    "stars": 26866,
+    "forks": 2629,
     "currentPeriodStars": 6174,
     "builtBy": [
       {
@@ -493,7 +493,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:45.504Z"
+    "fetchedAt": "2026-02-06T06:54:08.823Z"
   },
   {
     "rank": 15,
@@ -503,8 +503,8 @@
     "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
     "language": "Python",
     "languageColor": "#3572A5",
-    "stars": 30903,
-    "forks": 2962,
+    "stars": 30952,
+    "forks": 2971,
     "currentPeriodStars": 15839,
     "builtBy": [
       {
@@ -516,20 +516,20 @@
         "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       },
       {
+        "username": "sohamganatra",
+        "avatar": "https://avatars.githubusercontent.com/u/7982102?s=40&v=4"
+      },
+      {
         "username": "sanjay3290",
         "avatar": "https://avatars.githubusercontent.com/u/24948667?s=40&v=4"
       },
       {
         "username": "mellson",
         "avatar": "https://avatars.githubusercontent.com/u/167574?s=40&v=4"
-      },
-      {
-        "username": "ykdojo",
-        "avatar": "https://avatars.githubusercontent.com/u/1811651?s=40&v=4"
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:45.505Z"
+    "fetchedAt": "2026-02-06T06:54:08.824Z"
   },
   {
     "rank": 16,
@@ -539,8 +539,8 @@
     "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 23804,
-    "forks": 1574,
+    "stars": 23899,
+    "forks": 1579,
     "currentPeriodStars": 13297,
     "builtBy": [
       {
@@ -560,12 +560,12 @@
         "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
       },
       {
-        "username": "rodboev",
-        "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&v=4"
+        "username": "bigph00t",
+        "avatar": "https://avatars.githubusercontent.com/u/166455923?s=40&v=4"
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:45.505Z"
+    "fetchedAt": "2026-02-06T06:54:08.824Z"
   },
   {
     "rank": 17,
@@ -575,7 +575,7 @@
     "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
     "language": "Jupyter Notebook",
     "languageColor": "#DA5B0B",
-    "stars": 38069,
+    "stars": 38081,
     "forks": 7670,
     "currentPeriodStars": 3953,
     "builtBy": [
@@ -601,6 +601,6 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:45.506Z"
+    "fetchedAt": "2026-02-06T06:54:08.825Z"
   }
 ]
