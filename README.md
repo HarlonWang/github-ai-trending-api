@@ -64,3 +64,7 @@
 
 历史数据存储在 `/archives` 目录下，路径格式为：
 `/archives/YYYY-MM-DD/{period}/{language}.json`
+
+## jsDelivr CDN 方式（可选）
+
+URL ：https://cdn.jsdelivr.net/gh/HarlonWang/github-ai-trending-api@main/api/trending/{since}/{lang}.json
