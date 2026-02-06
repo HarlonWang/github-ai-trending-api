@@ -1,6 +1,7 @@
 import { LANGUAGES, PERIODS } from './consts.js';
 import { fetchTrending } from './scraper.js';
 import { saveTrendingData } from './storage.js';
+import { injectAISummaries } from './ai/index.js';
 
 async function main() {
     console.log('Starting GitHub Trending Crawler...');
@@ -21,6 +22,11 @@ async function main() {
                 const repos = await fetchTrending(lang, since);
 
                 if (repos.length > 0) {
+                    try {
+                        await injectAISummaries(repos, lang, since);
+                    } catch (aiError) {
+                        console.error(`[AI] Error processing summaries for ${lang || 'All'}:`, aiError.message);
+                    }
                     await saveTrendingData(repos, lang, since);
                     console.log(`Success: ${repos.length} repos fetched.`);
                 } else {
