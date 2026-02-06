@@ -7,8 +7,8 @@
     "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 26865,
-    "forks": 2629,
+    "stars": 26878,
+    "forks": 2630,
     "currentPeriodStars": 566,
     "builtBy": [
       {
@@ -33,8 +33,8 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T06:53:21.439Z",
-    "aiSummary": null
+    "fetchedAt": "2026-02-06T07:27:35.960Z",
+    "aiSummary": "UI-TARS-desktop 提供开源多模态AI智能体栈，连接尖端AI模型与智能体基础设施。它解决了复杂AI模型集成及智能体运行环境搭建的痛点，为开发者提供构建与部署多模态AI智能体的核心框架与支持，加速应用创新。"
   },
   {
     "rank": 2,
@@ -44,7 +44,7 @@
     "description": "Skills Catalog for Codex",
     "language": "Python",
     "languageColor": "#3572A5",
-    "stars": 4447,
+    "stars": 4466,
     "forks": 249,
     "currentPeriodStars": 621,
     "builtBy": [
@@ -70,8 +70,8 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T06:53:21.441Z",
-    "aiSummary": null
+    "fetchedAt": "2026-02-06T07:27:35.962Z",
+    "aiSummary": "该 Python 项目为 OpenAI Codex 模型构建技能目录，提供结构化的能力定义与管理，使其能通过预定义技能执行复杂任务，显著提升功能扩展性与处理效率。"
   },
   {
     "rank": 3,
@@ -81,8 +81,8 @@
     "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 23899,
-    "forks": 1579,
+    "stars": 23923,
+    "forks": 1581,
     "currentPeriodStars": 1930,
     "builtBy": [
       {
@@ -107,8 +107,8 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T06:53:21.441Z",
-    "aiSummary": null
+    "fetchedAt": "2026-02-06T07:27:35.962Z",
+    "aiSummary": "作为Claude Code插件，它自动捕获编码会话中Claude的所有操作，并利用AI（Claude agent-sdk）智能压缩。项目核心功能是将相关上下文无缝注入后续会话，赋予Claude持久记忆，从而显著提升开发效率与会话连贯性。"
   },
   {
     "rank": 4,
@@ -118,7 +118,7 @@
     "description": "⚡ Better `pre-commit`, re-engineered in Rust",
     "language": "Rust",
     "languageColor": "#dea584",
-    "stars": 5583,
+    "stars": 5587,
     "forks": 149,
     "currentPeriodStars": 258,
     "builtBy": [
@@ -144,8 +144,8 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T06:53:21.442Z",
-    "aiSummary": null
+    "fetchedAt": "2026-02-06T07:27:35.963Z",
+    "aiSummary": "j178/prek 项目用 Rust 语言重构了 `pre-commit` 钩子管理系统，旨在提供一个更高效、更可靠的替代方案。它通过利用 Rust 的性能优势，优化了代码提交前的自动化检查流程，解决了现有 `pre-commit` 工具可能存在的速度和效率痛点，从而提升开发工作流的流畅性。"
   },
   {
     "rank": 5,
@@ -155,8 +155,8 @@
     "description": "Memory for AI Agents in 6 lines of code",
     "language": "Python",
     "languageColor": "#3572A5",
-    "stars": 11900,
-    "forks": 1164,
+    "stars": 11907,
+    "forks": 1166,
     "currentPeriodStars": 74,
     "builtBy": [
       {
@@ -181,8 +181,8 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T06:53:21.442Z",
-    "aiSummary": null
+    "fetchedAt": "2026-02-06T07:27:35.963Z",
+    "aiSummary": "Cognee为AI代理提供极简的记忆解决方案。仅通过6行Python代码，它有效解决了AI智能体在状态管理和上下文维持方面的复杂痛点，赋能智能体高效、持久地处理信息，实现快速集成。"
   },
   {
     "rank": 6,
@@ -192,7 +192,7 @@
     "description": "An agentic skills framework & software development methodology that works.",
     "language": "Shell",
     "languageColor": "#89e051",
-    "stars": 45642,
+    "stars": 45668,
     "forks": 3451,
     "currentPeriodStars": 887,
     "builtBy": [
@@ -218,8 +218,8 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T06:53:21.443Z",
-    "aiSummary": null
+    "fetchedAt": "2026-02-06T07:27:35.963Z",
+    "aiSummary": "`obra/superpowers` 提供了一个基于Shell的代理技能框架与软件开发方法论。它通过系统化地定义、整合和利用各类代理（Agentic）能力，优化并规范软件开发流程。该项目旨在提供一套经过验证的、高效实用的解决方案，以显著提升软件交付效率和项目质量。"
   },
   {
     "rank": 7,
@@ -229,7 +229,7 @@
     "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
     "language": "Go",
     "languageColor": "#00ADD8",
-    "stars": 31409,
+    "stars": 31412,
     "forks": 2914,
     "currentPeriodStars": 25,
     "builtBy": [
@@ -255,8 +255,8 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T06:53:21.443Z",
-    "aiSummary": null
+    "fetchedAt": "2026-02-06T07:27:35.964Z",
+    "aiSummary": "Trivy是一款Go语言实现的安全扫描利器，专注于识别并发现容器、Kubernetes、代码仓库及云环境中的漏洞、错误配置、敏感信息和SBOM。它提供一体化解决方案，助力企业全面检测软件供应链及云原生基础设施潜在的安全威胁，有效提升整体安全性。"
   },
   {
     "rank": 8,
@@ -266,8 +266,8 @@
     "description": "The user-friendly command line shell.",
     "language": "Rust",
     "languageColor": "#dea584",
-    "stars": 32422,
-    "forks": 2219,
+    "stars": 32427,
+    "forks": 2220,
     "currentPeriodStars": 28,
     "builtBy": [
       {
@@ -292,8 +292,8 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T06:53:21.444Z",
-    "aiSummary": null
+    "fetchedAt": "2026-02-06T07:27:35.965Z",
+    "aiSummary": "Fish Shell 是一款用户友好的命令行 shell，旨在解决传统 shell 交互复杂、效率低下的问题。它通过智能自动补全、语法高亮等开箱即用特性，显著降低学习门槛，提升操作效率，为用户提供直观、高效的终端体验。"
   },
   {
     "rank": 9,
@@ -303,7 +303,7 @@
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "language": "Shell",
     "languageColor": "#89e051",
-    "stars": 91402,
+    "stars": 91407,
     "forks": 9829,
     "currentPeriodStars": 101,
     "builtBy": [
@@ -329,8 +329,8 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T06:53:21.444Z",
-    "aiSummary": null
+    "fetchedAt": "2026-02-06T07:27:35.965Z",
+    "aiSummary": "nvm是一个基于Shell脚本的Node.js版本管理器。它提供一套简洁高效的工具，帮助开发者轻松管理和快速切换不同项目的Node.js版本，有效解决了多版本共存与环境配置的复杂性。"
   },
   {
     "rank": 10,
@@ -340,7 +340,7 @@
     "description": "一款提示词优化器，助力于编写高质量的提示词",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 19467,
+    "stars": 19478,
     "forks": 2409,
     "currentPeriodStars": 51,
     "builtBy": [
@@ -366,8 +366,8 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T06:53:21.445Z",
-    "aiSummary": null
+    "fetchedAt": "2026-02-06T07:27:35.966Z",
+    "aiSummary": "`linshenkx/prompt-optimizer` 项目提供了一款 TypeScript 提示词优化工具。它专注于帮助用户精炼提示词，解决编写低质量提示词的痛点，确保生成更高质量、更有效的输入，从而显著提升与AI模型交互的性能与结果。"
   },
   {
     "rank": 11,
@@ -377,7 +377,7 @@
     "description": "Simple Rust VPN Client / Server",
     "language": "Rust",
     "languageColor": "#dea584",
-    "stars": 421,
+    "stars": 424,
     "forks": 38,
     "currentPeriodStars": 81,
     "builtBy": [
@@ -391,7 +391,7 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T06:53:21.445Z",
-    "aiSummary": null
+    "fetchedAt": "2026-02-06T07:27:35.966Z",
+    "aiSummary": "ZeroTworu/anet 是一个用 Rust 编写的 VPN 客户端与服务端。它旨在提供一个轻量、安全的网络隧道解决方案，帮助用户快速部署加密连接，满足对高性能和自定义 VPN 功能的需求。"
   }
 ]
