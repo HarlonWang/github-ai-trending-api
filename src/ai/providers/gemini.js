@@ -23,9 +23,6 @@ export async function generateSummary(prompt, config) {
       console.log('[AI] Checking available models...');
       const modelsResponse = await ai.models.list();
       console.log('[AI] Available models:', modelsResponse);
-      modelsResponse.forEach(m => {
-        console.log(` - ${m.name} (${m.supportedGenerationMethods.join(', ')})`);
-      });
     } catch (listError) {
       console.warn('[AI] Could not list models:', listError.message);
     }
