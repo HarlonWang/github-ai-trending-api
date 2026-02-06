@@ -27,9 +27,9 @@ export const HEADERS = {
 export const AI_CONFIG = {
   enabled: process.env.AI_ENABLED === 'true',
   provider: 'gemini',
-  timeout: 15000,
+  timeout: 30000,
   maxRetries: 1,
-  delay: 2000,
+  delay: 3000,
 
   // 仅在 language 为空 (All Languages) 且 since 为 daily 时触发
   filters: {
