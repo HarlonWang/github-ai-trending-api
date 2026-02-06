@@ -1,7 +1,7 @@
 export const LANGUAGES = [
   '', // All languages
   // 'python',
-  'javascript',
+  // 'javascript',
   // 'java',
   // 'go',
   // 'rust',
@@ -9,10 +9,11 @@ export const LANGUAGES = [
   // 'c++',
   // 'c',
   // 'swift',
-  'kotlin',
+  // 'kotlin',
 ];
 
-export const PERIODS = ['daily', 'weekly', 'monthly'];
+// export const PERIODS = ['daily', 'weekly', 'monthly'];
+export const PERIODS = ['daily'];
 
 export const HEADERS = {
   'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -52,7 +53,7 @@ export const AI_CONFIG = {
 
   providerConfig: {
     gemini: {
-      model: 'gemini-3-pro-preview',
+      model: 'gemini-1.5-pro',
       apiKey: process.env.GEMINI_API_KEY,
     }
   }
