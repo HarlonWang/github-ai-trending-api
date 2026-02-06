@@ -7,8 +7,8 @@
     "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
     "language": "JavaScript",
     "languageColor": "#f1e05a",
-    "stars": 40598,
-    "forks": 2097,
+    "stars": 40606,
+    "forks": 2098,
     "currentPeriodStars": 42,
     "builtBy": [
       {
@@ -33,7 +33,7 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:21.472Z"
+    "fetchedAt": "2026-02-06T06:53:47.709Z"
   },
   {
     "rank": 2,
@@ -43,7 +43,7 @@
     "description": "a graph explorer of the Epstein emails",
     "language": "JavaScript",
     "languageColor": "#f1e05a",
-    "stars": 418,
+    "stars": 420,
     "forks": 80,
     "currentPeriodStars": 33,
     "builtBy": [
@@ -57,7 +57,7 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:21.472Z"
+    "fetchedAt": "2026-02-06T06:53:47.710Z"
   },
   {
     "rank": 3,
@@ -67,8 +67,8 @@
     "description": "Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely",
     "language": "JavaScript",
     "languageColor": "#f1e05a",
-    "stars": 6031,
-    "forks": 788,
+    "stars": 6035,
+    "forks": 789,
     "currentPeriodStars": 44,
     "builtBy": [
       {
@@ -93,7 +93,7 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:21.472Z"
+    "fetchedAt": "2026-02-06T06:53:47.710Z"
   },
   {
     "rank": 4,
@@ -103,7 +103,7 @@
     "description": "A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app.",
     "language": "JavaScript",
     "languageColor": "#f1e05a",
-    "stars": 620,
+    "stars": 621,
     "forks": 31,
     "currentPeriodStars": 17,
     "builtBy": [
@@ -117,7 +117,7 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:21.473Z"
+    "fetchedAt": "2026-02-06T06:53:47.711Z"
   },
   {
     "rank": 5,
@@ -127,8 +127,8 @@
     "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more.",
     "language": "JavaScript",
     "languageColor": "#f1e05a",
-    "stars": 54241,
-    "forks": 5835,
+    "stars": 54246,
+    "forks": 5838,
     "currentPeriodStars": 51,
     "builtBy": [
       {
@@ -153,7 +153,7 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:21.473Z"
+    "fetchedAt": "2026-02-06T06:53:47.712Z"
   },
   {
     "rank": 6,
@@ -189,7 +189,7 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:21.474Z"
+    "fetchedAt": "2026-02-06T06:53:47.712Z"
   },
   {
     "rank": 7,
@@ -199,7 +199,7 @@
     "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
     "language": "JavaScript",
     "languageColor": "#f1e05a",
-    "stars": 35848,
+    "stars": 35849,
     "forks": 2806,
     "currentPeriodStars": 8,
     "builtBy": [
@@ -225,7 +225,7 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:21.474Z"
+    "fetchedAt": "2026-02-06T06:53:47.713Z"
   },
   {
     "rank": 8,
@@ -235,7 +235,7 @@
     "description": "An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.",
     "language": "JavaScript",
     "languageColor": "#f1e05a",
-    "stars": 25314,
+    "stars": 25316,
     "forks": 2419,
     "currentPeriodStars": 17,
     "builtBy": [
@@ -261,7 +261,7 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:21.474Z"
+    "fetchedAt": "2026-02-06T06:53:47.714Z"
   },
   {
     "rank": 9,
@@ -271,7 +271,7 @@
     "description": "Create screenshots for the iOS App Store",
     "language": "JavaScript",
     "languageColor": "#f1e05a",
-    "stars": 1368,
+    "stars": 1370,
     "forks": 138,
     "currentPeriodStars": 28,
     "builtBy": [
@@ -297,7 +297,7 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:21.475Z"
+    "fetchedAt": "2026-02-06T06:53:47.714Z"
   },
   {
     "rank": 10,
@@ -307,7 +307,7 @@
     "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
     "language": "JavaScript",
     "languageColor": "#f1e05a",
-    "stars": 20786,
+    "stars": 20789,
     "forks": 1934,
     "currentPeriodStars": 28,
     "builtBy": [
@@ -333,7 +333,7 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:21.475Z"
+    "fetchedAt": "2026-02-06T06:53:47.715Z"
   },
   {
     "rank": 11,
@@ -343,7 +343,7 @@
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
     "languageColor": "#f1e05a",
-    "stars": 195520,
+    "stars": 195522,
     "forks": 31127,
     "currentPeriodStars": 15,
     "builtBy": [
@@ -369,7 +369,7 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:21.475Z"
+    "fetchedAt": "2026-02-06T06:53:47.716Z"
   },
   {
     "rank": 12,
@@ -379,7 +379,7 @@
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "language": "JavaScript",
     "languageColor": "#f1e05a",
-    "stars": 44046,
+    "stars": 44047,
     "forks": 5391,
     "currentPeriodStars": 8,
     "builtBy": [
@@ -405,7 +405,7 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:21.476Z"
+    "fetchedAt": "2026-02-06T06:53:47.720Z"
   },
   {
     "rank": 13,
@@ -441,7 +441,7 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:21.476Z"
+    "fetchedAt": "2026-02-06T06:53:47.721Z"
   },
   {
     "rank": 14,
@@ -451,8 +451,8 @@
     "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
     "language": "JavaScript",
     "languageColor": "#f1e05a",
-    "stars": 20296,
-    "forks": 2334,
+    "stars": 20306,
+    "forks": 2337,
     "currentPeriodStars": 128,
     "builtBy": [
       {
@@ -477,7 +477,7 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:21.476Z"
+    "fetchedAt": "2026-02-06T06:53:47.721Z"
   },
   {
     "rank": 15,
@@ -513,7 +513,7 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:21.477Z"
+    "fetchedAt": "2026-02-06T06:53:47.722Z"
   },
   {
     "rank": 16,
@@ -523,7 +523,7 @@
     "description": "JavaScript Style Guide",
     "language": "JavaScript",
     "languageColor": "#f1e05a",
-    "stars": 148099,
+    "stars": 148101,
     "forks": 26763,
     "currentPeriodStars": 0,
     "builtBy": [
@@ -549,6 +549,6 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:21.477Z"
+    "fetchedAt": "2026-02-06T06:53:47.722Z"
   }
 ]

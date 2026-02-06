@@ -7,8 +7,8 @@
     "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 26811,
-    "forks": 2622,
+    "stars": 26865,
+    "forks": 2629,
     "currentPeriodStars": 566,
     "builtBy": [
       {
@@ -33,7 +33,8 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:16.914Z"
+    "fetchedAt": "2026-02-06T06:53:21.439Z",
+    "aiSummary": null
   },
   {
     "rank": 2,
@@ -43,8 +44,8 @@
     "description": "Skills Catalog for Codex",
     "language": "Python",
     "languageColor": "#3572A5",
-    "stars": 4381,
-    "forks": 246,
+    "stars": 4447,
+    "forks": 249,
     "currentPeriodStars": 621,
     "builtBy": [
       {
@@ -69,7 +70,8 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:16.916Z"
+    "fetchedAt": "2026-02-06T06:53:21.441Z",
+    "aiSummary": null
   },
   {
     "rank": 3,
@@ -79,8 +81,8 @@
     "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 23804,
-    "forks": 1574,
+    "stars": 23899,
+    "forks": 1579,
     "currentPeriodStars": 1930,
     "builtBy": [
       {
@@ -100,12 +102,13 @@
         "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
       },
       {
-        "username": "rodboev",
-        "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&v=4"
+        "username": "bigph00t",
+        "avatar": "https://avatars.githubusercontent.com/u/166455923?s=40&v=4"
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:16.916Z"
+    "fetchedAt": "2026-02-06T06:53:21.441Z",
+    "aiSummary": null
   },
   {
     "rank": 4,
@@ -115,8 +118,8 @@
     "description": "⚡ Better `pre-commit`, re-engineered in Rust",
     "language": "Rust",
     "languageColor": "#dea584",
-    "stars": 5556,
-    "forks": 147,
+    "stars": 5583,
+    "forks": 149,
     "currentPeriodStars": 258,
     "builtBy": [
       {
@@ -141,7 +144,8 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:16.917Z"
+    "fetchedAt": "2026-02-06T06:53:21.442Z",
+    "aiSummary": null
   },
   {
     "rank": 5,
@@ -151,8 +155,8 @@
     "description": "Memory for AI Agents in 6 lines of code",
     "language": "Python",
     "languageColor": "#3572A5",
-    "stars": 11879,
-    "forks": 1160,
+    "stars": 11900,
+    "forks": 1164,
     "currentPeriodStars": 74,
     "builtBy": [
       {
@@ -177,7 +181,8 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:16.917Z"
+    "fetchedAt": "2026-02-06T06:53:21.442Z",
+    "aiSummary": null
   },
   {
     "rank": 6,
@@ -187,8 +192,8 @@
     "description": "An agentic skills framework & software development methodology that works.",
     "language": "Shell",
     "languageColor": "#89e051",
-    "stars": 45535,
-    "forks": 3440,
+    "stars": 45642,
+    "forks": 3451,
     "currentPeriodStars": 887,
     "builtBy": [
       {
@@ -200,20 +205,21 @@
         "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
       },
       {
-        "username": "arittr",
-        "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&v=4"
-      },
-      {
         "username": "clkao",
         "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&v=4"
       },
       {
         "username": "jjshanks",
         "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
+      },
+      {
+        "username": "oribarilan",
+        "avatar": "https://avatars.githubusercontent.com/u/8760762?s=40&v=4"
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:16.918Z"
+    "fetchedAt": "2026-02-06T06:53:21.443Z",
+    "aiSummary": null
   },
   {
     "rank": 7,
@@ -223,8 +229,8 @@
     "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
     "language": "Go",
     "languageColor": "#00ADD8",
-    "stars": 31397,
-    "forks": 2912,
+    "stars": 31409,
+    "forks": 2914,
     "currentPeriodStars": 25,
     "builtBy": [
       {
@@ -249,7 +255,8 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:16.918Z"
+    "fetchedAt": "2026-02-06T06:53:21.443Z",
+    "aiSummary": null
   },
   {
     "rank": 8,
@@ -259,8 +266,8 @@
     "description": "The user-friendly command line shell.",
     "language": "Rust",
     "languageColor": "#dea584",
-    "stars": 32406,
-    "forks": 2214,
+    "stars": 32422,
+    "forks": 2219,
     "currentPeriodStars": 28,
     "builtBy": [
       {
@@ -285,7 +292,8 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:16.919Z"
+    "fetchedAt": "2026-02-06T06:53:21.444Z",
+    "aiSummary": null
   },
   {
     "rank": 9,
@@ -295,8 +303,8 @@
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "language": "Shell",
     "languageColor": "#89e051",
-    "stars": 91387,
-    "forks": 9828,
+    "stars": 91402,
+    "forks": 9829,
     "currentPeriodStars": 101,
     "builtBy": [
       {
@@ -321,7 +329,8 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:16.919Z"
+    "fetchedAt": "2026-02-06T06:53:21.444Z",
+    "aiSummary": null
   },
   {
     "rank": 10,
@@ -331,8 +340,8 @@
     "description": "一款提示词优化器，助力于编写高质量的提示词",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 19433,
-    "forks": 2404,
+    "stars": 19467,
+    "forks": 2409,
     "currentPeriodStars": 51,
     "builtBy": [
       {
@@ -357,7 +366,8 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:16.924Z"
+    "fetchedAt": "2026-02-06T06:53:21.445Z",
+    "aiSummary": null
   },
   {
     "rank": 11,
@@ -367,8 +377,8 @@
     "description": "Simple Rust VPN Client / Server",
     "language": "Rust",
     "languageColor": "#dea584",
-    "stars": 394,
-    "forks": 32,
+    "stars": 421,
+    "forks": 38,
     "currentPeriodStars": 81,
     "builtBy": [
       {
@@ -381,6 +391,7 @@
       }
     ],
     "since": "daily",
-    "fetchedAt": "2026-02-06T04:18:16.924Z"
+    "fetchedAt": "2026-02-06T06:53:21.445Z",
+    "aiSummary": null
   }
 ]

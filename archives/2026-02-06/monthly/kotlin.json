@@ -7,8 +7,8 @@
     "description": "A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).",
     "language": "Kotlin",
     "languageColor": "#A97BFF",
-    "stars": 6323,
-    "forks": 239,
+    "stars": 6328,
+    "forks": 240,
     "currentPeriodStars": 3284,
     "builtBy": [
       {
@@ -33,7 +33,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.240Z"
+    "fetchedAt": "2026-02-06T06:54:19.453Z"
   },
   {
     "rank": 2,
@@ -43,7 +43,7 @@
     "description": "bluetooth mesh chat, IRC vibes",
     "language": "Kotlin",
     "languageColor": "#A97BFF",
-    "stars": 4682,
+    "stars": 4683,
     "forks": 657,
     "currentPeriodStars": 452,
     "builtBy": [
@@ -69,7 +69,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.240Z"
+    "fetchedAt": "2026-02-06T06:54:19.459Z"
   },
   {
     "rank": 3,
@@ -79,7 +79,7 @@
     "description": "An alternative frontend for YouTube, for Android.",
     "language": "Kotlin",
     "languageColor": "#A97BFF",
-    "stars": 11314,
+    "stars": 11315,
     "forks": 572,
     "currentPeriodStars": 305,
     "builtBy": [
@@ -105,7 +105,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.241Z"
+    "fetchedAt": "2026-02-06T06:54:19.459Z"
   },
   {
     "rank": 4,
@@ -115,8 +115,8 @@
     "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
     "language": "Kotlin",
     "languageColor": "#A97BFF",
-    "stars": 24435,
-    "forks": 1044,
+    "stars": 24439,
+    "forks": 1043,
     "currentPeriodStars": 766,
     "builtBy": [
       {
@@ -141,7 +141,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.242Z"
+    "fetchedAt": "2026-02-06T06:54:19.460Z"
   },
   {
     "rank": 5,
@@ -177,7 +177,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.242Z"
+    "fetchedAt": "2026-02-06T06:54:19.460Z"
   },
   {
     "rank": 6,
@@ -187,7 +187,7 @@
     "description": "Production ready toolkit to run AI locally",
     "language": "Kotlin",
     "languageColor": "#A97BFF",
-    "stars": 6149,
+    "stars": 6171,
     "forks": 195,
     "currentPeriodStars": 2557,
     "builtBy": [
@@ -213,7 +213,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.243Z"
+    "fetchedAt": "2026-02-06T06:54:19.461Z"
   },
   {
     "rank": 7,
@@ -223,8 +223,8 @@
     "description": "A V2Ray client for Android, support Xray core and v2fly core",
     "language": "Kotlin",
     "languageColor": "#A97BFF",
-    "stars": 50633,
-    "forks": 6893,
+    "stars": 50636,
+    "forks": 6895,
     "currentPeriodStars": 1636,
     "builtBy": [
       {
@@ -249,7 +249,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.243Z"
+    "fetchedAt": "2026-02-06T06:54:19.461Z"
   },
   {
     "rank": 8,
@@ -259,7 +259,7 @@
     "description": "YouTube Music client for Android",
     "language": "Kotlin",
     "languageColor": "#A97BFF",
-    "stars": 6360,
+    "stars": 6365,
     "forks": 328,
     "currentPeriodStars": 829,
     "builtBy": [
@@ -285,7 +285,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.244Z"
+    "fetchedAt": "2026-02-06T06:54:19.462Z"
   },
   {
     "rank": 9,
@@ -321,7 +321,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.244Z"
+    "fetchedAt": "2026-02-06T06:54:19.463Z"
   },
   {
     "rank": 10,
@@ -332,7 +332,7 @@
     "language": "Kotlin",
     "languageColor": "#A97BFF",
     "stars": 28278,
-    "forks": 6663,
+    "forks": 6664,
     "currentPeriodStars": 217,
     "builtBy": [
       {
@@ -357,7 +357,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.245Z"
+    "fetchedAt": "2026-02-06T06:54:19.463Z"
   },
   {
     "rank": 11,
@@ -367,8 +367,8 @@
     "description": "Source code of extensions in https://github.com/keiyoushi/extensions",
     "language": "Kotlin",
     "languageColor": "#A97BFF",
-    "stars": 3687,
-    "forks": 1082,
+    "stars": 3688,
+    "forks": 1081,
     "currentPeriodStars": 140,
     "builtBy": [
       {
@@ -393,7 +393,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.246Z"
+    "fetchedAt": "2026-02-06T06:54:19.464Z"
   },
   {
     "rank": 12,
@@ -403,7 +403,7 @@
     "description": "Painless E2E Automation for Mobile and Web",
     "language": "Kotlin",
     "languageColor": "#A97BFF",
-    "stars": 10536,
+    "stars": 10537,
     "forks": 600,
     "currentPeriodStars": 611,
     "builtBy": [
@@ -429,7 +429,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.246Z"
+    "fetchedAt": "2026-02-06T06:54:19.464Z"
   },
   {
     "rank": 13,
@@ -439,7 +439,7 @@
     "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
     "language": "Kotlin",
     "languageColor": "#A97BFF",
-    "stars": 21547,
+    "stars": 21555,
     "forks": 1985,
     "currentPeriodStars": 1275,
     "builtBy": [
@@ -465,7 +465,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.247Z"
+    "fetchedAt": "2026-02-06T06:54:19.465Z"
   },
   {
     "rank": 14,
@@ -493,7 +493,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.247Z"
+    "fetchedAt": "2026-02-06T06:54:19.466Z"
   },
   {
     "rank": 15,
@@ -503,7 +503,7 @@
     "description": "A Minecraft: Java Edition Launcher for Android",
     "language": "Kotlin",
     "languageColor": "#A97BFF",
-    "stars": 719,
+    "stars": 721,
     "forks": 68,
     "currentPeriodStars": 234,
     "builtBy": [
@@ -529,7 +529,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.248Z"
+    "fetchedAt": "2026-02-06T06:54:19.466Z"
   },
   {
     "rank": 16,
@@ -540,7 +540,7 @@
     "language": "Kotlin",
     "languageColor": "#A97BFF",
     "stars": 4052,
-    "forks": 758,
+    "forks": 759,
     "currentPeriodStars": 96,
     "builtBy": [
       {
@@ -565,7 +565,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.248Z"
+    "fetchedAt": "2026-02-06T06:54:19.467Z"
   },
   {
     "rank": 17,
@@ -575,7 +575,7 @@
     "description": "More Expressive InstallerX !",
     "language": "Kotlin",
     "languageColor": "#A97BFF",
-    "stars": 3505,
+    "stars": 3506,
     "forks": 131,
     "currentPeriodStars": 515,
     "builtBy": [
@@ -601,7 +601,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.248Z"
+    "fetchedAt": "2026-02-06T06:54:19.468Z"
   },
   {
     "rank": 18,
@@ -611,7 +611,7 @@
     "description": "安卓电视直播APK：IPTV/網頁視頻支持X5，可自定義源(支持webview://格式)，IPTV支持畫中畫和熄屏播放。 Android TV Live APK: IPTV/web video supports X5, customizable sources (support webview:// format), IPTV supports picture-in-picture and off-screen playback.",
     "language": "Kotlin",
     "languageColor": "#A97BFF",
-    "stars": 1048,
+    "stars": 1049,
     "forks": 129,
     "currentPeriodStars": 194,
     "builtBy": [
@@ -637,7 +637,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.249Z"
+    "fetchedAt": "2026-02-06T06:54:19.468Z"
   },
   {
     "rank": 19,
@@ -647,8 +647,8 @@
     "description": "Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
     "language": "Kotlin",
     "languageColor": "#A97BFF",
-    "stars": 43874,
-    "forks": 4892,
+    "stars": 43878,
+    "forks": 4893,
     "currentPeriodStars": 991,
     "builtBy": [
       {
@@ -673,7 +673,7 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.249Z"
+    "fetchedAt": "2026-02-06T06:54:19.469Z"
   },
   {
     "rank": 20,
@@ -683,7 +683,7 @@
     "description": "Framework for quickly creating connected applications in Kotlin with minimal effort",
     "language": "Kotlin",
     "languageColor": "#A97BFF",
-    "stars": 14275,
+    "stars": 14276,
     "forks": 1225,
     "currentPeriodStars": 99,
     "builtBy": [
@@ -709,6 +709,6 @@
       }
     ],
     "since": "monthly",
-    "fetchedAt": "2026-02-06T04:18:57.250Z"
+    "fetchedAt": "2026-02-06T06:54:19.469Z"
   }
 ]
