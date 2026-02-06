@@ -1,7 +1,7 @@
-import { GoogleGenerativeAI } from '@google/generative-ai';
+import { GoogleGenAI } from '@google/genai';
 
 /**
- * Gemini 总结生成器
+ * Gemini 总结生成器 (基于 @google/genai SDK)
  * @param {string} prompt 
  * @param {object} config 
  */
@@ -10,10 +10,14 @@ export async function generateSummary(prompt, config) {
     throw new Error('GEMINI_API_KEY is missing');
   }
 
-  const genAI = new GoogleGenerativeAI(config.apiKey);
-  const model = genAI.getGenerativeModel({ model: config.model });
+  // 初始化客户端
+  const ai = new GoogleGenAI({ apiKey: config.apiKey });
 
-  const result = await model.generateContent(prompt);
-  const response = await result.response;
-  return response.text().trim();
+  // 调用生成接口
+  const response = await ai.models.generateContent({
+    model: config.model,
+    contents: prompt, // 新 SDK 支持直接传入字符串
+  });
+
+  return response.text;
 }
