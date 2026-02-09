@@ -1,0 +1,286 @@
+[
+  {
+    "rank": 1,
+    "author": "openai",
+    "repoName": "skills",
+    "url": "https://github.com/openai/skills",
+    "description": "Skills Catalog for Codex",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 4942,
+    "forks": 282,
+    "currentPeriodStars": 583,
+    "builtBy": [
+      {
+        "username": "gverma-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
+      },
+      {
+        "username": "dkundel-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4"
+      },
+      {
+        "username": "vb-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&v=4"
+      },
+      {
+        "username": "ae-openai",
+        "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&v=4"
+      },
+      {
+        "username": "quuu",
+        "avatar": "https://avatars.githubusercontent.com/u/32676955?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-07T04:10:33.914Z",
+    "aiSummary": "此 Python 项目为 OpenAI Codex 建立技能目录，旨在标准化和系统化管理其编程能力，赋能 Codex 高效理解与调用各类功能，提升代码生成效率。"
+  },
+  {
+    "rank": 2,
+    "author": "bytedance",
+    "repoName": "UI-TARS-desktop",
+    "url": "https://github.com/bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 27148,
+    "forks": 2644,
+    "currentPeriodStars": 573,
+    "builtBy": [
+      {
+        "username": "ulivz",
+        "avatar": "https://avatars.githubusercontent.com/u/23133919?s=40&v=4"
+      },
+      {
+        "username": "ycjcl868",
+        "avatar": "https://avatars.githubusercontent.com/u/13595509?s=40&v=4"
+      },
+      {
+        "username": "ZhaoHeh",
+        "avatar": "https://avatars.githubusercontent.com/u/38528320?s=40&v=4"
+      },
+      {
+        "username": "cjraft",
+        "avatar": "https://avatars.githubusercontent.com/u/13687952?s=40&v=4"
+      },
+      {
+        "username": "skychx",
+        "avatar": "https://avatars.githubusercontent.com/u/24872439?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-07T04:10:33.916Z",
+    "aiSummary": "bytedance/UI-TARS-desktop 提供一个开源的多模态AI智能体栈，致力于连接前沿AI模型与智能体基础设施，解决集成难题，实现高效智能体应用构建与部署。"
+  },
+  {
+    "rank": 3,
+    "author": "nvm-sh",
+    "repoName": "nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "languageColor": "#89e051",
+    "stars": 91514,
+    "forks": 9834,
+    "currentPeriodStars": 131,
+    "builtBy": [
+      {
+        "username": "ljharb",
+        "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&v=4"
+      },
+      {
+        "username": "PeterDaveHello",
+        "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&v=4"
+      },
+      {
+        "username": "creationix",
+        "avatar": "https://avatars.githubusercontent.com/u/89353?s=40&v=4"
+      },
+      {
+        "username": "koenpunt",
+        "avatar": "https://avatars.githubusercontent.com/u/351038?s=40&v=4"
+      },
+      {
+        "username": "lukechilds",
+        "avatar": "https://avatars.githubusercontent.com/u/2123375?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-07T04:10:33.916Z",
+    "aiSummary": "nvm (Node Version Manager) 是一个 POSIX 兼容的 bash 脚本，用于管理和切换多个活跃的 Node.js 版本。它解决了开发者在不同项目中使用特定 Node.js 版本的痛点，提升了开发效率。"
+  },
+  {
+    "rank": 4,
+    "author": "likec4",
+    "repoName": "likec4",
+    "url": "https://github.com/likec4/likec4",
+    "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 1842,
+    "forks": 136,
+    "currentPeriodStars": 40,
+    "builtBy": [
+      {
+        "username": "davydkov",
+        "avatar": "https://avatars.githubusercontent.com/u/824903?s=40&v=4"
+      },
+      {
+        "username": "apps/renovate",
+        "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+      },
+      {
+        "username": "pavelpykhtin",
+        "avatar": "https://avatars.githubusercontent.com/u/14885777?s=40&v=4"
+      },
+      {
+        "username": "apps/dependabot",
+        "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      },
+      {
+        "username": "apps/likec4-ci",
+        "avatar": "https://avatars.githubusercontent.com/in/631189?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-07T04:10:33.917Z",
+    "aiSummary": "该项目从代码自动生成并维护活态（live）的软件架构图，解决了传统架构图与实际代码脱节、更新滞后的痛点。它赋能团队高效可视化、协作与演进软件架构。"
+  },
+  {
+    "rank": 5,
+    "author": "aquasecurity",
+    "repoName": "trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "language": "Go",
+    "languageColor": "#00ADD8",
+    "stars": 31556,
+    "forks": 2921,
+    "currentPeriodStars": 165,
+    "builtBy": [
+      {
+        "username": "knqyf263",
+        "avatar": "https://avatars.githubusercontent.com/u/2253692?s=40&v=4"
+      },
+      {
+        "username": "DmitriyLewen",
+        "avatar": "https://avatars.githubusercontent.com/u/91113035?s=40&v=4"
+      },
+      {
+        "username": "apps/dependabot",
+        "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      },
+      {
+        "username": "nikpivkin",
+        "avatar": "https://avatars.githubusercontent.com/u/100182843?s=40&v=4"
+      },
+      {
+        "username": "simar7",
+        "avatar": "https://avatars.githubusercontent.com/u/1254783?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-07T04:10:33.918Z",
+    "aiSummary": "aquasecurity/trivy (Go) 是一款全面的安全扫描工具，专注于发现容器、Kubernetes、代码及云环境中的漏洞、错误配置、敏感信息和SBOM。它旨在为DevSecOps提供一站式安全检测能力。"
+  },
+  {
+    "rank": 6,
+    "author": "ZeroTworu",
+    "repoName": "anet",
+    "url": "https://github.com/ZeroTworu/anet",
+    "description": "Simple Rust VPN Client / Server",
+    "language": "Rust",
+    "languageColor": "#dea584",
+    "stars": 547,
+    "forks": 48,
+    "currentPeriodStars": 193,
+    "builtBy": [
+      {
+        "username": "ZeroTworu",
+        "avatar": "https://avatars.githubusercontent.com/u/17995677?s=40&v=4"
+      },
+      {
+        "username": "Fitna",
+        "avatar": "https://avatars.githubusercontent.com/u/20244649?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-07T04:10:33.919Z",
+    "aiSummary": "基于 Rust 开发的 VPN 客户端与服务器，提供简洁高效的虚拟私人网络连接方案，支持建立安全通信隧道，实现隐私保护与远程访问。"
+  },
+  {
+    "rank": 7,
+    "author": "Flowseal",
+    "repoName": "zapret-discord-youtube",
+    "url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "languageColor": "#C1F12E",
+    "stars": 21976,
+    "forks": 1830,
+    "currentPeriodStars": 70,
+    "builtBy": [
+      {
+        "username": "Flowseal",
+        "avatar": "https://avatars.githubusercontent.com/u/50780822?s=40&v=4"
+      },
+      {
+        "username": "V3nilla",
+        "avatar": "https://avatars.githubusercontent.com/u/48512277?s=40&v=4"
+      },
+      {
+        "username": "fridorin",
+        "avatar": "https://avatars.githubusercontent.com/u/93490920?s=40&v=4"
+      },
+      {
+        "username": "amozebus",
+        "avatar": "https://avatars.githubusercontent.com/u/190386872?s=40&v=4"
+      },
+      {
+        "username": "ekungurov",
+        "avatar": "https://avatars.githubusercontent.com/u/8576664?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-07T04:10:33.920Z",
+    "aiSummary": null
+  },
+  {
+    "rank": 8,
+    "author": "DataExpert-io",
+    "repoName": "data-engineer-handbook",
+    "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+    "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "language": "Jupyter Notebook",
+    "languageColor": "#DA5B0B",
+    "stars": 39908,
+    "forks": 7620,
+    "currentPeriodStars": 71,
+    "builtBy": [
+      {
+        "username": "EcZachly",
+        "avatar": "https://avatars.githubusercontent.com/u/4583288?s=40&v=4"
+      },
+      {
+        "username": "ry-v1",
+        "avatar": "https://avatars.githubusercontent.com/u/72290009?s=40&v=4"
+      },
+      {
+        "username": "isangwanrahul",
+        "avatar": "https://avatars.githubusercontent.com/u/188408630?s=40&v=4"
+      },
+      {
+        "username": "evil-in",
+        "avatar": "https://avatars.githubusercontent.com/u/57084343?s=40&v=4"
+      },
+      {
+        "username": "damaradiprabowo",
+        "avatar": "https://avatars.githubusercontent.com/u/6037277?s=40&v=4"
+      }
+    ],
+    "since": "daily",
+    "fetchedAt": "2026-02-07T04:10:33.921Z",
+    "aiSummary": null
+  }
+]
