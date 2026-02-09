@@ -12,8 +12,7 @@ export const LANGUAGES = [
   // 'kotlin',
 ];
 
-// export const PERIODS = ['daily', 'weekly', 'monthly'];
-export const PERIODS = ['daily'];
+export const PERIODS = ['daily', 'weekly', 'monthly'];
 
 export const HEADERS = {
   'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
