@@ -1,28 +1,20 @@
 import { AI_CONFIG } from '../consts.js';
 import * as gemini from './providers/gemini.js';
+import * as deepseek from './providers/deepseek.js';
 
-const providers = { gemini };
+const providers = { gemini, deepseek };
 
 /**
- * 为单个仓库生成总结（带超时和重试逻辑）
+ * 核心调用逻辑：针对特定 provider 进行带重试的调用
  */
-async function getSummaryWithRetry(repo, retryCount = 0) {
-  const providerName = AI_CONFIG.provider;
+async function callProviderWithRetry(providerName, prompt, retryCount = 0) {
   const provider = providers[providerName];
   const config = AI_CONFIG.providerConfig[providerName];
 
   if (!provider) {
-    console.warn(`[AI] Provider ${providerName} not found.`);
-    return null;
+    throw new Error(`Provider ${providerName} not found`);
   }
 
-  // 1. 模板替换
-  const prompt = AI_CONFIG.promptTemplate
-    .replace('{{name}}', `${repo.author}/${repo.repoName}`)
-    .replace('{{lang}}', repo.language || 'Unknown')
-    .replace('{{desc}}', repo.description || 'No description');
-
-  // 2. 超时包装
   const timeoutPromise = new Promise((_, reject) =>
     setTimeout(() => reject(new Error('AI_TIMEOUT')), AI_CONFIG.timeout)
   );
@@ -34,12 +26,45 @@ async function getSummaryWithRetry(repo, retryCount = 0) {
     ]);
   } catch (error) {
     if (retryCount < AI_CONFIG.maxRetries) {
-      console.log(`[AI] Retrying ${repo.repoName}... (${retryCount + 1})`);
-      return getSummaryWithRetry(repo, retryCount + 1);
+      console.log(`[AI] Retrying ${providerName}... (${retryCount + 1})`);
+      return callProviderWithRetry(providerName, prompt, retryCount + 1);
     }
-    console.warn(`[AI] Failed for ${repo.repoName}: ${error.message}`);
-    return null;
+    throw error; // 达到最大重试次数，抛出错误触发兜底
   }
+}
+
+/**
+ * 为单个仓库生成总结（支持多级兜底）
+ */
+async function getSummaryWithRetry(repo) {
+  const prompt = AI_CONFIG.promptTemplate
+    .replace('{{name}}', `${repo.author}/${repo.repoName}`)
+    .replace('{{lang}}', repo.language || 'Unknown')
+    .replace('{{desc}}', repo.description || 'No description');
+
+  // 构建调用链：[主Provider, ...兜底Providers]
+  const providerChain = [
+    AI_CONFIG.provider,
+    ...(AI_CONFIG.fallbacks || [])
+  ];
+
+  for (const providerName of providerChain) {
+    try {
+      const content = await callProviderWithRetry(providerName, prompt);
+      if (content) {
+        return {
+          content: content.trim(),
+          source: providerName
+        };
+      }
+    } catch (error) {
+      console.warn(`[AI] ${providerName} failed for ${repo.repoName}: ${error.message}`);
+      // 继续循环，尝试下一个 provider
+    }
+  }
+
+  console.error(`[AI] All providers failed for ${repo.repoName}`);
+  return null;
 }
 
 /**

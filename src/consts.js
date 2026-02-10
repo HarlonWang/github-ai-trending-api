@@ -26,6 +26,7 @@ export const HEADERS = {
 export const AI_CONFIG = {
   enabled: process.env.AI_ENABLED === 'true',
   provider: 'gemini',
+  fallbacks: ['deepseek'], // 按顺序尝试的备用提供者
   timeout: 30000,
   maxRetries: 1,
   delay: 3000,
@@ -54,6 +55,11 @@ export const AI_CONFIG = {
     gemini: {
       model: 'gemini-2.5-flash',
       apiKey: process.env.GEMINI_API_KEY,
+    },
+    deepseek: {
+      model: 'deepseek-chat',
+      apiKey: process.env.DEEPSEEK_API_KEY,
+      baseUrl: 'https://api.deepseek.com/v1'
     }
   }
 };
