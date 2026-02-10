@@ -7,8 +7,8 @@
     "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 17780,
-    "forks": 1857,
+    "stars": 18894,
+    "forks": 1945,
     "currentPeriodStars": 11444,
     "builtBy": [
       {
@@ -33,7 +33,7 @@
       }
     ],
     "since": "weekly",
-    "fetchedAt": "2026-02-10T04:35:08.058Z"
+    "fetchedAt": "2026-02-10T11:30:11.968Z"
   },
   {
     "rank": 2,
@@ -43,8 +43,8 @@
     "description": "Skills Catalog for Codex",
     "language": "Python",
     "languageColor": "#3572A5",
-    "stars": 7608,
-    "forks": 435,
+    "stars": 7738,
+    "forks": 440,
     "currentPeriodStars": 5086,
     "builtBy": [
       {
@@ -69,7 +69,7 @@
       }
     ],
     "since": "weekly",
-    "fetchedAt": "2026-02-10T04:35:08.059Z"
+    "fetchedAt": "2026-02-10T11:30:11.973Z"
   },
   {
     "rank": 3,
@@ -79,8 +79,8 @@
     "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 26351,
-    "forks": 1756,
+    "stars": 26583,
+    "forks": 1771,
     "currentPeriodStars": 8856,
     "builtBy": [
       {
@@ -105,7 +105,7 @@
       }
     ],
     "since": "weekly",
-    "fetchedAt": "2026-02-10T04:35:08.060Z"
+    "fetchedAt": "2026-02-10T11:30:11.973Z"
   },
   {
     "rank": 4,
@@ -115,8 +115,8 @@
     "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 9203,
-    "forks": 926,
+    "stars": 9689,
+    "forks": 961,
     "currentPeriodStars": 3013,
     "builtBy": [
       {
@@ -141,7 +141,7 @@
       }
     ],
     "since": "weekly",
-    "fetchedAt": "2026-02-10T04:35:08.061Z"
+    "fetchedAt": "2026-02-10T11:30:11.974Z"
   },
   {
     "rank": 5,
@@ -151,8 +151,8 @@
     "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 180236,
-    "forks": 29925,
+    "stars": 181401,
+    "forks": 30190,
     "currentPeriodStars": 30956,
     "builtBy": [
       {
@@ -177,7 +177,7 @@
       }
     ],
     "since": "weekly",
-    "fetchedAt": "2026-02-10T04:35:08.061Z"
+    "fetchedAt": "2026-02-10T11:30:11.974Z"
   },
   {
     "rank": 6,
@@ -187,8 +187,8 @@
     "description": "Master Claude Code Hooks",
     "language": "Python",
     "languageColor": "#3572A5",
-    "stars": 2796,
-    "forks": 539,
+    "stars": 2828,
+    "forks": 540,
     "currentPeriodStars": 623,
     "builtBy": [
       {
@@ -201,7 +201,7 @@
       }
     ],
     "since": "weekly",
-    "fetchedAt": "2026-02-10T04:35:08.062Z"
+    "fetchedAt": "2026-02-10T11:30:11.975Z"
   },
   {
     "rank": 7,
@@ -211,8 +211,8 @@
     "description": "An autonomous agent for deep financial research",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 13662,
-    "forks": 1637,
+    "stars": 13887,
+    "forks": 1657,
     "currentPeriodStars": 3510,
     "builtBy": [
       {
@@ -237,7 +237,7 @@
       }
     ],
     "since": "weekly",
-    "fetchedAt": "2026-02-10T04:35:08.062Z"
+    "fetchedAt": "2026-02-10T11:30:11.975Z"
   },
   {
     "rank": 8,
@@ -247,8 +247,8 @@
     "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 7626,
-    "forks": 388,
+    "stars": 7698,
+    "forks": 396,
     "currentPeriodStars": 1911,
     "builtBy": [
       {
@@ -273,7 +273,7 @@
       }
     ],
     "since": "weekly",
-    "fetchedAt": "2026-02-10T04:35:08.063Z"
+    "fetchedAt": "2026-02-10T11:30:11.976Z"
   },
   {
     "rank": 9,
@@ -283,8 +283,8 @@
     "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
     "language": "Python",
     "languageColor": "#3572A5",
-    "stars": 30691,
-    "forks": 3792,
+    "stars": 30721,
+    "forks": 3794,
     "currentPeriodStars": 1462,
     "builtBy": [
       {
@@ -309,7 +309,7 @@
       }
     ],
     "since": "weekly",
-    "fetchedAt": "2026-02-10T04:35:08.064Z"
+    "fetchedAt": "2026-02-10T11:30:11.977Z"
   },
   {
     "rank": 10,
@@ -319,8 +319,8 @@
     "description": "The best ChatGPT that $100 can buy.",
     "language": "Python",
     "languageColor": "#3572A5",
-    "stars": 42743,
-    "forks": 5529,
+    "stars": 42798,
+    "forks": 5535,
     "currentPeriodStars": 1287,
     "builtBy": [
       {
@@ -345,7 +345,7 @@
       }
     ],
     "since": "weekly",
-    "fetchedAt": "2026-02-10T04:35:08.064Z"
+    "fetchedAt": "2026-02-10T11:30:11.977Z"
   },
   {
     "rank": 11,
@@ -355,8 +355,8 @@
     "description": "GitHub Agentic Workflows",
     "language": "Go",
     "languageColor": "#00ADD8",
-    "stars": 987,
-    "forks": 83,
+    "stars": 1115,
+    "forks": 94,
     "currentPeriodStars": 322,
     "builtBy": [
       {
@@ -381,7 +381,7 @@
       }
     ],
     "since": "weekly",
-    "fetchedAt": "2026-02-10T04:35:08.065Z"
+    "fetchedAt": "2026-02-10T11:30:11.978Z"
   },
   {
     "rank": 12,
@@ -391,8 +391,8 @@
     "description": "Neovim AI agent done right",
     "language": "Lua",
     "languageColor": "#000080",
-    "stars": 3604,
-    "forks": 168,
+    "stars": 3616,
+    "forks": 169,
     "currentPeriodStars": 679,
     "builtBy": [
       {
@@ -417,7 +417,7 @@
       }
     ],
     "since": "weekly",
-    "fetchedAt": "2026-02-10T04:35:08.065Z"
+    "fetchedAt": "2026-02-10T11:30:11.979Z"
   },
   {
     "rank": 13,
@@ -427,8 +427,8 @@
     "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
     "language": "Rust",
     "languageColor": "#dea584",
-    "stars": 18683,
-    "forks": 808,
+    "stars": 18765,
+    "forks": 810,
     "currentPeriodStars": 992,
     "builtBy": [
       {
@@ -453,7 +453,7 @@
       }
     ],
     "since": "weekly",
-    "fetchedAt": "2026-02-10T04:35:08.066Z"
+    "fetchedAt": "2026-02-10T11:30:11.979Z"
   },
   {
     "rank": 14,
@@ -463,8 +463,8 @@
     "description": "Agent Orchestration Command Center",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 2083,
-    "forks": 193,
+    "stars": 2103,
+    "forks": 196,
     "currentPeriodStars": 918,
     "builtBy": [
       {
@@ -489,7 +489,7 @@
       }
     ],
     "since": "weekly",
-    "fetchedAt": "2026-02-10T04:35:08.066Z"
+    "fetchedAt": "2026-02-10T11:30:11.980Z"
   },
   {
     "rank": 15,
@@ -499,8 +499,8 @@
     "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
     "language": "JavaScript",
     "languageColor": "#f1e05a",
-    "stars": 2903,
-    "forks": 118,
+    "stars": 2973,
+    "forks": 119,
     "currentPeriodStars": 655,
     "builtBy": [
       {
@@ -525,7 +525,7 @@
       }
     ],
     "since": "weekly",
-    "fetchedAt": "2026-02-10T04:35:08.067Z"
+    "fetchedAt": "2026-02-10T11:30:11.980Z"
   },
   {
     "rank": 16,
@@ -535,8 +535,8 @@
     "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.",
     "language": "TypeScript",
     "languageColor": "#3178c6",
-    "stars": 14279,
-    "forks": 1531,
+    "stars": 14306,
+    "forks": 1530,
     "currentPeriodStars": 581,
     "builtBy": [
       {
@@ -561,7 +561,7 @@
       }
     ],
     "since": "weekly",
-    "fetchedAt": "2026-02-10T04:35:08.067Z"
+    "fetchedAt": "2026-02-10T11:30:11.981Z"
   },
   {
     "rank": 17,
@@ -571,8 +571,8 @@
     "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
     "language": "Python",
     "languageColor": "#3572A5",
-    "stars": 8661,
-    "forks": 663,
+    "stars": 8731,
+    "forks": 664,
     "currentPeriodStars": 1582,
     "builtBy": [
       {
@@ -597,6 +597,6 @@
       }
     ],
     "since": "weekly",
-    "fetchedAt": "2026-02-10T04:35:08.067Z"
+    "fetchedAt": "2026-02-10T11:30:11.981Z"
   }
 ]
