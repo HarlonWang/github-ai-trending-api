@@ -1,6 +1,6 @@
 {
   "count": 15,
-  "update_at": "2026-02-11 02:41:51",
+  "update_at": "2026-02-11 06:08:44",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 19835,
-      "forks": 2030,
+      "stars": 19999,
+      "forks": 2042,
       "currentPeriodStars": 14952,
       "builtBy": [
         {
@@ -36,7 +36,7 @@
         }
       ],
       "since": "weekly",
-      "fetchedAt": "2026-02-11T02:41:51.909Z"
+      "fetchedAt": "2026-02-11T06:08:44.551Z"
     },
     {
       "rank": 2,
@@ -46,8 +46,8 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 7845,
-      "forks": 445,
+      "stars": 7875,
+      "forks": 448,
       "currentPeriodStars": 5111,
       "builtBy": [
         {
@@ -72,7 +72,7 @@
         }
       ],
       "since": "weekly",
-      "fetchedAt": "2026-02-11T02:41:51.910Z"
+      "fetchedAt": "2026-02-11T06:08:44.559Z"
     },
     {
       "rank": 3,
@@ -82,8 +82,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 26904,
-      "forks": 1799,
+      "stars": 26956,
+      "forks": 1801,
       "currentPeriodStars": 7739,
       "builtBy": [
         {
@@ -108,7 +108,7 @@
         }
       ],
       "since": "weekly",
-      "fetchedAt": "2026-02-11T02:41:51.915Z"
+      "fetchedAt": "2026-02-11T06:08:44.559Z"
     },
     {
       "rank": 4,
@@ -118,8 +118,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 10189,
-      "forks": 1010,
+      "stars": 10329,
+      "forks": 1022,
       "currentPeriodStars": 3847,
       "builtBy": [
         {
@@ -144,7 +144,7 @@
         }
       ],
       "since": "weekly",
-      "fetchedAt": "2026-02-11T02:41:51.915Z"
+      "fetchedAt": "2026-02-11T06:08:44.560Z"
     },
     {
       "rank": 5,
@@ -154,8 +154,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14179,
-      "forks": 1702,
+      "stars": 14271,
+      "forks": 1710,
       "currentPeriodStars": 4024,
       "builtBy": [
         {
@@ -180,7 +180,7 @@
         }
       ],
       "since": "weekly",
-      "fetchedAt": "2026-02-11T02:41:51.916Z"
+      "fetchedAt": "2026-02-11T06:08:44.560Z"
     },
     {
       "rank": 6,
@@ -190,7 +190,7 @@
       "description": "Master Claude Code Hooks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2896,
+      "stars": 2897,
       "forks": 541,
       "currentPeriodStars": 611,
       "builtBy": [
@@ -204,7 +204,7 @@
         }
       ],
       "since": "weekly",
-      "fetchedAt": "2026-02-11T02:41:51.916Z"
+      "fetchedAt": "2026-02-11T06:08:44.560Z"
     },
     {
       "rank": 7,
@@ -214,8 +214,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1371,
-      "forks": 107,
+      "stars": 1434,
+      "forks": 109,
       "currentPeriodStars": 811,
       "builtBy": [
         {
@@ -240,7 +240,7 @@
         }
       ],
       "since": "weekly",
-      "fetchedAt": "2026-02-11T02:41:51.917Z"
+      "fetchedAt": "2026-02-11T06:08:44.561Z"
     },
     {
       "rank": 8,
@@ -250,7 +250,7 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 7813,
+      "stars": 7836,
       "forks": 404,
       "currentPeriodStars": 1836,
       "builtBy": [
@@ -276,7 +276,7 @@
         }
       ],
       "since": "weekly",
-      "fetchedAt": "2026-02-11T02:41:51.917Z"
+      "fetchedAt": "2026-02-11T06:08:44.561Z"
     },
     {
       "rank": 9,
@@ -286,8 +286,8 @@
       "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 30789,
-      "forks": 3799,
+      "stars": 30811,
+      "forks": 3800,
       "currentPeriodStars": 1078,
       "builtBy": [
         {
@@ -312,7 +312,7 @@
         }
       ],
       "since": "weekly",
-      "fetchedAt": "2026-02-11T02:41:51.918Z"
+      "fetchedAt": "2026-02-11T06:08:44.562Z"
     },
     {
       "rank": 10,
@@ -322,8 +322,8 @@
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 27685,
-      "forks": 2709,
+      "stars": 27710,
+      "forks": 2710,
       "currentPeriodStars": 2470,
       "builtBy": [
         {
@@ -348,7 +348,7 @@
         }
       ],
       "since": "weekly",
-      "fetchedAt": "2026-02-11T02:41:51.919Z"
+      "fetchedAt": "2026-02-11T06:08:44.562Z"
     },
     {
       "rank": 11,
@@ -358,7 +358,7 @@
       "description": "Pioneering Automated GUI Interaction with Native Agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9490,
+      "stars": 9492,
       "forks": 689,
       "currentPeriodStars": 320,
       "builtBy": [
@@ -384,7 +384,7 @@
         }
       ],
       "since": "weekly",
-      "fetchedAt": "2026-02-11T02:41:51.919Z"
+      "fetchedAt": "2026-02-11T06:08:44.563Z"
     },
     {
       "rank": 12,
@@ -394,8 +394,8 @@
       "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14340,
-      "forks": 1532,
+      "stars": 14349,
+      "forks": 1534,
       "currentPeriodStars": 559,
       "builtBy": [
         {
@@ -420,7 +420,7 @@
         }
       ],
       "since": "weekly",
-      "fetchedAt": "2026-02-11T02:41:51.920Z"
+      "fetchedAt": "2026-02-11T06:08:44.563Z"
     },
     {
       "rank": 13,
@@ -430,8 +430,8 @@
       "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10986,
-      "forks": 1264,
+      "stars": 10999,
+      "forks": 1266,
       "currentPeriodStars": 397,
       "builtBy": [
         {
@@ -456,7 +456,7 @@
         }
       ],
       "since": "weekly",
-      "fetchedAt": "2026-02-11T02:41:51.920Z"
+      "fetchedAt": "2026-02-11T06:08:44.563Z"
     },
     {
       "rank": 14,
@@ -466,7 +466,7 @@
       "description": "Neovim AI agent done right",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 3646,
+      "stars": 3656,
       "forks": 173,
       "currentPeriodStars": 523,
       "builtBy": [
@@ -492,7 +492,7 @@
         }
       ],
       "since": "weekly",
-      "fetchedAt": "2026-02-11T02:41:51.921Z"
+      "fetchedAt": "2026-02-11T06:08:44.564Z"
     },
     {
       "rank": 15,
@@ -502,8 +502,8 @@
       "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8838,
-      "forks": 670,
+      "stars": 8872,
+      "forks": 674,
       "currentPeriodStars": 1555,
       "builtBy": [
         {
@@ -528,7 +528,7 @@
         }
       ],
       "since": "weekly",
-      "fetchedAt": "2026-02-11T02:41:51.921Z"
+      "fetchedAt": "2026-02-11T06:08:44.564Z"
     }
   ]
 }
