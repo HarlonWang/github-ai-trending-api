@@ -1,6 +1,6 @@
 {
   "count": 14,
-  "update_at": "2026-02-11 02:41:47",
+  "update_at": "2026-02-11 06:07:56",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 28650,
-      "forks": 1928,
+      "stars": 29095,
+      "forks": 1955,
       "currentPeriodStars": 1654,
       "builtBy": [
         {
@@ -36,9 +36,9 @@
         }
       ],
       "since": "daily",
-      "fetchedAt": "2026-02-11T02:40:23.000Z",
+      "fetchedAt": "2026-02-11T06:06:32.060Z",
       "aiSummary": {
-        "content": "Google推出的LangExtract是一个Python库，它利用大语言模型从非结构化文本中提取结构化信息，并通过精确的源定位和交互式可视化，有效解决了信息提取过程中溯源困难和结果验证不便的核心痛点。",
+        "content": "Google推出的LangExtract是一个Python库，它利用大语言模型从非结构化文本中提取结构化信息，并确保结果具备精确的溯源依据。该库通过交互式可视化功能，有效解决了信息提取过程中可信度验证与结果解释的难题。",
         "source": "deepseek"
       }
     },
@@ -50,8 +50,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14509,
-      "forks": 1106,
+      "stars": 14663,
+      "forks": 1120,
       "currentPeriodStars": 629,
       "builtBy": [
         {
@@ -76,9 +76,9 @@
         }
       ],
       "since": "daily",
-      "fetchedAt": "2026-02-11T02:40:23.001Z",
+      "fetchedAt": "2026-02-11T06:06:32.061Z",
       "aiSummary": {
-        "content": "AionUi 是一款免费、本地、开源的 AI 协作工具，支持 Gemini、Claude、Codex 等多种主流 AI 模型。其核心解决了用户需频繁切换不同 AI 平台或 CLI 工具的痛点，通过统一界面提供 24/7 的集成化编程与对话服务，提升了开发与协作效率。",
+        "content": "AionUi 是一个免费、本地化、开源的 AI 协作工具，支持 Gemini CLI、Claude Code 等多种主流 AI 模型。它解决了用户需要频繁切换不同 AI 工具界面的痛点，通过统一界面实现 7x24 小时不间断的集中化编程与协作。",
         "source": "deepseek"
       }
     },
@@ -90,8 +90,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 19835,
-      "forks": 2030,
+      "stars": 19997,
+      "forks": 2041,
       "currentPeriodStars": 3619,
       "builtBy": [
         {
@@ -116,9 +116,9 @@
         }
       ],
       "since": "daily",
-      "fetchedAt": "2026-02-11T02:40:23.002Z",
+      "fetchedAt": "2026-02-11T06:06:32.062Z",
       "aiSummary": {
-        "content": "Shannon 是一款全自主 AI 安全测试工具，专注于在 Web 应用中寻找真实可利用的安全漏洞。其核心在于无需人工提示，通过源码分析实现了对 XBOW 基准测试 96.15% 的高成功率，显著提升了自动化漏洞发现的效率和准确性。",
+        "content": "Shannon 是一款全自主 AI 黑客工具，专为发现 Web 应用实际漏洞而设计。其核心在于无需提示、基于源码分析，在 XBOW 基准测试中实现了 96.15% 的高成功率，显著提升了自动化安全测试的准确性与效率。",
         "source": "deepseek"
       }
     },
@@ -130,8 +130,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1371,
-      "forks": 107,
+      "stars": 1432,
+      "forks": 109,
       "currentPeriodStars": 496,
       "builtBy": [
         {
@@ -156,9 +156,9 @@
         }
       ],
       "since": "daily",
-      "fetchedAt": "2026-02-11T02:40:23.002Z",
+      "fetchedAt": "2026-02-11T06:06:32.063Z",
       "aiSummary": {
-        "content": "gh-aw 是 GitHub 推出的基于 Go 语言开发的智能体工作流框架。它旨在通过编排多个 AI 智能体来协同执行复杂任务，解决单一 AI 模型能力有限、难以自动化处理多步骤工作流的痛点，提升开发与运维的自动化水平。",
+        "content": "gh-aw 是 GitHub 推出的基于 Go 语言开发的智能体工作流框架。它旨在通过可编程的自动化代理来编排复杂的开发任务，解决传统 CI/CD 流程在灵活性与智能决策上的不足，提升软件交付的自动化与智能化水平。",
         "source": "deepseek"
       }
     },
@@ -170,8 +170,8 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8191,
-      "forks": 642,
+      "stars": 8238,
+      "forks": 646,
       "currentPeriodStars": 406,
       "builtBy": [
         {
@@ -196,9 +196,9 @@
         }
       ],
       "since": "daily",
-      "fetchedAt": "2026-02-11T02:40:23.003Z",
+      "fetchedAt": "2026-02-11T06:06:32.063Z",
       "aiSummary": {
-        "content": "EveryInc/compound-engineering-plugin 是 Claude Code 的官方复合工程插件，基于 TypeScript 开发。它通过集成多个工程工具链，将分散的开发工作流统一至单一界面，显著提升了代码复用、依赖管理和项目构建的效率，解决了多工具切换繁琐与配置复杂的痛点。",
+        "content": "EveryInc/compound-engineering-plugin 是 Claude Code 的官方复合工程插件，基于 TypeScript 开发。它通过自动化整合多个代码库与工具链，解决了跨项目代码复用和工程配置碎片化的痛点，显著提升了复杂软件项目的开发效率与一致性。",
         "source": "deepseek"
       }
     },
@@ -210,8 +210,8 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 16701,
-      "forks": 3620,
+      "stars": 16776,
+      "forks": 3628,
       "currentPeriodStars": 498,
       "builtBy": [
         {
@@ -236,9 +236,9 @@
         }
       ],
       "since": "daily",
-      "fetchedAt": "2026-02-11T02:40:23.003Z",
+      "fetchedAt": "2026-02-11T06:06:32.064Z",
       "aiSummary": {
-        "content": "TradingAgents-CN 是一个基于多智能体大语言模型的中文金融交易框架。它通过构建协同工作的智能体，解决了传统量化策略在复杂市场环境下适应性与解释性不足的痛点，实现了对中文金融市场的自动化分析与交易决策。",
+        "content": "TradingAgents-CN 是一个基于多智能体大语言模型的中文金融交易框架。它通过构建协作智能体系统，解决了传统量化策略在复杂市场环境下适应性与解释性不足的痛点，实现了对中文金融市场的自动化分析、决策与交易模拟。",
         "source": "deepseek"
       }
     },
@@ -250,8 +250,8 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19047,
-      "forks": 820,
+      "stars": 19093,
+      "forks": 823,
       "currentPeriodStars": 260,
       "builtBy": [
         {
@@ -276,9 +276,9 @@
         }
       ],
       "since": "daily",
-      "fetchedAt": "2026-02-11T02:40:23.004Z",
+      "fetchedAt": "2026-02-11T06:06:32.064Z",
       "aiSummary": {
-        "content": "GitButler 是一款基于 Git 的版本控制客户端，采用 Tauri/Rust/Svelte 技术栈构建。它通过直观的界面和智能分支管理，解决了传统 Git 命令行操作复杂、多任务并行开发流程繁琐的痛点，使开发者能更高效地处理复杂分支与提交。",
+        "content": "GitButler 是一款基于 Git 的版本控制客户端，采用 Tauri/Rust/Svelte 技术栈构建。它通过直观的界面简化了复杂的 Git 操作流程，解决了开发者日常分支管理、提交和协作中的效率痛点，尤其优化了处理多分支并行开发的体验。",
         "source": "deepseek"
       }
     },
@@ -290,8 +290,8 @@
       "description": "Interactive course teaching Product Managers how to use Claude Code effectively",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 851,
-      "forks": 147,
+      "stars": 919,
+      "forks": 153,
       "currentPeriodStars": 24,
       "builtBy": [
         {
@@ -308,9 +308,9 @@
         }
       ],
       "since": "daily",
-      "fetchedAt": "2026-02-11T02:40:23.004Z",
+      "fetchedAt": "2026-02-11T06:06:32.064Z",
       "aiSummary": {
-        "content": "该项目通过交互式课程，帮助产品经理掌握利用 Claude Code 高效处理技术任务的方法，解决了他们在技术沟通、需求评估和原型验证中因编码能力不足而依赖开发团队的效率瓶颈。",
+        "content": "该项目为产品经理提供交互式课程，教授如何高效利用Claude Code进行技术协作。核心解决了产品经理因技术理解不足导致的沟通障碍与需求落地困难，通过实践指导提升其与技术团队的协同效率。",
         "source": "deepseek"
       }
     },
@@ -322,8 +322,8 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 93652,
-      "forks": 13584,
+      "stars": 93725,
+      "forks": 13596,
       "currentPeriodStars": 443,
       "builtBy": [
         {
@@ -348,9 +348,9 @@
         }
       ],
       "since": "daily",
-      "fetchedAt": "2026-02-11T02:40:23.005Z",
+      "fetchedAt": "2026-02-11T06:06:32.065Z",
       "aiSummary": {
-        "content": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求，为开发者提供实践参考。",
+        "content": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与任务自动化需求，为开发者提供可参考的实现范式。",
         "source": "deepseek"
       }
     },
@@ -362,8 +362,8 @@
       "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 36356,
-      "forks": 2839,
+      "stars": 36419,
+      "forks": 2844,
       "currentPeriodStars": 95,
       "builtBy": [
         {
@@ -388,9 +388,9 @@
         }
       ],
       "since": "daily",
-      "fetchedAt": "2026-02-11T02:40:23.005Z",
+      "fetchedAt": "2026-02-11T06:06:32.066Z",
       "aiSummary": {
-        "content": "DrawDB 是一款免费的在线数据库图表编辑器与 SQL 生成工具。它通过直观的可视化界面，解决了数据库设计过程中手动绘制图表和编写 SQL 语句的繁琐问题，能自动将图表结构转换为 SQL 代码，提升了设计效率。",
+        "content": "DrawDB 是一款免费的在线数据库图表编辑器和 SQL 生成工具。它通过直观的可视化界面，解决了手动绘制数据库关系图和编写复杂 SQL 语句的繁琐问题，能快速生成与图表对应的 SQL 代码，提升开发效率。",
         "source": "deepseek"
       }
     },
@@ -402,8 +402,8 @@
       "description": "A minimal, secure Python interpreter written in Rust for use by AI",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 4567,
-      "forks": 162,
+      "stars": 4621,
+      "forks": 165,
       "currentPeriodStars": 858,
       "builtBy": [
         {
@@ -428,9 +428,9 @@
         }
       ],
       "since": "daily",
-      "fetchedAt": "2026-02-11T02:40:23.006Z",
+      "fetchedAt": "2026-02-11T06:06:32.066Z",
       "aiSummary": {
-        "content": "pydantic/monty 是一个用 Rust 编写的极简 Python 解释器，专为 AI 应用设计。它通过内存安全的 Rust 实现，解决了在 AI 工作流中安全、高效地执行不受信 Python 代码的核心痛点，同时保持了轻量级特性。",
+        "content": "pydantic/monty 是一个用 Rust 编写的极简、安全的 Python 解释器，专为 AI 应用场景设计。它通过沙箱环境安全执行不受信任的 Python 代码，解决了 AI 代理调用外部代码时的安全性与隔离性核心痛点。",
         "source": "deepseek"
       }
     },
@@ -442,8 +442,8 @@
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8735,
-      "forks": 853,
+      "stars": 8801,
+      "forks": 857,
       "currentPeriodStars": 115,
       "builtBy": [
         {
@@ -468,9 +468,9 @@
         }
       ],
       "since": "daily",
-      "fetchedAt": "2026-02-11T02:40:23.006Z",
+      "fetchedAt": "2026-02-11T06:06:32.066Z",
       "aiSummary": {
-        "content": "该项目汇总了多个可免费调用的LLM推理API资源，解决了开发者获取和测试大语言模型服务时面临的成本与门槛问题，为核心功能开发提供了便捷的参考列表。",
+        "content": "该项目汇总了多个可免费调用的LLM推理API资源，解决了开发者获取和使用大语言模型服务时面临的成本与门槛问题，为核心功能开发提供了便捷的参考列表。",
         "source": "deepseek"
       }
     },
@@ -479,11 +479,11 @@
       "author": "Jeffallan",
       "repoName": "claude-skills",
       "url": "https://github.com/Jeffallan/claude-skills",
-      "description": "65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+      "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 833,
-      "forks": 73,
+      "stars": 958,
+      "forks": 80,
       "currentPeriodStars": 45,
       "builtBy": [
         {
@@ -508,9 +508,9 @@
         }
       ],
       "since": "daily",
-      "fetchedAt": "2026-02-11T02:40:23.007Z",
+      "fetchedAt": "2026-02-11T06:06:32.067Z",
       "aiSummary": {
-        "content": "Jeffallan/claude-skills 是一个 Python 项目，为全栈开发者提供了 65 项专项技能指令集。它旨在将 Claude 代码助手转化为专家级的结对编程伙伴，通过系统化的提示词工程，精准解决开发者在复杂场景下寻求有效 AI 协作与代码生成的痛点。",
+        "content": "Jeffallan/claude-skills 是一个 Python 项目，旨在为全栈开发者提供 66 项专项技能，将 Claude 代码转化为专家级的结对编程伙伴。它通过系统化的技能集，解决了开发者面对复杂任务时缺乏针对性指导的痛点，显著提升了代码生成与问题解决的效率和质量。",
         "source": "deepseek"
       }
     },
@@ -522,8 +522,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14178,
-      "forks": 1702,
+      "stars": 14270,
+      "forks": 1710,
       "currentPeriodStars": 757,
       "builtBy": [
         {
@@ -548,9 +548,9 @@
         }
       ],
       "since": "daily",
-      "fetchedAt": "2026-02-11T02:40:23.008Z",
+      "fetchedAt": "2026-02-11T06:06:32.068Z",
       "aiSummary": {
-        "content": "Dexter 是一个基于 TypeScript 开发的自主智能体，专为深度金融研究设计。它通过自动化处理海量金融数据、执行复杂分析并生成研究报告，解决了传统金融研究中信息过载与效率低下的核心痛点，显著提升了研究决策的智能化水平。",
+        "content": "Dexter 是一个基于 TypeScript 开发的自主智能体，专为深度金融研究设计。它通过自动化处理海量金融数据、执行复杂分析并生成研究报告，解决了传统金融研究中信息处理效率低、人工分析成本高昂的核心痛点。",
         "source": "deepseek"
       }
     }

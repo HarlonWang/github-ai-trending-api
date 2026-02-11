@@ -1,6 +1,6 @@
 {
   "count": 18,
-  "update_at": "2026-02-11 02:41:56",
+  "update_at": "2026-02-11 06:09:34",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 183055,
-      "forks": 30640,
+      "stars": 183540,
+      "forks": 30761,
       "currentPeriodStars": 179081,
       "builtBy": [
         {
@@ -36,7 +36,7 @@
         }
       ],
       "since": "monthly",
-      "fetchedAt": "2026-02-11T02:41:56.216Z"
+      "fetchedAt": "2026-02-11T06:09:34.025Z"
     },
     {
       "rank": 2,
@@ -46,8 +46,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 49298,
-      "forks": 3718,
+      "stars": 49378,
+      "forks": 3723,
       "currentPeriodStars": 33411,
       "builtBy": [
         {
@@ -72,7 +72,7 @@
         }
       ],
       "since": "monthly",
-      "fetchedAt": "2026-02-11T02:41:56.216Z"
+      "fetchedAt": "2026-02-11T06:09:34.025Z"
     },
     {
       "rank": 3,
@@ -82,8 +82,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14511,
-      "forks": 1106,
+      "stars": 14666,
+      "forks": 1120,
       "currentPeriodStars": 10823,
       "builtBy": [
         {
@@ -108,7 +108,7 @@
         }
       ],
       "since": "monthly",
-      "fetchedAt": "2026-02-11T02:41:56.216Z"
+      "fetchedAt": "2026-02-11T06:09:34.025Z"
     },
     {
       "rank": 4,
@@ -118,8 +118,8 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14675,
-      "forks": 1068,
+      "stars": 14699,
+      "forks": 1070,
       "currentPeriodStars": 9588,
       "builtBy": [
         {
@@ -136,7 +136,7 @@
         }
       ],
       "since": "monthly",
-      "fetchedAt": "2026-02-11T02:41:56.217Z"
+      "fetchedAt": "2026-02-11T06:09:34.026Z"
     },
     {
       "rank": 5,
@@ -146,8 +146,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 67454,
-      "forks": 6741,
+      "stars": 67620,
+      "forks": 6764,
       "currentPeriodStars": 30543,
       "builtBy": [
         {
@@ -172,7 +172,7 @@
         }
       ],
       "since": "monthly",
-      "fetchedAt": "2026-02-11T02:41:56.217Z"
+      "fetchedAt": "2026-02-11T06:09:34.026Z"
     },
     {
       "rank": 6,
@@ -182,8 +182,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 10189,
-      "forks": 1010,
+      "stars": 10329,
+      "forks": 1022,
       "currentPeriodStars": 8334,
       "builtBy": [
         {
@@ -208,7 +208,7 @@
         }
       ],
       "since": "monthly",
-      "fetchedAt": "2026-02-11T02:41:56.218Z"
+      "fetchedAt": "2026-02-11T06:09:34.027Z"
     },
     {
       "rank": 7,
@@ -218,8 +218,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 101948,
-      "forks": 9818,
+      "stars": 102057,
+      "forks": 9827,
       "currentPeriodStars": 43550,
       "builtBy": [
         {
@@ -244,7 +244,7 @@
         }
       ],
       "since": "monthly",
-      "fetchedAt": "2026-02-11T02:41:56.218Z"
+      "fetchedAt": "2026-02-11T06:09:34.027Z"
     },
     {
       "rank": 8,
@@ -254,7 +254,7 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 36048,
+      "stars": 36076,
       "forks": 2187,
       "currentPeriodStars": 10834,
       "builtBy": [
@@ -280,7 +280,7 @@
         }
       ],
       "since": "monthly",
-      "fetchedAt": "2026-02-11T02:41:56.219Z"
+      "fetchedAt": "2026-02-11T06:09:34.028Z"
     },
     {
       "rank": 9,
@@ -290,8 +290,8 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 7845,
-      "forks": 445,
+      "stars": 7875,
+      "forks": 448,
       "currentPeriodStars": 6409,
       "builtBy": [
         {
@@ -316,7 +316,7 @@
         }
       ],
       "since": "monthly",
-      "fetchedAt": "2026-02-11T02:41:56.219Z"
+      "fetchedAt": "2026-02-11T06:09:34.028Z"
     },
     {
       "rank": 10,
@@ -326,7 +326,7 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 7813,
+      "stars": 7837,
       "forks": 404,
       "currentPeriodStars": 6891,
       "builtBy": [
@@ -352,7 +352,7 @@
         }
       ],
       "since": "monthly",
-      "fetchedAt": "2026-02-11T02:41:56.220Z"
+      "fetchedAt": "2026-02-11T06:09:34.028Z"
     },
     {
       "rank": 11,
@@ -360,10 +360,10 @@
       "repoName": "system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 30944,
-      "forks": 4940,
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 30964,
+      "forks": 4943,
       "currentPeriodStars": 6007,
       "builtBy": [
         {
@@ -388,7 +388,7 @@
         }
       ],
       "since": "monthly",
-      "fetchedAt": "2026-02-11T02:41:56.220Z"
+      "fetchedAt": "2026-02-11T06:09:34.029Z"
     },
     {
       "rank": 12,
@@ -398,8 +398,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 19835,
-      "forks": 2030,
+      "stars": 19999,
+      "forks": 2042,
       "currentPeriodStars": 15531,
       "builtBy": [
         {
@@ -424,7 +424,7 @@
         }
       ],
       "since": "monthly",
-      "fetchedAt": "2026-02-11T02:41:56.220Z"
+      "fetchedAt": "2026-02-11T06:09:34.029Z"
     },
     {
       "rank": 13,
@@ -434,8 +434,8 @@
       "description": "Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8078,
-      "forks": 547,
+      "stars": 8096,
+      "forks": 549,
       "currentPeriodStars": 6471,
       "builtBy": [
         {
@@ -460,7 +460,7 @@
         }
       ],
       "since": "monthly",
-      "fetchedAt": "2026-02-11T02:41:56.221Z"
+      "fetchedAt": "2026-02-11T06:09:34.030Z"
     },
     {
       "rank": 14,
@@ -470,8 +470,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 26904,
-      "forks": 1799,
+      "stars": 26956,
+      "forks": 1801,
       "currentPeriodStars": 13922,
       "builtBy": [
         {
@@ -496,7 +496,7 @@
         }
       ],
       "since": "monthly",
-      "fetchedAt": "2026-02-11T02:41:56.221Z"
+      "fetchedAt": "2026-02-11T06:09:34.030Z"
     },
     {
       "rank": 15,
@@ -506,8 +506,8 @@
       "description": "the best agent harness",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 30289,
-      "forks": 2249,
+      "stars": 30342,
+      "forks": 2256,
       "currentPeriodStars": 17300,
       "builtBy": [
         {
@@ -532,7 +532,7 @@
         }
       ],
       "since": "monthly",
-      "fetchedAt": "2026-02-11T02:41:56.222Z"
+      "fetchedAt": "2026-02-11T06:09:34.031Z"
     },
     {
       "rank": 16,
@@ -542,8 +542,8 @@
       "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8838,
-      "forks": 670,
+      "stars": 8872,
+      "forks": 674,
       "currentPeriodStars": 4665,
       "builtBy": [
         {
@@ -568,7 +568,7 @@
         }
       ],
       "since": "monthly",
-      "fetchedAt": "2026-02-11T02:41:56.222Z"
+      "fetchedAt": "2026-02-11T06:09:34.031Z"
     },
     {
       "rank": 17,
@@ -578,8 +578,8 @@
       "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 6668,
-      "forks": 465,
+      "stars": 6677,
+      "forks": 467,
       "currentPeriodStars": 5621,
       "builtBy": [
         {
@@ -604,7 +604,7 @@
         }
       ],
       "since": "monthly",
-      "fetchedAt": "2026-02-11T02:41:56.223Z"
+      "fetchedAt": "2026-02-11T06:09:34.031Z"
     },
     {
       "rank": 18,
@@ -614,7 +614,7 @@
       "description": "Neovim AI agent done right",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 3646,
+      "stars": 3656,
       "forks": 173,
       "currentPeriodStars": 2639,
       "builtBy": [
@@ -640,7 +640,7 @@
         }
       ],
       "since": "monthly",
-      "fetchedAt": "2026-02-11T02:41:56.223Z"
+      "fetchedAt": "2026-02-11T06:09:34.032Z"
     }
   ]
 }

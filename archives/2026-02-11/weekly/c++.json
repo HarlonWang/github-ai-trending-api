@@ -1,0 +1,714 @@
+{
+  "count": 20,
+  "update_at": "2026-02-11 06:09:18",
+  "data": [
+    {
+      "rank": 1,
+      "author": "nomic-ai",
+      "repoName": "gpt4all",
+      "url": "https://github.com/nomic-ai/gpt4all",
+      "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 77135,
+      "forks": 8329,
+      "currentPeriodStars": 96,
+      "builtBy": [
+        {
+          "username": "manyoso",
+          "avatar": "https://avatars.githubusercontent.com/u/10168?s=40&v=4"
+        },
+        {
+          "username": "cebtenzzre",
+          "avatar": "https://avatars.githubusercontent.com/u/14168726?s=40&v=4"
+        },
+        {
+          "username": "AndriyMulyar",
+          "avatar": "https://avatars.githubusercontent.com/u/13879686?s=40&v=4"
+        },
+        {
+          "username": "zanussbaum",
+          "avatar": "https://avatars.githubusercontent.com/u/33707069?s=40&v=4"
+        },
+        {
+          "username": "apage43",
+          "avatar": "https://avatars.githubusercontent.com/u/169252?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.099Z"
+    },
+    {
+      "rank": 2,
+      "author": "LadybirdBrowser",
+      "repoName": "ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 58473,
+      "forks": 2667,
+      "currentPeriodStars": 369,
+      "builtBy": [
+        {
+          "username": "awesomekling",
+          "avatar": "https://avatars.githubusercontent.com/u/5954907?s=40&v=4"
+        },
+        {
+          "username": "trflynn89",
+          "avatar": "https://avatars.githubusercontent.com/u/5600524?s=40&v=4"
+        },
+        {
+          "username": "AtkinsSJ",
+          "avatar": "https://avatars.githubusercontent.com/u/222642?s=40&v=4"
+        },
+        {
+          "username": "linusg",
+          "avatar": "https://avatars.githubusercontent.com/u/19366641?s=40&v=4"
+        },
+        {
+          "username": "alimpfard",
+          "avatar": "https://avatars.githubusercontent.com/u/14001776?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.100Z"
+    },
+    {
+      "rank": 3,
+      "author": "notepad-plus-plus",
+      "repoName": "notepad-plus-plus",
+      "url": "https://github.com/notepad-plus-plus/notepad-plus-plus",
+      "description": "Notepad++ official repository",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 27108,
+      "forks": 5102,
+      "currentPeriodStars": 146,
+      "builtBy": [
+        {
+          "username": "donho",
+          "avatar": "https://avatars.githubusercontent.com/u/90293?s=40&v=4"
+        },
+        {
+          "username": "ozone10",
+          "avatar": "https://avatars.githubusercontent.com/u/55940305?s=40&v=4"
+        },
+        {
+          "username": "xomx",
+          "avatar": "https://avatars.githubusercontent.com/u/13075183?s=40&v=4"
+        },
+        {
+          "username": "SinghRajenM",
+          "avatar": "https://avatars.githubusercontent.com/u/14791461?s=40&v=4"
+        },
+        {
+          "username": "chcg",
+          "avatar": "https://avatars.githubusercontent.com/u/12630740?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.106Z"
+    },
+    {
+      "rank": 4,
+      "author": "rhasspy",
+      "repoName": "piper",
+      "url": "https://github.com/rhasspy/piper",
+      "description": "A fast, local neural text to speech system",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10558,
+      "forks": 909,
+      "currentPeriodStars": 49,
+      "builtBy": [
+        {
+          "username": "synesthesiam",
+          "avatar": "https://avatars.githubusercontent.com/u/2743976?s=40&v=4"
+        },
+        {
+          "username": "rmcpantoja",
+          "avatar": "https://avatars.githubusercontent.com/u/54605382?s=40&v=4"
+        },
+        {
+          "username": "XxNessuxX",
+          "avatar": "https://avatars.githubusercontent.com/u/68195086?s=40&v=4"
+        },
+        {
+          "username": "t-mat",
+          "avatar": "https://avatars.githubusercontent.com/u/898396?s=40&v=4"
+        },
+        {
+          "username": "mush42",
+          "avatar": "https://avatars.githubusercontent.com/u/9974914?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.107Z"
+    },
+    {
+      "rank": 5,
+      "author": "microsoft",
+      "repoName": "WSL",
+      "url": "https://github.com/microsoft/WSL",
+      "description": "Windows Subsystem for Linux",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 31072,
+      "forks": 1612,
+      "currentPeriodStars": 82,
+      "builtBy": [
+        {
+          "username": "OneBlue",
+          "avatar": "https://avatars.githubusercontent.com/u/16477878?s=40&v=4"
+        },
+        {
+          "username": "benhillis",
+          "avatar": "https://avatars.githubusercontent.com/u/17727402?s=40&v=4"
+        },
+        {
+          "username": "craigloewen-msft",
+          "avatar": "https://avatars.githubusercontent.com/u/42221804?s=40&v=4"
+        },
+        {
+          "username": "49081",
+          "avatar": "https://avatars.githubusercontent.com/u/108518819?s=40&v=4"
+        },
+        {
+          "username": "jackchammons",
+          "avatar": "https://avatars.githubusercontent.com/u/2711825?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.108Z"
+    },
+    {
+      "rank": 6,
+      "author": "ggml-org",
+      "repoName": "llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 94823,
+      "forks": 14861,
+      "currentPeriodStars": 575,
+      "builtBy": [
+        {
+          "username": "ggerganov",
+          "avatar": "https://avatars.githubusercontent.com/u/1991296?s=40&v=4"
+        },
+        {
+          "username": "slaren",
+          "avatar": "https://avatars.githubusercontent.com/u/2141330?s=40&v=4"
+        },
+        {
+          "username": "ngxson",
+          "avatar": "https://avatars.githubusercontent.com/u/7702203?s=40&v=4"
+        },
+        {
+          "username": "JohannesGaessler",
+          "avatar": "https://avatars.githubusercontent.com/u/18492268?s=40&v=4"
+        },
+        {
+          "username": "CISC",
+          "avatar": "https://avatars.githubusercontent.com/u/1629204?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.108Z"
+    },
+    {
+      "rank": 7,
+      "author": "ml-explore",
+      "repoName": "mlx",
+      "url": "https://github.com/ml-explore/mlx",
+      "description": "MLX: An array framework for Apple silicon",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 23879,
+      "forks": 1503,
+      "currentPeriodStars": 109,
+      "builtBy": [
+        {
+          "username": "awni",
+          "avatar": "https://avatars.githubusercontent.com/u/1542805?s=40&v=4"
+        },
+        {
+          "username": "angeloskath",
+          "avatar": "https://avatars.githubusercontent.com/u/1242043?s=40&v=4"
+        },
+        {
+          "username": "zcbenz",
+          "avatar": "https://avatars.githubusercontent.com/u/639601?s=40&v=4"
+        },
+        {
+          "username": "jagrit06",
+          "avatar": "https://avatars.githubusercontent.com/u/60373541?s=40&v=4"
+        },
+        {
+          "username": "barronalex",
+          "avatar": "https://avatars.githubusercontent.com/u/12023682?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.109Z"
+    },
+    {
+      "rank": 8,
+      "author": "dmlc",
+      "repoName": "xgboost",
+      "url": "https://github.com/dmlc/xgboost",
+      "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 27998,
+      "forks": 8843,
+      "currentPeriodStars": 47,
+      "builtBy": [
+        {
+          "username": "trivialfis",
+          "avatar": "https://avatars.githubusercontent.com/u/16746409?s=40&v=4"
+        },
+        {
+          "username": "tqchen",
+          "avatar": "https://avatars.githubusercontent.com/u/2577440?s=40&v=4"
+        },
+        {
+          "username": "hcho3",
+          "avatar": "https://avatars.githubusercontent.com/u/2532981?s=40&v=4"
+        },
+        {
+          "username": "pommedeterresautee",
+          "avatar": "https://avatars.githubusercontent.com/u/1029874?s=40&v=4"
+        },
+        {
+          "username": "hetong007",
+          "avatar": "https://avatars.githubusercontent.com/u/1289856?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.109Z"
+    },
+    {
+      "rank": 9,
+      "author": "stenzek",
+      "repoName": "duckstation",
+      "url": "https://github.com/stenzek/duckstation",
+      "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 9688,
+      "forks": 880,
+      "currentPeriodStars": 55,
+      "builtBy": [
+        {
+          "username": "stenzek",
+          "avatar": "https://avatars.githubusercontent.com/u/11288319?s=40&v=4"
+        },
+        {
+          "username": "andercard0",
+          "avatar": "https://avatars.githubusercontent.com/u/43047877?s=40&v=4"
+        },
+        {
+          "username": "Pesa",
+          "avatar": "https://avatars.githubusercontent.com/u/83452?s=40&v=4"
+        },
+        {
+          "username": "zkdpower",
+          "avatar": "https://avatars.githubusercontent.com/u/40191866?s=40&v=4"
+        },
+        {
+          "username": "ggrtk",
+          "avatar": "https://avatars.githubusercontent.com/u/45282415?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.110Z"
+    },
+    {
+      "rank": 10,
+      "author": "BehaviorTree",
+      "repoName": "BehaviorTree.CPP",
+      "url": "https://github.com/BehaviorTree/BehaviorTree.CPP",
+      "description": "Behavior Trees Library in C++. Batteries included.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 3820,
+      "forks": 803,
+      "currentPeriodStars": 28,
+      "builtBy": [
+        {
+          "username": "facontidavide",
+          "avatar": "https://avatars.githubusercontent.com/u/2822888?s=40&v=4"
+        },
+        {
+          "username": "miccol",
+          "avatar": "https://avatars.githubusercontent.com/u/8132627?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "ewerlopes",
+          "avatar": "https://avatars.githubusercontent.com/u/1531039?s=40&v=4"
+        },
+        {
+          "username": "tony-p",
+          "avatar": "https://avatars.githubusercontent.com/u/11678396?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.110Z"
+    },
+    {
+      "rank": 11,
+      "author": "microsoft",
+      "repoName": "terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 101784,
+      "forks": 9069,
+      "currentPeriodStars": 151,
+      "builtBy": [
+        {
+          "username": "DHowett",
+          "avatar": "https://avatars.githubusercontent.com/u/189190?s=40&v=4"
+        },
+        {
+          "username": "zadjii-msft",
+          "avatar": "https://avatars.githubusercontent.com/u/18356694?s=40&v=4"
+        },
+        {
+          "username": "lhecker",
+          "avatar": "https://avatars.githubusercontent.com/u/2256941?s=40&v=4"
+        },
+        {
+          "username": "carlos-zamora",
+          "avatar": "https://avatars.githubusercontent.com/u/11050425?s=40&v=4"
+        },
+        {
+          "username": "miniksa",
+          "avatar": "https://avatars.githubusercontent.com/u/18221333?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.111Z"
+    },
+    {
+      "rank": 12,
+      "author": "e2002",
+      "repoName": "yoradio",
+      "url": "https://github.com/e2002/yoradio",
+      "description": "Web-radio based on ESP32-audioI2S library",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 976,
+      "forks": 231,
+      "currentPeriodStars": 29,
+      "builtBy": [
+        {
+          "username": "e2002",
+          "avatar": "https://avatars.githubusercontent.com/u/4333855?s=40&v=4"
+        },
+        {
+          "username": "nstepanets",
+          "avatar": "https://avatars.githubusercontent.com/u/41925859?s=40&v=4"
+        },
+        {
+          "username": "trip5",
+          "avatar": "https://avatars.githubusercontent.com/u/19512466?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.111Z"
+    },
+    {
+      "rank": 13,
+      "author": "bitcoin",
+      "repoName": "bitcoin",
+      "url": "https://github.com/bitcoin/bitcoin",
+      "description": "Bitcoin Core integration/staging tree",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 88070,
+      "forks": 38889,
+      "currentPeriodStars": 179,
+      "builtBy": [
+        {
+          "username": "laanwj",
+          "avatar": "https://avatars.githubusercontent.com/u/126646?s=40&v=4"
+        },
+        {
+          "username": "fanquake",
+          "avatar": "https://avatars.githubusercontent.com/u/863730?s=40&v=4"
+        },
+        {
+          "username": "sipa",
+          "avatar": "https://avatars.githubusercontent.com/u/548488?s=40&v=4"
+        },
+        {
+          "username": "achow101",
+          "avatar": "https://avatars.githubusercontent.com/u/3782274?s=40&v=4"
+        },
+        {
+          "username": "hebasto",
+          "avatar": "https://avatars.githubusercontent.com/u/32963518?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.112Z"
+    },
+    {
+      "rank": 14,
+      "author": "qbittorrent",
+      "repoName": "qBittorrent",
+      "url": "https://github.com/qbittorrent/qBittorrent",
+      "description": "qBittorrent BitTorrent client",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 35472,
+      "forks": 4568,
+      "currentPeriodStars": 163,
+      "builtBy": [
+        {
+          "username": "Chocobo1",
+          "avatar": "https://avatars.githubusercontent.com/u/9395168?s=40&v=4"
+        },
+        {
+          "username": "sledgehammer999",
+          "avatar": "https://avatars.githubusercontent.com/u/273315?s=40&v=4"
+        },
+        {
+          "username": "glassez",
+          "avatar": "https://avatars.githubusercontent.com/u/5063477?s=40&v=4"
+        },
+        {
+          "username": "Piccirello",
+          "avatar": "https://avatars.githubusercontent.com/u/8296030?s=40&v=4"
+        },
+        {
+          "username": "zeule",
+          "avatar": "https://avatars.githubusercontent.com/u/394621?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.112Z"
+    },
+    {
+      "rank": 15,
+      "author": "abseil",
+      "repoName": "abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 17025,
+      "forks": 2965,
+      "currentPeriodStars": 33,
+      "builtBy": [
+        {
+          "username": "derekmauro",
+          "avatar": "https://avatars.githubusercontent.com/u/761129?s=40&v=4"
+        },
+        {
+          "username": "ezbr",
+          "avatar": "https://avatars.githubusercontent.com/u/69321728?s=40&v=4"
+        },
+        {
+          "username": "goldvitaly",
+          "avatar": "https://avatars.githubusercontent.com/u/1177862?s=40&v=4"
+        },
+        {
+          "username": "dinord",
+          "avatar": "https://avatars.githubusercontent.com/u/7139495?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.113Z"
+    },
+    {
+      "rank": 16,
+      "author": "ml-explore",
+      "repoName": "mlx-swift",
+      "url": "https://github.com/ml-explore/mlx-swift",
+      "description": "Swift API for MLX",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 1564,
+      "forks": 150,
+      "currentPeriodStars": 14,
+      "builtBy": [
+        {
+          "username": "davidkoski",
+          "avatar": "https://avatars.githubusercontent.com/u/46639364?s=40&v=4"
+        },
+        {
+          "username": "awni",
+          "avatar": "https://avatars.githubusercontent.com/u/1542805?s=40&v=4"
+        },
+        {
+          "username": "andresy",
+          "avatar": "https://avatars.githubusercontent.com/u/192030?s=40&v=4"
+        },
+        {
+          "username": "louen",
+          "avatar": "https://avatars.githubusercontent.com/u/1011507?s=40&v=4"
+        },
+        {
+          "username": "kemchenj",
+          "avatar": "https://avatars.githubusercontent.com/u/11192474?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.114Z"
+    },
+    {
+      "rank": 17,
+      "author": "google",
+      "repoName": "filament",
+      "url": "https://github.com/google/filament",
+      "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 19558,
+      "forks": 2110,
+      "currentPeriodStars": 93,
+      "builtBy": [
+        {
+          "username": "pixelflinger",
+          "avatar": "https://avatars.githubusercontent.com/u/1240896?s=40&v=4"
+        },
+        {
+          "username": "prideout",
+          "avatar": "https://avatars.githubusercontent.com/u/1288904?s=40&v=4"
+        },
+        {
+          "username": "bejado",
+          "avatar": "https://avatars.githubusercontent.com/u/5298046?s=40&v=4"
+        },
+        {
+          "username": "romainguy",
+          "avatar": "https://avatars.githubusercontent.com/u/869684?s=40&v=4"
+        },
+        {
+          "username": "poweifeng",
+          "avatar": "https://avatars.githubusercontent.com/u/48371888?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.114Z"
+    },
+    {
+      "rank": 18,
+      "author": "LibreSprite",
+      "repoName": "LibreSprite",
+      "url": "https://github.com/LibreSprite/LibreSprite",
+      "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 6951,
+      "forks": 442,
+      "currentPeriodStars": 32,
+      "builtBy": [
+        {
+          "username": "dacap",
+          "avatar": "https://avatars.githubusercontent.com/u/39654?s=40&v=4"
+        },
+        {
+          "username": "felipemanga",
+          "avatar": "https://avatars.githubusercontent.com/u/11994138?s=40&v=4"
+        },
+        {
+          "username": "maujin111",
+          "avatar": "https://avatars.githubusercontent.com/u/25780951?s=40&v=4"
+        },
+        {
+          "username": "Zughy",
+          "avatar": "https://avatars.githubusercontent.com/u/63455151?s=40&v=4"
+        },
+        {
+          "username": "rautesamtr",
+          "avatar": "https://avatars.githubusercontent.com/u/1131371?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.115Z"
+    },
+    {
+      "rank": 19,
+      "author": "yhirose",
+      "repoName": "cpp-httplib",
+      "url": "https://github.com/yhirose/cpp-httplib",
+      "description": "A C++ header-only HTTP/HTTPS server and client library",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 16121,
+      "forks": 2631,
+      "currentPeriodStars": 43,
+      "builtBy": [
+        {
+          "username": "yhirose",
+          "avatar": "https://avatars.githubusercontent.com/u/357397?s=40&v=4"
+        },
+        {
+          "username": "Tachi107",
+          "avatar": "https://avatars.githubusercontent.com/u/34214253?s=40&v=4"
+        },
+        {
+          "username": "falbrechtskirchinger",
+          "avatar": "https://avatars.githubusercontent.com/u/320854?s=40&v=4"
+        },
+        {
+          "username": "jimmy-park",
+          "avatar": "https://avatars.githubusercontent.com/u/30493199?s=40&v=4"
+        },
+        {
+          "username": "sum01",
+          "avatar": "https://avatars.githubusercontent.com/u/19376155?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.116Z"
+    },
+    {
+      "rank": 20,
+      "author": "luau-lang",
+      "repoName": "luau",
+      "url": "https://github.com/luau-lang/luau",
+      "description": "A small, fast, and embeddable programming language based on Lua with a gradual type system.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 5266,
+      "forks": 531,
+      "currentPeriodStars": 29,
+      "builtBy": [
+        {
+          "username": "zeux",
+          "avatar": "https://avatars.githubusercontent.com/u/1106629?s=40&v=4"
+        },
+        {
+          "username": "vegorov-rbx",
+          "avatar": "https://avatars.githubusercontent.com/u/75688451?s=40&v=4"
+        },
+        {
+          "username": "andyfriesen",
+          "avatar": "https://avatars.githubusercontent.com/u/123493?s=40&v=4"
+        },
+        {
+          "username": "Vighnesh-V",
+          "avatar": "https://avatars.githubusercontent.com/u/22487100?s=40&v=4"
+        },
+        {
+          "username": "aatxe",
+          "avatar": "https://avatars.githubusercontent.com/u/744293?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:18.116Z"
+    }
+  ]
+}

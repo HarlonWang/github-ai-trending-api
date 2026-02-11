@@ -1,0 +1,654 @@
+{
+  "count": 18,
+  "update_at": "2026-02-11 06:09:07",
+  "data": [
+    {
+      "rank": 1,
+      "author": "j178",
+      "repoName": "prek",
+      "url": "https://github.com/j178/prek",
+      "description": "⚡ Better `pre-commit`, re-engineered in Rust",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 6040,
+      "forks": 163,
+      "currentPeriodStars": 1599,
+      "builtBy": [
+        {
+          "username": "j178",
+          "avatar": "https://avatars.githubusercontent.com/u/10510431?s=40&v=4"
+        },
+        {
+          "username": "apps/renovate",
+          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+        },
+        {
+          "username": "shaanmajid",
+          "avatar": "https://avatars.githubusercontent.com/u/70789625?s=40&v=4"
+        },
+        {
+          "username": "apps/copilot-swe-agent",
+          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
+        },
+        {
+          "username": "lmmx",
+          "avatar": "https://avatars.githubusercontent.com/u/2979452?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:07.415Z"
+    },
+    {
+      "rank": 2,
+      "author": "mainmatter",
+      "repoName": "100-exercises-to-learn-rust",
+      "url": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+      "description": "A self-paced course to learn Rust, one exercise at a time.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 9095,
+      "forks": 1955,
+      "currentPeriodStars": 381,
+      "builtBy": [
+        {
+          "username": "LukeMathWalker",
+          "avatar": "https://avatars.githubusercontent.com/u/20745048?s=40&v=4"
+        },
+        {
+          "username": "marcoow",
+          "avatar": "https://avatars.githubusercontent.com/u/1510?s=40&v=4"
+        },
+        {
+          "username": "c-git",
+          "avatar": "https://avatars.githubusercontent.com/u/43485962?s=40&v=4"
+        },
+        {
+          "username": "hdoordt",
+          "avatar": "https://avatars.githubusercontent.com/u/17907879?s=40&v=4"
+        },
+        {
+          "username": "ehershey",
+          "avatar": "https://avatars.githubusercontent.com/u/286008?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:07.416Z"
+    },
+    {
+      "rank": 3,
+      "author": "reacherhq",
+      "repoName": "check-if-email-exists",
+      "url": "https://github.com/reacherhq/check-if-email-exists",
+      "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8282,
+      "forks": 573,
+      "currentPeriodStars": 581,
+      "builtBy": [
+        {
+          "username": "apps/dependabot-preview",
+          "avatar": "https://avatars.githubusercontent.com/in/2141?s=40&v=4"
+        },
+        {
+          "username": "amaury1093",
+          "avatar": "https://avatars.githubusercontent.com/u/1293565?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "hadisfr",
+          "avatar": "https://avatars.githubusercontent.com/u/24562441?s=40&v=4"
+        },
+        {
+          "username": "PsypherPunk",
+          "avatar": "https://avatars.githubusercontent.com/u/722120?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:07.416Z"
+    },
+    {
+      "rank": 4,
+      "author": "gitbutlerapp",
+      "repoName": "gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 19094,
+      "forks": 823,
+      "currentPeriodStars": 1273,
+      "builtBy": [
+        {
+          "username": "krlvi",
+          "avatar": "https://avatars.githubusercontent.com/u/4030927?s=40&v=4"
+        },
+        {
+          "username": "estib-vega",
+          "avatar": "https://avatars.githubusercontent.com/u/35891811?s=40&v=4"
+        },
+        {
+          "username": "mtsgrd",
+          "avatar": "https://avatars.githubusercontent.com/u/1300356?s=40&v=4"
+        },
+        {
+          "username": "ngalaiko",
+          "avatar": "https://avatars.githubusercontent.com/u/15010292?s=40&v=4"
+        },
+        {
+          "username": "Caleb-T-Owens",
+          "avatar": "https://avatars.githubusercontent.com/u/13354155?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:07.416Z"
+    },
+    {
+      "rank": 5,
+      "author": "fish-shell",
+      "repoName": "fish-shell",
+      "url": "https://github.com/fish-shell/fish-shell",
+      "description": "The user-friendly command line shell.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 32534,
+      "forks": 2223,
+      "currentPeriodStars": 312,
+      "builtBy": [
+        {
+          "username": "ridiculousfish",
+          "avatar": "https://avatars.githubusercontent.com/u/920838?s=40&v=4"
+        },
+        {
+          "username": "faho",
+          "avatar": "https://avatars.githubusercontent.com/u/5185367?s=40&v=4"
+        },
+        {
+          "username": "krobelus",
+          "avatar": "https://avatars.githubusercontent.com/u/6853872?s=40&v=4"
+        },
+        {
+          "username": "liljencrantz",
+          "avatar": "https://avatars.githubusercontent.com/u/212675?s=40&v=4"
+        },
+        {
+          "username": "mqudsi",
+          "avatar": "https://avatars.githubusercontent.com/u/606923?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:07.416Z"
+    },
+    {
+      "rank": 6,
+      "author": "ankitects",
+      "repoName": "anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 26366,
+      "forks": 2804,
+      "currentPeriodStars": 298,
+      "builtBy": [
+        {
+          "username": "dae",
+          "avatar": "https://avatars.githubusercontent.com/u/180542?s=40&v=4"
+        },
+        {
+          "username": "hgiesel",
+          "avatar": "https://avatars.githubusercontent.com/u/7188844?s=40&v=4"
+        },
+        {
+          "username": "RumovZ",
+          "avatar": "https://avatars.githubusercontent.com/u/48286681?s=40&v=4"
+        },
+        {
+          "username": "abdnh",
+          "avatar": "https://avatars.githubusercontent.com/u/41397710?s=40&v=4"
+        },
+        {
+          "username": "Arthur-Milchior",
+          "avatar": "https://avatars.githubusercontent.com/u/357361?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:07.417Z"
+    },
+    {
+      "rank": 7,
+      "author": "openai",
+      "repoName": "codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 59904,
+      "forks": 7866,
+      "currentPeriodStars": 1229,
+      "builtBy": [
+        {
+          "username": "bolinfest",
+          "avatar": "https://avatars.githubusercontent.com/u/655869?s=40&v=4"
+        },
+        {
+          "username": "jif-oai",
+          "avatar": "https://avatars.githubusercontent.com/u/230027070?s=40&v=4"
+        },
+        {
+          "username": "aibrahim-oai",
+          "avatar": "https://avatars.githubusercontent.com/u/219906144?s=40&v=4"
+        },
+        {
+          "username": "pakrym-oai",
+          "avatar": "https://avatars.githubusercontent.com/u/204937752?s=40&v=4"
+        },
+        {
+          "username": "nornagon-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/172423086?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:07.417Z"
+    },
+    {
+      "rank": 8,
+      "author": "cloudflare",
+      "repoName": "pingora",
+      "url": "https://github.com/cloudflare/pingora",
+      "description": "A library for building fast, reliable and evolvable network services.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 26095,
+      "forks": 1575,
+      "currentPeriodStars": 74,
+      "builtBy": [
+        {
+          "username": "drcaramelsyrup",
+          "avatar": "https://avatars.githubusercontent.com/u/834403?s=40&v=4"
+        },
+        {
+          "username": "eaufavor",
+          "avatar": "https://avatars.githubusercontent.com/u/860769?s=40&v=4"
+        },
+        {
+          "username": "andrewhavck",
+          "avatar": "https://avatars.githubusercontent.com/u/16548?s=40&v=4"
+        },
+        {
+          "username": "gumpt",
+          "avatar": "https://avatars.githubusercontent.com/u/640289?s=40&v=4"
+        },
+        {
+          "username": "johnhurt",
+          "avatar": "https://avatars.githubusercontent.com/u/5983379?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:07.417Z"
+    },
+    {
+      "rank": 9,
+      "author": "topjohnwu",
+      "repoName": "Magisk",
+      "url": "https://github.com/topjohnwu/Magisk",
+      "description": "The Magic Mask for Android",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 58643,
+      "forks": 16703,
+      "currentPeriodStars": 162,
+      "builtBy": [
+        {
+          "username": "topjohnwu",
+          "avatar": "https://avatars.githubusercontent.com/u/7337301?s=40&v=4"
+        },
+        {
+          "username": "diareuse",
+          "avatar": "https://avatars.githubusercontent.com/u/5982859?s=40&v=4"
+        },
+        {
+          "username": "vvb2060",
+          "avatar": "https://avatars.githubusercontent.com/u/26996262?s=40&v=4"
+        },
+        {
+          "username": "yujincheng08",
+          "avatar": "https://avatars.githubusercontent.com/u/5022927?s=40&v=4"
+        },
+        {
+          "username": "canyie",
+          "avatar": "https://avatars.githubusercontent.com/u/31466456?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:07.417Z"
+    },
+    {
+      "rank": 10,
+      "author": "leptos-rs",
+      "repoName": "leptos",
+      "url": "https://github.com/leptos-rs/leptos",
+      "description": "Build fast web applications with Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 19979,
+      "forks": 835,
+      "currentPeriodStars": 102,
+      "builtBy": [
+        {
+          "username": "gbj",
+          "avatar": "https://avatars.githubusercontent.com/u/286622?s=40&v=4"
+        },
+        {
+          "username": "jquesada2016",
+          "avatar": "https://avatars.githubusercontent.com/u/54370171?s=40&v=4"
+        },
+        {
+          "username": "martinfrances107",
+          "avatar": "https://avatars.githubusercontent.com/u/1259969?s=40&v=4"
+        },
+        {
+          "username": "sabify",
+          "avatar": "https://avatars.githubusercontent.com/u/3974920?s=40&v=4"
+        },
+        {
+          "username": "agilarity",
+          "avatar": "https://avatars.githubusercontent.com/u/7102017?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:07.417Z"
+    },
+    {
+      "rank": 11,
+      "author": "nushell",
+      "repoName": "nushell",
+      "url": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 38270,
+      "forks": 2043,
+      "currentPeriodStars": 174,
+      "builtBy": [
+        {
+          "username": "sophiajt",
+          "avatar": "https://avatars.githubusercontent.com/u/547158?s=40&v=4"
+        },
+        {
+          "username": "fdncred",
+          "avatar": "https://avatars.githubusercontent.com/u/343840?s=40&v=4"
+        },
+        {
+          "username": "sholderbach",
+          "avatar": "https://avatars.githubusercontent.com/u/15833959?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "andrasio",
+          "avatar": "https://avatars.githubusercontent.com/u/951128?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:07.418Z"
+    },
+    {
+      "rank": 12,
+      "author": "zed-industries",
+      "repoName": "zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 75119,
+      "forks": 6910,
+      "currentPeriodStars": 528,
+      "builtBy": [
+        {
+          "username": "as-cii",
+          "avatar": "https://avatars.githubusercontent.com/u/482957?s=40&v=4"
+        },
+        {
+          "username": "maxbrunsfeld",
+          "avatar": "https://avatars.githubusercontent.com/u/326587?s=40&v=4"
+        },
+        {
+          "username": "maxdeviant",
+          "avatar": "https://avatars.githubusercontent.com/u/1486634?s=40&v=4"
+        },
+        {
+          "username": "nathansobo",
+          "avatar": "https://avatars.githubusercontent.com/u/1789?s=40&v=4"
+        },
+        {
+          "username": "ConradIrwin",
+          "avatar": "https://avatars.githubusercontent.com/u/94272?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:07.418Z"
+    },
+    {
+      "rank": 13,
+      "author": "longbridge",
+      "repoName": "gpui-component",
+      "url": "https://github.com/longbridge/gpui-component",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 10293,
+      "forks": 451,
+      "currentPeriodStars": 274,
+      "builtBy": [
+        {
+          "username": "huacnlee",
+          "avatar": "https://avatars.githubusercontent.com/u/5518?s=40&v=4"
+        },
+        {
+          "username": "madcodelife",
+          "avatar": "https://avatars.githubusercontent.com/u/28998859?s=40&v=4"
+        },
+        {
+          "username": "ihavecoke",
+          "avatar": "https://avatars.githubusercontent.com/u/10757551?s=40&v=4"
+        },
+        {
+          "username": "xda2023",
+          "avatar": "https://avatars.githubusercontent.com/u/150917089?s=40&v=4"
+        },
+        {
+          "username": "ylinwind",
+          "avatar": "https://avatars.githubusercontent.com/u/22312482?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:07.418Z"
+    },
+    {
+      "rank": 14,
+      "author": "uutils",
+      "repoName": "coreutils",
+      "url": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 22720,
+      "forks": 1762,
+      "currentPeriodStars": 76,
+      "builtBy": [
+        {
+          "username": "sylvestre",
+          "avatar": "https://avatars.githubusercontent.com/u/733326?s=40&v=4"
+        },
+        {
+          "username": "cakebaker",
+          "avatar": "https://avatars.githubusercontent.com/u/26196?s=40&v=4"
+        },
+        {
+          "username": "tertsdiepraam",
+          "avatar": "https://avatars.githubusercontent.com/u/11643477?s=40&v=4"
+        },
+        {
+          "username": "apps/renovate",
+          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+        },
+        {
+          "username": "rivy",
+          "avatar": "https://avatars.githubusercontent.com/u/80132?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:07.418Z"
+    },
+    {
+      "rank": 15,
+      "author": "casey",
+      "repoName": "just",
+      "url": "https://github.com/casey/just",
+      "description": "🤖 Just a command runner",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 31145,
+      "forks": 666,
+      "currentPeriodStars": 372,
+      "builtBy": [
+        {
+          "username": "casey",
+          "avatar": "https://avatars.githubusercontent.com/u/1945?s=40&v=4"
+        },
+        {
+          "username": "neunenak",
+          "avatar": "https://avatars.githubusercontent.com/u/311545?s=40&v=4"
+        },
+        {
+          "username": "laniakea64",
+          "avatar": "https://avatars.githubusercontent.com/u/16628411?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "hustcer",
+          "avatar": "https://avatars.githubusercontent.com/u/1161607?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:07.419Z"
+    },
+    {
+      "rank": 16,
+      "author": "slint-ui",
+      "repoName": "slint",
+      "url": "https://github.com/slint-ui/slint",
+      "description": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 21730,
+      "forks": 816,
+      "currentPeriodStars": 102,
+      "builtBy": [
+        {
+          "username": "tronical",
+          "avatar": "https://avatars.githubusercontent.com/u/1486?s=40&v=4"
+        },
+        {
+          "username": "ogoffart",
+          "avatar": "https://avatars.githubusercontent.com/u/959326?s=40&v=4"
+        },
+        {
+          "username": "hunger",
+          "avatar": "https://avatars.githubusercontent.com/u/73267?s=40&v=4"
+        },
+        {
+          "username": "NigelBreslaw",
+          "avatar": "https://avatars.githubusercontent.com/u/1957186?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:07.419Z"
+    },
+    {
+      "rank": 17,
+      "author": "microsoft",
+      "repoName": "edit",
+      "url": "https://github.com/microsoft/edit",
+      "description": "We all edit.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 13479,
+      "forks": 632,
+      "currentPeriodStars": 103,
+      "builtBy": [
+        {
+          "username": "lhecker",
+          "avatar": "https://avatars.githubusercontent.com/u/2256941?s=40&v=4"
+        },
+        {
+          "username": "DHowett",
+          "avatar": "https://avatars.githubusercontent.com/u/189190?s=40&v=4"
+        },
+        {
+          "username": "heiher",
+          "avatar": "https://avatars.githubusercontent.com/u/1407733?s=40&v=4"
+        },
+        {
+          "username": "b6k-dev",
+          "avatar": "https://avatars.githubusercontent.com/u/39600846?s=40&v=4"
+        },
+        {
+          "username": "rhysd",
+          "avatar": "https://avatars.githubusercontent.com/u/823277?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:07.420Z"
+    },
+    {
+      "rank": 18,
+      "author": "katanemo",
+      "repoName": "plano",
+      "url": "https://github.com/katanemo/plano",
+      "description": "Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework).",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 5074,
+      "forks": 287,
+      "currentPeriodStars": 138,
+      "builtBy": [
+        {
+          "username": "adilhafeez",
+          "avatar": "https://avatars.githubusercontent.com/u/13196462?s=40&v=4"
+        },
+        {
+          "username": "salmanap",
+          "avatar": "https://avatars.githubusercontent.com/u/327050?s=40&v=4"
+        },
+        {
+          "username": "junr03",
+          "avatar": "https://avatars.githubusercontent.com/u/6007532?s=40&v=4"
+        },
+        {
+          "username": "cotran2",
+          "avatar": "https://avatars.githubusercontent.com/u/18072023?s=40&v=4"
+        },
+        {
+          "username": "aayushwhiz",
+          "avatar": "https://avatars.githubusercontent.com/u/82300923?s=40&v=4"
+        }
+      ],
+      "since": "weekly",
+      "fetchedAt": "2026-02-11T06:09:07.420Z"
+    }
+  ]
+}
