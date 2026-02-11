@@ -25,8 +25,8 @@ export const HEADERS = {
 
 export const AI_CONFIG = {
   enabled: process.env.AI_ENABLED === 'true',
-  provider: 'gemini',
-  fallbacks: ['deepseek'], // 按顺序尝试的备用提供者
+  provider: 'deepseek',
+  fallbacks: ['gemini'], // 按顺序尝试的备用提供者
   timeout: 30000,
   delay: 3000,
 
