@@ -1,10 +1,10 @@
 # GitHub AI Trending API
 
-每日定时从 GitHub Trending 抓取热门项目信息，并利用 **Google Gemini** 生成 AI 技术总结，通过 JSON API 形式对外提供数据。
+每日定时从 GitHub Trending 抓取热门项目信息，并生成 AI 技术总结，通过 JSON API 形式对外提供数据。
 
 ## 功能特性
 
-- 🤖 **AI 驱动**：利用 Google Gemini 为热门项目生成简洁的中文摘要。
+- 🤖 **AI 驱动**：利用 Google Gemini 等 AI 模型为热门项目生成简洁的中文摘要。
 - 🕒 **定时更新**：每日通过 GitHub Actions 自动运行，保持数据新鲜。
 - 📦 **自动存档**：支持按日期存档历史趋势数据。
 - 🚀 **零成本托管**：利用 GitHub 基础设施实现抓取、处理与存储。
