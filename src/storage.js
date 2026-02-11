@@ -26,7 +26,14 @@ export async function saveTrendingData(data, language = '', since = 'daily') {
   }
 
   const langFileName = language ? language.toLowerCase() : 'all';
-  const jsonContent = JSON.stringify(data, null, 2);
+
+  const output = {
+    count: data.length,
+    update_at: dayjs().format('YYYY-MM-DD HH:mm:ss'),
+    data: data
+  };
+
+  const jsonContent = JSON.stringify(output, null, 2);
 
   // 1. 保存到 Latest API 目录: /api/trending/{since}/{lang}.json
   const latestDir = path.join('api', 'trending', since);
