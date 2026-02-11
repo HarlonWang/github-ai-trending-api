@@ -1,15 +1,15 @@
 export const LANGUAGES = [
   '', // All languages
-  // 'python',
-  // 'javascript',
-  // 'java',
-  // 'go',
-  // 'rust',
-  // 'typescript',
-  // 'c++',
-  // 'c',
-  // 'swift',
-  // 'kotlin',
+  'python',
+  'javascript',
+  'java',
+  'go',
+  'rust',
+  'typescript',
+  'c++',
+  'c',
+  'swift',
+  'kotlin',
 ];
 
 export const PERIODS = ['daily', 'weekly', 'monthly'];
