@@ -17,7 +17,7 @@ db.pragma('journal_mode = WAL');
  * 初始化表结构
  */
 export function initDB() {
-    db.exec(`
+    db.exec(/* language=SQLite */ `
     -- 仓库基础信息表
     CREATE TABLE IF NOT EXISTS repos (
         full_name TEXT PRIMARY KEY,
@@ -62,16 +62,15 @@ export function initDB() {
  * 获取缓存的 AI 总结
  */
 export function getCachedAISummary(fullName) {
-    const row = db.prepare('SELECT content, provider FROM ai_summaries WHERE full_name = ?')
+    return db.prepare(/* language=SQLite */ 'SELECT content, provider FROM ai_summaries WHERE full_name = ?')
         .get(fullName);
-    return row;
 }
 
 /**
  * 保存 AI 总结到缓存
  */
 export function saveAISummary(fullName, content, provider) {
-    db.prepare(`
+    db.prepare(/* language=SQLite */ `
     INSERT OR REPLACE INTO ai_summaries (full_name, content, provider)
     VALUES (?, ?, ?)
   `).run(fullName, content, provider);
@@ -82,7 +81,7 @@ export function saveAISummary(fullName, content, provider) {
  */
 export function upsertRepo(repo) {
     const fullName = `${repo.author}/${repo.repoName}`;
-    db.prepare(`
+    db.prepare(/* language=SQLite */ `
     INSERT INTO repos (full_name, author, repo_name, url, description, language, language_color)
     VALUES (?, ?, ?, ?, ?, ?, ?)
     ON CONFLICT(full_name) DO UPDATE SET
@@ -105,7 +104,7 @@ export function upsertRepo(repo) {
  * 记录榜单快照
  */
 export function insertSnapshot(fullName, since, languageScope, repo, capturedAt) {
-    db.prepare(`
+    db.prepare(/* language=SQLite */ `
     INSERT INTO snapshots (full_name, since, language_scope, rank, stars, forks, current_period_stars, built_by, captured_at)
     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
   `).run(
@@ -132,7 +131,7 @@ export const runTransaction = (fn) => db.transaction(fn)();
 export function getLatestTrending(since, languageScope) {
     const scope = languageScope || 'all';
     // 找到最近一次抓取的时间点
-    const lastCapture = db.prepare(`
+    const lastCapture = db.prepare(/* language=SQLite */ `
     SELECT MAX(captured_at) as last_time 
     FROM snapshots 
     WHERE since = ? AND language_scope = ?
@@ -140,7 +139,7 @@ export function getLatestTrending(since, languageScope) {
 
     if (!lastCapture || !lastCapture.last_time) return [];
 
-    return db.prepare(`
+    return db.prepare(/* language=SQLite */ `
     SELECT 
       s.rank, r.author, r.repo_name as repoName, r.url, r.description, 
       r.language, r.language_color as languageColor, s.stars, s.forks, 
@@ -150,8 +149,6 @@ export function getLatestTrending(since, languageScope) {
     JOIN repos r ON s.full_name = r.full_name
     LEFT JOIN ai_summaries ai ON r.full_name = ai.full_name
     WHERE s.since = ? AND s.language_scope = ? AND s.captured_at = ?
-    ORDER BY s.rank ASC
+    ORDER BY s.rank
   `).all(since, scope, lastCapture.last_time);
 }
-
-export default db;
