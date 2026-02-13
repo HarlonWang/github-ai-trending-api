@@ -1,6 +1,6 @@
 {
   "count": 21,
-  "captured_at": "2026-02-13 07:27:54",
+  "captured_at": "2026-02-13 09:01:20",
   "data": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 5558,
+      "stars": 5562,
       "forks": 362,
       "currentPeriodStars": 3539,
       "builtBy": [
@@ -45,8 +45,8 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 25067,
-      "forks": 2343,
+      "stars": 25066,
+      "forks": 2345,
       "currentPeriodStars": 1265,
       "builtBy": [
         {
@@ -80,7 +80,7 @@
       "description": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2056,
+      "stars": 2058,
       "forks": 129,
       "currentPeriodStars": 958,
       "builtBy": [
@@ -115,7 +115,7 @@
       "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3711,
+      "stars": 3712,
       "forks": 471,
       "currentPeriodStars": 583,
       "builtBy": [
@@ -150,7 +150,7 @@
       "description": "CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 624,
+      "stars": 625,
       "forks": 69,
       "currentPeriodStars": 433,
       "builtBy": [
@@ -185,7 +185,7 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 24402,
+      "stars": 24405,
       "forks": 639,
       "currentPeriodStars": 1218,
       "builtBy": [
@@ -255,7 +255,7 @@
       "description": "macOS system monitor in your menu bar",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 36424,
+      "stars": 36425,
       "forks": 1179,
       "currentPeriodStars": 767,
       "builtBy": [
@@ -325,7 +325,7 @@
       "description": "Elegant HTTP Networking in Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 42350,
+      "stars": 42351,
       "forks": 7669,
       "currentPeriodStars": 94,
       "builtBy": [
@@ -430,7 +430,7 @@
       "description": "Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1082,
+      "stars": 1084,
       "forks": 48,
       "currentPeriodStars": 842,
       "builtBy": [
@@ -500,7 +500,7 @@
       "description": "Windows alt-tab on macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14712,
+      "stars": 14714,
       "forks": 484,
       "currentPeriodStars": 467,
       "builtBy": [
@@ -570,7 +570,7 @@
       "description": "Virtual machines for iOS and macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 32796,
+      "stars": 32797,
       "forks": 1646,
       "currentPeriodStars": 635,
       "builtBy": [
@@ -605,7 +605,7 @@
       "description": "Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 965,
+      "stars": 966,
       "forks": 54,
       "currentPeriodStars": 376,
       "builtBy": [
@@ -640,7 +640,7 @@
       "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 32387,
+      "stars": 32388,
       "forks": 929,
       "currentPeriodStars": 336,
       "builtBy": [
@@ -676,7 +676,7 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": 8180,
-      "forks": 845,
+      "forks": 846,
       "currentPeriodStars": 101,
       "builtBy": [
         {
@@ -710,7 +710,7 @@
       "description": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8025,
+      "stars": 8024,
       "forks": 3688,
       "currentPeriodStars": 21,
       "builtBy": [

@@ -1,6 +1,6 @@
 {
   "count": 21,
-  "captured_at": "2026-02-13 07:26:50",
+  "captured_at": "2026-02-13 09:00:12",
   "data": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 94952,
+      "stars": 94953,
       "forks": 14893,
       "currentPeriodStars": 544,
       "builtBy": [
@@ -45,7 +45,7 @@
       "description": "MLX: An array framework for Apple silicon",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 23915,
+      "stars": 23917,
       "forks": 1509,
       "currentPeriodStars": 112,
       "builtBy": [
@@ -146,8 +146,8 @@
       "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 77137,
-      "forks": 8327,
+      "stars": 77138,
+      "forks": 8326,
       "currentPeriodStars": 74,
       "builtBy": [
         {
@@ -181,7 +181,7 @@
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 193710,
+      "stars": 193711,
       "forks": 75237,
       "currentPeriodStars": 142,
       "builtBy": [
@@ -216,7 +216,7 @@
       "description": "Production ready toolkit to run AI locally",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7196,
+      "stars": 7220,
       "forks": 222,
       "currentPeriodStars": 1035,
       "builtBy": [
@@ -278,7 +278,7 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9970,
+      "stars": 9971,
       "forks": 701,
       "currentPeriodStars": 107,
       "builtBy": [
@@ -313,7 +313,7 @@
       "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19610,
+      "stars": 19611,
       "forks": 2111,
       "currentPeriodStars": 147,
       "builtBy": [
@@ -348,7 +348,7 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 762,
+      "stars": 779,
       "forks": 41,
       "currentPeriodStars": 326,
       "builtBy": [
@@ -383,7 +383,7 @@
       "description": "Bitcoin Core integration/staging tree",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 88097,
+      "stars": 88099,
       "forks": 38908,
       "currentPeriodStars": 172,
       "builtBy": [
@@ -523,8 +523,8 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2641,
-      "forks": 206,
+      "stars": 2643,
+      "forks": 207,
       "currentPeriodStars": 101,
       "builtBy": [
         {
@@ -589,7 +589,7 @@
       "description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9498,
+      "stars": 9499,
       "forks": 1720,
       "currentPeriodStars": 15,
       "builtBy": [
@@ -624,8 +624,8 @@
       "description": "Notepad++ official repository",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 27126,
-      "forks": 5103,
+      "stars": 27128,
+      "forks": 5104,
       "currentPeriodStars": 103,
       "builtBy": [
         {
@@ -659,7 +659,7 @@
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19517,
+      "stars": 19524,
       "forks": 2482,
       "currentPeriodStars": 134,
       "builtBy": [
@@ -694,7 +694,7 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29818,
+      "stars": 29819,
       "forks": 6263,
       "currentPeriodStars": 91,
       "builtBy": [

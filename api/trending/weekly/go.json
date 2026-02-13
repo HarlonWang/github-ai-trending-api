@@ -1,6 +1,6 @@
 {
   "count": 23,
-  "captured_at": "2026-02-13 07:26:36",
+  "captured_at": "2026-02-13 08:59:58",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2068,
-      "forks": 147,
+      "stars": 2081,
+      "forks": 148,
       "currentPeriodStars": 1594,
       "builtBy": [
         {
@@ -83,7 +83,7 @@
       "description": "Open-source media server with a web interface and desktop app for anime and manga.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2821,
+      "stars": 2822,
       "forks": 179,
       "currentPeriodStars": 207,
       "builtBy": [
@@ -118,7 +118,7 @@
       "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 162503,
+      "stars": 162512,
       "forks": 14569,
       "currentPeriodStars": 756,
       "builtBy": [
@@ -153,7 +153,7 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 31894,
+      "stars": 31895,
       "forks": 2948,
       "currentPeriodStars": 606,
       "builtBy": [
@@ -188,7 +188,7 @@
       "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7430,
+      "stars": 7432,
       "forks": 1181,
       "currentPeriodStars": 144,
       "builtBy": [
@@ -223,7 +223,7 @@
       "description": "Container runtimes on macOS (and Linux) with minimal setup",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26888,
+      "stars": 26889,
       "forks": 530,
       "currentPeriodStars": 209,
       "builtBy": [
@@ -293,7 +293,7 @@
       "description": "An open source, self-hosted implementation of the Tailscale control server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35300,
+      "stars": 35302,
       "forks": 1899,
       "currentPeriodStars": 361,
       "builtBy": [
@@ -359,8 +359,8 @@
       "description": "Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4430,
-      "forks": 185,
+      "stars": 4434,
+      "forks": 186,
       "currentPeriodStars": 340,
       "builtBy": [
         {
@@ -429,8 +429,8 @@
       "description": "Fast, secure, efficient backup program",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 32210,
-      "forks": 1715,
+      "stars": 32209,
+      "forks": 1716,
       "currentPeriodStars": 122,
       "builtBy": [
         {
@@ -464,7 +464,7 @@
       "description": "Open Source Continuous File Synchronization",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 79866,
+      "stars": 79869,
       "forks": 4930,
       "currentPeriodStars": 213,
       "builtBy": [
@@ -569,7 +569,7 @@
       "description": "simple terminal UI for git commands",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 72259,
+      "stars": 72262,
       "forks": 2504,
       "currentPeriodStars": 541,
       "builtBy": [
@@ -639,7 +639,7 @@
       "description": "⚡️ Express inspired web framework written in Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 39201,
+      "stars": 39203,
       "forks": 1956,
       "currentPeriodStars": 103,
       "builtBy": [
@@ -709,8 +709,8 @@
       "description": "Production-Grade Container Scheduling and Management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 120467,
-      "forks": 42450,
+      "stars": 120468,
+      "forks": 42452,
       "currentPeriodStars": 190,
       "builtBy": [
         {

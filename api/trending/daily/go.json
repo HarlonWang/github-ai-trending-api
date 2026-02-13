@@ -1,6 +1,6 @@
 {
   "count": 21,
-  "captured_at": "2026-02-13 07:25:47",
+  "captured_at": "2026-02-13 08:59:04",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2067,
-      "forks": 147,
+      "stars": 2081,
+      "forks": 148,
       "currentPeriodStars": 405,
       "builtBy": [
         {
@@ -48,7 +48,7 @@
       "description": "The Cloud Native Application Proxy",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 61616,
+      "stars": 61617,
       "forks": 5828,
       "currentPeriodStars": 24,
       "builtBy": [
@@ -83,7 +83,7 @@
       "description": "The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4824,
+      "stars": 4825,
       "forks": 251,
       "currentPeriodStars": 12,
       "builtBy": [
@@ -118,8 +118,8 @@
       "description": "Secure environments for developers and their agents",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12229,
-      "forks": 1167,
+      "stars": 12231,
+      "forks": 1168,
       "currentPeriodStars": 11,
       "builtBy": [
         {
@@ -188,7 +188,7 @@
       "description": "Temporal service",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 18297,
+      "stars": 18298,
       "forks": 1347,
       "currentPeriodStars": 15,
       "builtBy": [
@@ -259,7 +259,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": 16691,
-      "forks": 5762,
+      "forks": 5763,
       "currentPeriodStars": 5,
       "builtBy": [
         {
@@ -293,7 +293,7 @@
       "description": "Fast linters runner for Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 18484,
+      "stars": 18485,
       "forks": 1544,
       "currentPeriodStars": 10,
       "builtBy": [
@@ -328,7 +328,7 @@
       "description": "Dolt – Git for Data",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19776,
+      "stars": 19778,
       "forks": 623,
       "currentPeriodStars": 11,
       "builtBy": [
@@ -363,7 +363,7 @@
       "description": "An open source, self-hosted implementation of the Tailscale control server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35300,
+      "stars": 35302,
       "forks": 1899,
       "currentPeriodStars": 91,
       "builtBy": [
@@ -394,8 +394,8 @@
       "description": "Fast and easy to use database for logs, which can efficiently handle terabytes of logs",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1491,
-      "forks": 97,
+      "stars": 1492,
+      "forks": 98,
       "currentPeriodStars": 4,
       "builtBy": [
         {
@@ -464,7 +464,7 @@
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 69830,
+      "stars": 69833,
       "forks": 4638,
       "currentPeriodStars": 28,
       "builtBy": [
@@ -569,7 +569,7 @@
       "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8443,
+      "stars": 8445,
       "forks": 524,
       "currentPeriodStars": 4,
       "builtBy": [
@@ -697,7 +697,7 @@
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 47659,
+      "stars": 47660,
       "forks": 10212,
       "currentPeriodStars": 12,
       "builtBy": [

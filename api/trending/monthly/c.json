@@ -1,6 +1,6 @@
 {
   "count": 19,
-  "captured_at": "2026-02-13 07:27:50",
+  "captured_at": "2026-02-13 09:01:15",
   "data": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "description": "WiFi security auditing tools suite",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6925,
+      "stars": 6926,
       "forks": 1233,
       "currentPeriodStars": 173,
       "builtBy": [
@@ -80,7 +80,7 @@
       "description": "tmux source code",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 41716,
+      "stars": 41718,
       "forks": 2408,
       "currentPeriodStars": 1025,
       "builtBy": [
@@ -115,7 +115,7 @@
       "description": "The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2272,
+      "stars": 2274,
       "forks": 323,
       "currentPeriodStars": 156,
       "builtBy": [
@@ -150,8 +150,8 @@
       "description": "A free Windows-compatible Operating System",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17069,
-      "forks": 2038,
+      "stars": 17070,
+      "forks": 2039,
       "currentPeriodStars": 282,
       "builtBy": [
         {
@@ -255,7 +255,7 @@
       "description": "A simple and easy-to-use library to enjoy videogames programming",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 30929,
+      "stars": 30930,
       "forks": 2926,
       "currentPeriodStars": 727,
       "builtBy": [
@@ -360,7 +360,7 @@
       "description": "Sandboxie Plus & Classic",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17515,
+      "stars": 17516,
       "forks": 1906,
       "currentPeriodStars": 766,
       "builtBy": [
@@ -395,7 +395,7 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14458,
+      "stars": 14459,
       "forks": 8652,
       "currentPeriodStars": 323,
       "builtBy": [
@@ -430,8 +430,8 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 40678,
-      "forks": 7057,
+      "stars": 40680,
+      "forks": 7058,
       "currentPeriodStars": 382,
       "builtBy": [
         {
@@ -535,7 +535,7 @@
       "description": "anti-dpi software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1597,
+      "stars": 1599,
       "forks": 49,
       "currentPeriodStars": 543,
       "builtBy": [
@@ -594,7 +594,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 10024,
-      "forks": 3180,
+      "forks": 3181,
       "currentPeriodStars": 310,
       "builtBy": [
         {

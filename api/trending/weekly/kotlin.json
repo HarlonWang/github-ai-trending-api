@@ -1,6 +1,6 @@
 {
   "count": 17,
-  "captured_at": "2026-02-13 07:27:05",
+  "captured_at": "2026-02-13 09:00:26",
   "data": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "description": "A Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 14992,
+      "stars": 14993,
       "forks": 3112,
       "currentPeriodStars": 94,
       "builtBy": [
@@ -80,7 +80,7 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 50937,
+      "stars": 50942,
       "forks": 6926,
       "currentPeriodStars": 349,
       "builtBy": [
@@ -115,7 +115,7 @@
       "description": "Software simulation for Android hardware-backed key pairs with key attestation",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 786,
+      "stars": 787,
       "forks": 75,
       "currentPeriodStars": 125,
       "builtBy": [
@@ -150,7 +150,7 @@
       "description": "Lightweight unofficial Steam client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2567,
+      "stars": 2568,
       "forks": 100,
       "currentPeriodStars": 254,
       "builtBy": [
@@ -290,7 +290,7 @@
       "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 35929,
+      "stars": 35931,
       "forks": 1748,
       "currentPeriodStars": 202,
       "builtBy": [
@@ -326,7 +326,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": 3056,
-      "forks": 169,
+      "forks": 168,
       "currentPeriodStars": 29,
       "builtBy": [
         {
@@ -488,7 +488,7 @@
       "description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 45555,
+      "stars": 45556,
       "forks": 11855,
       "currentPeriodStars": 24,
       "builtBy": [
@@ -523,7 +523,7 @@
       "description": "Bringing Astrid Tasks back from the dead",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 4909,
+      "stars": 4910,
       "forks": 600,
       "currentPeriodStars": 40,
       "builtBy": [
