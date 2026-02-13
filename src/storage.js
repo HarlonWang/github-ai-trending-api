@@ -26,10 +26,11 @@ export async function saveTrendingData(data, language = '', since = 'daily') {
   }
 
   const langFileName = language ? language.toLowerCase() : 'all';
+  const now = dayjs();
 
   const output = {
     count: data.length,
-    update_at: dayjs().format('YYYY-MM-DD HH:mm:ss'),
+    update_at: now.format('YYYY-MM-DD HH:mm:ss'),
     data: data
   };
 
@@ -42,11 +43,12 @@ export async function saveTrendingData(data, language = '', since = 'daily') {
   await fs.writeFile(latestFile, jsonContent, 'utf-8');
   console.log(`Saved latest: ${latestFile}`);
 
-  // 2. 保存到 Archive 目录: /archives/{YYYY-MM-DD}/{since}/{lang}.json
+  // 2. 保存到 Archive 目录: /archives/{YYYY-MM-DD}/{am|pm}/{since}/{lang}.json
   // 注意：只归档 daily 数据，或者根据需求归档所有。
   // 通常归档 daily 数据价值最大。
-  const today = dayjs().format('YYYY-MM-DD');
-  const archiveDir = path.join('archives', today, since);
+  const today = now.format('YYYY-MM-DD');
+  const timeOfDay = now.hour() < 12 ? 'am' : 'pm';
+  const archiveDir = path.join('archives', today, timeOfDay, since);
   await ensureDir(archiveDir);
   const archiveFile = path.join(archiveDir, `${langFileName}.json`);
   await fs.writeFile(archiveFile, jsonContent, 'utf-8');
