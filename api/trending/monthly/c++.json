@@ -1,6 +1,7 @@
 {
   "count": 24,
-  "captured_at": "2026-02-13 09:01:09",
+  "since": "monthly",
+  "captured_at": "2026-02-13 09:58:43",
   "data": [
     {
       "rank": 1,
@@ -10,7 +11,7 @@
       "description": "MLX: An array framework for Apple silicon",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 23917,
+      "stars": 23918,
       "forks": 1509,
       "currentPeriodStars": 509,
       "builtBy": [
@@ -151,7 +152,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 12484,
-      "forks": 984,
+      "forks": 985,
       "currentPeriodStars": 534,
       "builtBy": [
         {
@@ -185,8 +186,8 @@
       "description": "Port of OpenAI's Whisper model in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 46704,
-      "forks": 5204,
+      "stars": 46707,
+      "forks": 5205,
       "currentPeriodStars": 1095,
       "builtBy": [
         {
@@ -221,7 +222,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 27128,
-      "forks": 5104,
+      "forks": 5105,
       "currentPeriodStars": 487,
       "builtBy": [
         {
@@ -255,7 +256,7 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 106618,
+      "stars": 106619,
       "forks": 24317,
       "currentPeriodStars": 1526,
       "builtBy": [
@@ -325,7 +326,7 @@
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 101807,
+      "stars": 101809,
       "forks": 9069,
       "currentPeriodStars": 612,
       "builtBy": [
@@ -360,7 +361,7 @@
       "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7165,
+      "stars": 7166,
       "forks": 1962,
       "currentPeriodStars": 267,
       "builtBy": [
@@ -430,8 +431,8 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 94953,
-      "forks": 14893,
+      "stars": 94954,
+      "forks": 14894,
       "currentPeriodStars": 2376,
       "builtBy": [
         {
@@ -500,7 +501,7 @@
       "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 77138,
+      "stars": 77136,
       "forks": 8326,
       "currentPeriodStars": 264,
       "builtBy": [
@@ -605,7 +606,7 @@
       "description": "An open-source 3DS emulator project based on Citra.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 6499,
+      "stars": 6500,
       "forks": 407,
       "currentPeriodStars": 330,
       "builtBy": [
@@ -641,7 +642,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 70681,
-      "forks": 16029,
+      "forks": 16028,
       "currentPeriodStars": 469,
       "builtBy": [
         {
@@ -710,7 +711,7 @@
       "description": "Cross-platform, customizable ML solutions for live and streaming media.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 33764,
+      "stars": 33765,
       "forks": 5793,
       "currentPeriodStars": 819,
       "builtBy": [
@@ -816,7 +817,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 36068,
-      "forks": 2926,
+      "forks": 2929,
       "currentPeriodStars": 767,
       "builtBy": [
         {

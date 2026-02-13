@@ -1,6 +1,7 @@
 {
   "count": 20,
-  "captured_at": "2026-02-13 08:59:16",
+  "since": "daily",
+  "captured_at": "2026-02-13 09:56:56",
   "data": [
     {
       "rank": 1,
@@ -10,7 +11,7 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 779,
+      "stars": 786,
       "forks": 41,
       "currentPeriodStars": 109,
       "builtBy": [
@@ -45,7 +46,7 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2643,
+      "stars": 2646,
       "forks": 207,
       "currentPeriodStars": 41,
       "builtBy": [
@@ -76,7 +77,7 @@
       "description": "Mumble is an open-source, low-latency, high quality voice chat software.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7658,
+      "stars": 7659,
       "forks": 1274,
       "currentPeriodStars": 16,
       "builtBy": [
@@ -111,8 +112,8 @@
       "description": "🦊 Anti-detect browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5307,
-      "forks": 489,
+      "stars": 5308,
+      "forks": 490,
       "currentPeriodStars": 56,
       "builtBy": [
         {
@@ -216,7 +217,7 @@
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19524,
+      "stars": 19525,
       "forks": 2482,
       "currentPeriodStars": 19,
       "builtBy": [
@@ -322,7 +323,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 36068,
-      "forks": 2926,
+      "forks": 2929,
       "currentPeriodStars": 30,
       "builtBy": [
         {
@@ -523,7 +524,7 @@
       "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 45841,
+      "stars": 45842,
       "forks": 8072,
       "currentPeriodStars": 22,
       "builtBy": [

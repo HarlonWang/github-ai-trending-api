@@ -1,6 +1,7 @@
 {
   "count": 20,
-  "captured_at": "2026-02-13 08:59:08",
+  "since": "daily",
+  "captured_at": "2026-02-13 09:56:45",
   "data": [
     {
       "rank": 1,
@@ -10,7 +11,7 @@
       "description": "A simple, decentralized mesh VPN with WireGuard support.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9956,
+      "stars": 9958,
       "forks": 939,
       "currentPeriodStars": 89,
       "builtBy": [
@@ -45,7 +46,7 @@
       "description": "A Rust compiler front-end for IDEs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16044,
+      "stars": 16045,
       "forks": 1947,
       "currentPeriodStars": 5,
       "builtBy": [
@@ -115,7 +116,7 @@
       "description": "Fast file explorer written with Tauri and React.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1165,
+      "stars": 1166,
       "forks": 91,
       "currentPeriodStars": 9,
       "builtBy": [
@@ -185,8 +186,8 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30391,
-      "forks": 2759,
+      "stars": 30390,
+      "forks": 2758,
       "currentPeriodStars": 84,
       "builtBy": [
         {
@@ -220,7 +221,7 @@
       "description": "Official successor to conduwuit",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1356,
+      "stars": 1357,
       "forks": 90,
       "currentPeriodStars": 32,
       "builtBy": [
@@ -255,8 +256,8 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 54930,
-      "forks": 2550,
+      "stars": 54932,
+      "forks": 2551,
       "currentPeriodStars": 64,
       "builtBy": [
         {
@@ -290,7 +291,7 @@
       "description": "Graph-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1694,
+      "stars": 1695,
       "forks": 380,
       "currentPeriodStars": 2,
       "builtBy": [
@@ -325,7 +326,7 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19267,
+      "stars": 19268,
       "forks": 835,
       "currentPeriodStars": 72,
       "builtBy": [
@@ -465,8 +466,8 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 107410,
-      "forks": 15968,
+      "stars": 107411,
+      "forks": 15967,
       "currentPeriodStars": 68,
       "builtBy": [
         {
@@ -500,7 +501,7 @@
       "description": "A Datacenter Scale Distributed Inference Serving Framework",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6094,
+      "stars": 6095,
       "forks": 856,
       "currentPeriodStars": 13,
       "builtBy": [
@@ -605,7 +606,7 @@
       "description": "📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19495,
+      "stars": 19496,
       "forks": 1956,
       "currentPeriodStars": 41,
       "builtBy": [
@@ -640,7 +641,7 @@
       "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10954,
+      "stars": 10955,
       "forks": 771,
       "currentPeriodStars": 12,
       "builtBy": [
@@ -676,7 +677,7 @@
       "language": "Rust",
       "languageColor": "#dea584",
       "stars": 6515,
-      "forks": 876,
+      "forks": 877,
       "currentPeriodStars": 5,
       "builtBy": [
         {

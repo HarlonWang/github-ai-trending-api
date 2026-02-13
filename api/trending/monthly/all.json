@@ -1,6 +1,7 @@
 {
   "count": 17,
-  "captured_at": "2026-02-13 09:00:31",
+  "since": "monthly",
+  "captured_at": "2026-02-13 09:58:08",
   "data": [
     {
       "rank": 1,
@@ -10,8 +11,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 190224,
-      "forks": 32321,
+      "stars": 190383,
+      "forks": 32354,
       "currentPeriodStars": 184746,
       "builtBy": [
         {
@@ -45,7 +46,7 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 20124,
+      "stars": 20132,
       "forks": 1833,
       "currentPeriodStars": 20027,
       "builtBy": [
@@ -80,8 +81,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 50763,
-      "forks": 3837,
+      "stars": 50803,
+      "forks": 3838,
       "currentPeriodStars": 32435,
       "builtBy": [
         {
@@ -115,8 +116,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15572,
-      "forks": 1180,
+      "stars": 15604,
+      "forks": 1181,
       "currentPeriodStars": 11808,
       "builtBy": [
         {
@@ -153,8 +154,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11417,
-      "forks": 1144,
+      "stars": 11435,
+      "forks": 1147,
       "currentPeriodStars": 9580,
       "builtBy": [
         {
@@ -188,7 +189,7 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 15002,
+      "stars": 15004,
       "forks": 1089,
       "currentPeriodStars": 9721,
       "builtBy": [
@@ -215,8 +216,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21358,
-      "forks": 2158,
+      "stars": 21392,
+      "forks": 2163,
       "currentPeriodStars": 17455,
       "builtBy": [
         {
@@ -250,8 +251,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 69089,
-      "forks": 6947,
+      "stars": 69130,
+      "forks": 6955,
       "currentPeriodStars": 30672,
       "builtBy": [
         {
@@ -285,7 +286,7 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 36402,
+      "stars": 36409,
       "forks": 2219,
       "currentPeriodStars": 11178,
       "builtBy": [
@@ -320,7 +321,7 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8264,
+      "stars": 8271,
       "forks": 461,
       "currentPeriodStars": 6707,
       "builtBy": [
@@ -355,8 +356,8 @@
       "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 31333,
-      "forks": 5012,
+      "stars": 31334,
+      "forks": 5013,
       "currentPeriodStars": 6318,
       "builtBy": [
         {
@@ -390,7 +391,7 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8221,
+      "stars": 8228,
       "forks": 437,
       "currentPeriodStars": 6653,
       "builtBy": [
@@ -425,7 +426,7 @@
       "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12378,
+      "stars": 12379,
       "forks": 1429,
       "currentPeriodStars": 9641,
       "builtBy": [
@@ -460,8 +461,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 103708,
-      "forks": 10034,
+      "stars": 103733,
+      "forks": 10038,
       "currentPeriodStars": 39755,
       "builtBy": [
         {
@@ -495,7 +496,7 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 27709,
+      "stars": 27722,
       "forks": 1859,
       "currentPeriodStars": 14358,
       "builtBy": [
@@ -530,7 +531,7 @@
       "description": "Neovim AI agent done right",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 3750,
+      "stars": 3752,
       "forks": 177,
       "currentPeriodStars": 2730,
       "builtBy": [
@@ -565,8 +566,8 @@
       "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9131,
-      "forks": 698,
+      "stars": 9137,
+      "forks": 699,
       "currentPeriodStars": 4655,
       "builtBy": [
         {

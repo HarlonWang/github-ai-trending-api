@@ -1,6 +1,7 @@
 {
   "count": 13,
-  "captured_at": "2026-02-13 08:58:04",
+  "since": "daily",
+  "captured_at": "2026-02-13 09:55:46",
   "data": [
     {
       "rank": 1,
@@ -10,8 +11,8 @@
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9249,
-      "forks": 443,
+      "stars": 9277,
+      "forks": 448,
       "currentPeriodStars": 300,
       "builtBy": [
         {
@@ -48,8 +49,8 @@
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 7722,
-      "forks": 1105,
+      "stars": 7757,
+      "forks": 1107,
       "currentPeriodStars": 351,
       "builtBy": [
         {
@@ -86,8 +87,8 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 31677,
-      "forks": 2113,
+      "stars": 31720,
+      "forks": 2117,
       "currentPeriodStars": 1122,
       "builtBy": [
         {
@@ -124,8 +125,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24524,
-      "forks": 1459,
+      "stars": 24546,
+      "forks": 1460,
       "currentPeriodStars": 436,
       "builtBy": [
         {
@@ -162,8 +163,8 @@
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C#",
       "languageColor": "#178600",
-      "stars": 129724,
-      "forks": 7710,
+      "stars": 129733,
+      "forks": 7711,
       "currentPeriodStars": 316,
       "builtBy": [
         {
@@ -200,8 +201,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15571,
-      "forks": 1180,
+      "stars": 15604,
+      "forks": 1181,
       "currentPeriodStars": 271,
       "builtBy": [
         {
@@ -238,8 +239,8 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 94519,
-      "forks": 13701,
+      "stars": 94534,
+      "forks": 13702,
       "currentPeriodStars": 287,
       "builtBy": [
         {
@@ -276,8 +277,8 @@
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 5336,
-      "forks": 425,
+      "stars": 5366,
+      "forks": 428,
       "currentPeriodStars": 191,
       "builtBy": [
         {
@@ -314,7 +315,7 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2080,
+      "stars": 2091,
       "forks": 148,
       "currentPeriodStars": 405,
       "builtBy": [
@@ -352,7 +353,7 @@
       "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 52114,
+      "stars": 52139,
       "forks": 4313,
       "currentPeriodStars": 81,
       "builtBy": [
@@ -390,8 +391,8 @@
       "description": "Yet another matrix client",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 2925,
-      "forks": 392,
+      "stars": 2934,
+      "forks": 396,
       "currentPeriodStars": 38,
       "builtBy": [
         {
@@ -428,8 +429,8 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1924,
-      "forks": 130,
+      "stars": 1956,
+      "forks": 132,
       "currentPeriodStars": 278,
       "builtBy": [
         {
@@ -466,8 +467,8 @@
       "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 21021,
-      "forks": 4980,
+      "stars": 21036,
+      "forks": 4981,
       "currentPeriodStars": 361,
       "builtBy": [
         {

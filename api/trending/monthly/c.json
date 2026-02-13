@@ -1,6 +1,7 @@
 {
   "count": 19,
-  "captured_at": "2026-02-13 09:01:15",
+  "since": "monthly",
+  "captured_at": "2026-02-13 09:58:49",
   "data": [
     {
       "rank": 1,
@@ -80,7 +81,7 @@
       "description": "tmux source code",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 41718,
+      "stars": 41720,
       "forks": 2408,
       "currentPeriodStars": 1025,
       "builtBy": [
@@ -360,7 +361,7 @@
       "description": "Sandboxie Plus & Classic",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17516,
+      "stars": 17518,
       "forks": 1906,
       "currentPeriodStars": 766,
       "builtBy": [
@@ -396,7 +397,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 14459,
-      "forks": 8652,
+      "forks": 8653,
       "currentPeriodStars": 323,
       "builtBy": [
         {
@@ -430,7 +431,7 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 40680,
+      "stars": 40681,
       "forks": 7058,
       "currentPeriodStars": 382,
       "builtBy": [
@@ -594,7 +595,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 10024,
-      "forks": 3181,
+      "forks": 3183,
       "currentPeriodStars": 310,
       "builtBy": [
         {

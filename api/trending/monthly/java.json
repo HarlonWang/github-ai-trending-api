@@ -1,6 +1,7 @@
 {
   "count": 15,
-  "captured_at": "2026-02-13 09:00:49",
+  "since": "monthly",
+  "captured_at": "2026-02-13 09:58:22",
   "data": [
     {
       "rank": 1,
@@ -45,7 +46,7 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22067,
+      "stars": 22069,
       "forks": 5406,
       "currentPeriodStars": 1175,
       "builtBy": [
@@ -80,7 +81,7 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22026,
+      "stars": 22028,
       "forks": 13083,
       "currentPeriodStars": 488,
       "builtBy": [
@@ -115,7 +116,7 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 30022,
+      "stars": 30028,
       "forks": 6834,
       "currentPeriodStars": 932,
       "builtBy": [
@@ -146,7 +147,7 @@
       "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12202,
+      "stars": 12203,
       "forks": 2554,
       "currentPeriodStars": 352,
       "builtBy": [
@@ -181,7 +182,7 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 50550,
+      "stars": 50552,
       "forks": 6007,
       "currentPeriodStars": 1890,
       "builtBy": [
@@ -322,7 +323,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 32809,
-      "forks": 8047,
+      "forks": 8048,
       "currentPeriodStars": 678,
       "builtBy": [
         {
@@ -391,7 +392,7 @@
       "description": "Free universal database tool and SQL client",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 48665,
+      "stars": 48666,
       "forks": 4039,
       "currentPeriodStars": 522,
       "builtBy": [
@@ -426,7 +427,7 @@
       "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8840,
+      "stars": 8841,
       "forks": 828,
       "currentPeriodStars": 196,
       "builtBy": [

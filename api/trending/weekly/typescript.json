@@ -1,6 +1,7 @@
 {
   "count": 14,
-  "captured_at": "2026-02-13 09:00:07",
+  "since": "weekly",
+  "captured_at": "2026-02-13 09:57:44",
   "data": [
     {
       "rank": 1,
@@ -10,8 +11,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21358,
-      "forks": 2158,
+      "stars": 21392,
+      "forks": 2163,
       "currentPeriodStars": 16805,
       "builtBy": [
         {
@@ -45,8 +46,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14941,
-      "forks": 1809,
+      "stars": 14953,
+      "forks": 1810,
       "currentPeriodStars": 4197,
       "builtBy": [
         {
@@ -80,8 +81,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11417,
-      "forks": 1144,
+      "stars": 11435,
+      "forks": 1147,
       "currentPeriodStars": 4215,
       "builtBy": [
         {
@@ -115,7 +116,7 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 27709,
+      "stars": 27722,
       "forks": 1859,
       "currentPeriodStars": 4200,
       "builtBy": [
@@ -150,8 +151,8 @@
       "description": "一款提示词优化器，助力于编写高质量的提示词",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 20843,
-      "forks": 2529,
+      "stars": 20854,
+      "forks": 2531,
       "currentPeriodStars": 1536,
       "builtBy": [
         {
@@ -185,7 +186,7 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8221,
+      "stars": 8228,
       "forks": 437,
       "currentPeriodStars": 1632,
       "builtBy": [
@@ -220,7 +221,7 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8729,
+      "stars": 8733,
       "forks": 679,
       "currentPeriodStars": 1448,
       "builtBy": [
@@ -290,8 +291,8 @@
       "description": "Copilot Chat extension for VS Code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9453,
-      "forks": 1644,
+      "stars": 9452,
+      "forks": 1643,
       "currentPeriodStars": 67,
       "builtBy": [
         {
@@ -325,7 +326,7 @@
       "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14389,
+      "stars": 14391,
       "forks": 1540,
       "currentPeriodStars": 271,
       "builtBy": [
@@ -360,7 +361,7 @@
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 27943,
+      "stars": 27945,
       "forks": 2729,
       "currentPeriodStars": 1324,
       "builtBy": [
@@ -465,8 +466,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15571,
-      "forks": 1180,
+      "stars": 15604,
+      "forks": 1181,
       "currentPeriodStars": 2976,
       "builtBy": [
         {

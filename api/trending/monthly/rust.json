@@ -1,6 +1,7 @@
 {
   "count": 22,
-  "captured_at": "2026-02-13 09:00:58",
+  "since": "monthly",
+  "captured_at": "2026-02-13 09:58:33",
   "data": [
     {
       "rank": 1,
@@ -10,7 +11,7 @@
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 23188,
+      "stars": 23193,
       "forks": 2630,
       "currentPeriodStars": 11138,
       "builtBy": [
@@ -45,7 +46,7 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19267,
+      "stars": 19268,
       "forks": 835,
       "currentPeriodStars": 1854,
       "builtBy": [
@@ -80,7 +81,7 @@
       "description": "An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1765,
+      "stars": 1766,
       "forks": 180,
       "currentPeriodStars": 1234,
       "builtBy": [
@@ -115,8 +116,8 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30391,
-      "forks": 2759,
+      "stars": 30390,
+      "forks": 2758,
       "currentPeriodStars": 4743,
       "builtBy": [
         {
@@ -150,8 +151,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60214,
-      "forks": 7927,
+      "stars": 60220,
+      "forks": 7928,
       "currentPeriodStars": 4522,
       "builtBy": [
         {
@@ -220,7 +221,7 @@
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 102670,
+      "stars": 102673,
       "forks": 3379,
       "currentPeriodStars": 1646,
       "builtBy": [
@@ -290,7 +291,7 @@
       "description": "⚡ Better `pre-commit`, re-engineered in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6147,
+      "stars": 6148,
       "forks": 165,
       "currentPeriodStars": 2912,
       "builtBy": [
@@ -360,8 +361,8 @@
       "description": "Open-source search and retrieval database for AI applications.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 26103,
-      "forks": 2055,
+      "stars": 26106,
+      "forks": 2056,
       "currentPeriodStars": 717,
       "builtBy": [
         {
@@ -395,8 +396,8 @@
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 18946,
-      "forks": 2270,
+      "stars": 18948,
+      "forks": 2272,
       "currentPeriodStars": 1789,
       "builtBy": [
         {
@@ -430,7 +431,7 @@
       "description": "An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6956,
+      "stars": 6957,
       "forks": 115,
       "currentPeriodStars": 7296,
       "builtBy": [
@@ -465,7 +466,7 @@
       "description": "screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16837,
+      "stars": 16838,
       "forks": 1392,
       "currentPeriodStars": 491,
       "builtBy": [
@@ -500,7 +501,7 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9810,
+      "stars": 9811,
       "forks": 875,
       "currentPeriodStars": 665,
       "builtBy": [
@@ -535,7 +536,7 @@
       "description": "dev tools, env vars, task runner",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 24508,
+      "stars": 24510,
       "forks": 881,
       "currentPeriodStars": 1591,
       "builtBy": [
@@ -570,7 +571,7 @@
       "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29190,
+      "stars": 29191,
       "forks": 961,
       "currentPeriodStars": 1222,
       "builtBy": [
@@ -605,7 +606,7 @@
       "description": "A terminal workspace with batteries included",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29000,
+      "stars": 29001,
       "forks": 961,
       "currentPeriodStars": 936,
       "builtBy": [
@@ -675,8 +676,8 @@
       "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 55890,
-      "forks": 2373,
+      "stars": 55892,
+      "forks": 2374,
       "currentPeriodStars": 599,
       "builtBy": [
         {
@@ -710,7 +711,7 @@
       "description": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 18360,
+      "stars": 18361,
       "forks": 572,
       "currentPeriodStars": 1093,
       "builtBy": [

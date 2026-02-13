@@ -1,6 +1,7 @@
 {
   "count": 17,
-  "captured_at": "2026-02-13 08:58:46",
+  "since": "daily",
+  "captured_at": "2026-02-13 09:56:26",
   "data": [
     {
       "rank": 1,
@@ -10,8 +11,8 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 31678,
-      "forks": 2113,
+      "stars": 31720,
+      "forks": 2117,
       "currentPeriodStars": 1122,
       "builtBy": [
         {
@@ -48,8 +49,8 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 94519,
-      "forks": 13701,
+      "stars": 94534,
+      "forks": 13702,
       "currentPeriodStars": 287,
       "builtBy": [
         {
@@ -86,7 +87,7 @@
       "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 52114,
+      "stars": 52139,
       "forks": 4313,
       "currentPeriodStars": 81,
       "builtBy": [
@@ -124,8 +125,8 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1924,
-      "forks": 130,
+      "stars": 1956,
+      "forks": 132,
       "currentPeriodStars": 278,
       "builtBy": [
         {
@@ -162,7 +163,7 @@
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10256,
+      "stars": 10263,
       "forks": 995,
       "currentPeriodStars": 1012,
       "builtBy": [
@@ -197,8 +198,8 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17167,
-      "forks": 3700,
+      "stars": 17176,
+      "forks": 3703,
       "currentPeriodStars": 159,
       "builtBy": [
         {
@@ -232,7 +233,7 @@
       "description": "M3U Playlist for free TV channels",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 13767,
+      "stars": 13768,
       "forks": 2006,
       "currentPeriodStars": 434,
       "builtBy": [
@@ -267,8 +268,8 @@
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 20782,
-      "forks": 2375,
+      "stars": 20794,
+      "forks": 2376,
       "currentPeriodStars": 162,
       "builtBy": [
         {
@@ -303,7 +304,7 @@
       "language": "Python",
       "languageColor": "#3572A5",
       "stars": 431,
-      "forks": 49,
+      "forks": 50,
       "currentPeriodStars": 15,
       "builtBy": [
         {
@@ -337,8 +338,8 @@
       "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 81043,
-      "forks": 18572,
+      "stars": 81045,
+      "forks": 18575,
       "currentPeriodStars": 57,
       "builtBy": [
         {
@@ -372,7 +373,7 @@
       "description": "Fast and Accurate ML in 3 Lines of Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9939,
+      "stars": 9940,
       "forks": 1117,
       "currentPeriodStars": 20,
       "builtBy": [
@@ -513,7 +514,7 @@
       "language": "Python",
       "languageColor": "#3572A5",
       "stars": 32179,
-      "forks": 2628,
+      "forks": 2627,
       "currentPeriodStars": 30,
       "builtBy": [
         {
@@ -547,7 +548,7 @@
       "description": "Financial data platform for analysts, quants and AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 60194,
+      "stars": 60203,
       "forks": 5883,
       "currentPeriodStars": 75,
       "builtBy": [

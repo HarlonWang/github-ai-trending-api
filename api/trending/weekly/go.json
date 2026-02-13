@@ -1,6 +1,7 @@
 {
   "count": 23,
-  "captured_at": "2026-02-13 08:59:58",
+  "since": "weekly",
+  "captured_at": "2026-02-13 09:57:34",
   "data": [
     {
       "rank": 1,
@@ -10,7 +11,7 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2081,
+      "stars": 2091,
       "forks": 148,
       "currentPeriodStars": 1594,
       "builtBy": [
@@ -48,7 +49,7 @@
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8565,
+      "stars": 8566,
       "forks": 722,
       "currentPeriodStars": 151,
       "builtBy": [
@@ -118,8 +119,8 @@
       "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 162512,
-      "forks": 14569,
+      "stars": 162517,
+      "forks": 14570,
       "currentPeriodStars": 756,
       "builtBy": [
         {
@@ -188,8 +189,8 @@
       "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7432,
-      "forks": 1181,
+      "stars": 7433,
+      "forks": 1182,
       "currentPeriodStars": 144,
       "builtBy": [
         {
@@ -223,7 +224,7 @@
       "description": "Container runtimes on macOS (and Linux) with minimal setup",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26889,
+      "stars": 26890,
       "forks": 530,
       "currentPeriodStars": 209,
       "builtBy": [
@@ -293,7 +294,7 @@
       "description": "An open source, self-hosted implementation of the Tailscale control server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35302,
+      "stars": 35305,
       "forks": 1899,
       "currentPeriodStars": 361,
       "builtBy": [
@@ -324,7 +325,7 @@
       "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 87984,
+      "stars": 87986,
       "forks": 8559,
       "currentPeriodStars": 98,
       "builtBy": [
@@ -359,8 +360,8 @@
       "description": "Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4434,
-      "forks": 186,
+      "stars": 4438,
+      "forks": 187,
       "currentPeriodStars": 340,
       "builtBy": [
         {
@@ -464,7 +465,7 @@
       "description": "Open Source Continuous File Synchronization",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 79869,
+      "stars": 79870,
       "forks": 4930,
       "currentPeriodStars": 213,
       "builtBy": [
@@ -569,7 +570,7 @@
       "description": "simple terminal UI for git commands",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 72262,
+      "stars": 72263,
       "forks": 2504,
       "currentPeriodStars": 541,
       "builtBy": [
@@ -639,7 +640,7 @@
       "description": "⚡️ Express inspired web framework written in Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 39203,
+      "stars": 39204,
       "forks": 1956,
       "currentPeriodStars": 103,
       "builtBy": [
@@ -709,7 +710,7 @@
       "description": "Production-Grade Container Scheduling and Management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 120468,
+      "stars": 120470,
       "forks": 42452,
       "currentPeriodStars": 190,
       "builtBy": [
@@ -744,7 +745,7 @@
       "description": "Send push notifications to your phone or desktop using PUT/POST",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28721,
+      "stars": 28720,
       "forks": 1177,
       "currentPeriodStars": 128,
       "builtBy": [
@@ -779,7 +780,7 @@
       "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 17908,
+      "stars": 17910,
       "forks": 2123,
       "currentPeriodStars": 85,
       "builtBy": [

@@ -1,6 +1,7 @@
 {
   "count": 18,
-  "captured_at": "2026-02-13 09:01:03",
+  "since": "monthly",
+  "captured_at": "2026-02-13 09:58:38",
   "data": [
     {
       "rank": 1,
@@ -10,8 +11,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 190226,
-      "forks": 32323,
+      "stars": 190384,
+      "forks": 32355,
       "currentPeriodStars": 184746,
       "builtBy": [
         {
@@ -45,8 +46,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15573,
-      "forks": 1180,
+      "stars": 15605,
+      "forks": 1182,
       "currentPeriodStars": 11808,
       "builtBy": [
         {
@@ -83,8 +84,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11417,
-      "forks": 1144,
+      "stars": 11436,
+      "forks": 1147,
       "currentPeriodStars": 9580,
       "builtBy": [
         {
@@ -118,8 +119,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21358,
-      "forks": 2158,
+      "stars": 21393,
+      "forks": 2163,
       "currentPeriodStars": 17455,
       "builtBy": [
         {
@@ -153,7 +154,7 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 36402,
+      "stars": 36409,
       "forks": 2219,
       "currentPeriodStars": 11178,
       "builtBy": [
@@ -188,7 +189,7 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8221,
+      "stars": 8228,
       "forks": 437,
       "currentPeriodStars": 6653,
       "builtBy": [
@@ -223,7 +224,7 @@
       "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12378,
+      "stars": 12379,
       "forks": 1429,
       "currentPeriodStars": 9641,
       "builtBy": [
@@ -258,8 +259,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 103708,
-      "forks": 10034,
+      "stars": 103733,
+      "forks": 10038,
       "currentPeriodStars": 39755,
       "builtBy": [
         {
@@ -293,7 +294,7 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 27709,
+      "stars": 27723,
       "forks": 1859,
       "currentPeriodStars": 14358,
       "builtBy": [
@@ -328,8 +329,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14941,
-      "forks": 1809,
+      "stars": 14953,
+      "forks": 1810,
       "currentPeriodStars": 7931,
       "builtBy": [
         {
@@ -363,8 +364,8 @@
       "description": "the best agent harness",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 31098,
-      "forks": 2324,
+      "stars": 31111,
+      "forks": 2325,
       "currentPeriodStars": 16133,
       "builtBy": [
         {
@@ -398,8 +399,8 @@
       "description": "Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8283,
-      "forks": 554,
+      "stars": 8285,
+      "forks": 555,
       "currentPeriodStars": 5991,
       "builtBy": [
         {
@@ -433,7 +434,7 @@
       "description": "A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents. 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4431,
+      "stars": 4432,
       "forks": 1128,
       "currentPeriodStars": 2872,
       "builtBy": [
@@ -468,7 +469,7 @@
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 16411,
+      "stars": 16413,
       "forks": 1646,
       "currentPeriodStars": 2345,
       "builtBy": [
@@ -538,8 +539,8 @@
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14806,
-      "forks": 1020,
+      "stars": 14810,
+      "forks": 1021,
       "currentPeriodStars": 4206,
       "builtBy": [
         {
@@ -573,7 +574,7 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8729,
+      "stars": 8733,
       "forks": 679,
       "currentPeriodStars": 4149,
       "builtBy": [
@@ -608,7 +609,7 @@
       "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 45632,
+      "stars": 45637,
       "forks": 2178,
       "currentPeriodStars": 4036,
       "builtBy": [

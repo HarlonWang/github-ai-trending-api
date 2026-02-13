@@ -1,6 +1,7 @@
 {
   "count": 21,
-  "captured_at": "2026-02-13 09:01:20",
+  "since": "monthly",
+  "captured_at": "2026-02-13 09:58:55",
   "data": [
     {
       "rank": 1,
@@ -10,7 +11,7 @@
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 5562,
+      "stars": 5564,
       "forks": 362,
       "currentPeriodStars": 3539,
       "builtBy": [
@@ -45,7 +46,7 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 25066,
+      "stars": 25067,
       "forks": 2345,
       "currentPeriodStars": 1265,
       "builtBy": [
@@ -150,7 +151,7 @@
       "description": "CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 625,
+      "stars": 626,
       "forks": 69,
       "currentPeriodStars": 433,
       "builtBy": [
@@ -185,7 +186,7 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 24405,
+      "stars": 24406,
       "forks": 639,
       "currentPeriodStars": 1218,
       "builtBy": [
@@ -255,7 +256,7 @@
       "description": "macOS system monitor in your menu bar",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 36425,
+      "stars": 36426,
       "forks": 1179,
       "currentPeriodStars": 767,
       "builtBy": [
@@ -500,7 +501,7 @@
       "description": "Windows alt-tab on macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14714,
+      "stars": 14715,
       "forks": 484,
       "currentPeriodStars": 467,
       "builtBy": [
@@ -570,7 +571,7 @@
       "description": "Virtual machines for iOS and macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 32797,
+      "stars": 32798,
       "forks": 1646,
       "currentPeriodStars": 635,
       "builtBy": [

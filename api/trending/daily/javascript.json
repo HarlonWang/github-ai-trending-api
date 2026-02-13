@@ -1,6 +1,7 @@
 {
   "count": 13,
-  "captured_at": "2026-02-13 08:58:55",
+  "since": "daily",
+  "captured_at": "2026-02-13 09:56:32",
   "data": [
     {
       "rank": 1,
@@ -45,7 +46,7 @@
       "description": "Introduction to Machine Learning Systems",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 18165,
+      "stars": 18166,
       "forks": 2130,
       "currentPeriodStars": 63,
       "builtBy": [
@@ -150,7 +151,7 @@
       "description": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 4686,
+      "stars": 4687,
       "forks": 568,
       "currentPeriodStars": 23,
       "builtBy": [
@@ -255,7 +256,7 @@
       "description": "The open source server management software for SSH, VNC & RDP",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 3923,
+      "stars": 3925,
       "forks": 207,
       "currentPeriodStars": 60,
       "builtBy": [
@@ -290,8 +291,8 @@
       "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 97807,
-      "forks": 32765,
+      "stars": 97808,
+      "forks": 32764,
       "currentPeriodStars": 9,
       "builtBy": [
         {
@@ -325,7 +326,7 @@
       "description": "mailcow: dockerized - 🐮 + 🐋 = 💕",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 12131,
+      "stars": 12132,
       "forks": 1605,
       "currentPeriodStars": 8,
       "builtBy": [
@@ -430,8 +431,8 @@
       "description": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 11096,
-      "forks": 14404,
+      "stars": 11098,
+      "forks": 14406,
       "currentPeriodStars": 7,
       "builtBy": [
         {
