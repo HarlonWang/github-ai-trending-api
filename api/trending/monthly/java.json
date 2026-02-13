@@ -1,6 +1,6 @@
 {
   "count": 15,
-  "update_at": "2026-02-13 02:01:35",
+  "captured_at": "2026-02-13 06:54:17",
   "data": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 37129,
+      "stars": 37133,
       "forks": 3463,
       "currentPeriodStars": 971,
       "builtBy": [
@@ -35,8 +35,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/40789489?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:35.448Z"
+      "aiSummary": null
     },
     {
       "rank": 2,
@@ -46,8 +45,8 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22054,
-      "forks": 5404,
+      "stars": 22063,
+      "forks": 5406,
       "currentPeriodStars": 1175,
       "builtBy": [
         {
@@ -71,8 +70,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/97388607?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:35.448Z"
+      "aiSummary": null
     },
     {
       "rank": 3,
@@ -82,8 +80,8 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22022,
-      "forks": 13085,
+      "stars": 22021,
+      "forks": 13083,
       "currentPeriodStars": 488,
       "builtBy": [
         {
@@ -107,8 +105,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/87599400?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:35.448Z"
+      "aiSummary": null
     },
     {
       "rank": 4,
@@ -118,8 +115,8 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 29914,
-      "forks": 6813,
+      "stars": 30000,
+      "forks": 6830,
       "currentPeriodStars": 932,
       "builtBy": [
         {
@@ -139,8 +136,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/89011337?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:35.448Z"
+      "aiSummary": null
     },
     {
       "rank": 5,
@@ -150,8 +146,8 @@
       "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12199,
-      "forks": 2552,
+      "stars": 12202,
+      "forks": 2553,
       "currentPeriodStars": 352,
       "builtBy": [
         {
@@ -175,8 +171,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1386547?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:35.448Z"
+      "aiSummary": null
     },
     {
       "rank": 6,
@@ -186,8 +181,8 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 50538,
-      "forks": 6006,
+      "stars": 50548,
+      "forks": 6007,
       "currentPeriodStars": 1890,
       "builtBy": [
         {
@@ -211,8 +206,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:35.449Z"
+      "aiSummary": null
     },
     {
       "rank": 7,
@@ -223,7 +217,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 65032,
-      "forks": 20968,
+      "forks": 20970,
       "currentPeriodStars": 400,
       "builtBy": [
         {
@@ -247,8 +241,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:35.449Z"
+      "aiSummary": null
     },
     {
       "rank": 8,
@@ -283,8 +276,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/62397152?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:35.449Z"
+      "aiSummary": null
     },
     {
       "rank": 9,
@@ -294,7 +286,7 @@
       "description": "NewPipe's core library for extracting data from streaming sites",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 1749,
+      "stars": 1750,
       "forks": 524,
       "currentPeriodStars": 63,
       "builtBy": [
@@ -319,8 +311,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1891273?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:35.450Z"
+      "aiSummary": null
     },
     {
       "rank": 10,
@@ -330,8 +321,8 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32803,
-      "forks": 8047,
+      "stars": 32805,
+      "forks": 8046,
       "currentPeriodStars": 678,
       "builtBy": [
         {
@@ -355,8 +346,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/51133?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:35.450Z"
+      "aiSummary": null
     },
     {
       "rank": 11,
@@ -366,8 +356,8 @@
       "description": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 10370,
-      "forks": 2426,
+      "stars": 10372,
+      "forks": 2425,
       "currentPeriodStars": 95,
       "builtBy": [
         {
@@ -391,8 +381,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/512439?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:35.450Z"
+      "aiSummary": null
     },
     {
       "rank": 12,
@@ -402,7 +391,7 @@
       "description": "Free universal database tool and SQL client",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 48659,
+      "stars": 48663,
       "forks": 4038,
       "currentPeriodStars": 522,
       "builtBy": [
@@ -427,8 +416,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/84867187?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:35.450Z"
+      "aiSummary": null
     },
     {
       "rank": 13,
@@ -439,7 +427,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 8840,
-      "forks": 827,
+      "forks": 828,
       "currentPeriodStars": 196,
       "builtBy": [
         {
@@ -463,8 +451,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/158490944?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:35.450Z"
+      "aiSummary": null
     },
     {
       "rank": 14,
@@ -487,8 +474,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/198442436?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:35.450Z"
+      "aiSummary": null
     },
     {
       "rank": 15,
@@ -511,8 +497,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/165943559?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:35.451Z"
+      "aiSummary": null
     }
   ]
 }

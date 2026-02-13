@@ -1,6 +1,6 @@
 {
   "count": 21,
-  "update_at": "2026-02-13 01:59:54",
+  "captured_at": "2026-02-13 06:52:41",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2022,
-      "forks": 141,
+      "stars": 2061,
+      "forks": 146,
       "currentPeriodStars": 405,
       "builtBy": [
         {
@@ -35,8 +35,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.967Z"
+      "aiSummary": null
     },
     {
       "rank": 2,
@@ -46,8 +45,8 @@
       "description": "The Cloud Native Application Proxy",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 61611,
-      "forks": 5827,
+      "stars": 61615,
+      "forks": 5828,
       "currentPeriodStars": 24,
       "builtBy": [
         {
@@ -71,8 +70,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1776972?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.967Z"
+      "aiSummary": null
     },
     {
       "rank": 3,
@@ -82,8 +80,8 @@
       "description": "The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4820,
-      "forks": 250,
+      "stars": 4823,
+      "forks": 251,
       "currentPeriodStars": 12,
       "builtBy": [
         {
@@ -107,8 +105,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/16758464?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.968Z"
+      "aiSummary": null
     },
     {
       "rank": 4,
@@ -118,7 +115,7 @@
       "description": "Secure environments for developers and their agents",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12228,
+      "stars": 12229,
       "forks": 1167,
       "currentPeriodStars": 11,
       "builtBy": [
@@ -143,8 +140,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5446298?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.968Z"
+      "aiSummary": null
     },
     {
       "rank": 5,
@@ -179,8 +175,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/34755314?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.968Z"
+      "aiSummary": null
     },
     {
       "rank": 6,
@@ -190,7 +185,7 @@
       "description": "Temporal service",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 18292,
+      "stars": 18296,
       "forks": 1347,
       "currentPeriodStars": 15,
       "builtBy": [
@@ -215,8 +210,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2068124?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.969Z"
+      "aiSummary": null
     },
     {
       "rank": 7,
@@ -226,8 +220,8 @@
       "description": "An open and reliable container runtime",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 20244,
-      "forks": 3799,
+      "stars": 20246,
+      "forks": 3800,
       "currentPeriodStars": 13,
       "builtBy": [
         {
@@ -251,8 +245,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/9248427?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.969Z"
+      "aiSummary": null
     },
     {
       "rank": 8,
@@ -287,8 +280,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6453401?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.970Z"
+      "aiSummary": null
     },
     {
       "rank": 9,
@@ -298,7 +290,7 @@
       "description": "Fast linters runner for Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 18481,
+      "stars": 18483,
       "forks": 1544,
       "currentPeriodStars": 10,
       "builtBy": [
@@ -323,8 +315,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/65486276?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.971Z"
+      "aiSummary": null
     },
     {
       "rank": 10,
@@ -334,7 +325,7 @@
       "description": "Dolt – Git for Data",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19771,
+      "stars": 19775,
       "forks": 623,
       "currentPeriodStars": 11,
       "builtBy": [
@@ -359,8 +350,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1150979?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.971Z"
+      "aiSummary": null
     },
     {
       "rank": 11,
@@ -370,7 +360,7 @@
       "description": "An open source, self-hosted implementation of the Tailscale control server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35282,
+      "stars": 35298,
       "forks": 1899,
       "currentPeriodStars": 91,
       "builtBy": [
@@ -391,8 +381,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4344371?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.971Z"
+      "aiSummary": null
     },
     {
       "rank": 12,
@@ -402,7 +391,7 @@
       "description": "Fast and easy to use database for logs, which can efficiently handle terabytes of logs",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1487,
+      "stars": 1490,
       "forks": 97,
       "currentPeriodStars": 4,
       "builtBy": [
@@ -427,8 +416,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1381404?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.972Z"
+      "aiSummary": null
     },
     {
       "rank": 13,
@@ -438,7 +426,7 @@
       "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6650,
+      "stars": 6651,
       "forks": 1603,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -463,8 +451,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4507192?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.973Z"
+      "aiSummary": null
     },
     {
       "rank": 14,
@@ -474,7 +461,7 @@
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 69822,
+      "stars": 69830,
       "forks": 4638,
       "currentPeriodStars": 28,
       "builtBy": [
@@ -499,8 +486,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/57224?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.973Z"
+      "aiSummary": null
     },
     {
       "rank": 15,
@@ -510,7 +496,7 @@
       "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 9300,
+      "stars": 9299,
       "forks": 1138,
       "currentPeriodStars": 6,
       "builtBy": [
@@ -535,8 +521,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.974Z"
+      "aiSummary": null
     },
     {
       "rank": 16,
@@ -546,8 +531,8 @@
       "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2294,
-      "forks": 233,
+      "stars": 2309,
+      "forks": 234,
       "currentPeriodStars": 78,
       "builtBy": [
         {
@@ -571,8 +556,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/24454679?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.974Z"
+      "aiSummary": null
     },
     {
       "rank": 17,
@@ -582,7 +566,7 @@
       "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8442,
+      "stars": 8443,
       "forks": 524,
       "currentPeriodStars": 4,
       "builtBy": [
@@ -607,8 +591,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/80022306?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.975Z"
+      "aiSummary": null
     },
     {
       "rank": 18,
@@ -618,7 +601,7 @@
       "description": "A wizard to facilitate BPB Panel deployment and management.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 362,
+      "stars": 364,
       "forks": 117,
       "currentPeriodStars": 6,
       "builtBy": [
@@ -631,8 +614,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/15687474?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.975Z"
+      "aiSummary": null
     },
     {
       "rank": 19,
@@ -642,7 +624,7 @@
       "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 25056,
+      "stars": 25058,
       "forks": 917,
       "currentPeriodStars": 7,
       "builtBy": [
@@ -667,8 +649,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/331?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.976Z"
+      "aiSummary": null
     },
     {
       "rank": 20,
@@ -678,8 +659,8 @@
       "description": "Complete MCP Platform -- Hosting, Registry, Gateway, and Chat Client",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 606,
-      "forks": 129,
+      "stars": 607,
+      "forks": 130,
       "currentPeriodStars": 0,
       "builtBy": [
         {
@@ -703,8 +684,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/53102776?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.976Z"
+      "aiSummary": null
     },
     {
       "rank": 21,
@@ -714,8 +694,8 @@
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 47658,
-      "forks": 10211,
+      "stars": 47659,
+      "forks": 10212,
       "currentPeriodStars": 12,
       "builtBy": [
         {
@@ -739,8 +719,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/61721?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:54.976Z"
+      "aiSummary": null
     }
   ]
 }

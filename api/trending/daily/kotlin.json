@@ -1,6 +1,6 @@
 {
   "count": 18,
-  "update_at": "2026-02-13 02:00:26",
+  "captured_at": "2026-02-13 06:53:05",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "AirPods liberated from Apple's ecosystem.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 25338,
-      "forks": 1351,
+      "stars": 25341,
+      "forks": 1352,
       "currentPeriodStars": 29,
       "builtBy": [
         {
@@ -35,8 +35,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/31427850?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:26.135Z"
+      "aiSummary": null
     },
     {
       "rank": 2,
@@ -46,8 +45,8 @@
       "description": "Painless E2E Automation for Mobile and Web",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 10700,
-      "forks": 611,
+      "stars": 10704,
+      "forks": 612,
       "currentPeriodStars": 26,
       "builtBy": [
         {
@@ -71,8 +70,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/915211?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:26.135Z"
+      "aiSummary": null
     },
     {
       "rank": 3,
@@ -82,7 +80,7 @@
       "description": "Lightweight unofficial Steam client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2559,
+      "stars": 2566,
       "forks": 100,
       "currentPeriodStars": 36,
       "builtBy": [
@@ -107,8 +105,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/9055621?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:26.135Z"
+      "aiSummary": null
     },
     {
       "rank": 4,
@@ -119,7 +116,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": 36654,
-      "forks": 11540,
+      "forks": 11541,
       "currentPeriodStars": 5,
       "builtBy": [
         {
@@ -143,8 +140,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1210047?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:26.136Z"
+      "aiSummary": null
     },
     {
       "rank": 5,
@@ -154,8 +150,8 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 50928,
-      "forks": 6925,
+      "stars": 50937,
+      "forks": 6926,
       "currentPeriodStars": 50,
       "builtBy": [
         {
@@ -179,8 +175,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/69906215?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:26.136Z"
+      "aiSummary": null
     },
     {
       "rank": 6,
@@ -215,8 +210,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/10363352?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:26.136Z"
+      "aiSummary": null
     },
     {
       "rank": 7,
@@ -226,7 +220,7 @@
       "description": "Xposed Module that unlocks and adds unique features to the Grindr app",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 453,
+      "stars": 454,
       "forks": 84,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -251,8 +245,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/167630127?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:26.136Z"
+      "aiSummary": null
     },
     {
       "rank": 8,
@@ -287,8 +280,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/12881238?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:26.136Z"
+      "aiSummary": null
     },
     {
       "rank": 9,
@@ -298,8 +290,8 @@
       "description": "A Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 14987,
-      "forks": 3109,
+      "stars": 14990,
+      "forks": 3112,
       "currentPeriodStars": 11,
       "builtBy": [
         {
@@ -323,8 +315,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/18079988?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:26.137Z"
+      "aiSummary": null
     },
     {
       "rank": 10,
@@ -334,7 +325,7 @@
       "description": "An alternative frontend for YouTube, for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 11386,
+      "stars": 11385,
       "forks": 578,
       "currentPeriodStars": 8,
       "builtBy": [
@@ -359,8 +350,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/13156001?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:26.137Z"
+      "aiSummary": null
     },
     {
       "rank": 11,
@@ -395,8 +385,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/724254?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:26.137Z"
+      "aiSummary": null
     },
     {
       "rank": 12,
@@ -406,8 +395,8 @@
       "description": "Android Automation Tool Based on Vision-Language Models",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1585,
-      "forks": 169,
+      "stars": 1587,
+      "forks": 170,
       "currentPeriodStars": 22,
       "builtBy": [
         {
@@ -419,8 +408,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/3039850?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:26.138Z"
+      "aiSummary": null
     },
     {
       "rank": 13,
@@ -430,7 +418,7 @@
       "description": "Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 18805,
+      "stars": 18806,
       "forks": 1386,
       "currentPeriodStars": 6,
       "builtBy": [
@@ -455,8 +443,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/3532155?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:26.138Z"
+      "aiSummary": null
     },
     {
       "rank": 14,
@@ -466,7 +453,7 @@
       "description": "Android app for streaming and downloading media.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 8865,
+      "stars": 8866,
       "forks": 775,
       "currentPeriodStars": 7,
       "builtBy": [
@@ -491,8 +478,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/18114966?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:26.138Z"
+      "aiSummary": null
     },
     {
       "rank": 15,
@@ -502,7 +488,7 @@
       "description": "A modern JSON library for Kotlin and Java.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 10104,
+      "stars": 10107,
       "forks": 799,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -527,8 +513,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4032667?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:26.139Z"
+      "aiSummary": null
     },
     {
       "rank": 16,
@@ -539,7 +524,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": 2341,
-      "forks": 401,
+      "forks": 402,
       "currentPeriodStars": 0,
       "builtBy": [
         {
@@ -563,8 +548,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:26.139Z"
+      "aiSummary": null
     },
     {
       "rank": 17,
@@ -599,8 +583,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/149429124?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:26.140Z"
+      "aiSummary": null
     },
     {
       "rank": 18,
@@ -610,7 +593,7 @@
       "description": "Multiplatform Music Player",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 114,
+      "stars": 117,
       "forks": 9,
       "currentPeriodStars": 4,
       "builtBy": [
@@ -635,8 +618,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/143949134?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:26.140Z"
+      "aiSummary": null
     }
   ]
 }

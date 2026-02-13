@@ -1,6 +1,6 @@
 {
   "count": 21,
-  "update_at": "2026-02-13 02:01:02",
+  "captured_at": "2026-02-13 06:53:42",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 94941,
-      "forks": 14890,
+      "stars": 94952,
+      "forks": 14893,
       "currentPeriodStars": 544,
       "builtBy": [
         {
@@ -35,8 +35,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1629204?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.983Z"
+      "aiSummary": null
     },
     {
       "rank": 2,
@@ -46,8 +45,8 @@
       "description": "MLX: An array framework for Apple silicon",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 23909,
-      "forks": 1508,
+      "stars": 23914,
+      "forks": 1509,
       "currentPeriodStars": 112,
       "builtBy": [
         {
@@ -71,8 +70,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/12023682?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.984Z"
+      "aiSummary": null
     },
     {
       "rank": 3,
@@ -107,8 +105,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/11678396?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.984Z"
+      "aiSummary": null
     },
     {
       "rank": 4,
@@ -118,7 +115,7 @@
       "description": "Abseil Common Libraries (C++)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 17033,
+      "stars": 17035,
       "forks": 2967,
       "currentPeriodStars": 38,
       "builtBy": [
@@ -139,8 +136,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/7139495?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.984Z"
+      "aiSummary": null
     },
     {
       "rank": 5,
@@ -150,7 +146,7 @@
       "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 77138,
+      "stars": 77137,
       "forks": 8327,
       "currentPeriodStars": 74,
       "builtBy": [
@@ -175,8 +171,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/169252?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.985Z"
+      "aiSummary": null
     },
     {
       "rank": 6,
@@ -186,8 +181,8 @@
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 193705,
-      "forks": 75238,
+      "stars": 193710,
+      "forks": 75237,
       "currentPeriodStars": 142,
       "builtBy": [
         {
@@ -211,8 +206,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/348932?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.985Z"
+      "aiSummary": null
     },
     {
       "rank": 7,
@@ -222,8 +216,8 @@
       "description": "Production ready toolkit to run AI locally",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7146,
-      "forks": 220,
+      "stars": 7177,
+      "forks": 221,
       "currentPeriodStars": 1035,
       "builtBy": [
         {
@@ -247,8 +241,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/80901591?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.985Z"
+      "aiSummary": null
     },
     {
       "rank": 8,
@@ -275,8 +268,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/19512466?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.986Z"
+      "aiSummary": null
     },
     {
       "rank": 9,
@@ -286,8 +278,8 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9966,
-      "forks": 700,
+      "stars": 9970,
+      "forks": 701,
       "currentPeriodStars": 107,
       "builtBy": [
         {
@@ -311,8 +303,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1857572?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.986Z"
+      "aiSummary": null
     },
     {
       "rank": 10,
@@ -347,8 +338,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/48371888?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.986Z"
+      "aiSummary": null
     },
     {
       "rank": 11,
@@ -358,8 +348,8 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 726,
-      "forks": 39,
+      "stars": 758,
+      "forks": 41,
       "currentPeriodStars": 326,
       "builtBy": [
         {
@@ -383,8 +373,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/78126249?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.987Z"
+      "aiSummary": null
     },
     {
       "rank": 12,
@@ -394,8 +383,8 @@
       "description": "Bitcoin Core integration/staging tree",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 88091,
-      "forks": 38907,
+      "stars": 88096,
+      "forks": 38908,
       "currentPeriodStars": 172,
       "builtBy": [
         {
@@ -419,8 +408,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/32963518?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.987Z"
+      "aiSummary": null
     },
     {
       "rank": 13,
@@ -430,7 +418,7 @@
       "description": "AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 11937,
+      "stars": 11938,
       "forks": 1105,
       "currentPeriodStars": 65,
       "builtBy": [
@@ -455,8 +443,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/551404?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.987Z"
+      "aiSummary": null
     },
     {
       "rank": 14,
@@ -491,8 +478,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1131371?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.987Z"
+      "aiSummary": null
     },
     {
       "rank": 15,
@@ -502,7 +488,7 @@
       "description": "A fast, local neural text to speech system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10557,
+      "stars": 10559,
       "forks": 908,
       "currentPeriodStars": 39,
       "builtBy": [
@@ -527,8 +513,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/9974914?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.988Z"
+      "aiSummary": null
     },
     {
       "rank": 16,
@@ -538,7 +523,7 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2636,
+      "stars": 2641,
       "forks": 205,
       "currentPeriodStars": 101,
       "builtBy": [
@@ -559,8 +544,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/29942937?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.988Z"
+      "aiSummary": null
     },
     {
       "rank": 17,
@@ -570,7 +554,7 @@
       "description": "Windows Subsystem for Linux",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 31081,
+      "stars": 31082,
       "forks": 1613,
       "currentPeriodStars": 82,
       "builtBy": [
@@ -595,8 +579,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2711825?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.988Z"
+      "aiSummary": null
     },
     {
       "rank": 18,
@@ -631,8 +614,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/130087371?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.988Z"
+      "aiSummary": null
     },
     {
       "rank": 19,
@@ -642,8 +624,8 @@
       "description": "Notepad++ official repository",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 27121,
-      "forks": 5102,
+      "stars": 27126,
+      "forks": 5103,
       "currentPeriodStars": 103,
       "builtBy": [
         {
@@ -667,8 +649,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/12630740?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.988Z"
+      "aiSummary": null
     },
     {
       "rank": 20,
@@ -678,7 +659,7 @@
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19509,
+      "stars": 19517,
       "forks": 2482,
       "currentPeriodStars": 134,
       "builtBy": [
@@ -703,8 +684,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/74587068?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.989Z"
+      "aiSummary": null
     },
     {
       "rank": 21,
@@ -714,8 +694,8 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29816,
-      "forks": 6261,
+      "stars": 29818,
+      "forks": 6263,
       "currentPeriodStars": 91,
       "builtBy": [
         {
@@ -739,8 +719,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:02.989Z"
+      "aiSummary": null
     }
   ]
 }

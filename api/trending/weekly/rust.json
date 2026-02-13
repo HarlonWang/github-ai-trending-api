@@ -1,6 +1,6 @@
 {
   "count": 18,
-  "update_at": "2026-02-13 02:00:55",
+  "captured_at": "2026-02-13 06:53:31",
   "data": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "description": "screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16836,
+      "stars": 16837,
       "forks": 1392,
       "currentPeriodStars": 155,
       "builtBy": [
@@ -35,8 +35,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/62727185?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:55.443Z"
+      "aiSummary": null
     },
     {
       "rank": 2,
@@ -46,8 +45,8 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19257,
-      "forks": 834,
+      "stars": 19260,
+      "forks": 835,
       "currentPeriodStars": 1678,
       "builtBy": [
         {
@@ -71,8 +70,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/13354155?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:55.444Z"
+      "aiSummary": null
     },
     {
       "rank": 3,
@@ -82,7 +80,7 @@
       "description": "Simple Rust VPN Client / Server",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 658,
+      "stars": 659,
       "forks": 59,
       "currentPeriodStars": 348,
       "builtBy": [
@@ -99,8 +97,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/32169182?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:55.444Z"
+      "aiSummary": null
     },
     {
       "rank": 4,
@@ -110,7 +107,7 @@
       "description": "⚡ Better `pre-commit`, re-engineered in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6138,
+      "stars": 6142,
       "forks": 165,
       "currentPeriodStars": 682,
       "builtBy": [
@@ -135,8 +132,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2979452?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:55.445Z"
+      "aiSummary": null
     },
     {
       "rank": 5,
@@ -146,8 +142,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60164,
-      "forks": 7923,
+      "stars": 60199,
+      "forks": 7926,
       "currentPeriodStars": 1129,
       "builtBy": [
         {
@@ -171,8 +167,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/172423086?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:55.445Z"
+      "aiSummary": null
     },
     {
       "rank": 6,
@@ -182,7 +177,7 @@
       "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8321,
+      "stars": 8322,
       "forks": 576,
       "currentPeriodStars": 547,
       "builtBy": [
@@ -207,8 +202,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/722120?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:55.445Z"
+      "aiSummary": null
     },
     {
       "rank": 7,
@@ -243,8 +237,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/606923?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:55.446Z"
+      "aiSummary": null
     },
     {
       "rank": 8,
@@ -279,8 +272,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/286008?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:55.446Z"
+      "aiSummary": null
     },
     {
       "rank": 9,
@@ -290,7 +282,7 @@
       "description": "Build fast web applications with Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 20015,
+      "stars": 20023,
       "forks": 837,
       "currentPeriodStars": 125,
       "builtBy": [
@@ -315,8 +307,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/7102017?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:55.446Z"
+      "aiSummary": null
     },
     {
       "rank": 10,
@@ -326,8 +317,8 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 54912,
-      "forks": 2546,
+      "stars": 54922,
+      "forks": 2547,
       "currentPeriodStars": 409,
       "builtBy": [
         {
@@ -351,8 +342,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/509385?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:55.447Z"
+      "aiSummary": null
     },
     {
       "rank": 11,
@@ -387,8 +377,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/951128?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:55.447Z"
+      "aiSummary": null
     },
     {
       "rank": 12,
@@ -398,7 +387,7 @@
       "description": "Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10896,
+      "stars": 10897,
       "forks": 517,
       "currentPeriodStars": 42,
       "builtBy": [
@@ -423,8 +412,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1109503?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:55.448Z"
+      "aiSummary": null
     },
     {
       "rank": 13,
@@ -459,8 +447,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5983379?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:55.448Z"
+      "aiSummary": null
     },
     {
       "rank": 14,
@@ -470,7 +457,7 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9806,
+      "stars": 9809,
       "forks": 874,
       "currentPeriodStars": 175,
       "builtBy": [
@@ -495,8 +482,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/18640268?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:55.448Z"
+      "aiSummary": null
     },
     {
       "rank": 15,
@@ -506,7 +492,7 @@
       "description": "A terminal workspace with batteries included",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 28995,
+      "stars": 28997,
       "forks": 960,
       "currentPeriodStars": 319,
       "builtBy": [
@@ -531,8 +517,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/32578710?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:55.449Z"
+      "aiSummary": null
     },
     {
       "rank": 16,
@@ -542,7 +527,7 @@
       "description": "We all edit.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 13504,
+      "stars": 13506,
       "forks": 633,
       "currentPeriodStars": 119,
       "builtBy": [
@@ -567,8 +552,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/823277?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:55.449Z"
+      "aiSummary": null
     },
     {
       "rank": 17,
@@ -578,8 +562,8 @@
       "description": "The Magic Mask for Android",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 58676,
-      "forks": 16719,
+      "stars": 58678,
+      "forks": 16720,
       "currentPeriodStars": 161,
       "builtBy": [
         {
@@ -603,8 +587,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/31466456?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:55.449Z"
+      "aiSummary": null
     },
     {
       "rank": 18,
@@ -614,8 +597,8 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 75246,
-      "forks": 6930,
+      "stars": 75249,
+      "forks": 6929,
       "currentPeriodStars": 479,
       "builtBy": [
         {
@@ -639,8 +622,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/94272?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:55.449Z"
+      "aiSummary": null
     }
   ]
 }

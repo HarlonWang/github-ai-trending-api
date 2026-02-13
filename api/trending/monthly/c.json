@@ -1,6 +1,6 @@
 {
   "count": 19,
-  "update_at": "2026-02-13 02:02:02",
+  "captured_at": "2026-02-13 06:54:38",
   "data": [
     {
       "rank": 1,
@@ -35,8 +35,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/89487150?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:02:02.546Z"
+      "aiSummary": null
     },
     {
       "rank": 2,
@@ -46,7 +45,7 @@
       "description": "WiFi security auditing tools suite",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6923,
+      "stars": 6924,
       "forks": 1233,
       "currentPeriodStars": 173,
       "builtBy": [
@@ -71,8 +70,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5159728?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:02:02.546Z"
+      "aiSummary": null
     },
     {
       "rank": 3,
@@ -82,8 +80,8 @@
       "description": "tmux source code",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 41700,
-      "forks": 2407,
+      "stars": 41714,
+      "forks": 2408,
       "currentPeriodStars": 1025,
       "builtBy": [
         {
@@ -107,8 +105,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/97253?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:02:02.546Z"
+      "aiSummary": null
     },
     {
       "rank": 4,
@@ -118,7 +115,7 @@
       "description": "The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2271,
+      "stars": 2272,
       "forks": 323,
       "currentPeriodStars": 156,
       "builtBy": [
@@ -143,8 +140,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/135865149?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:02:02.547Z"
+      "aiSummary": null
     },
     {
       "rank": 5,
@@ -154,7 +150,7 @@
       "description": "A free Windows-compatible Operating System",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17067,
+      "stars": 17069,
       "forks": 2038,
       "currentPeriodStars": 282,
       "builtBy": [
@@ -179,8 +175,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/18138474?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:02:02.547Z"
+      "aiSummary": null
     },
     {
       "rank": 6,
@@ -190,7 +185,7 @@
       "description": "Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6816,
+      "stars": 6818,
       "forks": 313,
       "currentPeriodStars": 184,
       "builtBy": [
@@ -215,8 +210,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/538504?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:02:02.547Z"
+      "aiSummary": null
     },
     {
       "rank": 7,
@@ -226,7 +220,7 @@
       "description": "Power full Task Manager",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3123,
+      "stars": 3124,
       "forks": 245,
       "currentPeriodStars": 1178,
       "builtBy": [
@@ -251,8 +245,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6871698?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:02:02.547Z"
+      "aiSummary": null
     },
     {
       "rank": 8,
@@ -262,7 +255,7 @@
       "description": "A simple and easy-to-use library to enjoy videogames programming",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 30925,
+      "stars": 30927,
       "forks": 2926,
       "currentPeriodStars": 727,
       "builtBy": [
@@ -287,8 +280,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:02:02.548Z"
+      "aiSummary": null
     },
     {
       "rank": 9,
@@ -298,7 +290,7 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4448,
+      "stars": 4447,
       "forks": 648,
       "currentPeriodStars": 132,
       "builtBy": [
@@ -323,8 +315,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21345721?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:02:02.548Z"
+      "aiSummary": null
     },
     {
       "rank": 10,
@@ -334,7 +325,7 @@
       "description": "Source code for Oracle VirtualBox",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 996,
+      "stars": 997,
       "forks": 121,
       "currentPeriodStars": 94,
       "builtBy": [
@@ -359,8 +350,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/213565284?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:02:02.548Z"
+      "aiSummary": null
     },
     {
       "rank": 11,
@@ -370,7 +360,7 @@
       "description": "Sandboxie Plus & Classic",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17511,
+      "stars": 17515,
       "forks": 1906,
       "currentPeriodStars": 766,
       "builtBy": [
@@ -395,8 +385,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/92030377?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:02:02.549Z"
+      "aiSummary": null
     },
     {
       "rank": 12,
@@ -407,7 +396,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 14457,
-      "forks": 8653,
+      "forks": 8652,
       "currentPeriodStars": 323,
       "builtBy": [
         {
@@ -431,8 +420,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6350656?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:02:02.549Z"
+      "aiSummary": null
     },
     {
       "rank": 13,
@@ -442,7 +430,7 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 40675,
+      "stars": 40678,
       "forks": 7057,
       "currentPeriodStars": 382,
       "builtBy": [
@@ -467,8 +455,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/228259?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:02:02.550Z"
+      "aiSummary": null
     },
     {
       "rank": 14,
@@ -503,8 +490,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/34334994?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:02:02.550Z"
+      "aiSummary": null
     },
     {
       "rank": 15,
@@ -539,8 +525,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/432709?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:02:02.550Z"
+      "aiSummary": null
     },
     {
       "rank": 16,
@@ -550,7 +535,7 @@
       "description": "anti-dpi software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1594,
+      "stars": 1596,
       "forks": 49,
       "currentPeriodStars": 543,
       "builtBy": [
@@ -563,8 +548,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/50713272?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:02:02.551Z"
+      "aiSummary": null
     },
     {
       "rank": 17,
@@ -574,7 +558,7 @@
       "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13607,
+      "stars": 13611,
       "forks": 1616,
       "currentPeriodStars": 257,
       "builtBy": [
@@ -599,8 +583,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/30962924?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:02:02.551Z"
+      "aiSummary": null
     },
     {
       "rank": 18,
@@ -610,8 +593,8 @@
       "description": "An opensource OpenWrt variant for mainland China users.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 10023,
-      "forks": 3178,
+      "stars": 10024,
+      "forks": 3180,
       "currentPeriodStars": 310,
       "builtBy": [
         {
@@ -635,8 +618,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/78494?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:02:02.551Z"
+      "aiSummary": null
     },
     {
       "rank": 19,
@@ -646,7 +628,7 @@
       "description": "wayland compositor base wlroots and scenefx(dwm but wayland)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1954,
+      "stars": 1956,
       "forks": 106,
       "currentPeriodStars": 281,
       "builtBy": [
@@ -671,8 +653,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/62473844?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:02:02.552Z"
+      "aiSummary": null
     }
   ]
 }

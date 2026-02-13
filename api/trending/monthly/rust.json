@@ -1,6 +1,6 @@
 {
   "count": 22,
-  "update_at": "2026-02-13 02:01:48",
+  "captured_at": "2026-02-13 06:54:25",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 23129,
-      "forks": 2625,
+      "stars": 23169,
+      "forks": 2629,
       "currentPeriodStars": 11138,
       "builtBy": [
         {
@@ -35,8 +35,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/12632895?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.044Z"
+      "aiSummary": null
     },
     {
       "rank": 2,
@@ -46,8 +45,8 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19257,
-      "forks": 834,
+      "stars": 19260,
+      "forks": 835,
       "currentPeriodStars": 1854,
       "builtBy": [
         {
@@ -71,8 +70,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/13354155?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.044Z"
+      "aiSummary": null
     },
     {
       "rank": 3,
@@ -82,7 +80,7 @@
       "description": "An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1759,
+      "stars": 1764,
       "forks": 180,
       "currentPeriodStars": 1234,
       "builtBy": [
@@ -107,8 +105,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/99227742?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.044Z"
+      "aiSummary": null
     },
     {
       "rank": 4,
@@ -118,8 +115,8 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30384,
-      "forks": 2756,
+      "stars": 30391,
+      "forks": 2759,
       "currentPeriodStars": 4743,
       "builtBy": [
         {
@@ -143,8 +140,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/14976?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.044Z"
+      "aiSummary": null
     },
     {
       "rank": 5,
@@ -154,8 +150,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60164,
-      "forks": 7923,
+      "stars": 60199,
+      "forks": 7926,
       "currentPeriodStars": 4522,
       "builtBy": [
         {
@@ -179,8 +175,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/172423086?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.045Z"
+      "aiSummary": null
     },
     {
       "rank": 6,
@@ -190,8 +185,8 @@
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6892,
-      "forks": 428,
+      "stars": 6893,
+      "forks": 429,
       "currentPeriodStars": 731,
       "builtBy": [
         {
@@ -215,8 +210,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/49335821?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.045Z"
+      "aiSummary": null
     },
     {
       "rank": 7,
@@ -226,8 +220,8 @@
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 102654,
-      "forks": 3377,
+      "stars": 102664,
+      "forks": 3378,
       "currentPeriodStars": 1646,
       "builtBy": [
         {
@@ -251,8 +245,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/30730186?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.045Z"
+      "aiSummary": null
     },
     {
       "rank": 8,
@@ -262,7 +255,7 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2013,
+      "stars": 2015,
       "forks": 74,
       "currentPeriodStars": 948,
       "builtBy": [
@@ -287,8 +280,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.046Z"
+      "aiSummary": null
     },
     {
       "rank": 9,
@@ -298,7 +290,7 @@
       "description": "⚡ Better `pre-commit`, re-engineered in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6138,
+      "stars": 6142,
       "forks": 165,
       "currentPeriodStars": 2912,
       "builtBy": [
@@ -323,8 +315,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2979452?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.046Z"
+      "aiSummary": null
     },
     {
       "rank": 10,
@@ -334,7 +325,7 @@
       "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29792,
+      "stars": 29791,
       "forks": 2247,
       "currentPeriodStars": 337,
       "builtBy": [
@@ -359,8 +350,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4060187?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.046Z"
+      "aiSummary": null
     },
     {
       "rank": 11,
@@ -370,7 +360,7 @@
       "description": "Open-source search and retrieval database for AI applications.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 26099,
+      "stars": 26101,
       "forks": 2055,
       "currentPeriodStars": 717,
       "builtBy": [
@@ -395,8 +385,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/60079945?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.046Z"
+      "aiSummary": null
     },
     {
       "rank": 12,
@@ -406,8 +395,8 @@
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 18942,
-      "forks": 2268,
+      "stars": 18948,
+      "forks": 2270,
       "currentPeriodStars": 1789,
       "builtBy": [
         {
@@ -431,8 +420,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/49148?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.047Z"
+      "aiSummary": null
     },
     {
       "rank": 13,
@@ -442,7 +430,7 @@
       "description": "An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6954,
+      "stars": 6955,
       "forks": 115,
       "currentPeriodStars": 7296,
       "builtBy": [
@@ -467,8 +455,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/182943378?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.047Z"
+      "aiSummary": null
     },
     {
       "rank": 14,
@@ -478,7 +465,7 @@
       "description": "screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16836,
+      "stars": 16837,
       "forks": 1392,
       "currentPeriodStars": 491,
       "builtBy": [
@@ -503,8 +490,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/62727185?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.047Z"
+      "aiSummary": null
     },
     {
       "rank": 15,
@@ -514,7 +500,7 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9806,
+      "stars": 9809,
       "forks": 874,
       "currentPeriodStars": 665,
       "builtBy": [
@@ -539,8 +525,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/18640268?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.048Z"
+      "aiSummary": null
     },
     {
       "rank": 16,
@@ -550,7 +535,7 @@
       "description": "dev tools, env vars, task runner",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 24499,
+      "stars": 24505,
       "forks": 881,
       "currentPeriodStars": 1591,
       "builtBy": [
@@ -575,8 +560,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/243519?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.048Z"
+      "aiSummary": null
     },
     {
       "rank": 17,
@@ -586,7 +570,7 @@
       "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29187,
+      "stars": 29190,
       "forks": 961,
       "currentPeriodStars": 1222,
       "builtBy": [
@@ -611,8 +595,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/50847364?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.048Z"
+      "aiSummary": null
     },
     {
       "rank": 18,
@@ -622,7 +605,7 @@
       "description": "A terminal workspace with batteries included",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 28995,
+      "stars": 28997,
       "forks": 960,
       "currentPeriodStars": 936,
       "builtBy": [
@@ -647,8 +630,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/32578710?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.048Z"
+      "aiSummary": null
     },
     {
       "rank": 19,
@@ -683,8 +665,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/606923?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.048Z"
+      "aiSummary": null
     },
     {
       "rank": 20,
@@ -694,7 +675,7 @@
       "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 55883,
+      "stars": 55889,
       "forks": 2372,
       "currentPeriodStars": 599,
       "builtBy": [
@@ -719,8 +700,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/28804882?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.049Z"
+      "aiSummary": null
     },
     {
       "rank": 21,
@@ -730,7 +710,7 @@
       "description": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 18353,
+      "stars": 18359,
       "forks": 572,
       "currentPeriodStars": 1093,
       "builtBy": [
@@ -755,8 +735,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1813121?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.049Z"
+      "aiSummary": null
     },
     {
       "rank": 22,
@@ -766,8 +745,8 @@
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9816,
-      "forks": 272,
+      "stars": 9818,
+      "forks": 273,
       "currentPeriodStars": 862,
       "builtBy": [
         {
@@ -791,8 +770,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/65783406?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:48.049Z"
+      "aiSummary": null
     }
   ]
 }

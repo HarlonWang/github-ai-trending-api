@@ -1,6 +1,6 @@
 {
   "count": 22,
-  "update_at": "2026-02-13 02:00:43",
+  "captured_at": "2026-02-13 06:53:22",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "MCP Server for Ghidra",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 7558,
-      "forks": 645,
+      "stars": 7559,
+      "forks": 646,
       "currentPeriodStars": 275,
       "builtBy": [
         {
@@ -35,8 +35,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/462620?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.612Z"
+      "aiSummary": null
     },
     {
       "rank": 2,
@@ -46,8 +45,8 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 29914,
-      "forks": 6813,
+      "stars": 30000,
+      "forks": 6829,
       "currentPeriodStars": 302,
       "builtBy": [
         {
@@ -67,8 +66,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/89011337?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.612Z"
+      "aiSummary": null
     },
     {
       "rank": 3,
@@ -78,8 +76,8 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22054,
-      "forks": 5404,
+      "stars": 22063,
+      "forks": 5406,
       "currentPeriodStars": 385,
       "builtBy": [
         {
@@ -103,8 +101,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/97388607?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.612Z"
+      "aiSummary": null
     },
     {
       "rank": 4,
@@ -114,7 +111,7 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 64321,
+      "stars": 64326,
       "forks": 7137,
       "currentPeriodStars": 238,
       "builtBy": [
@@ -139,8 +136,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/48068198?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.613Z"
+      "aiSummary": null
     },
     {
       "rank": 5,
@@ -175,8 +171,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/195061?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.613Z"
+      "aiSummary": null
     },
     {
       "rank": 6,
@@ -186,7 +181,7 @@
       "description": "收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5713,
+      "stars": 5717,
       "forks": 545,
       "currentPeriodStars": 105,
       "builtBy": [
@@ -203,8 +198,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/99273309?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.614Z"
+      "aiSummary": null
     },
     {
       "rank": 7,
@@ -239,8 +233,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1228900?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.614Z"
+      "aiSummary": null
     },
     {
       "rank": 8,
@@ -250,8 +243,8 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22022,
-      "forks": 13085,
+      "stars": 22021,
+      "forks": 13083,
       "currentPeriodStars": 183,
       "builtBy": [
         {
@@ -275,8 +268,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/87599400?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.615Z"
+      "aiSummary": null
     },
     {
       "rank": 9,
@@ -311,8 +303,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/46769766?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.615Z"
+      "aiSummary": null
     },
     {
       "rank": 10,
@@ -322,8 +313,8 @@
       "description": "LSPosed Framework resuscitated",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9567,
-      "forks": 598,
+      "stars": 9569,
+      "forks": 599,
       "currentPeriodStars": 130,
       "builtBy": [
         {
@@ -347,8 +338,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/17663689?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.616Z"
+      "aiSummary": null
     },
     {
       "rank": 11,
@@ -358,7 +348,7 @@
       "description": "LSPosed Framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22769,
+      "stars": 22772,
       "forks": 3466,
       "currentPeriodStars": 73,
       "builtBy": [
@@ -383,8 +373,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/17663689?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.616Z"
+      "aiSummary": null
     },
     {
       "rank": 12,
@@ -394,8 +383,8 @@
       "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12199,
-      "forks": 2552,
+      "stars": 12202,
+      "forks": 2553,
       "currentPeriodStars": 79,
       "builtBy": [
         {
@@ -419,8 +408,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1386547?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.616Z"
+      "aiSummary": null
     },
     {
       "rank": 13,
@@ -430,7 +418,7 @@
       "description": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25122,
+      "stars": 25126,
       "forks": 2732,
       "currentPeriodStars": 78,
       "builtBy": [
@@ -455,8 +443,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/137188352?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.616Z"
+      "aiSummary": null
     },
     {
       "rank": 14,
@@ -466,8 +453,8 @@
       "description": "Mirror of Apache Kafka",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 31878,
-      "forks": 14953,
+      "stars": 31879,
+      "forks": 14956,
       "currentPeriodStars": 51,
       "builtBy": [
         {
@@ -491,8 +478,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/157182?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.617Z"
+      "aiSummary": null
     },
     {
       "rank": 15,
@@ -527,8 +513,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2132122?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.617Z"
+      "aiSummary": null
     },
     {
       "rank": 16,
@@ -563,8 +548,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/16612842?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.618Z"
+      "aiSummary": null
     },
     {
       "rank": 17,
@@ -574,8 +558,8 @@
       "description": "Open-source third-party Telegram client with not many but useful modifications.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 3252,
-      "forks": 136,
+      "stars": 3253,
+      "forks": 137,
       "currentPeriodStars": 60,
       "builtBy": [
         {
@@ -599,8 +583,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/10834227?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.618Z"
+      "aiSummary": null
     },
     {
       "rank": 18,
@@ -610,8 +593,8 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32803,
-      "forks": 8047,
+      "stars": 32805,
+      "forks": 8046,
       "currentPeriodStars": 154,
       "builtBy": [
         {
@@ -635,8 +618,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/51133?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.618Z"
+      "aiSummary": null
     },
     {
       "rank": 19,
@@ -646,8 +628,8 @@
       "description": "Agentic AI Framework for Java Developers",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8385,
-      "forks": 1846,
+      "stars": 8392,
+      "forks": 1850,
       "currentPeriodStars": 103,
       "builtBy": [
         {
@@ -671,8 +653,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/29418975?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.619Z"
+      "aiSummary": null
     },
     {
       "rank": 20,
@@ -683,7 +664,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 8687,
-      "forks": 1841,
+      "forks": 1842,
       "currentPeriodStars": 22,
       "builtBy": [
         {
@@ -703,8 +684,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/25864932?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.619Z"
+      "aiSummary": null
     },
     {
       "rank": 21,
@@ -715,7 +695,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 8840,
-      "forks": 827,
+      "forks": 828,
       "currentPeriodStars": 48,
       "builtBy": [
         {
@@ -739,8 +719,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/158490944?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.619Z"
+      "aiSummary": null
     },
     {
       "rank": 22,
@@ -775,8 +754,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/3466101?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:43.619Z"
+      "aiSummary": null
     }
   ]
 }

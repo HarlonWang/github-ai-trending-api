@@ -1,6 +1,6 @@
 {
   "count": 21,
-  "update_at": "2026-02-13 02:01:06",
+  "captured_at": "2026-02-13 06:53:48",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5783,
-      "forks": 993,
+      "stars": 5788,
+      "forks": 994,
       "currentPeriodStars": 131,
       "builtBy": [
         {
@@ -35,8 +35,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6404829?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.976Z"
+      "aiSummary": null
     },
     {
       "rank": 2,
@@ -46,7 +45,7 @@
       "description": "anti-dpi software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1594,
+      "stars": 1596,
       "forks": 49,
       "currentPeriodStars": 153,
       "builtBy": [
@@ -59,8 +58,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/50713272?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.977Z"
+      "aiSummary": null
     },
     {
       "rank": 3,
@@ -70,7 +68,7 @@
       "description": "Inference Llama 2 in one file of pure C",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 19174,
+      "stars": 19173,
       "forks": 2448,
       "currentPeriodStars": 29,
       "builtBy": [
@@ -95,8 +93,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1090367?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.977Z"
+      "aiSummary": null
     },
     {
       "rank": 4,
@@ -106,7 +103,7 @@
       "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14719,
+      "stars": 14720,
       "forks": 2157,
       "currentPeriodStars": 71,
       "builtBy": [
@@ -131,8 +128,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/14975138?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.977Z"
+      "aiSummary": null
     },
     {
       "rank": 5,
@@ -167,8 +163,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/10557215?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.977Z"
+      "aiSummary": null
     },
     {
       "rank": 6,
@@ -178,7 +173,7 @@
       "description": "pg_lake: Postgres with Iceberg and data lake access",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1413,
+      "stars": 1414,
       "forks": 77,
       "currentPeriodStars": 16,
       "builtBy": [
@@ -203,8 +198,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/241969255?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.977Z"
+      "aiSummary": null
     },
     {
       "rank": 7,
@@ -214,7 +208,7 @@
       "description": "Ultralightweight JSON parser in ANSI C",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12449,
+      "stars": 12451,
       "forks": 3435,
       "currentPeriodStars": 27,
       "builtBy": [
@@ -239,8 +233,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1925803?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.978Z"
+      "aiSummary": null
     },
     {
       "rank": 8,
@@ -250,7 +243,7 @@
       "description": "minimal cross-platform standalone C headers",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 9591,
+      "stars": 9592,
       "forks": 614,
       "currentPeriodStars": 47,
       "builtBy": [
@@ -275,8 +268,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/66876057?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.978Z"
+      "aiSummary": null
     },
     {
       "rank": 9,
@@ -286,7 +278,7 @@
       "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 21801,
+      "stars": 21806,
       "forks": 1045,
       "currentPeriodStars": 176,
       "builtBy": [
@@ -311,8 +303,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/36882414?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.979Z"
+      "aiSummary": null
     },
     {
       "rank": 10,
@@ -347,8 +338,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/359833?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.979Z"
+      "aiSummary": null
     },
     {
       "rank": 11,
@@ -358,7 +348,7 @@
       "description": "Xash3D FWGS engine",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2353,
+      "stars": 2354,
       "forks": 377,
       "currentPeriodStars": 40,
       "builtBy": [
@@ -383,8 +373,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2997482?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.979Z"
+      "aiSummary": null
     },
     {
       "rank": 12,
@@ -394,7 +383,7 @@
       "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13607,
+      "stars": 13611,
       "forks": 1616,
       "currentPeriodStars": 65,
       "builtBy": [
@@ -419,8 +408,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/30962924?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.980Z"
+      "aiSummary": null
     },
     {
       "rank": 13,
@@ -430,7 +418,7 @@
       "description": "Klipper is a 3d-printer firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 11277,
+      "stars": 11278,
       "forks": 5780,
       "currentPeriodStars": 31,
       "builtBy": [
@@ -455,8 +443,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1433580?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.980Z"
+      "aiSummary": null
     },
     {
       "rank": 14,
@@ -467,7 +454,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 14457,
-      "forks": 8653,
+      "forks": 8652,
       "currentPeriodStars": 72,
       "builtBy": [
         {
@@ -491,8 +478,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6350656?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.980Z"
+      "aiSummary": null
     },
     {
       "rank": 15,
@@ -502,7 +488,7 @@
       "description": "UNIX-like reverse engineering framework and command-line toolset",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 23087,
+      "stars": 23090,
       "forks": 3170,
       "currentPeriodStars": 52,
       "builtBy": [
@@ -527,8 +513,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/203261?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.980Z"
+      "aiSummary": null
     },
     {
       "rank": 16,
@@ -563,8 +548,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/59873510?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.981Z"
+      "aiSummary": null
     },
     {
       "rank": 17,
@@ -575,7 +559,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 12712,
-      "forks": 2449,
+      "forks": 2450,
       "currentPeriodStars": 57,
       "builtBy": [
         {
@@ -599,8 +583,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1608941?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.981Z"
+      "aiSummary": null
     },
     {
       "rank": 18,
@@ -635,8 +618,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/28335?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.982Z"
+      "aiSummary": null
     },
     {
       "rank": 19,
@@ -646,7 +628,7 @@
       "description": "Angie - drop-in replacement for nginx",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2235,
+      "stars": 2237,
       "forks": 98,
       "currentPeriodStars": 111,
       "builtBy": [
@@ -671,8 +653,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1236368?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.982Z"
+      "aiSummary": null
     },
     {
       "rank": 20,
@@ -682,7 +663,7 @@
       "description": "ehviewer，用爱发电，快乐前行",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 22369,
+      "stars": 22372,
       "forks": 593,
       "currentPeriodStars": 164,
       "builtBy": [
@@ -707,8 +688,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/26001028?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.982Z"
+      "aiSummary": null
     },
     {
       "rank": 21,
@@ -718,8 +698,8 @@
       "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 59073,
-      "forks": 27494,
+      "stars": 59076,
+      "forks": 27493,
       "currentPeriodStars": 157,
       "builtBy": [
         {
@@ -743,8 +723,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4056630?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:06.983Z"
+      "aiSummary": null
     }
   ]
 }

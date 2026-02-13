@@ -1,6 +1,6 @@
 {
   "count": 17,
-  "update_at": "2026-02-13 02:01:21",
+  "captured_at": "2026-02-13 06:54:02",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 189176,
-      "forks": 32066,
+      "stars": 189898,
+      "forks": 32226,
       "currentPeriodStars": 184746,
       "builtBy": [
         {
@@ -35,8 +35,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:21.000Z"
+      "aiSummary": null
     },
     {
       "rank": 2,
@@ -46,8 +45,8 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 20056,
-      "forks": 1832,
+      "stars": 20105,
+      "forks": 1833,
       "currentPeriodStars": 20027,
       "builtBy": [
         {
@@ -71,8 +70,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/517210?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:21.000Z"
+      "aiSummary": null
     },
     {
       "rank": 3,
@@ -82,8 +80,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 50554,
-      "forks": 3827,
+      "stars": 50688,
+      "forks": 3836,
       "currentPeriodStars": 32435,
       "builtBy": [
         {
@@ -107,8 +105,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:21.001Z"
+      "aiSummary": null
     },
     {
       "rank": 4,
@@ -118,8 +115,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15399,
-      "forks": 1168,
+      "stars": 15514,
+      "forks": 1175,
       "currentPeriodStars": 11808,
       "builtBy": [
         {
@@ -143,8 +140,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:21.001Z"
+      "aiSummary": null
     },
     {
       "rank": 5,
@@ -154,8 +150,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11270,
-      "forks": 1129,
+      "stars": 11371,
+      "forks": 1140,
       "currentPeriodStars": 9580,
       "builtBy": [
         {
@@ -179,8 +175,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/980367?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:21.001Z"
+      "aiSummary": null
     },
     {
       "rank": 6,
@@ -190,7 +185,7 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14956,
+      "stars": 14989,
       "forks": 1088,
       "currentPeriodStars": 9721,
       "builtBy": [
@@ -207,8 +202,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/71917860?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:21.001Z"
+      "aiSummary": null
     },
     {
       "rank": 7,
@@ -218,8 +212,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21212,
-      "forks": 2144,
+      "stars": 21314,
+      "forks": 2152,
       "currentPeriodStars": 17455,
       "builtBy": [
         {
@@ -243,8 +237,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/212406850?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:21.001Z"
+      "aiSummary": null
     },
     {
       "rank": 8,
@@ -254,8 +247,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 68841,
-      "forks": 6916,
+      "stars": 68998,
+      "forks": 6934,
       "currentPeriodStars": 30672,
       "builtBy": [
         {
@@ -279,8 +272,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1184736?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:21.002Z"
+      "aiSummary": null
     },
     {
       "rank": 9,
@@ -290,8 +282,8 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 36365,
-      "forks": 2218,
+      "stars": 36388,
+      "forks": 2219,
       "currentPeriodStars": 11178,
       "builtBy": [
         {
@@ -315,8 +307,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/7582277?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:21.002Z"
+      "aiSummary": null
     },
     {
       "rank": 10,
@@ -326,8 +317,8 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8205,
-      "forks": 458,
+      "stars": 8246,
+      "forks": 459,
       "currentPeriodStars": 6707,
       "builtBy": [
         {
@@ -351,8 +342,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:21.002Z"
+      "aiSummary": null
     },
     {
       "rank": 11,
@@ -362,8 +352,8 @@
       "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 31292,
-      "forks": 5005,
+      "stars": 31317,
+      "forks": 5010,
       "currentPeriodStars": 6318,
       "builtBy": [
         {
@@ -387,8 +377,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21204817?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:21.003Z"
+      "aiSummary": null
     },
     {
       "rank": 12,
@@ -398,8 +387,8 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8164,
-      "forks": 431,
+      "stars": 8203,
+      "forks": 435,
       "currentPeriodStars": 6653,
       "builtBy": [
         {
@@ -423,8 +412,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/906180?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:21.003Z"
+      "aiSummary": null
     },
     {
       "rank": 13,
@@ -434,7 +422,7 @@
       "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12354,
+      "stars": 12372,
       "forks": 1428,
       "currentPeriodStars": 9641,
       "builtBy": [
@@ -459,8 +447,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/91596298?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:21.003Z"
+      "aiSummary": null
     },
     {
       "rank": 14,
@@ -470,8 +457,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 103460,
-      "forks": 10007,
+      "stars": 103621,
+      "forks": 10024,
       "currentPeriodStars": 39755,
       "builtBy": [
         {
@@ -495,8 +482,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1879069?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:21.004Z"
+      "aiSummary": null
     },
     {
       "rank": 15,
@@ -506,8 +492,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 27606,
-      "forks": 1850,
+      "stars": 27676,
+      "forks": 1856,
       "currentPeriodStars": 14358,
       "builtBy": [
         {
@@ -531,8 +517,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:21.004Z"
+      "aiSummary": null
     },
     {
       "rank": 16,
@@ -542,7 +527,7 @@
       "description": "Neovim AI agent done right",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 3738,
+      "stars": 3746,
       "forks": 177,
       "currentPeriodStars": 2730,
       "builtBy": [
@@ -567,8 +552,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6402997?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:21.004Z"
+      "aiSummary": null
     },
     {
       "rank": 17,
@@ -578,8 +562,8 @@
       "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9099,
-      "forks": 695,
+      "stars": 9125,
+      "forks": 696,
       "currentPeriodStars": 4655,
       "builtBy": [
         {
@@ -603,8 +587,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:21.004Z"
+      "aiSummary": null
     }
   ]
 }

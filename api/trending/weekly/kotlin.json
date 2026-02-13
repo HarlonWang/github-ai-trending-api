@@ -1,6 +1,6 @@
 {
   "count": 17,
-  "update_at": "2026-02-13 02:01:15",
+  "captured_at": "2026-02-13 06:53:59",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 18690,
-      "forks": 1481,
+      "stars": 18696,
+      "forks": 1482,
       "currentPeriodStars": 157,
       "builtBy": [
         {
@@ -35,8 +35,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/17470335?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:15.026Z"
+      "aiSummary": null
     },
     {
       "rank": 2,
@@ -46,8 +45,8 @@
       "description": "A Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 14987,
-      "forks": 3109,
+      "stars": 14990,
+      "forks": 3112,
       "currentPeriodStars": 94,
       "builtBy": [
         {
@@ -71,8 +70,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/18079988?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:15.026Z"
+      "aiSummary": null
     },
     {
       "rank": 3,
@@ -82,8 +80,8 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 50928,
-      "forks": 6925,
+      "stars": 50937,
+      "forks": 6926,
       "currentPeriodStars": 349,
       "builtBy": [
         {
@@ -107,8 +105,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/69906215?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:15.026Z"
+      "aiSummary": null
     },
     {
       "rank": 4,
@@ -118,7 +115,7 @@
       "description": "Software simulation for Android hardware-backed key pairs with key attestation",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 783,
+      "stars": 784,
       "forks": 75,
       "currentPeriodStars": 125,
       "builtBy": [
@@ -143,8 +140,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/176248111?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:15.027Z"
+      "aiSummary": null
     },
     {
       "rank": 5,
@@ -154,7 +150,7 @@
       "description": "Lightweight unofficial Steam client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2559,
+      "stars": 2566,
       "forks": 100,
       "currentPeriodStars": 254,
       "builtBy": [
@@ -179,8 +175,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/9055621?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:15.027Z"
+      "aiSummary": null
     },
     {
       "rank": 6,
@@ -215,8 +210,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/149429124?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:15.027Z"
+      "aiSummary": null
     },
     {
       "rank": 7,
@@ -226,7 +220,7 @@
       "description": "A cross-platform music app using YouTube Music for backend",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 7766,
+      "stars": 7767,
       "forks": 348,
       "currentPeriodStars": 183,
       "builtBy": [
@@ -251,8 +245,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/62717259?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:15.027Z"
+      "aiSummary": null
     },
     {
       "rank": 8,
@@ -262,7 +255,7 @@
       "description": "The Kotlin Programming Language.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 52296,
+      "stars": 52299,
       "forks": 6215,
       "currentPeriodStars": 48,
       "builtBy": [
@@ -287,8 +280,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/22503910?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:15.027Z"
+      "aiSummary": null
     },
     {
       "rank": 9,
@@ -298,8 +290,8 @@
       "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 35911,
-      "forks": 1746,
+      "stars": 35925,
+      "forks": 1748,
       "currentPeriodStars": 202,
       "builtBy": [
         {
@@ -323,8 +315,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/23419678?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:15.028Z"
+      "aiSummary": null
     },
     {
       "rank": 10,
@@ -334,7 +325,7 @@
       "description": "Browse your memories without any interruptions with this photo and video gallery",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3055,
+      "stars": 3056,
       "forks": 169,
       "currentPeriodStars": 29,
       "builtBy": [
@@ -359,8 +350,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:15.028Z"
+      "aiSummary": null
     },
     {
       "rank": 11,
@@ -370,7 +360,7 @@
       "description": "Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1844,
+      "stars": 1845,
       "forks": 402,
       "currentPeriodStars": 28,
       "builtBy": [
@@ -395,8 +385,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/110224175?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:15.028Z"
+      "aiSummary": null
     },
     {
       "rank": 12,
@@ -406,7 +395,7 @@
       "description": "Android movie streaming application — completely free and ad-free.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 327,
+      "stars": 329,
       "forks": 37,
       "currentPeriodStars": 21,
       "builtBy": [
@@ -419,8 +408,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:15.028Z"
+      "aiSummary": null
     },
     {
       "rank": 13,
@@ -455,8 +443,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6487102?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:15.028Z"
+      "aiSummary": null
     },
     {
       "rank": 14,
@@ -491,8 +478,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5739987?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:15.029Z"
+      "aiSummary": null
     },
     {
       "rank": 15,
@@ -502,7 +488,7 @@
       "description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 45554,
+      "stars": 45555,
       "forks": 11855,
       "currentPeriodStars": 24,
       "builtBy": [
@@ -527,8 +513,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/531613?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:15.029Z"
+      "aiSummary": null
     },
     {
       "rank": 16,
@@ -563,8 +548,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:15.029Z"
+      "aiSummary": null
     },
     {
       "rank": 17,
@@ -599,8 +583,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/11946570?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:15.029Z"
+      "aiSummary": null
     }
   ]
 }

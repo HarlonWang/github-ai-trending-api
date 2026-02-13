@@ -1,6 +1,6 @@
 {
   "count": 14,
-  "update_at": "2026-02-13 02:00:58",
+  "captured_at": "2026-02-13 06:53:36",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21210,
-      "forks": 2144,
+      "stars": 21314,
+      "forks": 2152,
       "currentPeriodStars": 16805,
       "builtBy": [
         {
@@ -35,8 +35,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/212406850?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:58.504Z"
+      "aiSummary": null
     },
     {
       "rank": 2,
@@ -46,8 +45,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14867,
-      "forks": 1804,
+      "stars": 14917,
+      "forks": 1807,
       "currentPeriodStars": 4197,
       "builtBy": [
         {
@@ -71,8 +70,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/218712309?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:58.504Z"
+      "aiSummary": null
     },
     {
       "rank": 3,
@@ -82,8 +80,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11270,
-      "forks": 1129,
+      "stars": 11371,
+      "forks": 1140,
       "currentPeriodStars": 4215,
       "builtBy": [
         {
@@ -107,8 +105,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/980367?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:58.511Z"
+      "aiSummary": null
     },
     {
       "rank": 4,
@@ -118,8 +115,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 27605,
-      "forks": 1850,
+      "stars": 27676,
+      "forks": 1856,
       "currentPeriodStars": 4200,
       "builtBy": [
         {
@@ -143,8 +140,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:58.511Z"
+      "aiSummary": null
     },
     {
       "rank": 5,
@@ -154,8 +150,8 @@
       "description": "一款提示词优化器，助力于编写高质量的提示词",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 20790,
-      "forks": 2524,
+      "stars": 20822,
+      "forks": 2529,
       "currentPeriodStars": 1536,
       "builtBy": [
         {
@@ -179,8 +175,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1950036?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:58.512Z"
+      "aiSummary": null
     },
     {
       "rank": 6,
@@ -190,8 +185,8 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8164,
-      "forks": 431,
+      "stars": 8203,
+      "forks": 435,
       "currentPeriodStars": 1632,
       "builtBy": [
         {
@@ -215,8 +210,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/906180?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:58.512Z"
+      "aiSummary": null
     },
     {
       "rank": 7,
@@ -226,8 +220,8 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8692,
-      "forks": 676,
+      "stars": 8719,
+      "forks": 679,
       "currentPeriodStars": 1448,
       "builtBy": [
         {
@@ -251,8 +245,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/263564?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:58.512Z"
+      "aiSummary": null
     },
     {
       "rank": 8,
@@ -262,7 +255,7 @@
       "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24551,
+      "stars": 24554,
       "forks": 2338,
       "currentPeriodStars": 255,
       "builtBy": [
@@ -287,8 +280,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:58.512Z"
+      "aiSummary": null
     },
     {
       "rank": 9,
@@ -298,7 +290,7 @@
       "description": "Copilot Chat extension for VS Code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9450,
+      "stars": 9451,
       "forks": 1644,
       "currentPeriodStars": 67,
       "builtBy": [
@@ -323,8 +315,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/25044782?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:58.512Z"
+      "aiSummary": null
     },
     {
       "rank": 10,
@@ -334,7 +325,7 @@
       "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14386,
+      "stars": 14389,
       "forks": 1541,
       "currentPeriodStars": 271,
       "builtBy": [
@@ -359,8 +350,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/52045032?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:58.513Z"
+      "aiSummary": null
     },
     {
       "rank": 11,
@@ -370,8 +360,8 @@
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 27909,
-      "forks": 2726,
+      "stars": 27935,
+      "forks": 2730,
       "currentPeriodStars": 1324,
       "builtBy": [
         {
@@ -395,8 +385,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/24872439?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:58.513Z"
+      "aiSummary": null
     },
     {
       "rank": 12,
@@ -406,8 +395,8 @@
       "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 2587,
-      "forks": 173,
+      "stars": 2589,
+      "forks": 174,
       "currentPeriodStars": 962,
       "builtBy": [
         {
@@ -431,8 +420,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/631189?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:58.513Z"
+      "aiSummary": null
     },
     {
       "rank": 13,
@@ -442,7 +430,7 @@
       "description": "Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :)",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9199,
+      "stars": 9203,
       "forks": 662,
       "currentPeriodStars": 164,
       "builtBy": [
@@ -467,8 +455,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:58.514Z"
+      "aiSummary": null
     },
     {
       "rank": 14,
@@ -478,8 +465,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15399,
-      "forks": 1168,
+      "stars": 15513,
+      "forks": 1175,
       "currentPeriodStars": 2976,
       "builtBy": [
         {
@@ -503,8 +490,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:58.514Z"
+      "aiSummary": null
     }
   ]
 }

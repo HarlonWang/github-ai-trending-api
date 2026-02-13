@@ -1,6 +1,6 @@
 {
   "count": 24,
-  "update_at": "2026-02-13 02:01:58",
+  "captured_at": "2026-02-13 06:54:34",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "MLX: An array framework for Apple silicon",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 23909,
-      "forks": 1508,
+      "stars": 23914,
+      "forks": 1509,
       "currentPeriodStars": 509,
       "builtBy": [
         {
@@ -35,8 +35,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/12023682?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.006Z"
+      "aiSummary": null
     },
     {
       "rank": 2,
@@ -46,7 +45,7 @@
       "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18642,
+      "stars": 18650,
       "forks": 1652,
       "currentPeriodStars": 1814,
       "builtBy": [
@@ -71,8 +70,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1184344?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.006Z"
+      "aiSummary": null
     },
     {
       "rank": 3,
@@ -82,7 +80,7 @@
       "description": "PC Software for BambuLab and other 3D printers",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4005,
+      "stars": 4006,
       "forks": 621,
       "currentPeriodStars": 363,
       "builtBy": [
@@ -107,8 +105,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/139755545?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.006Z"
+      "aiSummary": null
     },
     {
       "rank": 4,
@@ -143,8 +140,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/30120687?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.006Z"
+      "aiSummary": null
     },
     {
       "rank": 5,
@@ -154,7 +150,7 @@
       "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12480,
+      "stars": 12481,
       "forks": 984,
       "currentPeriodStars": 534,
       "builtBy": [
@@ -179,8 +175,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/192296276?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.006Z"
+      "aiSummary": null
     },
     {
       "rank": 6,
@@ -190,8 +185,8 @@
       "description": "Port of OpenAI's Whisper model in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 46693,
-      "forks": 5202,
+      "stars": 46701,
+      "forks": 5203,
       "currentPeriodStars": 1095,
       "builtBy": [
         {
@@ -215,8 +210,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/432351?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.007Z"
+      "aiSummary": null
     },
     {
       "rank": 7,
@@ -226,8 +220,8 @@
       "description": "Notepad++ official repository",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 27121,
-      "forks": 5102,
+      "stars": 27126,
+      "forks": 5103,
       "currentPeriodStars": 487,
       "builtBy": [
         {
@@ -251,8 +245,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/12630740?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.007Z"
+      "aiSummary": null
     },
     {
       "rank": 8,
@@ -262,8 +255,8 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 106606,
-      "forks": 24311,
+      "stars": 106615,
+      "forks": 24316,
       "currentPeriodStars": 1526,
       "builtBy": [
         {
@@ -287,8 +280,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/7645683?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.007Z"
+      "aiSummary": null
     },
     {
       "rank": 9,
@@ -323,8 +315,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/16929048?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.007Z"
+      "aiSummary": null
     },
     {
       "rank": 10,
@@ -334,7 +325,7 @@
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 101804,
+      "stars": 101805,
       "forks": 9069,
       "currentPeriodStars": 612,
       "builtBy": [
@@ -359,8 +350,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/18221333?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.007Z"
+      "aiSummary": null
     },
     {
       "rank": 11,
@@ -395,8 +385,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2734550?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.008Z"
+      "aiSummary": null
     },
     {
       "rank": 12,
@@ -406,7 +395,7 @@
       "description": "Official Transmission BitTorrent client repository",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14251,
+      "stars": 14252,
       "forks": 1340,
       "currentPeriodStars": 361,
       "builtBy": [
@@ -431,8 +420,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/22149508?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.008Z"
+      "aiSummary": null
     },
     {
       "rank": 13,
@@ -442,8 +430,8 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 94941,
-      "forks": 14890,
+      "stars": 94952,
+      "forks": 14893,
       "currentPeriodStars": 2376,
       "builtBy": [
         {
@@ -467,8 +455,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1629204?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.008Z"
+      "aiSummary": null
     },
     {
       "rank": 14,
@@ -503,8 +490,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/29044423?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.009Z"
+      "aiSummary": null
     },
     {
       "rank": 15,
@@ -514,7 +500,7 @@
       "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 77138,
+      "stars": 77137,
       "forks": 8327,
       "currentPeriodStars": 264,
       "builtBy": [
@@ -539,8 +525,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/169252?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.009Z"
+      "aiSummary": null
     },
     {
       "rank": 16,
@@ -550,7 +535,7 @@
       "description": "PlayStation 3 emulator and debugger",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18156,
+      "stars": 18158,
       "forks": 2209,
       "currentPeriodStars": 222,
       "builtBy": [
@@ -575,8 +560,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6031700?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.009Z"
+      "aiSummary": null
     },
     {
       "rank": 17,
@@ -611,8 +595,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2893260?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.009Z"
+      "aiSummary": null
     },
     {
       "rank": 18,
@@ -647,8 +630,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/48618519?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.009Z"
+      "aiSummary": null
     },
     {
       "rank": 19,
@@ -658,8 +640,8 @@
       "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 70678,
-      "forks": 16028,
+      "stars": 70679,
+      "forks": 16029,
       "currentPeriodStars": 469,
       "builtBy": [
         {
@@ -683,8 +665,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/8551050?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.010Z"
+      "aiSummary": null
     },
     {
       "rank": 20,
@@ -694,7 +675,7 @@
       "description": "A free and strong UCI chess engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14748,
+      "stars": 14749,
       "forks": 2775,
       "currentPeriodStars": 298,
       "builtBy": [
@@ -719,8 +700,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/26898827?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.010Z"
+      "aiSummary": null
     },
     {
       "rank": 21,
@@ -730,7 +710,7 @@
       "description": "Cross-platform, customizable ML solutions for live and streaming media.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 33759,
+      "stars": 33762,
       "forks": 5793,
       "currentPeriodStars": 819,
       "builtBy": [
@@ -755,8 +735,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/196272?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.010Z"
+      "aiSummary": null
     },
     {
       "rank": 22,
@@ -791,8 +770,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/11192474?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.010Z"
+      "aiSummary": null
     },
     {
       "rank": 23,
@@ -827,8 +805,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6609531?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.010Z"
+      "aiSummary": null
     },
     {
       "rank": 24,
@@ -838,8 +815,8 @@
       "description": "DuckDB is an analytical in-process SQL database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 36063,
-      "forks": 2925,
+      "stars": 36066,
+      "forks": 2926,
       "currentPeriodStars": 767,
       "builtBy": [
         {
@@ -863,8 +840,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/44262898?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:58.010Z"
+      "aiSummary": null
     }
   ]
 }

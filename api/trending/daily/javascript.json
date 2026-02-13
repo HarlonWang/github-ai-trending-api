@@ -1,6 +1,6 @@
 {
   "count": 13,
-  "update_at": "2026-02-13 01:59:45",
+  "captured_at": "2026-02-13 06:52:30",
   "data": [
     {
       "rank": 1,
@@ -35,8 +35,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21248684?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:45.259Z"
+      "aiSummary": null
     },
     {
       "rank": 2,
@@ -46,8 +45,8 @@
       "description": "Introduction to Machine Learning Systems",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 18155,
-      "forks": 2128,
+      "stars": 18162,
+      "forks": 2130,
       "currentPeriodStars": 63,
       "builtBy": [
         {
@@ -71,8 +70,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/17109416?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:45.259Z"
+      "aiSummary": null
     },
     {
       "rank": 3,
@@ -82,7 +80,7 @@
       "description": "The iconic SVG, font, and CSS toolkit",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 76334,
+      "stars": 76336,
       "forks": 12254,
       "currentPeriodStars": 10,
       "builtBy": [
@@ -107,8 +105,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/11575183?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:45.260Z"
+      "aiSummary": null
     },
     {
       "rank": 4,
@@ -119,7 +116,7 @@
       "language": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": 51808,
-      "forks": 11331,
+      "forks": 11330,
       "currentPeriodStars": 11,
       "builtBy": [
         {
@@ -143,8 +140,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/964245?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:45.260Z"
+      "aiSummary": null
     },
     {
       "rank": 5,
@@ -179,8 +175,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4424977?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:45.261Z"
+      "aiSummary": null
     },
     {
       "rank": 6,
@@ -190,8 +185,8 @@
       "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 11937,
-      "forks": 3354,
+      "stars": 11939,
+      "forks": 3355,
       "currentPeriodStars": 3,
       "builtBy": [
         {
@@ -215,8 +210,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/8293321?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:45.261Z"
+      "aiSummary": null
     },
     {
       "rank": 7,
@@ -227,7 +221,7 @@
       "language": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": 11511,
-      "forks": 1181,
+      "forks": 1182,
       "currentPeriodStars": 9,
       "builtBy": [
         {
@@ -251,8 +245,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/16878981?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:45.262Z"
+      "aiSummary": null
     },
     {
       "rank": 8,
@@ -262,7 +255,7 @@
       "description": "The open source server management software for SSH, VNC & RDP",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 3907,
+      "stars": 3920,
       "forks": 207,
       "currentPeriodStars": 60,
       "builtBy": [
@@ -287,8 +280,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/23132187?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:45.262Z"
+      "aiSummary": null
     },
     {
       "rank": 9,
@@ -298,8 +290,8 @@
       "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 97800,
-      "forks": 32766,
+      "stars": 97805,
+      "forks": 32765,
       "currentPeriodStars": 9,
       "builtBy": [
         {
@@ -323,8 +315,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/12292047?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:45.263Z"
+      "aiSummary": null
     },
     {
       "rank": 10,
@@ -334,7 +325,7 @@
       "description": "mailcow: dockerized - 🐮 + 🐋 = 💕",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 12127,
+      "stars": 12131,
       "forks": 1605,
       "currentPeriodStars": 8,
       "builtBy": [
@@ -359,8 +350,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/3279213?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:45.263Z"
+      "aiSummary": null
     },
     {
       "rank": 11,
@@ -370,7 +360,7 @@
       "description": "一个全新的，强大的AI-API-工具交互范式AGI社群系统。独立多Agent封装，非线性超异步工作流，交叉记忆网络，六大插件协议，完整Websocket和WebDav功能，支持分布式部署和算力均衡！",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 1020,
+      "stars": 1024,
       "forks": 183,
       "currentPeriodStars": 9,
       "builtBy": [
@@ -395,8 +385,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/59203617?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:45.263Z"
+      "aiSummary": null
     },
     {
       "rank": 12,
@@ -406,7 +395,7 @@
       "description": "Simple HTML5 Charts using the <canvas> tag",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 67133,
+      "stars": 67136,
       "forks": 11991,
       "currentPeriodStars": 10,
       "builtBy": [
@@ -431,8 +420,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/39033624?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:45.264Z"
+      "aiSummary": null
     },
     {
       "rank": 13,
@@ -442,8 +430,8 @@
       "description": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 11092,
-      "forks": 14401,
+      "stars": 11093,
+      "forks": 14404,
       "currentPeriodStars": 7,
       "builtBy": [
         {
@@ -467,8 +455,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/114851291?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T01:59:45.264Z"
+      "aiSummary": null
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "count": 23,
-  "update_at": "2026-02-13 02:00:49",
+  "captured_at": "2026-02-13 06:53:28",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2022,
-      "forks": 141,
+      "stars": 2061,
+      "forks": 146,
       "currentPeriodStars": 1594,
       "builtBy": [
         {
@@ -35,8 +35,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.259Z"
+      "aiSummary": null
     },
     {
       "rank": 2,
@@ -46,8 +45,8 @@
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8562,
-      "forks": 720,
+      "stars": 8565,
+      "forks": 721,
       "currentPeriodStars": 151,
       "builtBy": [
         {
@@ -71,8 +70,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/8717479?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.259Z"
+      "aiSummary": null
     },
     {
       "rank": 3,
@@ -82,7 +80,7 @@
       "description": "Open-source media server with a web interface and desktop app for anime and manga.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2817,
+      "stars": 2820,
       "forks": 179,
       "currentPeriodStars": 207,
       "builtBy": [
@@ -107,8 +105,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/32774211?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.260Z"
+      "aiSummary": null
     },
     {
       "rank": 4,
@@ -118,8 +115,8 @@
       "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 162484,
-      "forks": 14567,
+      "stars": 162499,
+      "forks": 14569,
       "currentPeriodStars": 756,
       "builtBy": [
         {
@@ -143,8 +140,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6468499?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.260Z"
+      "aiSummary": null
     },
     {
       "rank": 5,
@@ -154,7 +150,7 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 31889,
+      "stars": 31893,
       "forks": 2948,
       "currentPeriodStars": 606,
       "builtBy": [
@@ -179,8 +175,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1254783?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.261Z"
+      "aiSummary": null
     },
     {
       "rank": 6,
@@ -190,8 +185,8 @@
       "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7427,
-      "forks": 1179,
+      "stars": 7430,
+      "forks": 1181,
       "currentPeriodStars": 144,
       "builtBy": [
         {
@@ -215,8 +210,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/115543613?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.261Z"
+      "aiSummary": null
     },
     {
       "rank": 7,
@@ -226,7 +220,7 @@
       "description": "Container runtimes on macOS (and Linux) with minimal setup",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26883,
+      "stars": 26886,
       "forks": 530,
       "currentPeriodStars": 209,
       "builtBy": [
@@ -251,8 +245,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4974968?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.262Z"
+      "aiSummary": null
     },
     {
       "rank": 8,
@@ -287,8 +280,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.262Z"
+      "aiSummary": null
     },
     {
       "rank": 9,
@@ -298,7 +290,7 @@
       "description": "An open source, self-hosted implementation of the Tailscale control server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35282,
+      "stars": 35298,
       "forks": 1899,
       "currentPeriodStars": 361,
       "builtBy": [
@@ -319,8 +311,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4344371?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.262Z"
+      "aiSummary": null
     },
     {
       "rank": 10,
@@ -330,8 +321,8 @@
       "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 87982,
-      "forks": 8560,
+      "stars": 87983,
+      "forks": 8559,
       "currentPeriodStars": 98,
       "builtBy": [
         {
@@ -355,8 +346,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.263Z"
+      "aiSummary": null
     },
     {
       "rank": 11,
@@ -366,8 +356,8 @@
       "description": "Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4405,
-      "forks": 181,
+      "stars": 4429,
+      "forks": 185,
       "currentPeriodStars": 340,
       "builtBy": [
         {
@@ -391,8 +381,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.263Z"
+      "aiSummary": null
     },
     {
       "rank": 12,
@@ -402,7 +391,7 @@
       "description": "Declarative schema migrations with schema-as-code workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8079,
+      "stars": 8080,
       "forks": 337,
       "currentPeriodStars": 56,
       "builtBy": [
@@ -427,8 +416,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/73284641?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.263Z"
+      "aiSummary": null
     },
     {
       "rank": 13,
@@ -438,7 +426,7 @@
       "description": "Fast, secure, efficient backup program",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 32208,
+      "stars": 32210,
       "forks": 1715,
       "currentPeriodStars": 122,
       "builtBy": [
@@ -463,8 +451,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/61184462?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.264Z"
+      "aiSummary": null
     },
     {
       "rank": 14,
@@ -474,8 +461,8 @@
       "description": "Open Source Continuous File Synchronization",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 79861,
-      "forks": 4928,
+      "stars": 79863,
+      "forks": 4930,
       "currentPeriodStars": 213,
       "builtBy": [
         {
@@ -499,8 +486,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5626656?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.264Z"
+      "aiSummary": null
     },
     {
       "rank": 15,
@@ -535,8 +521,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/19392133?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.265Z"
+      "aiSummary": null
     },
     {
       "rank": 16,
@@ -571,8 +556,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/623453?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.265Z"
+      "aiSummary": null
     },
     {
       "rank": 17,
@@ -582,7 +566,7 @@
       "description": "simple terminal UI for git commands",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 72249,
+      "stars": 72259,
       "forks": 2504,
       "currentPeriodStars": 541,
       "builtBy": [
@@ -607,8 +591,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/10097437?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.266Z"
+      "aiSummary": null
     },
     {
       "rank": 18,
@@ -643,8 +626,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5417586?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.266Z"
+      "aiSummary": null
     },
     {
       "rank": 19,
@@ -654,7 +636,7 @@
       "description": "⚡️ Express inspired web framework written in Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 39200,
+      "stars": 39201,
       "forks": 1956,
       "currentPeriodStars": 103,
       "builtBy": [
@@ -679,8 +661,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.267Z"
+      "aiSummary": null
     },
     {
       "rank": 20,
@@ -715,8 +696,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/538008?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.268Z"
+      "aiSummary": null
     },
     {
       "rank": 21,
@@ -726,8 +706,8 @@
       "description": "Production-Grade Container Scheduling and Management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 120461,
-      "forks": 42446,
+      "stars": 120467,
+      "forks": 42449,
       "currentPeriodStars": 190,
       "builtBy": [
         {
@@ -751,8 +731,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5751682?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.268Z"
+      "aiSummary": null
     },
     {
       "rank": 22,
@@ -762,7 +741,7 @@
       "description": "Send push notifications to your phone or desktop using PUT/POST",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28718,
+      "stars": 28721,
       "forks": 1177,
       "currentPeriodStars": 128,
       "builtBy": [
@@ -787,8 +766,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/32671690?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.268Z"
+      "aiSummary": null
     },
     {
       "rank": 23,
@@ -823,8 +801,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/97820?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:00:49.269Z"
+      "aiSummary": null
     }
   ]
 }

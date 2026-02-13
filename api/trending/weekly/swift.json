@@ -1,6 +1,6 @@
 {
   "count": 21,
-  "update_at": "2026-02-13 02:01:10",
+  "captured_at": "2026-02-13 06:53:54",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 24390,
-      "forks": 638,
+      "stars": 24401,
+      "forks": 639,
       "currentPeriodStars": 333,
       "builtBy": [
         {
@@ -35,8 +35,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/10784159?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.956Z"
+      "aiSummary": null
     },
     {
       "rank": 2,
@@ -46,7 +45,7 @@
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 5546,
+      "stars": 5554,
       "forks": 361,
       "currentPeriodStars": 881,
       "builtBy": [
@@ -71,8 +70,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/98406377?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.956Z"
+      "aiSummary": null
     },
     {
       "rank": 3,
@@ -82,7 +80,7 @@
       "description": "macOS system monitor in your menu bar",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 36422,
+      "stars": 36424,
       "forks": 1179,
       "currentPeriodStars": 219,
       "builtBy": [
@@ -107,8 +105,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21986946?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.956Z"
+      "aiSummary": null
     },
     {
       "rank": 4,
@@ -118,8 +115,8 @@
       "description": "RSS reader for macOS and iOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 9671,
-      "forks": 646,
+      "stars": 9673,
+      "forks": 645,
       "currentPeriodStars": 93,
       "builtBy": [
         {
@@ -143,8 +140,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/567949?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.956Z"
+      "aiSummary": null
     },
     {
       "rank": 5,
@@ -154,7 +150,7 @@
       "description": "AltStore is an alternative app store for non-jailbroken iOS devices.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 13510,
+      "stars": 13513,
       "forks": 1224,
       "currentPeriodStars": 56,
       "builtBy": [
@@ -179,8 +175,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/26331126?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.957Z"
+      "aiSummary": null
     },
     {
       "rank": 6,
@@ -190,7 +185,7 @@
       "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3707,
+      "stars": 3711,
       "forks": 471,
       "currentPeriodStars": 134,
       "builtBy": [
@@ -215,8 +210,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1684106?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.957Z"
+      "aiSummary": null
     },
     {
       "rank": 7,
@@ -226,7 +220,7 @@
       "description": "A Swift command line tool for generating your Xcode project",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8115,
+      "stars": 8117,
       "forks": 871,
       "currentPeriodStars": 64,
       "builtBy": [
@@ -251,8 +245,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/147051?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.957Z"
+      "aiSummary": null
     },
     {
       "rank": 8,
@@ -287,8 +280,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/12073163?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.958Z"
+      "aiSummary": null
     },
     {
       "rank": 9,
@@ -299,7 +291,7 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": 5670,
-      "forks": 1737,
+      "forks": 1738,
       "currentPeriodStars": 36,
       "builtBy": [
         {
@@ -319,8 +311,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/144845785?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.958Z"
+      "aiSummary": null
     },
     {
       "rank": 10,
@@ -330,7 +321,7 @@
       "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14339,
+      "stars": 14340,
       "forks": 1635,
       "currentPeriodStars": 32,
       "builtBy": [
@@ -355,8 +346,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/71127966?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.958Z"
+      "aiSummary": null
     },
     {
       "rank": 11,
@@ -366,7 +356,7 @@
       "description": "A modular Swift SDK for audio processing with MLX on Apple Silicon",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 194,
+      "stars": 196,
       "forks": 22,
       "currentPeriodStars": 109,
       "builtBy": [
@@ -391,8 +381,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.958Z"
+      "aiSummary": null
     },
     {
       "rank": 12,
@@ -402,7 +391,7 @@
       "description": "AeroSpace is an i3-like tiling window manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 18838,
+      "stars": 18843,
       "forks": 419,
       "currentPeriodStars": 173,
       "builtBy": [
@@ -427,8 +416,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4019880?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.959Z"
+      "aiSummary": null
     },
     {
       "rank": 13,
@@ -438,7 +426,7 @@
       "description": "💧 A server-side Swift HTTP web framework.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 25968,
+      "stars": 25969,
       "forks": 1520,
       "currentPeriodStars": 23,
       "builtBy": [
@@ -463,8 +451,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1130717?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.959Z"
+      "aiSummary": null
     },
     {
       "rank": 14,
@@ -474,7 +461,7 @@
       "description": "Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 7326,
+      "stars": 7328,
       "forks": 187,
       "currentPeriodStars": 73,
       "builtBy": [
@@ -499,8 +486,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/507442?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.959Z"
+      "aiSummary": null
     },
     {
       "rank": 15,
@@ -510,7 +496,7 @@
       "description": "Community fork of PlayCover",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 10840,
+      "stars": 10841,
       "forks": 891,
       "currentPeriodStars": 78,
       "builtBy": [
@@ -535,8 +521,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/371475?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.959Z"
+      "aiSummary": null
     },
     {
       "rank": 16,
@@ -546,8 +531,8 @@
       "description": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8024,
-      "forks": 3687,
+      "stars": 8025,
+      "forks": 3688,
       "currentPeriodStars": 4,
       "builtBy": [
         {
@@ -571,8 +556,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/48967250?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.959Z"
+      "aiSummary": null
     },
     {
       "rank": 17,
@@ -582,7 +566,7 @@
       "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1067,
+      "stars": 1071,
       "forks": 59,
       "currentPeriodStars": 88,
       "builtBy": [
@@ -607,8 +591,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.960Z"
+      "aiSummary": null
     },
     {
       "rank": 18,
@@ -618,7 +601,7 @@
       "description": "A tool to enforce Swift style and conventions.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 19449,
+      "stars": 19450,
       "forks": 2280,
       "currentPeriodStars": 19,
       "builtBy": [
@@ -643,8 +626,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/19753339?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.960Z"
+      "aiSummary": null
     },
     {
       "rank": 19,
@@ -654,7 +636,7 @@
       "description": "A toolkit to make debugging iOS applications easier 🚀",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1242,
+      "stars": 1248,
       "forks": 117,
       "currentPeriodStars": 195,
       "builtBy": [
@@ -679,8 +661,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/38084757?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.960Z"
+      "aiSummary": null
     },
     {
       "rank": 20,
@@ -690,7 +671,7 @@
       "description": "Commonly used data structures for Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 4333,
+      "stars": 4334,
       "forks": 361,
       "currentPeriodStars": 10,
       "builtBy": [
@@ -715,8 +696,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/63311?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.960Z"
+      "aiSummary": null
     },
     {
       "rank": 21,
@@ -727,7 +707,7 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": 2133,
-      "forks": 9535,
+      "forks": 9537,
       "currentPeriodStars": 22,
       "builtBy": [
         {
@@ -751,8 +731,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/54180773?s=40&v=4"
         }
       ],
-      "since": "weekly",
-      "fetchedAt": "2026-02-13T02:01:10.960Z"
+      "aiSummary": null
     }
   ]
 }

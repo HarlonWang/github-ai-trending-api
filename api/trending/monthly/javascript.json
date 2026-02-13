@@ -1,6 +1,6 @@
 {
   "count": 15,
-  "update_at": "2026-02-13 02:01:31",
+  "captured_at": "2026-02-13 06:54:12",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 20056,
-      "forks": 1832,
+      "stars": 20105,
+      "forks": 1833,
       "currentPeriodStars": 20027,
       "builtBy": [
         {
@@ -35,8 +35,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/517210?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:31.663Z"
+      "aiSummary": null
     },
     {
       "rank": 2,
@@ -46,8 +45,8 @@
       "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程技巧、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 6791,
-      "forks": 752,
+      "stars": 6802,
+      "forks": 753,
       "currentPeriodStars": 5839,
       "builtBy": [
         {
@@ -71,8 +70,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/38686919?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:31.663Z"
+      "aiSummary": null
     },
     {
       "rank": 3,
@@ -82,8 +80,8 @@
       "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 21052,
-      "forks": 2410,
+      "stars": 21074,
+      "forks": 2417,
       "currentPeriodStars": 3885,
       "builtBy": [
         {
@@ -107,8 +105,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/10998676?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:31.663Z"
+      "aiSummary": null
     },
     {
       "rank": 4,
@@ -118,8 +115,8 @@
       "description": "Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 3982,
-      "forks": 631,
+      "stars": 3988,
+      "forks": 632,
       "currentPeriodStars": 1442,
       "builtBy": [
         {
@@ -143,8 +140,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/10543415?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:31.663Z"
+      "aiSummary": null
     },
     {
       "rank": 5,
@@ -154,7 +150,7 @@
       "description": "MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 1774,
+      "stars": 1776,
       "forks": 200,
       "currentPeriodStars": 408,
       "builtBy": [
@@ -179,8 +175,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/15715354?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:31.663Z"
+      "aiSummary": null
     },
     {
       "rank": 6,
@@ -191,7 +186,7 @@
       "language": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": 59844,
-      "forks": 20495,
+      "forks": 20496,
       "currentPeriodStars": 215,
       "builtBy": [
         {
@@ -215,8 +210,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/52585?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:31.664Z"
+      "aiSummary": null
     },
     {
       "rank": 7,
@@ -226,8 +220,8 @@
       "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 21168,
-      "forks": 4859,
+      "stars": 21169,
+      "forks": 4858,
       "currentPeriodStars": 690,
       "builtBy": [
         {
@@ -251,8 +245,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/168232825?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:31.664Z"
+      "aiSummary": null
     },
     {
       "rank": 8,
@@ -262,7 +255,7 @@
       "description": "Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 6198,
+      "stars": 6205,
       "forks": 816,
       "currentPeriodStars": 789,
       "builtBy": [
@@ -287,8 +280,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/13134193?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:31.665Z"
+      "aiSummary": null
     },
     {
       "rank": 9,
@@ -298,8 +290,8 @@
       "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 44213,
-      "forks": 2990,
+      "stars": 44215,
+      "forks": 2991,
       "currentPeriodStars": 397,
       "builtBy": [
         {
@@ -323,8 +315,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/14790466?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:31.665Z"
+      "aiSummary": null
     },
     {
       "rank": 10,
@@ -334,8 +325,8 @@
       "description": "📱 Display and control your Android device graphically with scrcpy.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 8110,
-      "forks": 594,
+      "stars": 8116,
+      "forks": 596,
       "currentPeriodStars": 834,
       "builtBy": [
         {
@@ -359,8 +350,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/74181508?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:31.666Z"
+      "aiSummary": null
     },
     {
       "rank": 11,
@@ -370,7 +360,7 @@
       "description": "Find and fix problems in your JavaScript code.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 26891,
+      "stars": 26894,
       "forks": 4903,
       "currentPeriodStars": 136,
       "builtBy": [
@@ -395,8 +385,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1937871?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:31.666Z"
+      "aiSummary": null
     },
     {
       "rank": 12,
@@ -406,7 +395,7 @@
       "description": "Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 1676,
+      "stars": 1677,
       "forks": 96,
       "currentPeriodStars": 449,
       "builtBy": [
@@ -423,8 +412,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6791940?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:31.666Z"
+      "aiSummary": null
     },
     {
       "rank": 13,
@@ -434,7 +422,7 @@
       "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 53812,
+      "stars": 53816,
       "forks": 3983,
       "currentPeriodStars": 725,
       "builtBy": [
@@ -459,8 +447,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/18595761?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:31.667Z"
+      "aiSummary": null
     },
     {
       "rank": 14,
@@ -470,7 +457,7 @@
       "description": "JavaScript animation engine",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 66490,
+      "stars": 66491,
       "forks": 4446,
       "currentPeriodStars": 741,
       "builtBy": [
@@ -495,8 +482,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/404216?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:31.667Z"
+      "aiSummary": null
     },
     {
       "rank": 15,
@@ -506,7 +492,7 @@
       "description": "💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 17210,
+      "stars": 17211,
       "forks": 971,
       "currentPeriodStars": 184,
       "builtBy": [
@@ -531,8 +517,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5383890?s=40&v=4"
         }
       ],
-      "since": "monthly",
-      "fetchedAt": "2026-02-13T02:01:31.667Z"
+      "aiSummary": null
     }
   ]
 }

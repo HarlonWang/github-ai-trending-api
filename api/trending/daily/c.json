@@ -1,6 +1,6 @@
 {
   "count": 21,
-  "update_at": "2026-02-13 02:00:15",
+  "captured_at": "2026-02-13 06:52:58",
   "data": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 72912,
+      "stars": 72918,
       "forks": 24490,
       "currentPeriodStars": 26,
       "builtBy": [
@@ -35,8 +35,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/965798?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.453Z"
+      "aiSummary": null
     },
     {
       "rank": 2,
@@ -46,8 +45,8 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5783,
-      "forks": 993,
+      "stars": 5788,
+      "forks": 994,
       "currentPeriodStars": 48,
       "builtBy": [
         {
@@ -71,8 +70,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6404829?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.454Z"
+      "aiSummary": null
     },
     {
       "rank": 3,
@@ -83,7 +81,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 14457,
-      "forks": 8653,
+      "forks": 8652,
       "currentPeriodStars": 6,
       "builtBy": [
         {
@@ -107,8 +105,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6350656?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.454Z"
+      "aiSummary": null
     },
     {
       "rank": 4,
@@ -143,8 +140,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/3628530?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.454Z"
+      "aiSummary": null
     },
     {
       "rank": 5,
@@ -154,8 +150,8 @@
       "description": "Display and control your Android device",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 135559,
-      "forks": 12638,
+      "stars": 135577,
+      "forks": 12641,
       "currentPeriodStars": 54,
       "builtBy": [
         {
@@ -179,8 +175,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2694559?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.455Z"
+      "aiSummary": null
     },
     {
       "rank": 6,
@@ -190,7 +185,7 @@
       "description": "stb single-file public domain libraries for C/C++",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 32490,
+      "stars": 32492,
       "forks": 8009,
       "currentPeriodStars": 15,
       "builtBy": [
@@ -215,8 +210,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/7214365?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.455Z"
+      "aiSummary": null
     },
     {
       "rank": 7,
@@ -226,7 +220,7 @@
       "description": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 10104,
+      "stars": 10105,
       "forks": 1219,
       "currentPeriodStars": 2,
       "builtBy": [
@@ -251,8 +245,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/46604?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.455Z"
+      "aiSummary": null
     },
     {
       "rank": 8,
@@ -262,7 +255,7 @@
       "description": "🎥 Command line media player",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 34013,
+      "stars": 34015,
       "forks": 3228,
       "currentPeriodStars": 27,
       "builtBy": [
@@ -287,8 +280,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/24681?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.456Z"
+      "aiSummary": null
     },
     {
       "rank": 9,
@@ -298,7 +290,7 @@
       "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17314,
+      "stars": 17316,
       "forks": 8106,
       "currentPeriodStars": 4,
       "builtBy": [
@@ -323,8 +315,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/902446?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.456Z"
+      "aiSummary": null
     },
     {
       "rank": 10,
@@ -334,7 +325,7 @@
       "description": "mimalloc is a compact general purpose allocator with excellent performance.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12476,
+      "stars": 12477,
       "forks": 1055,
       "currentPeriodStars": 6,
       "builtBy": [
@@ -359,8 +350,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/67392?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.457Z"
+      "aiSummary": null
     },
     {
       "rank": 11,
@@ -370,7 +360,7 @@
       "description": "A C Compiler that fits in the 512 byte boot sector of an x86 machine",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1809,
+      "stars": 1812,
       "forks": 78,
       "currentPeriodStars": 8,
       "builtBy": [
@@ -395,8 +385,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/49880817?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.457Z"
+      "aiSummary": null
     },
     {
       "rank": 12,
@@ -431,8 +420,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/335383?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.458Z"
+      "aiSummary": null
     },
     {
       "rank": 13,
@@ -442,7 +430,7 @@
       "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14719,
+      "stars": 14720,
       "forks": 2157,
       "currentPeriodStars": 18,
       "builtBy": [
@@ -467,8 +455,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/14975138?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.458Z"
+      "aiSummary": null
     },
     {
       "rank": 14,
@@ -478,7 +465,7 @@
       "description": "An open source cross-platform USB stack for embedded system",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6509,
+      "stars": 6510,
       "forks": 1357,
       "currentPeriodStars": 7,
       "builtBy": [
@@ -503,8 +490,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6418027?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.459Z"
+      "aiSummary": null
     },
     {
       "rank": 15,
@@ -539,8 +525,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/24749346?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.459Z"
+      "aiSummary": null
     },
     {
       "rank": 16,
@@ -575,8 +560,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/59873510?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.460Z"
+      "aiSummary": null
     },
     {
       "rank": 17,
@@ -586,7 +570,7 @@
       "description": "anti-dpi software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1594,
+      "stars": 1596,
       "forks": 49,
       "currentPeriodStars": 27,
       "builtBy": [
@@ -599,8 +583,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/50713272?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.460Z"
+      "aiSummary": null
     },
     {
       "rank": 18,
@@ -610,7 +593,7 @@
       "description": "A cross-platform, linkable library implementation of Git that you can use in your application.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 10328,
+      "stars": 10329,
       "forks": 2568,
       "currentPeriodStars": 2,
       "builtBy": [
@@ -635,8 +618,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/92363?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.461Z"
+      "aiSummary": null
     },
     {
       "rank": 19,
@@ -671,8 +653,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6824784?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.461Z"
+      "aiSummary": null
     },
     {
       "rank": 20,
@@ -682,7 +663,7 @@
       "description": "This project aims to enhance the working environment on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 31519,
+      "stars": 31529,
       "forks": 1282,
       "currentPeriodStars": 20,
       "builtBy": [
@@ -707,8 +688,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/29201475?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.462Z"
+      "aiSummary": null
     },
     {
       "rank": 21,
@@ -718,7 +698,7 @@
       "description": "Xash3D FWGS engine",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2353,
+      "stars": 2354,
       "forks": 377,
       "currentPeriodStars": 5,
       "builtBy": [
@@ -743,8 +723,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2997482?s=40&v=4"
         }
       ],
-      "since": "daily",
-      "fetchedAt": "2026-02-13T02:00:15.462Z"
+      "aiSummary": null
     }
   ]
 }
