@@ -1,43 +1,43 @@
 {
-  "count": 13,
+  "count": 15,
   "since": "daily",
-  "captured_at": "2026-02-13 09:56:50",
+  "captured_at": "2026-02-13 12:18:37",
   "data": [
     {
       "rank": 1,
-      "author": "tambo-ai",
-      "repoName": "tambo",
-      "url": "https://github.com/tambo-ai/tambo",
-      "description": "Generative UI SDK for React",
+      "author": "ChromeDevTools",
+      "repoName": "chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9278,
-      "forks": 448,
-      "currentPeriodStars": 300,
+      "stars": 24555,
+      "forks": 1461,
+      "currentPeriodStars": 436,
       "builtBy": [
+        {
+          "username": "OrKoN",
+          "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4"
+        },
         {
           "username": "apps/dependabot",
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "alecf",
-          "avatar": "https://avatars.githubusercontent.com/u/135340?s=40&v=4"
+          "username": "Lightning00Blade",
+          "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&v=4"
         },
         {
-          "username": "MichaelMilstead",
-          "avatar": "https://avatars.githubusercontent.com/u/8498335?s=40&v=4"
+          "username": "browser-automation-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&v=4"
         },
         {
-          "username": "tambo-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/230265268?s=40&v=4"
-        },
-        {
-          "username": "akhileshrangani4",
-          "avatar": "https://avatars.githubusercontent.com/u/70284178?s=40&v=4"
+          "username": "szuend",
+          "avatar": "https://avatars.githubusercontent.com/u/325588?s=40&v=4"
         }
       ],
       "aiSummary": {
-        "content": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，解决了手动处理流式输出与状态同步的复杂度，提升了开发效率。",
+        "content": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。",
         "source": "deepseek"
       }
     },
@@ -49,8 +49,8 @@
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 7757,
-      "forks": 1107,
+      "stars": 7793,
+      "forks": 1109,
       "currentPeriodStars": 351,
       "builtBy": [
         {
@@ -81,90 +81,49 @@
     },
     {
       "rank": 3,
-      "author": "ChromeDevTools",
-      "repoName": "chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
+      "author": "CyberTimon",
+      "repoName": "RapidRAW",
+      "url": "https://github.com/CyberTimon/RapidRAW",
+      "description": "A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24546,
-      "forks": 1460,
-      "currentPeriodStars": 436,
+      "stars": 4933,
+      "forks": 162,
+      "currentPeriodStars": 102,
       "builtBy": [
         {
-          "username": "OrKoN",
-          "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4"
+          "username": "CyberTimon",
+          "avatar": "https://avatars.githubusercontent.com/u/78795905?s=40&v=4"
         },
         {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+          "username": "andrewazores",
+          "avatar": "https://avatars.githubusercontent.com/u/3787464?s=40&v=4"
         },
         {
-          "username": "Lightning00Blade",
-          "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&v=4"
+          "username": "RayJW",
+          "avatar": "https://avatars.githubusercontent.com/u/29835902?s=40&v=4"
         },
         {
-          "username": "browser-automation-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&v=4"
+          "username": "william-niq",
+          "avatar": "https://avatars.githubusercontent.com/u/132473775?s=40&v=4"
         },
         {
-          "username": "szuend",
-          "avatar": "https://avatars.githubusercontent.com/u/325588?s=40&v=4"
+          "username": "riccio8",
+          "avatar": "https://avatars.githubusercontent.com/u/134144784?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "content": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。",
-        "source": "deepseek"
-      }
+      "aiSummary": null
     },
     {
       "rank": 4,
-      "author": "iOfficeAI",
-      "repoName": "AionUi",
-      "url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 15604,
-      "forks": 1181,
-      "currentPeriodStars": 271,
-      "builtBy": [
-        {
-          "username": "kuishou68",
-          "avatar": "https://avatars.githubusercontent.com/u/54054995?s=40&v=4"
-        },
-        {
-          "username": "halvee-tech",
-          "avatar": "https://avatars.githubusercontent.com/u/224486645?s=40&v=4"
-        },
-        {
-          "username": "IceyLiu",
-          "avatar": "https://avatars.githubusercontent.com/u/10683426?s=40&v=4"
-        },
-        {
-          "username": "goworm",
-          "avatar": "https://avatars.githubusercontent.com/u/28083037?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "AionUi 是一款免费、本地化、开源的 AI 协作工具，支持 Gemini CLI、Claude Code 等多种主流 AI 模型。其核心解决了用户需频繁切换不同 AI 工具界面的痛点，通过统一界面提供 24/7 不间断的集成化编程与对话协作体验。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 5,
       "author": "rowboatlabs",
       "repoName": "rowboat",
       "url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 5366,
-      "forks": 428,
+      "stars": 5386,
+      "forks": 427,
       "currentPeriodStars": 191,
       "builtBy": [
         {
@@ -194,157 +153,332 @@
       }
     },
     {
-      "rank": 6,
-      "author": "cinnyapp",
-      "repoName": "cinny",
-      "url": "https://github.com/cinnyapp/cinny",
-      "description": "Yet another matrix client",
+      "rank": 5,
+      "author": "EveryInc",
+      "repoName": "compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 2934,
-      "forks": 396,
-      "currentPeriodStars": 38,
+      "stars": 8735,
+      "forks": 679,
+      "currentPeriodStars": 127,
       "builtBy": [
         {
-          "username": "ajbura",
-          "avatar": "https://avatars.githubusercontent.com/u/32841439?s=40&v=4"
+          "username": "kieranklaassen",
+          "avatar": "https://avatars.githubusercontent.com/u/209089?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "tmchow",
+          "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&v=4"
+        },
+        {
+          "username": "julik",
+          "avatar": "https://avatars.githubusercontent.com/u/16446?s=40&v=4"
+        },
+        {
+          "username": "dshipper",
+          "avatar": "https://avatars.githubusercontent.com/u/263564?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 6,
+      "author": "actions",
+      "repoName": "setup-node",
+      "url": "https://github.com/actions/setup-node",
+      "description": "Set up your GitHub Actions workflow with a specific version of node.js",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 4635,
+      "forks": 1627,
+      "currentPeriodStars": 2,
+      "builtBy": [
+        {
+          "username": "dmitry-shibanov",
+          "avatar": "https://avatars.githubusercontent.com/u/28229110?s=40&v=4"
         },
         {
           "username": "apps/dependabot",
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "kfiven",
-          "avatar": "https://avatars.githubusercontent.com/u/33421343?s=40&v=4"
+          "username": "aminya",
+          "avatar": "https://avatars.githubusercontent.com/u/16418197?s=40&v=4"
         },
         {
-          "username": "apps/renovate",
-          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+          "username": "jef",
+          "avatar": "https://avatars.githubusercontent.com/u/12074633?s=40&v=4"
         },
         {
-          "username": "ginnyTheCat",
-          "avatar": "https://avatars.githubusercontent.com/u/35173023?s=40&v=4"
+          "username": "IvanZosimov",
+          "avatar": "https://avatars.githubusercontent.com/u/98037481?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "content": "Cinny 是一款基于 Matrix 协议的轻量级即时通讯客户端，采用 TypeScript 开发。它专注于提供快速、简洁的用户体验，解决了官方 Element 客户端较为臃肿、性能开销大的痛点，尤其适合在浏览器和移动端高效使用去中心化通信网络。",
-        "source": "deepseek"
-      }
+      "aiSummary": null
     },
     {
       "rank": 7,
-      "author": "firecrawl",
-      "repoName": "firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "description": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data",
+      "author": "musistudio",
+      "repoName": "claude-code-router",
+      "url": "https://github.com/musistudio/claude-code-router",
+      "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 82119,
-      "forks": 6020,
-      "currentPeriodStars": 397,
+      "stars": 27773,
+      "forks": 2155,
+      "currentPeriodStars": 72,
       "builtBy": [
         {
-          "username": "nickscamara",
-          "avatar": "https://avatars.githubusercontent.com/u/20311743?s=40&v=4"
+          "username": "musistudio",
+          "avatar": "https://avatars.githubusercontent.com/u/21162426?s=40&v=4"
         },
         {
-          "username": "mogery",
-          "avatar": "https://avatars.githubusercontent.com/u/66118807?s=40&v=4"
+          "username": "TonyGeez",
+          "avatar": "https://avatars.githubusercontent.com/u/141154740?s=40&v=4"
         },
         {
-          "username": "rafaelsideguide",
-          "avatar": "https://avatars.githubusercontent.com/u/150964962?s=40&v=4"
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "amplitudesxd",
-          "avatar": "https://avatars.githubusercontent.com/u/62763456?s=40&v=4"
+          "username": "BigUncle",
+          "avatar": "https://avatars.githubusercontent.com/u/9360607?s=40&v=4"
         },
         {
-          "username": "apps/devin-ai-integration",
-          "avatar": "https://avatars.githubusercontent.com/in/811515?s=40&v=4"
+          "username": "sbtobb",
+          "avatar": "https://avatars.githubusercontent.com/u/8125099?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 8,
-      "author": "Infisical",
-      "repoName": "infisical",
-      "url": "https://github.com/Infisical/infisical",
-      "description": "Infisical is the open-source platform for secrets, certificates, and privileged access management.",
+      "author": "angular",
+      "repoName": "angular",
+      "url": "https://github.com/angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24902,
-      "forks": 1705,
-      "currentPeriodStars": 41,
+      "stars": 99824,
+      "forks": 27062,
+      "currentPeriodStars": 12,
       "builtBy": [
         {
-          "username": "maidul98",
-          "avatar": "https://avatars.githubusercontent.com/u/9300960?s=40&v=4"
+          "username": "gkalpak",
+          "avatar": "https://avatars.githubusercontent.com/u/8604205?s=40&v=4"
         },
         {
-          "username": "varonix0",
-          "avatar": "https://avatars.githubusercontent.com/u/62331820?s=40&v=4"
+          "username": "petebacondarwin",
+          "avatar": "https://avatars.githubusercontent.com/u/15655?s=40&v=4"
         },
         {
-          "username": "akhilmhdh",
-          "avatar": "https://avatars.githubusercontent.com/u/31166322?s=40&v=4"
+          "username": "devversion",
+          "avatar": "https://avatars.githubusercontent.com/u/4987015?s=40&v=4"
         },
         {
-          "username": "dangtony98",
-          "avatar": "https://avatars.githubusercontent.com/u/25857006?s=40&v=4"
+          "username": "crisbeto",
+          "avatar": "https://avatars.githubusercontent.com/u/4450522?s=40&v=4"
         },
         {
-          "username": "sheensantoscapadngan",
-          "avatar": "https://avatars.githubusercontent.com/u/65645666?s=40&v=4"
+          "username": "atscott",
+          "avatar": "https://avatars.githubusercontent.com/u/479713?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 9,
-      "author": "gemini-cli-extensions",
-      "repoName": "workspace",
-      "url": "https://github.com/gemini-cli-extensions/workspace",
-      "description": "Access Google Workspace when using Gemini CLI",
+      "author": "microsoft",
+      "repoName": "azure-devops-mcp",
+      "url": "https://github.com/microsoft/azure-devops-mcp",
+      "description": "The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 337,
-      "forks": 44,
-      "currentPeriodStars": 8,
+      "stars": 1262,
+      "forks": 403,
+      "currentPeriodStars": 4,
       "builtBy": [
+        {
+          "username": "danhellem",
+          "avatar": "https://avatars.githubusercontent.com/u/10525048?s=40&v=4"
+        },
         {
           "username": "apps/dependabot",
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "allenhutchison",
-          "avatar": "https://avatars.githubusercontent.com/u/3849061?s=40&v=4"
+          "username": "polatengin",
+          "avatar": "https://avatars.githubusercontent.com/u/118744?s=40&v=4"
         },
         {
-          "username": "apps/gemini-code-assist",
-          "avatar": "https://avatars.githubusercontent.com/in/956858?s=40&v=4"
+          "username": "Novaes",
+          "avatar": "https://avatars.githubusercontent.com/u/1021909?s=40&v=4"
         },
         {
-          "username": "raybell-md",
-          "avatar": "https://avatars.githubusercontent.com/u/196701227?s=40&v=4"
-        },
-        {
-          "username": "kamladi",
-          "avatar": "https://avatars.githubusercontent.com/u/924840?s=40&v=4"
+          "username": "nikolapeja6",
+          "avatar": "https://avatars.githubusercontent.com/u/18459277?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 10,
+      "author": "tambo-ai",
+      "repoName": "tambo",
+      "url": "https://github.com/tambo-ai/tambo",
+      "description": "Generative UI SDK for React",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 9305,
+      "forks": 451,
+      "currentPeriodStars": 300,
+      "builtBy": [
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "alecf",
+          "avatar": "https://avatars.githubusercontent.com/u/135340?s=40&v=4"
+        },
+        {
+          "username": "MichaelMilstead",
+          "avatar": "https://avatars.githubusercontent.com/u/8498335?s=40&v=4"
+        },
+        {
+          "username": "tambo-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/230265268?s=40&v=4"
+        },
+        {
+          "username": "akhileshrangani4",
+          "avatar": "https://avatars.githubusercontent.com/u/70284178?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，解决了手动处理流式输出与状态同步的复杂度，提升了开发效率。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 11,
+      "author": "getmaxun",
+      "repoName": "maxun",
+      "url": "https://github.com/getmaxun/maxun",
+      "description": "✨ The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes ✨",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 14811,
+      "forks": 1194,
+      "currentPeriodStars": 192,
+      "builtBy": [
+        {
+          "username": "amhsirak",
+          "avatar": "https://avatars.githubusercontent.com/u/76456498?s=40&v=4"
+        },
+        {
+          "username": "RohitR311",
+          "avatar": "https://avatars.githubusercontent.com/u/70875861?s=40&v=4"
+        },
+        {
+          "username": "AmitChauhan63390",
+          "avatar": "https://avatars.githubusercontent.com/u/36507878?s=40&v=4"
+        },
+        {
+          "username": "naveenpan09",
+          "avatar": "https://avatars.githubusercontent.com/u/182222691?s=40&v=4"
+        },
+        {
+          "username": "ninja-programmer",
+          "avatar": "https://avatars.githubusercontent.com/u/84878205?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 12,
+      "author": "renovatebot",
+      "repoName": "renovate",
+      "url": "https://github.com/renovatebot/renovate",
+      "description": "Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 20813,
+      "forks": 2933,
+      "currentPeriodStars": 10,
+      "builtBy": [
+        {
+          "username": "apps/renovate",
+          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+        },
+        {
+          "username": "rarkins",
+          "avatar": "https://avatars.githubusercontent.com/u/6311784?s=40&v=4"
+        },
+        {
+          "username": "viceice",
+          "avatar": "https://avatars.githubusercontent.com/u/1798109?s=40&v=4"
+        },
+        {
+          "username": "renovate-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4"
+        },
+        {
+          "username": "zharinov",
+          "avatar": "https://avatars.githubusercontent.com/u/1239644?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 13,
+      "author": "openclaw",
+      "repoName": "openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 190548,
+      "forks": 32394,
+      "currentPeriodStars": 3209,
+      "builtBy": [
+        {
+          "username": "steipete",
+          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
+        },
+        {
+          "username": "thewilloftheshadow",
+          "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "vignesh07",
+          "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&v=4"
+        },
+        {
+          "username": "gumadeiras",
+          "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 14,
       "author": "spacebarchat",
       "repoName": "server",
       "url": "https://github.com/spacebarchat/server",
       "description": "Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1966,
+      "stars": 1967,
       "forks": 276,
       "currentPeriodStars": 43,
       "builtBy": [
@@ -372,109 +506,42 @@
       "aiSummary": null
     },
     {
-      "rank": 11,
-      "author": "element-hq",
-      "repoName": "element-web",
-      "url": "https://github.com/element-hq/element-web",
-      "description": "A glossy Matrix collaboration client for the web.",
+      "rank": 15,
+      "author": "cinnyapp",
+      "repoName": "cinny",
+      "url": "https://github.com/cinnyapp/cinny",
+      "description": "Yet another matrix client",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12610,
-      "forks": 2446,
-      "currentPeriodStars": 19,
+      "stars": 2945,
+      "forks": 398,
+      "currentPeriodStars": 38,
       "builtBy": [
         {
-          "username": "RiotRobot",
-          "avatar": "https://avatars.githubusercontent.com/u/24480685?s=40&v=4"
+          "username": "ajbura",
+          "avatar": "https://avatars.githubusercontent.com/u/32841439?s=40&v=4"
         },
         {
-          "username": "dbkr",
-          "avatar": "https://avatars.githubusercontent.com/u/986903?s=40&v=4"
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "t3chguy",
-          "avatar": "https://avatars.githubusercontent.com/u/2403652?s=40&v=4"
-        },
-        {
-          "username": "ara4n",
-          "avatar": "https://avatars.githubusercontent.com/u/1294269?s=40&v=4"
+          "username": "kfiven",
+          "avatar": "https://avatars.githubusercontent.com/u/33421343?s=40&v=4"
         },
         {
           "username": "apps/renovate",
           "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+        },
+        {
+          "username": "ginnyTheCat",
+          "avatar": "https://avatars.githubusercontent.com/u/35173023?s=40&v=4"
         }
       ],
-      "aiSummary": null
-    },
-    {
-      "rank": 12,
-      "author": "mastra-ai",
-      "repoName": "mastra",
-      "url": "https://github.com/mastra-ai/mastra",
-      "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 21061,
-      "forks": 1539,
-      "currentPeriodStars": 57,
-      "builtBy": [
-        {
-          "username": "abhiaiyer91",
-          "avatar": "https://avatars.githubusercontent.com/u/2359375?s=40&v=4"
-        },
-        {
-          "username": "adeleke5140",
-          "avatar": "https://avatars.githubusercontent.com/u/32024147?s=40&v=4"
-        },
-        {
-          "username": "apps/dane-ai-mastra",
-          "avatar": "https://avatars.githubusercontent.com/in/1148567?s=40&v=4"
-        },
-        {
-          "username": "TheIsrael1",
-          "avatar": "https://avatars.githubusercontent.com/u/65332951?s=40&v=4"
-        },
-        {
-          "username": "wardpeet",
-          "avatar": "https://avatars.githubusercontent.com/u/1120926?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 13,
-      "author": "twentyhq",
-      "repoName": "twenty",
-      "url": "https://github.com/twentyhq/twenty",
-      "description": "Building a modern alternative to Salesforce, powered by the community.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 39676,
-      "forks": 5158,
-      "currentPeriodStars": 39,
-      "builtBy": [
-        {
-          "username": "charlesBochet",
-          "avatar": "https://avatars.githubusercontent.com/u/12035771?s=40&v=4"
-        },
-        {
-          "username": "FelixMalfait",
-          "avatar": "https://avatars.githubusercontent.com/u/6399865?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "lucasbordeau",
-          "avatar": "https://avatars.githubusercontent.com/u/26528466?s=40&v=4"
-        },
-        {
-          "username": "Weiko",
-          "avatar": "https://avatars.githubusercontent.com/u/1834158?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "Cinny 是一款基于 Matrix 协议的轻量级即时通讯客户端，采用 TypeScript 开发。它专注于提供快速、简洁的用户体验，解决了官方 Element 客户端较为臃肿、性能开销大的痛点，尤其适合在浏览器和移动端高效使用去中心化通信网络。",
+        "source": "deepseek"
+      }
     }
   ]
 }

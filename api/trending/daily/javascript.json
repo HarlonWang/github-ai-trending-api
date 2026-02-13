@@ -1,262 +1,125 @@
 {
-  "count": 13,
+  "count": 11,
   "since": "daily",
-  "captured_at": "2026-02-13 09:56:32",
+  "captured_at": "2026-02-13 12:18:20",
   "data": [
     {
       "rank": 1,
-      "author": "drawdb-io",
-      "repoName": "drawdb",
-      "url": "https://github.com/drawdb-io/drawdb",
-      "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+      "author": "SynkraAI",
+      "repoName": "aios-core",
+      "url": "https://github.com/SynkraAI/aios-core",
+      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 36592,
-      "forks": 2855,
-      "currentPeriodStars": 41,
+      "stars": 295,
+      "forks": 174,
+      "currentPeriodStars": 105,
       "builtBy": [
         {
-          "username": "1ilit",
-          "avatar": "https://avatars.githubusercontent.com/u/96800776?s=40&v=4"
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "picimako",
-          "avatar": "https://avatars.githubusercontent.com/u/5739987?s=40&v=4"
-        },
-        {
-          "username": "haecheonlee",
-          "avatar": "https://avatars.githubusercontent.com/u/16802605?s=40&v=4"
-        },
-        {
-          "username": "KARM99",
-          "avatar": "https://avatars.githubusercontent.com/u/21248684?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 2,
-      "author": "harvard-edge",
-      "repoName": "cs249r_book",
-      "url": "https://github.com/harvard-edge/cs249r_book",
-      "description": "Introduction to Machine Learning Systems",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 18166,
-      "forks": 2130,
-      "currentPeriodStars": 63,
-      "builtBy": [
-        {
-          "username": "profvjreddi",
-          "avatar": "https://avatars.githubusercontent.com/u/6807956?s=40&v=4"
+          "username": "Pedrovaleriolopez",
+          "avatar": "https://avatars.githubusercontent.com/u/124090200?s=40&v=4"
         },
         {
           "username": "apps/github-actions",
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         },
         {
-          "username": "hzeljko",
-          "avatar": "https://avatars.githubusercontent.com/u/36451783?s=40&v=4"
+          "username": "oalanicolas",
+          "avatar": "https://avatars.githubusercontent.com/u/895889?s=40&v=4"
         },
         {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+          "username": "semantic-release-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "Synkra AIOS Core 是一个基于 JavaScript 的 AI 编排系统核心框架，旨在通过 AI 智能体协同工作，自动化处理全栈开发中的复杂任务流程，从而显著提升开发效率并降低人工编排成本。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 2,
+      "author": "is-a-dev",
+      "repoName": "register",
+      "url": "https://github.com/is-a-dev/register",
+      "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 9534,
+      "forks": 18055,
+      "currentPeriodStars": 6,
+      "builtBy": [
+        {
+          "username": "wdhdev",
+          "avatar": "https://avatars.githubusercontent.com/u/87287585?s=40&v=4"
         },
         {
-          "username": "Mjrovai",
-          "avatar": "https://avatars.githubusercontent.com/u/17109416?s=40&v=4"
+          "username": "DEV-DIBSTER",
+          "avatar": "https://avatars.githubusercontent.com/u/76603072?s=40&v=4"
+        },
+        {
+          "username": "iostpa",
+          "avatar": "https://avatars.githubusercontent.com/u/69630113?s=40&v=4"
+        },
+        {
+          "username": "STICKnoLOGIC",
+          "avatar": "https://avatars.githubusercontent.com/u/65322242?s=40&v=4"
+        },
+        {
+          "username": "phenax",
+          "avatar": "https://avatars.githubusercontent.com/u/11407672?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 3,
-      "author": "FortAwesome",
-      "repoName": "Font-Awesome",
-      "url": "https://github.com/FortAwesome/Font-Awesome",
-      "description": "The iconic SVG, font, and CSS toolkit",
+      "author": "yctimlin",
+      "repoName": "mcp_excalidraw",
+      "url": "https://github.com/yctimlin/mcp_excalidraw",
+      "description": "",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 76336,
-      "forks": 12254,
-      "currentPeriodStars": 10,
+      "stars": 848,
+      "forks": 79,
+      "currentPeriodStars": 43,
       "builtBy": [
         {
-          "username": "sensibleworld",
-          "avatar": "https://avatars.githubusercontent.com/u/529604?s=40&v=4"
+          "username": "yctimlin",
+          "avatar": "https://avatars.githubusercontent.com/u/37396655?s=40&v=4"
         },
         {
-          "username": "fontawesome-github-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/138073465?s=40&v=4"
+          "username": "frNNcs",
+          "avatar": "https://avatars.githubusercontent.com/u/34633159?s=40&v=4"
         },
         {
-          "username": "robmadole",
-          "avatar": "https://avatars.githubusercontent.com/u/132895?s=40&v=4"
+          "username": "ycsahara",
+          "avatar": "https://avatars.githubusercontent.com/u/171326707?s=40&v=4"
         },
         {
-          "username": "jabronus",
-          "avatar": "https://avatars.githubusercontent.com/u/8459349?s=40&v=4"
+          "username": "gianluca-venturini",
+          "avatar": "https://avatars.githubusercontent.com/u/6535621?s=40&v=4"
         },
         {
-          "username": "mlwilkerson",
-          "avatar": "https://avatars.githubusercontent.com/u/11575183?s=40&v=4"
+          "username": "Songmengdi",
+          "avatar": "https://avatars.githubusercontent.com/u/40119877?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 4,
-      "author": "TryGhost",
-      "repoName": "Ghost",
-      "url": "https://github.com/TryGhost/Ghost",
-      "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 51811,
-      "forks": 11330,
-      "currentPeriodStars": 11,
-      "builtBy": [
-        {
-          "username": "ErisDS",
-          "avatar": "https://avatars.githubusercontent.com/u/101513?s=40&v=4"
-        },
-        {
-          "username": "kevinansfield",
-          "avatar": "https://avatars.githubusercontent.com/u/415?s=40&v=4"
-        },
-        {
-          "username": "renovate-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4"
-        },
-        {
-          "username": "apps/renovate",
-          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
-        },
-        {
-          "username": "daniellockyer",
-          "avatar": "https://avatars.githubusercontent.com/u/964245?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 5,
-      "author": "pshenok",
-      "repoName": "server-survival",
-      "url": "https://github.com/pshenok/server-survival",
-      "description": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 4687,
-      "forks": 568,
-      "currentPeriodStars": 23,
-      "builtBy": [
-        {
-          "username": "pshenok",
-          "avatar": "https://avatars.githubusercontent.com/u/42213409?s=40&v=4"
-        },
-        {
-          "username": "kant2002",
-          "avatar": "https://avatars.githubusercontent.com/u/4257079?s=40&v=4"
-        },
-        {
-          "username": "velosojonathan5",
-          "avatar": "https://avatars.githubusercontent.com/u/16419310?s=40&v=4"
-        },
-        {
-          "username": "TraxionRPh",
-          "avatar": "https://avatars.githubusercontent.com/u/103160824?s=40&v=4"
-        },
-        {
-          "username": "ikkira",
-          "avatar": "https://avatars.githubusercontent.com/u/4424977?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 6,
-      "author": "projectdiscovery",
-      "repoName": "nuclei-templates",
-      "url": "https://github.com/projectdiscovery/nuclei-templates",
-      "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 11939,
-      "forks": 3356,
-      "currentPeriodStars": 3,
-      "builtBy": [
-        {
-          "username": "actions-user",
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4"
-        },
-        {
-          "username": "DhiyaneshGeek",
-          "avatar": "https://avatars.githubusercontent.com/u/24750220?s=40&v=4"
-        },
-        {
-          "username": "princechaddha",
-          "avatar": "https://avatars.githubusercontent.com/u/16654365?s=40&v=4"
-        },
-        {
-          "username": "ritikchaddha",
-          "avatar": "https://avatars.githubusercontent.com/u/44563978?s=40&v=4"
-        },
-        {
-          "username": "ehsandeep",
-          "avatar": "https://avatars.githubusercontent.com/u/8293321?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 7,
-      "author": "plankanban",
-      "repoName": "planka",
-      "url": "https://github.com/plankanban/planka",
-      "description": "PLANKA is the Kanban-style project mastering tool for everyone",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 11511,
-      "forks": 1181,
-      "currentPeriodStars": 9,
-      "builtBy": [
-        {
-          "username": "meltyshev",
-          "avatar": "https://avatars.githubusercontent.com/u/5564188?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "daniel-hiller",
-          "avatar": "https://avatars.githubusercontent.com/u/46579393?s=40&v=4"
-        },
-        {
-          "username": "symonbaikov",
-          "avatar": "https://avatars.githubusercontent.com/u/115481136?s=40&v=4"
-        },
-        {
-          "username": "HannesOberreiter",
-          "avatar": "https://avatars.githubusercontent.com/u/16878981?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 8,
       "author": "gnmyt",
       "repoName": "Nexterm",
       "url": "https://github.com/gnmyt/Nexterm",
       "description": "The open source server management software for SSH, VNC & RDP",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 3925,
+      "stars": 3927,
       "forks": 207,
       "currentPeriodStars": 60,
       "builtBy": [
@@ -284,14 +147,84 @@
       "aiSummary": null
     },
     {
-      "rank": 9,
+      "rank": 5,
+      "author": "module-federation",
+      "repoName": "core",
+      "url": "https://github.com/module-federation/core",
+      "description": "Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 2433,
+      "forks": 386,
+      "currentPeriodStars": 4,
+      "builtBy": [
+        {
+          "username": "ScriptedAlchemy",
+          "avatar": "https://avatars.githubusercontent.com/u/25274700?s=40&v=4"
+        },
+        {
+          "username": "apps/renovate",
+          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+        },
+        {
+          "username": "2heal1",
+          "avatar": "https://avatars.githubusercontent.com/u/41466093?s=40&v=4"
+        },
+        {
+          "username": "zhoushaw",
+          "avatar": "https://avatars.githubusercontent.com/u/27547179?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 6,
+      "author": "aandrew-me",
+      "repoName": "ytDownloader",
+      "url": "https://github.com/aandrew-me/ytDownloader",
+      "description": "Desktop App for downloading Videos and Audios from hundreds of sites",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 8112,
+      "forks": 689,
+      "currentPeriodStars": 31,
+      "builtBy": [
+        {
+          "username": "aandrew-me",
+          "avatar": "https://avatars.githubusercontent.com/u/66430340?s=40&v=4"
+        },
+        {
+          "username": "albanobattistella",
+          "avatar": "https://avatars.githubusercontent.com/u/34811668?s=40&v=4"
+        },
+        {
+          "username": "Muxutruk2",
+          "avatar": "https://avatars.githubusercontent.com/u/156070698?s=40&v=4"
+        },
+        {
+          "username": "soredake",
+          "avatar": "https://avatars.githubusercontent.com/u/5204968?s=40&v=4"
+        },
+        {
+          "username": "candrapersada",
+          "avatar": "https://avatars.githubusercontent.com/u/36833664?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 7,
       "author": "mui",
       "repoName": "material-ui",
       "url": "https://github.com/mui/material-ui",
       "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 97808,
+      "stars": 97798,
       "forks": 32764,
       "currentPeriodStars": 9,
       "builtBy": [
@@ -319,141 +252,141 @@
       "aiSummary": null
     },
     {
-      "rank": 10,
-      "author": "mailcow",
-      "repoName": "mailcow-dockerized",
-      "url": "https://github.com/mailcow/mailcow-dockerized",
-      "description": "mailcow: dockerized - 🐮 + 🐋 = 💕",
+      "rank": 8,
+      "author": "vercel",
+      "repoName": "next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 12132,
-      "forks": 1605,
-      "currentPeriodStars": 8,
+      "stars": 137641,
+      "forks": 30454,
+      "currentPeriodStars": 33,
       "builtBy": [
         {
-          "username": "andryyy",
-          "avatar": "https://avatars.githubusercontent.com/u/2972950?s=40&v=4"
+          "username": "ijjk",
+          "avatar": "https://avatars.githubusercontent.com/u/22380829?s=40&v=4"
         },
         {
-          "username": "FreddleSpl0it",
-          "avatar": "https://avatars.githubusercontent.com/u/75116288?s=40&v=4"
+          "username": "timneutkens",
+          "avatar": "https://avatars.githubusercontent.com/u/6324199?s=40&v=4"
         },
         {
-          "username": "DerLinkman",
-          "avatar": "https://avatars.githubusercontent.com/u/62480600?s=40&v=4"
+          "username": "sokra",
+          "avatar": "https://avatars.githubusercontent.com/u/1365881?s=40&v=4"
         },
         {
-          "username": "milkmaker",
-          "avatar": "https://avatars.githubusercontent.com/u/91863860?s=40&v=4"
+          "username": "vercel-release-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/88769842?s=40&v=4"
         },
         {
-          "username": "MAGICCC",
-          "avatar": "https://avatars.githubusercontent.com/u/3279213?s=40&v=4"
+          "username": "huozhi",
+          "avatar": "https://avatars.githubusercontent.com/u/4800338?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 9,
+      "author": "PipedreamHQ",
+      "repoName": "pipedream",
+      "url": "https://github.com/PipedreamHQ/pipedream",
+      "description": "Connect APIs, remarkably fast. Free for developers.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 11085,
+      "forks": 5584,
+      "currentPeriodStars": 3,
+      "builtBy": [
+        {
+          "username": "dylburger",
+          "avatar": "https://avatars.githubusercontent.com/u/242668?s=40&v=4"
+        },
+        {
+          "username": "michelle0927",
+          "avatar": "https://avatars.githubusercontent.com/u/10889229?s=40&v=4"
+        },
+        {
+          "username": "danhsiung",
+          "avatar": "https://avatars.githubusercontent.com/u/35384182?s=40&v=4"
+        },
+        {
+          "username": "luancazarine",
+          "avatar": "https://avatars.githubusercontent.com/u/5638699?s=40&v=4"
+        },
+        {
+          "username": "jcortes",
+          "avatar": "https://avatars.githubusercontent.com/u/506051?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 10,
+      "author": "ToolJet",
+      "repoName": "ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 37423,
+      "forks": 4944,
+      "currentPeriodStars": 7,
+      "builtBy": [
+        {
+          "username": "Navaneeth-pk",
+          "avatar": "https://avatars.githubusercontent.com/u/7828962?s=40&v=4"
+        },
+        {
+          "username": "arpitnath",
+          "avatar": "https://avatars.githubusercontent.com/u/67645175?s=40&v=4"
+        },
+        {
+          "username": "adishM98",
+          "avatar": "https://avatars.githubusercontent.com/u/44204658?s=40&v=4"
+        },
+        {
+          "username": "akshaysasidrn",
+          "avatar": "https://avatars.githubusercontent.com/u/11629675?s=40&v=4"
+        },
+        {
+          "username": "johnsoncherian",
+          "avatar": "https://avatars.githubusercontent.com/u/57667706?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 11,
-      "author": "lioensky",
-      "repoName": "VCPToolBox",
-      "url": "https://github.com/lioensky/VCPToolBox",
-      "description": "一个全新的，强大的AI-API-工具交互范式AGI社群系统。独立多Agent封装，非线性超异步工作流，交叉记忆网络，六大插件协议，完整Websocket和WebDav功能，支持分布式部署和算力均衡！",
+      "author": "nodejs",
+      "repoName": "node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 1027,
-      "forks": 183,
-      "currentPeriodStars": 9,
+      "stars": 115699,
+      "forks": 34714,
+      "currentPeriodStars": 16,
       "builtBy": [
         {
-          "username": "lioensky",
-          "avatar": "https://avatars.githubusercontent.com/u/140802180?s=40&v=4"
+          "username": "Trott",
+          "avatar": "https://avatars.githubusercontent.com/u/718899?s=40&v=4"
         },
         {
-          "username": "B3000Kcn",
-          "avatar": "https://avatars.githubusercontent.com/u/111612726?s=40&v=4"
+          "username": "ry",
+          "avatar": "https://avatars.githubusercontent.com/u/80?s=40&v=4"
         },
         {
-          "username": "VincentHDLee",
-          "avatar": "https://avatars.githubusercontent.com/u/139231615?s=40&v=4"
+          "username": "bnoordhuis",
+          "avatar": "https://avatars.githubusercontent.com/u/275871?s=40&v=4"
         },
         {
-          "username": "TyChest",
-          "avatar": "https://avatars.githubusercontent.com/u/74046599?s=40&v=4"
+          "username": "addaleax",
+          "avatar": "https://avatars.githubusercontent.com/u/899444?s=40&v=4"
         },
         {
-          "username": "awei807-wei",
-          "avatar": "https://avatars.githubusercontent.com/u/59203617?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 12,
-      "author": "chartjs",
-      "repoName": "Chart.js",
-      "url": "https://github.com/chartjs/Chart.js",
-      "description": "Simple HTML5 Charts using the <canvas> tag",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 67138,
-      "forks": 11991,
-      "currentPeriodStars": 10,
-      "builtBy": [
-        {
-          "username": "etimberg",
-          "avatar": "https://avatars.githubusercontent.com/u/6757853?s=40&v=4"
-        },
-        {
-          "username": "kurkle",
-          "avatar": "https://avatars.githubusercontent.com/u/27971921?s=40&v=4"
-        },
-        {
-          "username": "tannerlinsley",
-          "avatar": "https://avatars.githubusercontent.com/u/5580297?s=40&v=4"
-        },
-        {
-          "username": "benmccann",
-          "avatar": "https://avatars.githubusercontent.com/u/322311?s=40&v=4"
-        },
-        {
-          "username": "LeeLenaleee",
-          "avatar": "https://avatars.githubusercontent.com/u/39033624?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 13,
-      "author": "tangly1024",
-      "repoName": "NotionNext",
-      "url": "https://github.com/tangly1024/NotionNext",
-      "description": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 11098,
-      "forks": 14406,
-      "currentPeriodStars": 7,
-      "builtBy": [
-        {
-          "username": "tangly1024",
-          "avatar": "https://avatars.githubusercontent.com/u/15920488?s=40&v=4"
-        },
-        {
-          "username": "qixing-jk",
-          "avatar": "https://avatars.githubusercontent.com/u/125447674?s=40&v=4"
-        },
-        {
-          "username": "Vixcity",
-          "avatar": "https://avatars.githubusercontent.com/u/57704177?s=40&v=4"
-        },
-        {
-          "username": "LooseLi",
-          "avatar": "https://avatars.githubusercontent.com/u/66111974?s=40&v=4"
-        },
-        {
-          "username": "ghlerrix",
-          "avatar": "https://avatars.githubusercontent.com/u/114851291?s=40&v=4"
+          "username": "isaacs",
+          "avatar": "https://avatars.githubusercontent.com/u/9287?s=40&v=4"
         }
       ],
       "aiSummary": null

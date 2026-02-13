@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "monthly",
-  "captured_at": "2026-02-13 09:59:01",
+  "captured_at": "2026-02-13 12:20:54",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6637,
-      "forks": 250,
+      "stars": 6638,
+      "forks": 251,
       "currentPeriodStars": 3115,
       "builtBy": [
         {
@@ -46,7 +46,7 @@
       "description": "An alternative frontend for YouTube, for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 11385,
+      "stars": 11383,
       "forks": 578,
       "currentPeriodStars": 336,
       "builtBy": [
@@ -110,6 +110,76 @@
     },
     {
       "rank": 4,
+      "author": "mobile-dev-inc",
+      "repoName": "Maestro",
+      "url": "https://github.com/mobile-dev-inc/Maestro",
+      "description": "Painless E2E Automation for Mobile and Web",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 10704,
+      "forks": 612,
+      "currentPeriodStars": 692,
+      "builtBy": [
+        {
+          "username": "dmitry-zaitsev",
+          "avatar": "https://avatars.githubusercontent.com/u/2990722?s=40&v=4"
+        },
+        {
+          "username": "amanjeetsingh150",
+          "avatar": "https://avatars.githubusercontent.com/u/12881364?s=40&v=4"
+        },
+        {
+          "username": "Leland-Takamine",
+          "avatar": "https://avatars.githubusercontent.com/u/847683?s=40&v=4"
+        },
+        {
+          "username": "bartekpacia",
+          "avatar": "https://avatars.githubusercontent.com/u/40357511?s=40&v=4"
+        },
+        {
+          "username": "berikv",
+          "avatar": "https://avatars.githubusercontent.com/u/915211?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 5,
+      "author": "2dust",
+      "repoName": "v2rayNG",
+      "url": "https://github.com/2dust/v2rayNG",
+      "description": "A V2Ray client for Android, support Xray core and v2fly core",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 50944,
+      "forks": 6927,
+      "currentPeriodStars": 1633,
+      "builtBy": [
+        {
+          "username": "2dust",
+          "avatar": "https://avatars.githubusercontent.com/u/31833384?s=40&v=4"
+        },
+        {
+          "username": "yuhan6665",
+          "avatar": "https://avatars.githubusercontent.com/u/1588741?s=40&v=4"
+        },
+        {
+          "username": "codewithtamim",
+          "avatar": "https://avatars.githubusercontent.com/u/132823494?s=40&v=4"
+        },
+        {
+          "username": "solokot",
+          "avatar": "https://avatars.githubusercontent.com/u/25316928?s=40&v=4"
+        },
+        {
+          "username": "Malus-risus",
+          "avatar": "https://avatars.githubusercontent.com/u/69906215?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 6,
       "author": "permissionlesstech",
       "repoName": "bitchat-android",
       "url": "https://github.com/permissionlesstech/bitchat-android",
@@ -144,129 +214,71 @@
       "aiSummary": null
     },
     {
-      "rank": 5,
-      "author": "2dust",
-      "repoName": "v2rayNG",
-      "url": "https://github.com/2dust/v2rayNG",
-      "description": "A V2Ray client for Android, support Xray core and v2fly core",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 50945,
-      "forks": 6926,
-      "currentPeriodStars": 1633,
-      "builtBy": [
-        {
-          "username": "2dust",
-          "avatar": "https://avatars.githubusercontent.com/u/31833384?s=40&v=4"
-        },
-        {
-          "username": "yuhan6665",
-          "avatar": "https://avatars.githubusercontent.com/u/1588741?s=40&v=4"
-        },
-        {
-          "username": "codewithtamim",
-          "avatar": "https://avatars.githubusercontent.com/u/132823494?s=40&v=4"
-        },
-        {
-          "username": "solokot",
-          "avatar": "https://avatars.githubusercontent.com/u/25316928?s=40&v=4"
-        },
-        {
-          "username": "Malus-risus",
-          "avatar": "https://avatars.githubusercontent.com/u/69906215?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 6,
-      "author": "jay3-yy",
-      "repoName": "BiliPai",
-      "url": "https://github.com/jay3-yy/BiliPai",
-      "description": "原生、纯净、可扩展 —— 重新定义你的 B 站体验",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 1374,
-      "forks": 49,
-      "currentPeriodStars": 642,
-      "builtBy": [
-        {
-          "username": "jay3-yy",
-          "avatar": "https://avatars.githubusercontent.com/u/173592055?s=40&v=4"
-        },
-        {
-          "username": "TanakaLun",
-          "avatar": "https://avatars.githubusercontent.com/u/115213949?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
       "rank": 7,
-      "author": "mobile-dev-inc",
-      "repoName": "Maestro",
-      "url": "https://github.com/mobile-dev-inc/Maestro",
-      "description": "Painless E2E Automation for Mobile and Web",
+      "author": "nextcloud",
+      "repoName": "android",
+      "url": "https://github.com/nextcloud/android",
+      "description": "📱 Nextcloud Android app",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 10708,
-      "forks": 612,
-      "currentPeriodStars": 692,
+      "stars": 5133,
+      "forks": 1920,
+      "currentPeriodStars": 78,
       "builtBy": [
         {
-          "username": "dmitry-zaitsev",
-          "avatar": "https://avatars.githubusercontent.com/u/2990722?s=40&v=4"
+          "username": "AndyScherzinger",
+          "avatar": "https://avatars.githubusercontent.com/u/1315170?s=40&v=4"
         },
         {
-          "username": "amanjeetsingh150",
-          "avatar": "https://avatars.githubusercontent.com/u/12881364?s=40&v=4"
+          "username": "tobiasKaminsky",
+          "avatar": "https://avatars.githubusercontent.com/u/5836855?s=40&v=4"
         },
         {
-          "username": "Leland-Takamine",
-          "avatar": "https://avatars.githubusercontent.com/u/847683?s=40&v=4"
+          "username": "alperozturk96",
+          "avatar": "https://avatars.githubusercontent.com/u/67455295?s=40&v=4"
         },
         {
-          "username": "bartekpacia",
-          "avatar": "https://avatars.githubusercontent.com/u/40357511?s=40&v=4"
+          "username": "nextcloud-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/20296731?s=40&v=4"
         },
         {
-          "username": "berikv",
-          "avatar": "https://avatars.githubusercontent.com/u/915211?s=40&v=4"
+          "username": "davivel",
+          "avatar": "https://avatars.githubusercontent.com/u/2225614?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 8,
-      "author": "brahmkshatriya",
-      "repoName": "echo",
-      "url": "https://github.com/brahmkshatriya/echo",
-      "description": "Just a music player.",
+      "author": "JunkFood02",
+      "repoName": "Seal",
+      "url": "https://github.com/JunkFood02/Seal",
+      "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2862,
-      "forks": 139,
-      "currentPeriodStars": 442,
+      "stars": 24560,
+      "forks": 1054,
+      "currentPeriodStars": 747,
       "builtBy": [
         {
-          "username": "brahmkshatriya",
-          "avatar": "https://avatars.githubusercontent.com/u/69040506?s=40&v=4"
+          "username": "JunkFood02",
+          "avatar": "https://avatars.githubusercontent.com/u/69683722?s=40&v=4"
         },
         {
           "username": "weblate",
           "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4"
         },
         {
-          "username": "itsmechinmoy",
-          "avatar": "https://avatars.githubusercontent.com/u/167056923?s=40&v=4"
+          "username": "Marco-9456",
+          "avatar": "https://avatars.githubusercontent.com/u/41828058?s=40&v=4"
         },
         {
-          "username": "Adolar0042",
-          "avatar": "https://avatars.githubusercontent.com/u/39769465?s=40&v=4"
+          "username": "chiyi4488",
+          "avatar": "https://avatars.githubusercontent.com/u/30853081?s=40&v=4"
         },
         {
-          "username": "LuftVerbot",
-          "avatar": "https://avatars.githubusercontent.com/u/97435834?s=40&v=4"
+          "username": "Linerly",
+          "avatar": "https://avatars.githubusercontent.com/u/47475676?s=40&v=4"
         }
       ],
       "aiSummary": null
@@ -279,7 +291,7 @@
       "description": "An open-source keyboard for Android which respects your privacy. Currently in beta.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 8038,
+      "stars": 8039,
       "forks": 593,
       "currentPeriodStars": 174,
       "builtBy": [
@@ -308,70 +320,58 @@
     },
     {
       "rank": 10,
-      "author": "JunkFood02",
-      "repoName": "Seal",
-      "url": "https://github.com/JunkFood02/Seal",
-      "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
+      "author": "jay3-yy",
+      "repoName": "BiliPai",
+      "url": "https://github.com/jay3-yy/BiliPai",
+      "description": "原生、纯净、可扩展 —— 重新定义你的 B 站体验",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 24558,
-      "forks": 1054,
-      "currentPeriodStars": 747,
+      "stars": 1375,
+      "forks": 49,
+      "currentPeriodStars": 642,
       "builtBy": [
         {
-          "username": "JunkFood02",
-          "avatar": "https://avatars.githubusercontent.com/u/69683722?s=40&v=4"
+          "username": "jay3-yy",
+          "avatar": "https://avatars.githubusercontent.com/u/173592055?s=40&v=4"
         },
         {
-          "username": "weblate",
-          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4"
-        },
-        {
-          "username": "Marco-9456",
-          "avatar": "https://avatars.githubusercontent.com/u/41828058?s=40&v=4"
-        },
-        {
-          "username": "chiyi4488",
-          "avatar": "https://avatars.githubusercontent.com/u/30853081?s=40&v=4"
-        },
-        {
-          "username": "Linerly",
-          "avatar": "https://avatars.githubusercontent.com/u/47475676?s=40&v=4"
+          "username": "TanakaLun",
+          "avatar": "https://avatars.githubusercontent.com/u/115213949?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 11,
-      "author": "nextcloud",
-      "repoName": "android",
-      "url": "https://github.com/nextcloud/android",
-      "description": "📱 Nextcloud Android app",
+      "author": "ProtonVPN",
+      "repoName": "android-app",
+      "url": "https://github.com/ProtonVPN/android-app",
+      "description": "Official ProtonVPN Android app",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 5134,
-      "forks": 1920,
-      "currentPeriodStars": 78,
+      "stars": 3312,
+      "forks": 438,
+      "currentPeriodStars": 102,
       "builtBy": [
         {
-          "username": "AndyScherzinger",
-          "avatar": "https://avatars.githubusercontent.com/u/1315170?s=40&v=4"
+          "username": "mateusz-markowicz",
+          "avatar": "https://avatars.githubusercontent.com/u/56823561?s=40&v=4"
         },
         {
-          "username": "tobiasKaminsky",
-          "avatar": "https://avatars.githubusercontent.com/u/5836855?s=40&v=4"
+          "username": "msimonides-proton",
+          "avatar": "https://avatars.githubusercontent.com/u/157022303?s=40&v=4"
         },
         {
-          "username": "alperozturk96",
-          "avatar": "https://avatars.githubusercontent.com/u/67455295?s=40&v=4"
+          "username": "AlgirdasPundzius",
+          "avatar": "https://avatars.githubusercontent.com/u/16317866?s=40&v=4"
         },
         {
-          "username": "nextcloud-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/20296731?s=40&v=4"
+          "username": "proton-ci",
+          "avatar": "https://avatars.githubusercontent.com/u/60648123?s=40&v=4"
         },
         {
-          "username": "davivel",
-          "avatar": "https://avatars.githubusercontent.com/u/2225614?s=40&v=4"
+          "username": "neilmarietta",
+          "avatar": "https://avatars.githubusercontent.com/u/11645175?s=40&v=4"
         }
       ],
       "aiSummary": null
@@ -384,7 +384,7 @@
       "description": "Lightweight unofficial Steam client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2569,
+      "stars": 2570,
       "forks": 100,
       "currentPeriodStars": 524,
       "builtBy": [
@@ -413,6 +413,111 @@
     },
     {
       "rank": 13,
+      "author": "wxxsfxyzm",
+      "repoName": "InstallerX-Revived",
+      "url": "https://github.com/wxxsfxyzm/InstallerX-Revived",
+      "description": "More Expressive InstallerX !",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 3616,
+      "forks": 136,
+      "currentPeriodStars": 492,
+      "builtBy": [
+        {
+          "username": "wxxsfxyzm",
+          "avatar": "https://avatars.githubusercontent.com/u/65166044?s=40&v=4"
+        },
+        {
+          "username": "weblate",
+          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4"
+        },
+        {
+          "username": "iamr0s",
+          "avatar": "https://avatars.githubusercontent.com/u/41138521?s=40&v=4"
+        },
+        {
+          "username": "marciozomb13",
+          "avatar": "https://avatars.githubusercontent.com/u/2564929?s=40&v=4"
+        },
+        {
+          "username": "Marukon",
+          "avatar": "https://avatars.githubusercontent.com/u/6285343?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 14,
+      "author": "koiverse",
+      "repoName": "ArchiveTune",
+      "url": "https://github.com/koiverse/ArchiveTune",
+      "description": "The cutest Material 3 Expressive music streaming client for Android, built for performance and extensibility.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 624,
+      "forks": 20,
+      "currentPeriodStars": 269,
+      "builtBy": [
+        {
+          "username": "koiverse",
+          "avatar": "https://avatars.githubusercontent.com/u/107134739?s=40&v=4"
+        },
+        {
+          "username": "Windowstechtips",
+          "avatar": "https://avatars.githubusercontent.com/u/93458424?s=40&v=4"
+        },
+        {
+          "username": "apps/renovate",
+          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+        },
+        {
+          "username": "GoldenWarriorM",
+          "avatar": "https://avatars.githubusercontent.com/u/69007932?s=40&v=4"
+        },
+        {
+          "username": "sang765",
+          "avatar": "https://avatars.githubusercontent.com/u/80249864?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 15,
+      "author": "ZalithLauncher",
+      "repoName": "ZalithLauncher2",
+      "url": "https://github.com/ZalithLauncher/ZalithLauncher2",
+      "description": "A Minecraft: Java Edition Launcher for Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 761,
+      "forks": 69,
+      "currentPeriodStars": 258,
+      "builtBy": [
+        {
+          "username": "MovTery",
+          "avatar": "https://avatars.githubusercontent.com/u/123115192?s=40&v=4"
+        },
+        {
+          "username": "weblate",
+          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4"
+        },
+        {
+          "username": "Nihonkoku1031",
+          "avatar": "https://avatars.githubusercontent.com/u/189323250?s=40&v=4"
+        },
+        {
+          "username": "MrKerik",
+          "avatar": "https://avatars.githubusercontent.com/u/128841153?s=40&v=4"
+        },
+        {
+          "username": "vannnemcee",
+          "avatar": "https://avatars.githubusercontent.com/u/85387395?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 16,
       "author": "jellyfin",
       "repoName": "jellyfin-androidtv",
       "url": "https://github.com/jellyfin/jellyfin-androidtv",
@@ -447,84 +552,14 @@
       "aiSummary": null
     },
     {
-      "rank": 14,
-      "author": "wxxsfxyzm",
-      "repoName": "InstallerX-Revived",
-      "url": "https://github.com/wxxsfxyzm/InstallerX-Revived",
-      "description": "More Expressive InstallerX !",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 3615,
-      "forks": 137,
-      "currentPeriodStars": 492,
-      "builtBy": [
-        {
-          "username": "wxxsfxyzm",
-          "avatar": "https://avatars.githubusercontent.com/u/65166044?s=40&v=4"
-        },
-        {
-          "username": "weblate",
-          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4"
-        },
-        {
-          "username": "iamr0s",
-          "avatar": "https://avatars.githubusercontent.com/u/41138521?s=40&v=4"
-        },
-        {
-          "username": "marciozomb13",
-          "avatar": "https://avatars.githubusercontent.com/u/2564929?s=40&v=4"
-        },
-        {
-          "username": "Marukon",
-          "avatar": "https://avatars.githubusercontent.com/u/6285343?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 15,
-      "author": "ZalithLauncher",
-      "repoName": "ZalithLauncher2",
-      "url": "https://github.com/ZalithLauncher/ZalithLauncher2",
-      "description": "A Minecraft: Java Edition Launcher for Android",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 760,
-      "forks": 69,
-      "currentPeriodStars": 258,
-      "builtBy": [
-        {
-          "username": "MovTery",
-          "avatar": "https://avatars.githubusercontent.com/u/123115192?s=40&v=4"
-        },
-        {
-          "username": "weblate",
-          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4"
-        },
-        {
-          "username": "Nihonkoku1031",
-          "avatar": "https://avatars.githubusercontent.com/u/189323250?s=40&v=4"
-        },
-        {
-          "username": "MrKerik",
-          "avatar": "https://avatars.githubusercontent.com/u/128841153?s=40&v=4"
-        },
-        {
-          "username": "vannnemcee",
-          "avatar": "https://avatars.githubusercontent.com/u/85387395?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 16,
+      "rank": 17,
       "author": "horsemail",
       "repoName": "yourtv",
       "url": "https://github.com/horsemail/yourtv",
       "description": "安卓电视直播APK：IPTV/網頁視頻支持X5，可自定義源(支持webview://格式)，IPTV支持畫中畫和熄屏播放。 Android TV Live APK: IPTV/web video supports X5, customizable sources (support webview:// format), IPTV supports picture-in-picture and off-screen playback.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1090,
+      "stars": 1092,
       "forks": 131,
       "currentPeriodStars": 217,
       "builtBy": [
@@ -552,42 +587,42 @@
       "aiSummary": null
     },
     {
-      "rank": 17,
-      "author": "koiverse",
-      "repoName": "ArchiveTune",
-      "url": "https://github.com/koiverse/ArchiveTune",
-      "description": "The cutest Material 3 Expressive music streaming client for Android, built for performance and extensibility.",
+      "rank": 18,
+      "author": "RikkaApps",
+      "repoName": "Shizuku",
+      "url": "https://github.com/RikkaApps/Shizuku",
+      "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 623,
-      "forks": 20,
-      "currentPeriodStars": 269,
+      "stars": 21822,
+      "forks": 2006,
+      "currentPeriodStars": 1242,
       "builtBy": [
         {
-          "username": "koiverse",
-          "avatar": "https://avatars.githubusercontent.com/u/107134739?s=40&v=4"
+          "username": "RikkaW",
+          "avatar": "https://avatars.githubusercontent.com/u/12999176?s=40&v=4"
         },
         {
-          "username": "Windowstechtips",
-          "avatar": "https://avatars.githubusercontent.com/u/93458424?s=40&v=4"
+          "username": "vvb2060",
+          "avatar": "https://avatars.githubusercontent.com/u/26996262?s=40&v=4"
         },
         {
-          "username": "apps/renovate",
-          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+          "username": "haruue",
+          "avatar": "https://avatars.githubusercontent.com/u/13131972?s=40&v=4"
         },
         {
-          "username": "GoldenWarriorM",
-          "avatar": "https://avatars.githubusercontent.com/u/69007932?s=40&v=4"
+          "username": "ryuunoakaihitomi",
+          "avatar": "https://avatars.githubusercontent.com/u/22442525?s=40&v=4"
         },
         {
-          "username": "sang765",
-          "avatar": "https://avatars.githubusercontent.com/u/80249864?s=40&v=4"
+          "username": "tclement0922",
+          "avatar": "https://avatars.githubusercontent.com/u/50289872?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
-      "rank": 18,
+      "rank": 19,
       "author": "WildKernels",
       "repoName": "Wild_KSU",
       "url": "https://github.com/WildKernels/Wild_KSU",
@@ -617,41 +652,6 @@
         {
           "username": "apps/dependabot",
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 19,
-      "author": "RikkaApps",
-      "repoName": "Shizuku",
-      "url": "https://github.com/RikkaApps/Shizuku",
-      "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 21813,
-      "forks": 2006,
-      "currentPeriodStars": 1242,
-      "builtBy": [
-        {
-          "username": "RikkaW",
-          "avatar": "https://avatars.githubusercontent.com/u/12999176?s=40&v=4"
-        },
-        {
-          "username": "vvb2060",
-          "avatar": "https://avatars.githubusercontent.com/u/26996262?s=40&v=4"
-        },
-        {
-          "username": "haruue",
-          "avatar": "https://avatars.githubusercontent.com/u/13131972?s=40&v=4"
-        },
-        {
-          "username": "ryuunoakaihitomi",
-          "avatar": "https://avatars.githubusercontent.com/u/22442525?s=40&v=4"
-        },
-        {
-          "username": "tclement0922",
-          "avatar": "https://avatars.githubusercontent.com/u/50289872?s=40&v=4"
         }
       ],
       "aiSummary": null

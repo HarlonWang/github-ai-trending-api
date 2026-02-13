@@ -1,7 +1,7 @@
 {
-  "count": 15,
+  "count": 17,
   "since": "monthly",
-  "captured_at": "2026-02-13 09:58:22",
+  "captured_at": "2026-02-13 12:20:16",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 37134,
+      "stars": 37133,
       "forks": 3462,
       "currentPeriodStars": 971,
       "builtBy": [
@@ -46,7 +46,7 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22069,
+      "stars": 22072,
       "forks": 5406,
       "currentPeriodStars": 1175,
       "builtBy": [
@@ -81,7 +81,7 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22028,
+      "stars": 22032,
       "forks": 13083,
       "currentPeriodStars": 488,
       "builtBy": [
@@ -110,31 +110,35 @@
     },
     {
       "rank": 4,
-      "author": "ashishps1",
-      "repoName": "awesome-system-design-resources",
-      "url": "https://github.com/ashishps1/awesome-system-design-resources",
-      "description": "Learn System Design concepts and prepare for interviews using free resources.",
+      "author": "TheAlgorithms",
+      "repoName": "Java",
+      "url": "https://github.com/TheAlgorithms/Java",
+      "description": "All Algorithms implemented in Java",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 30028,
-      "forks": 6834,
-      "currentPeriodStars": 932,
+      "stars": 65037,
+      "forks": 20970,
+      "currentPeriodStars": 400,
       "builtBy": [
         {
-          "username": "ashishps1",
-          "avatar": "https://avatars.githubusercontent.com/u/8646889?s=40&v=4"
+          "username": "alxkm",
+          "avatar": "https://avatars.githubusercontent.com/u/19151554?s=40&v=4"
         },
         {
-          "username": "systemdesign42",
-          "avatar": "https://avatars.githubusercontent.com/u/118598641?s=40&v=4"
+          "username": "Hardvan",
+          "avatar": "https://avatars.githubusercontent.com/u/97388607?s=40&v=4"
         },
         {
-          "username": "ajitzero",
-          "avatar": "https://avatars.githubusercontent.com/u/19947758?s=40&v=4"
+          "username": "vil02",
+          "avatar": "https://avatars.githubusercontent.com/u/65706193?s=40&v=4"
         },
         {
-          "username": "abdulrahim2002",
-          "avatar": "https://avatars.githubusercontent.com/u/89011337?s=40&v=4"
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "yanglbme",
+          "avatar": "https://avatars.githubusercontent.com/u/21008209?s=40&v=4"
         }
       ],
       "aiSummary": null
@@ -147,8 +151,8 @@
       "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12203,
-      "forks": 2554,
+      "stars": 12207,
+      "forks": 2555,
       "currentPeriodStars": 352,
       "builtBy": [
         {
@@ -182,7 +186,7 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 50552,
+      "stars": 50557,
       "forks": 6007,
       "currentPeriodStars": 1890,
       "builtBy": [
@@ -211,41 +215,6 @@
     },
     {
       "rank": 7,
-      "author": "TheAlgorithms",
-      "repoName": "Java",
-      "url": "https://github.com/TheAlgorithms/Java",
-      "description": "All Algorithms implemented in Java",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 65035,
-      "forks": 20970,
-      "currentPeriodStars": 400,
-      "builtBy": [
-        {
-          "username": "alxkm",
-          "avatar": "https://avatars.githubusercontent.com/u/19151554?s=40&v=4"
-        },
-        {
-          "username": "Hardvan",
-          "avatar": "https://avatars.githubusercontent.com/u/97388607?s=40&v=4"
-        },
-        {
-          "username": "vil02",
-          "avatar": "https://avatars.githubusercontent.com/u/65706193?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "yanglbme",
-          "avatar": "https://avatars.githubusercontent.com/u/21008209?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 8,
       "author": "AsamK",
       "repoName": "signal-cli",
       "url": "https://github.com/AsamK/signal-cli",
@@ -280,7 +249,7 @@
       "aiSummary": null
     },
     {
-      "rank": 9,
+      "rank": 8,
       "author": "TeamNewPipe",
       "repoName": "NewPipeExtractor",
       "url": "https://github.com/TeamNewPipe/NewPipeExtractor",
@@ -315,36 +284,71 @@
       "aiSummary": null
     },
     {
-      "rank": 10,
-      "author": "keycloak",
-      "repoName": "keycloak",
-      "url": "https://github.com/keycloak/keycloak",
-      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "rank": 9,
+      "author": "DrKLO",
+      "repoName": "Telegram",
+      "url": "https://github.com/DrKLO/Telegram",
+      "description": "Telegram for Android source",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32809,
-      "forks": 8048,
-      "currentPeriodStars": 678,
+      "stars": 28527,
+      "forks": 9279,
+      "currentPeriodStars": 265,
       "builtBy": [
         {
-          "username": "stianst",
-          "avatar": "https://avatars.githubusercontent.com/u/2271511?s=40&v=4"
+          "username": "xaxtix",
+          "avatar": "https://avatars.githubusercontent.com/u/7038595?s=40&v=4"
         },
         {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+          "username": "DrKLO",
+          "avatar": "https://avatars.githubusercontent.com/u/69369?s=40&v=4"
         },
         {
-          "username": "patriot1burke",
-          "avatar": "https://avatars.githubusercontent.com/u/704239?s=40&v=4"
+          "username": "dkaraush",
+          "avatar": "https://avatars.githubusercontent.com/u/10834227?s=40&v=4"
         },
         {
-          "username": "mposolda",
-          "avatar": "https://avatars.githubusercontent.com/u/1223965?s=40&v=4"
+          "username": "Arseny271",
+          "avatar": "https://avatars.githubusercontent.com/u/56611696?s=40&v=4"
         },
         {
-          "username": "edewit",
-          "avatar": "https://avatars.githubusercontent.com/u/51133?s=40&v=4"
+          "username": "jsonchi",
+          "avatar": "https://avatars.githubusercontent.com/u/3435533?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 10,
+      "author": "dbeaver",
+      "repoName": "dbeaver",
+      "url": "https://github.com/dbeaver/dbeaver",
+      "description": "Free universal database tool and SQL client",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 48661,
+      "forks": 4039,
+      "currentPeriodStars": 522,
+      "builtBy": [
+        {
+          "username": "serge-rider",
+          "avatar": "https://avatars.githubusercontent.com/u/6398845?s=40&v=4"
+        },
+        {
+          "username": "ShadelessFox",
+          "avatar": "https://avatars.githubusercontent.com/u/35821147?s=40&v=4"
+        },
+        {
+          "username": "LonwoLonwo",
+          "avatar": "https://avatars.githubusercontent.com/u/45152336?s=40&v=4"
+        },
+        {
+          "username": "E1izabeth",
+          "avatar": "https://avatars.githubusercontent.com/u/28875055?s=40&v=4"
+        },
+        {
+          "username": "MashaKorax",
+          "avatar": "https://avatars.githubusercontent.com/u/84867187?s=40&v=4"
         }
       ],
       "aiSummary": null
@@ -357,7 +361,7 @@
       "description": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 10372,
+      "stars": 10369,
       "forks": 2425,
       "currentPeriodStars": 95,
       "builtBy": [
@@ -386,116 +390,206 @@
     },
     {
       "rank": 12,
-      "author": "dbeaver",
-      "repoName": "dbeaver",
-      "url": "https://github.com/dbeaver/dbeaver",
-      "description": "Free universal database tool and SQL client",
+      "author": "Julow",
+      "repoName": "Unexpected-Keyboard",
+      "url": "https://github.com/Julow/Unexpected-Keyboard",
+      "description": "A lightweight keyboard for Android",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 48666,
-      "forks": 4039,
-      "currentPeriodStars": 522,
+      "stars": 2757,
+      "forks": 279,
+      "currentPeriodStars": 116,
       "builtBy": [
         {
-          "username": "serge-rider",
-          "avatar": "https://avatars.githubusercontent.com/u/6398845?s=40&v=4"
+          "username": "Julow",
+          "avatar": "https://avatars.githubusercontent.com/u/2310568?s=40&v=4"
         },
         {
-          "username": "ShadelessFox",
-          "avatar": "https://avatars.githubusercontent.com/u/35821147?s=40&v=4"
+          "username": "sdrapha",
+          "avatar": "https://avatars.githubusercontent.com/u/25059996?s=40&v=4"
         },
         {
-          "username": "LonwoLonwo",
-          "avatar": "https://avatars.githubusercontent.com/u/45152336?s=40&v=4"
+          "username": "eandersons",
+          "avatar": "https://avatars.githubusercontent.com/u/9976861?s=40&v=4"
         },
         {
-          "username": "E1izabeth",
-          "avatar": "https://avatars.githubusercontent.com/u/28875055?s=40&v=4"
+          "username": "Spike-from-NH",
+          "avatar": "https://avatars.githubusercontent.com/u/126838489?s=40&v=4"
         },
         {
-          "username": "MashaKorax",
-          "avatar": "https://avatars.githubusercontent.com/u/84867187?s=40&v=4"
+          "username": "ChasmSolacer",
+          "avatar": "https://avatars.githubusercontent.com/u/46286197?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 13,
-      "author": "HMCL-dev",
-      "repoName": "HMCL",
-      "url": "https://github.com/HMCL-dev/HMCL",
-      "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
+      "author": "ashishps1",
+      "repoName": "awesome-system-design-resources",
+      "url": "https://github.com/ashishps1/awesome-system-design-resources",
+      "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8841,
-      "forks": 828,
-      "currentPeriodStars": 196,
+      "stars": 30038,
+      "forks": 6837,
+      "currentPeriodStars": 932,
       "builtBy": [
         {
-          "username": "huanghongxun",
-          "avatar": "https://avatars.githubusercontent.com/u/5411982?s=40&v=4"
+          "username": "ashishps1",
+          "avatar": "https://avatars.githubusercontent.com/u/8646889?s=40&v=4"
         },
         {
-          "username": "Glavo",
-          "avatar": "https://avatars.githubusercontent.com/u/20694662?s=40&v=4"
+          "username": "systemdesign42",
+          "avatar": "https://avatars.githubusercontent.com/u/118598641?s=40&v=4"
         },
         {
-          "username": "yushijinhun",
-          "avatar": "https://avatars.githubusercontent.com/u/8373027?s=40&v=4"
+          "username": "ajitzero",
+          "avatar": "https://avatars.githubusercontent.com/u/19947758?s=40&v=4"
         },
         {
-          "username": "zkitefly",
-          "avatar": "https://avatars.githubusercontent.com/u/64117916?s=40&v=4"
-        },
-        {
-          "username": "3gf8jv4dv",
-          "avatar": "https://avatars.githubusercontent.com/u/158490944?s=40&v=4"
+          "username": "abdulrahim2002",
+          "avatar": "https://avatars.githubusercontent.com/u/89011337?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 14,
-      "author": "NotHarshhaa",
-      "repoName": "DevOps-Projects",
-      "url": "https://github.com/NotHarshhaa/DevOps-Projects",
-      "description": "𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅]",
+      "author": "vespa-engine",
+      "repoName": "vespa",
+      "url": "https://github.com/vespa-engine/vespa",
+      "description": "AI + Data, online. https://vespa.ai",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 3467,
-      "forks": 3546,
-      "currentPeriodStars": 468,
+      "stars": 6776,
+      "forks": 696,
+      "currentPeriodStars": 64,
       "builtBy": [
         {
-          "username": "NotHarshhaa",
-          "avatar": "https://avatars.githubusercontent.com/u/112948305?s=40&v=4"
+          "username": "baldersheim",
+          "avatar": "https://avatars.githubusercontent.com/u/19857788?s=40&v=4"
         },
         {
-          "username": "prodevopsguytech",
-          "avatar": "https://avatars.githubusercontent.com/u/198442436?s=40&v=4"
+          "username": "bjorncs",
+          "avatar": "https://avatars.githubusercontent.com/u/798335?s=40&v=4"
+        },
+        {
+          "username": "arnej27959",
+          "avatar": "https://avatars.githubusercontent.com/u/19730911?s=40&v=4"
+        },
+        {
+          "username": "jonmv",
+          "avatar": "https://avatars.githubusercontent.com/u/7009557?s=40&v=4"
+        },
+        {
+          "username": "mpolden",
+          "avatar": "https://avatars.githubusercontent.com/u/174496?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 15,
-      "author": "adityatandon15",
-      "repoName": "LLD",
-      "url": "https://github.com/adityatandon15/LLD",
-      "description": "All Code of LLD Playlist",
+      "author": "plantuml",
+      "repoName": "plantuml",
+      "url": "https://github.com/plantuml/plantuml",
+      "description": "Generate diagrams from textual description",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 660,
-      "forks": 458,
-      "currentPeriodStars": 88,
+      "stars": 12649,
+      "forks": 1139,
+      "currentPeriodStars": 154,
       "builtBy": [
         {
-          "username": "adityatandon15",
-          "avatar": "https://avatars.githubusercontent.com/u/40351467?s=40&v=4"
+          "username": "arnaudroques",
+          "avatar": "https://avatars.githubusercontent.com/u/467517?s=40&v=4"
         },
         {
-          "username": "Sdunga1",
-          "avatar": "https://avatars.githubusercontent.com/u/165943559?s=40&v=4"
+          "username": "The-Lum",
+          "avatar": "https://avatars.githubusercontent.com/u/86879521?s=40&v=4"
+        },
+        {
+          "username": "matthew16550",
+          "avatar": "https://avatars.githubusercontent.com/u/39400458?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "soloturn",
+          "avatar": "https://avatars.githubusercontent.com/u/825568?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 16,
+      "author": "JingMatrix",
+      "repoName": "LSPosed",
+      "url": "https://github.com/JingMatrix/LSPosed",
+      "description": "LSPosed Framework resuscitated",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 9574,
+      "forks": 599,
+      "currentPeriodStars": 446,
+      "builtBy": [
+        {
+          "username": "yujincheng08",
+          "avatar": "https://avatars.githubusercontent.com/u/5022927?s=40&v=4"
+        },
+        {
+          "username": "vvb2060",
+          "avatar": "https://avatars.githubusercontent.com/u/26996262?s=40&v=4"
+        },
+        {
+          "username": "solohsu",
+          "avatar": "https://avatars.githubusercontent.com/u/3291602?s=40&v=4"
+        },
+        {
+          "username": "Howard20181",
+          "avatar": "https://avatars.githubusercontent.com/u/40033067?s=40&v=4"
+        },
+        {
+          "username": "kotori2",
+          "avatar": "https://avatars.githubusercontent.com/u/17663689?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 17,
+      "author": "keycloak",
+      "repoName": "keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 32807,
+      "forks": 8048,
+      "currentPeriodStars": 678,
+      "builtBy": [
+        {
+          "username": "stianst",
+          "avatar": "https://avatars.githubusercontent.com/u/2271511?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "patriot1burke",
+          "avatar": "https://avatars.githubusercontent.com/u/704239?s=40&v=4"
+        },
+        {
+          "username": "mposolda",
+          "avatar": "https://avatars.githubusercontent.com/u/1223965?s=40&v=4"
+        },
+        {
+          "username": "edewit",
+          "avatar": "https://avatars.githubusercontent.com/u/51133?s=40&v=4"
         }
       ],
       "aiSummary": null

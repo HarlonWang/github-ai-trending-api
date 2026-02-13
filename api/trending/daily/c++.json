@@ -1,17 +1,48 @@
 {
-  "count": 20,
+  "count": 22,
   "since": "daily",
-  "captured_at": "2026-02-13 09:56:56",
+  "captured_at": "2026-02-13 12:18:43",
   "data": [
     {
       "rank": 1,
+      "author": "geo-tp",
+      "repoName": "ESP32-Bus-Pirate",
+      "url": "https://github.com/geo-tp/ESP32-Bus-Pirate",
+      "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 2649,
+      "forks": 207,
+      "currentPeriodStars": 41,
+      "builtBy": [
+        {
+          "username": "geo-tp",
+          "avatar": "https://avatars.githubusercontent.com/u/72315006?s=40&v=4"
+        },
+        {
+          "username": "AndreiVladescu",
+          "avatar": "https://avatars.githubusercontent.com/u/52881237?s=40&v=4"
+        },
+        {
+          "username": "fdufnews",
+          "avatar": "https://avatars.githubusercontent.com/u/4077715?s=40&v=4"
+        },
+        {
+          "username": "rosbeef",
+          "avatar": "https://avatars.githubusercontent.com/u/29942937?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 2,
       "author": "alibaba",
       "repoName": "zvec",
       "url": "https://github.com/alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 786,
+      "stars": 811,
       "forks": 41,
       "currentPeriodStars": 109,
       "builtBy": [
@@ -39,80 +70,14 @@
       "aiSummary": null
     },
     {
-      "rank": 2,
-      "author": "geo-tp",
-      "repoName": "ESP32-Bus-Pirate",
-      "url": "https://github.com/geo-tp/ESP32-Bus-Pirate",
-      "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 2646,
-      "forks": 207,
-      "currentPeriodStars": 41,
-      "builtBy": [
-        {
-          "username": "geo-tp",
-          "avatar": "https://avatars.githubusercontent.com/u/72315006?s=40&v=4"
-        },
-        {
-          "username": "AndreiVladescu",
-          "avatar": "https://avatars.githubusercontent.com/u/52881237?s=40&v=4"
-        },
-        {
-          "username": "fdufnews",
-          "avatar": "https://avatars.githubusercontent.com/u/4077715?s=40&v=4"
-        },
-        {
-          "username": "rosbeef",
-          "avatar": "https://avatars.githubusercontent.com/u/29942937?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
       "rank": 3,
-      "author": "mumble-voip",
-      "repoName": "mumble",
-      "url": "https://github.com/mumble-voip/mumble",
-      "description": "Mumble is an open-source, low-latency, high quality voice chat software.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 7659,
-      "forks": 1274,
-      "currentPeriodStars": 16,
-      "builtBy": [
-        {
-          "username": "thorvald",
-          "avatar": "https://avatars.githubusercontent.com/u/637674?s=40&v=4"
-        },
-        {
-          "username": "Krzmbrzl",
-          "avatar": "https://avatars.githubusercontent.com/u/12751591?s=40&v=4"
-        },
-        {
-          "username": "mkrautz",
-          "avatar": "https://avatars.githubusercontent.com/u/36527?s=40&v=4"
-        },
-        {
-          "username": "davidebeatrici",
-          "avatar": "https://avatars.githubusercontent.com/u/5897523?s=40&v=4"
-        },
-        {
-          "username": "hacst",
-          "avatar": "https://avatars.githubusercontent.com/u/237537?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 4,
       "author": "daijro",
       "repoName": "camoufox",
       "url": "https://github.com/daijro/camoufox",
       "description": "🦊 Anti-detect browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5308,
+      "stars": 5314,
       "forks": 490,
       "currentPeriodStars": 56,
       "builtBy": [
@@ -140,252 +105,7 @@
       "aiSummary": null
     },
     {
-      "rank": 5,
-      "author": "alibaba",
-      "repoName": "MNN",
-      "url": "https://github.com/alibaba/MNN",
-      "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 14197,
-      "forks": 2198,
-      "currentPeriodStars": 12,
-      "builtBy": [
-        {
-          "username": "MNNTeam",
-          "avatar": "https://avatars.githubusercontent.com/u/58166196?s=40&v=4"
-        },
-        {
-          "username": "wangzhaode",
-          "avatar": "https://avatars.githubusercontent.com/u/8401806?s=40&v=4"
-        },
-        {
-          "username": "jxt1234",
-          "avatar": "https://avatars.githubusercontent.com/u/5484403?s=40&v=4"
-        },
-        {
-          "username": "Yogayu",
-          "avatar": "https://avatars.githubusercontent.com/u/10155763?s=40&v=4"
-        },
-        {
-          "username": "Juude",
-          "avatar": "https://avatars.githubusercontent.com/u/2675838?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 6,
-      "author": "CleverRaven",
-      "repoName": "Cataclysm-DDA",
-      "url": "https://github.com/CleverRaven/Cataclysm-DDA",
-      "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 12052,
-      "forks": 4433,
-      "currentPeriodStars": 5,
-      "builtBy": [
-        {
-          "username": "ZhilkinSerg",
-          "avatar": "https://avatars.githubusercontent.com/u/16213433?s=40&v=4"
-        },
-        {
-          "username": "kevingranade",
-          "avatar": "https://avatars.githubusercontent.com/u/860276?s=40&v=4"
-        },
-        {
-          "username": "Rivet-the-Zombie",
-          "avatar": "https://avatars.githubusercontent.com/u/5084581?s=40&v=4"
-        },
-        {
-          "username": "BevapDin",
-          "avatar": "https://avatars.githubusercontent.com/u/5095435?s=40&v=4"
-        },
-        {
-          "username": "Maleclypse",
-          "avatar": "https://avatars.githubusercontent.com/u/54345792?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 7,
-      "author": "MaaAssistantArknights",
-      "repoName": "MaaAssistantArknights",
-      "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
-      "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 19525,
-      "forks": 2482,
-      "currentPeriodStars": 19,
-      "builtBy": [
-        {
-          "username": "MistEO",
-          "avatar": "https://avatars.githubusercontent.com/u/18511905?s=40&v=4"
-        },
-        {
-          "username": "ABA2396",
-          "avatar": "https://avatars.githubusercontent.com/u/99072975?s=40&v=4"
-        },
-        {
-          "username": "status102",
-          "avatar": "https://avatars.githubusercontent.com/u/102887808?s=40&v=4"
-        },
-        {
-          "username": "Constrat",
-          "avatar": "https://avatars.githubusercontent.com/u/56174894?s=40&v=4"
-        },
-        {
-          "username": "zzyyyl",
-          "avatar": "https://avatars.githubusercontent.com/u/74587068?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 8,
-      "author": "owasp-modsecurity",
-      "repoName": "ModSecurity",
-      "url": "https://github.com/owasp-modsecurity/ModSecurity",
-      "description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 9499,
-      "forks": 1720,
-      "currentPeriodStars": 3,
-      "builtBy": [
-        {
-          "username": "zimmerle",
-          "avatar": "https://avatars.githubusercontent.com/u/428268?s=40&v=4"
-        },
-        {
-          "username": "brenosilva",
-          "avatar": "https://avatars.githubusercontent.com/u/596891?s=40&v=4"
-        },
-        {
-          "username": "airween",
-          "avatar": "https://avatars.githubusercontent.com/u/238977?s=40&v=4"
-        },
-        {
-          "username": "martinhsv",
-          "avatar": "https://avatars.githubusercontent.com/u/55407942?s=40&v=4"
-        },
-        {
-          "username": "eduar-hte",
-          "avatar": "https://avatars.githubusercontent.com/u/130087371?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 9,
-      "author": "pybind",
-      "repoName": "pybind11",
-      "url": "https://github.com/pybind/pybind11",
-      "description": "Seamless operability between C++11 and Python",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 17723,
-      "forks": 2268,
-      "currentPeriodStars": 7,
-      "builtBy": [
-        {
-          "username": "wjakob",
-          "avatar": "https://avatars.githubusercontent.com/u/1203629?s=40&v=4"
-        },
-        {
-          "username": "henryiii",
-          "avatar": "https://avatars.githubusercontent.com/u/4616906?s=40&v=4"
-        },
-        {
-          "username": "rwgk",
-          "avatar": "https://avatars.githubusercontent.com/u/740480?s=40&v=4"
-        },
-        {
-          "username": "jagerman",
-          "avatar": "https://avatars.githubusercontent.com/u/4459524?s=40&v=4"
-        },
-        {
-          "username": "apps/pre-commit-ci",
-          "avatar": "https://avatars.githubusercontent.com/in/68672?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 10,
-      "author": "duckdb",
-      "repoName": "duckdb",
-      "url": "https://github.com/duckdb/duckdb",
-      "description": "DuckDB is an analytical in-process SQL database management system",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 36068,
-      "forks": 2929,
-      "currentPeriodStars": 30,
-      "builtBy": [
-        {
-          "username": "Mytherin",
-          "avatar": "https://avatars.githubusercontent.com/u/3978469?s=40&v=4"
-        },
-        {
-          "username": "Tishj",
-          "avatar": "https://avatars.githubusercontent.com/u/17162323?s=40&v=4"
-        },
-        {
-          "username": "pdet",
-          "avatar": "https://avatars.githubusercontent.com/u/7377477?s=40&v=4"
-        },
-        {
-          "username": "hannes",
-          "avatar": "https://avatars.githubusercontent.com/u/227792?s=40&v=4"
-        },
-        {
-          "username": "taniabogatsch",
-          "avatar": "https://avatars.githubusercontent.com/u/44262898?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 11,
-      "author": "openvinotoolkit",
-      "repoName": "openvino.genai",
-      "url": "https://github.com/openvinotoolkit/openvino.genai",
-      "description": "Run Generative AI models with simple C++/Python API and using OpenVINO Runtime",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 433,
-      "forks": 341,
-      "currentPeriodStars": 0,
-      "builtBy": [
-        {
-          "username": "Wovchena",
-          "avatar": "https://avatars.githubusercontent.com/u/10669582?s=40&v=4"
-        },
-        {
-          "username": "ilya-lavrenov",
-          "avatar": "https://avatars.githubusercontent.com/u/2566854?s=40&v=4"
-        },
-        {
-          "username": "eaidova",
-          "avatar": "https://avatars.githubusercontent.com/u/29454499?s=40&v=4"
-        },
-        {
-          "username": "yatarkan",
-          "avatar": "https://avatars.githubusercontent.com/u/41733560?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 12,
+      "rank": 4,
       "author": "google",
       "repoName": "perfetto",
       "url": "https://github.com/google/perfetto",
@@ -420,28 +140,316 @@
       "aiSummary": null
     },
     {
-      "rank": 13,
-      "author": "huaweicloud",
-      "repoName": "huaweicloud-sdk-cpp-v3",
-      "url": "https://github.com/huaweicloud/huaweicloud-sdk-cpp-v3",
-      "description": "",
+      "rank": 5,
+      "author": "kuzudb",
+      "repoName": "kuzu",
+      "url": "https://github.com/kuzudb/kuzu",
+      "description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 61,
-      "forks": 43,
-      "currentPeriodStars": 8,
+      "stars": 3629,
+      "forks": 368,
+      "currentPeriodStars": 10,
       "builtBy": [
         {
-          "username": "Huaweicloud-SDK",
-          "avatar": "https://avatars.githubusercontent.com/u/66664031?s=40&v=4"
+          "username": "andyfengHKU",
+          "avatar": "https://avatars.githubusercontent.com/u/23330462?s=40&v=4"
         },
         {
-          "username": "mabcd-9527",
-          "avatar": "https://avatars.githubusercontent.com/u/85687446?s=40&v=4"
+          "username": "acquamarin",
+          "avatar": "https://avatars.githubusercontent.com/u/47264495?s=40&v=4"
         },
         {
-          "username": "glovethu",
-          "avatar": "https://avatars.githubusercontent.com/u/11626306?s=40&v=4"
+          "username": "ray6080",
+          "avatar": "https://avatars.githubusercontent.com/u/3192330?s=40&v=4"
+        },
+        {
+          "username": "mewim",
+          "avatar": "https://avatars.githubusercontent.com/u/14037726?s=40&v=4"
+        },
+        {
+          "username": "benjaminwinger",
+          "avatar": "https://avatars.githubusercontent.com/u/8703943?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 6,
+      "author": "mongodb",
+      "repoName": "mongo",
+      "url": "https://github.com/mongodb/mongo",
+      "description": "The MongoDB Database",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 28060,
+      "forks": 5754,
+      "currentPeriodStars": 6,
+      "builtBy": [
+        {
+          "username": "erh",
+          "avatar": "https://avatars.githubusercontent.com/u/12109?s=40&v=4"
+        },
+        {
+          "username": "dwight",
+          "avatar": "https://avatars.githubusercontent.com/u/17261?s=40&v=4"
+        },
+        {
+          "username": "benety",
+          "avatar": "https://avatars.githubusercontent.com/u/5374530?s=40&v=4"
+        },
+        {
+          "username": "astaple",
+          "avatar": "https://avatars.githubusercontent.com/u/33134?s=40&v=4"
+        },
+        {
+          "username": "RedBeard0531",
+          "avatar": "https://avatars.githubusercontent.com/u/118456?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 7,
+      "author": "apache",
+      "repoName": "arrow",
+      "url": "https://github.com/apache/arrow",
+      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 16501,
+      "forks": 4014,
+      "currentPeriodStars": 5,
+      "builtBy": [
+        {
+          "username": "kou",
+          "avatar": "https://avatars.githubusercontent.com/u/27350?s=40&v=4"
+        },
+        {
+          "username": "pitrou",
+          "avatar": "https://avatars.githubusercontent.com/u/1721820?s=40&v=4"
+        },
+        {
+          "username": "wesm",
+          "avatar": "https://avatars.githubusercontent.com/u/329591?s=40&v=4"
+        },
+        {
+          "username": "kszucs",
+          "avatar": "https://avatars.githubusercontent.com/u/961747?s=40&v=4"
+        },
+        {
+          "username": "jorisvandenbossche",
+          "avatar": "https://avatars.githubusercontent.com/u/1020496?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 8,
+      "author": "iree-org",
+      "repoName": "iree",
+      "url": "https://github.com/iree-org/iree",
+      "description": "A retargetable MLIR-based machine learning compiler and runtime toolkit.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 3604,
+      "forks": 839,
+      "currentPeriodStars": 6,
+      "builtBy": [
+        {
+          "username": "iree-github-actions-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/62120345?s=40&v=4"
+        },
+        {
+          "username": "benvanik",
+          "avatar": "https://avatars.githubusercontent.com/u/75337?s=40&v=4"
+        },
+        {
+          "username": "ScottTodd",
+          "avatar": "https://avatars.githubusercontent.com/u/4010439?s=40&v=4"
+        },
+        {
+          "username": "hanhanW",
+          "avatar": "https://avatars.githubusercontent.com/u/6949191?s=40&v=4"
+        },
+        {
+          "username": "GMNGeoffrey",
+          "avatar": "https://avatars.githubusercontent.com/u/5732088?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 9,
+      "author": "tenstorrent",
+      "repoName": "tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal",
+      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 1348,
+      "forks": 344,
+      "currentPeriodStars": 2,
+      "builtBy": [
+        {
+          "username": "apps/github-merge-queue",
+          "avatar": "https://avatars.githubusercontent.com/u/9919?s=40&v=4"
+        },
+        {
+          "username": "tt-rkim",
+          "avatar": "https://avatars.githubusercontent.com/u/109366641?s=40&v=4"
+        },
+        {
+          "username": "tt-aho",
+          "avatar": "https://avatars.githubusercontent.com/u/109362939?s=40&v=4"
+        },
+        {
+          "username": "blozano-tt",
+          "avatar": "https://avatars.githubusercontent.com/u/181790211?s=40&v=4"
+        },
+        {
+          "username": "abhullar-tt",
+          "avatar": "https://avatars.githubusercontent.com/u/109364210?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 10,
+      "author": "tesseract-ocr",
+      "repoName": "tesseract",
+      "url": "https://github.com/tesseract-ocr/tesseract",
+      "description": "Tesseract Open Source OCR Engine (main repository)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 72374,
+      "forks": 10500,
+      "currentPeriodStars": 20,
+      "builtBy": [
+        {
+          "username": "stweil",
+          "avatar": "https://avatars.githubusercontent.com/u/6734573?s=40&v=4"
+        },
+        {
+          "username": "egorpugin",
+          "avatar": "https://avatars.githubusercontent.com/u/4325333?s=40&v=4"
+        },
+        {
+          "username": "zdenop",
+          "avatar": "https://avatars.githubusercontent.com/u/574156?s=40&v=4"
+        },
+        {
+          "username": "Shreeshrii",
+          "avatar": "https://avatars.githubusercontent.com/u/5095331?s=40&v=4"
+        },
+        {
+          "username": "amitdo",
+          "avatar": "https://avatars.githubusercontent.com/u/13571208?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 11,
+      "author": "duckdb",
+      "repoName": "duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 36065,
+      "forks": 2929,
+      "currentPeriodStars": 30,
+      "builtBy": [
+        {
+          "username": "Mytherin",
+          "avatar": "https://avatars.githubusercontent.com/u/3978469?s=40&v=4"
+        },
+        {
+          "username": "Tishj",
+          "avatar": "https://avatars.githubusercontent.com/u/17162323?s=40&v=4"
+        },
+        {
+          "username": "pdet",
+          "avatar": "https://avatars.githubusercontent.com/u/7377477?s=40&v=4"
+        },
+        {
+          "username": "hannes",
+          "avatar": "https://avatars.githubusercontent.com/u/227792?s=40&v=4"
+        },
+        {
+          "username": "taniabogatsch",
+          "avatar": "https://avatars.githubusercontent.com/u/44262898?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 12,
+      "author": "k2-fsa",
+      "repoName": "sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10300,
+      "forks": 1158,
+      "currentPeriodStars": 17,
+      "builtBy": [
+        {
+          "username": "csukuangfj",
+          "avatar": "https://avatars.githubusercontent.com/u/5284924?s=40&v=4"
+        },
+        {
+          "username": "pkufool",
+          "avatar": "https://avatars.githubusercontent.com/u/11765074?s=40&v=4"
+        },
+        {
+          "username": "pingfengluo",
+          "avatar": "https://avatars.githubusercontent.com/u/2265062?s=40&v=4"
+        },
+        {
+          "username": "manickavela29",
+          "avatar": "https://avatars.githubusercontent.com/u/50542248?s=40&v=4"
+        },
+        {
+          "username": "Wasser1462",
+          "avatar": "https://avatars.githubusercontent.com/u/150865334?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 13,
+      "author": "nlohmann",
+      "repoName": "json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 48872,
+      "forks": 7311,
+      "currentPeriodStars": 18,
+      "builtBy": [
+        {
+          "username": "nlohmann",
+          "avatar": "https://avatars.githubusercontent.com/u/159488?s=40&v=4"
+        },
+        {
+          "username": "theodelrieu",
+          "avatar": "https://avatars.githubusercontent.com/u/15652306?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "falbrechtskirchinger",
+          "avatar": "https://avatars.githubusercontent.com/u/320854?s=40&v=4"
+        },
+        {
+          "username": "Teemperor",
+          "avatar": "https://avatars.githubusercontent.com/u/736001?s=40&v=4"
         }
       ],
       "aiSummary": null
@@ -454,7 +462,7 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9971,
+      "stars": 9969,
       "forks": 701,
       "currentPeriodStars": 19,
       "builtBy": [
@@ -483,210 +491,280 @@
     },
     {
       "rank": 15,
-      "author": "rapidsai",
-      "repoName": "cudf",
-      "url": "https://github.com/rapidsai/cudf",
-      "description": "cuDF - GPU DataFrame Library",
+      "author": "MaaAssistantArknights",
+      "repoName": "MaaAssistantArknights",
+      "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+      "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9486,
-      "forks": 1008,
-      "currentPeriodStars": 2,
+      "stars": 19527,
+      "forks": 2482,
+      "currentPeriodStars": 19,
       "builtBy": [
         {
-          "username": "davidwendt",
-          "avatar": "https://avatars.githubusercontent.com/u/45795991?s=40&v=4"
+          "username": "MistEO",
+          "avatar": "https://avatars.githubusercontent.com/u/18511905?s=40&v=4"
         },
         {
-          "username": "galipremsagar",
-          "avatar": "https://avatars.githubusercontent.com/u/11664259?s=40&v=4"
+          "username": "ABA2396",
+          "avatar": "https://avatars.githubusercontent.com/u/99072975?s=40&v=4"
         },
         {
-          "username": "kkraus14",
-          "avatar": "https://avatars.githubusercontent.com/u/3665167?s=40&v=4"
+          "username": "status102",
+          "avatar": "https://avatars.githubusercontent.com/u/102887808?s=40&v=4"
         },
         {
-          "username": "jrhemstad",
-          "avatar": "https://avatars.githubusercontent.com/u/15221289?s=40&v=4"
+          "username": "Constrat",
+          "avatar": "https://avatars.githubusercontent.com/u/56174894?s=40&v=4"
         },
         {
-          "username": "shwina",
-          "avatar": "https://avatars.githubusercontent.com/u/3190405?s=40&v=4"
+          "username": "zzyyyl",
+          "avatar": "https://avatars.githubusercontent.com/u/74587068?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 16,
-      "author": "ClickHouse",
-      "repoName": "ClickHouse",
-      "url": "https://github.com/ClickHouse/ClickHouse",
-      "description": "ClickHouse® is a real-time analytics database management system",
+      "author": "imputnet",
+      "repoName": "helium",
+      "url": "https://github.com/imputnet/helium",
+      "description": "Private, fast, and honest web browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 45842,
-      "forks": 8072,
-      "currentPeriodStars": 22,
+      "stars": 11225,
+      "forks": 229,
+      "currentPeriodStars": 29,
       "builtBy": [
         {
-          "username": "alexey-milovidov",
-          "avatar": "https://avatars.githubusercontent.com/u/18581488?s=40&v=4"
+          "username": "wukko",
+          "avatar": "https://avatars.githubusercontent.com/u/71202418?s=40&v=4"
         },
         {
-          "username": "alesapin",
-          "avatar": "https://avatars.githubusercontent.com/u/3684697?s=40&v=4"
+          "username": "dumbmoron",
+          "avatar": "https://avatars.githubusercontent.com/u/136796770?s=40&v=4"
         },
         {
-          "username": "KochetovNicolai",
-          "avatar": "https://avatars.githubusercontent.com/u/4092911?s=40&v=4"
+          "username": "Ahrotahn",
+          "avatar": "https://avatars.githubusercontent.com/u/40727284?s=40&v=4"
         },
         {
-          "username": "azat",
-          "avatar": "https://avatars.githubusercontent.com/u/430798?s=40&v=4"
+          "username": "networkException",
+          "avatar": "https://avatars.githubusercontent.com/u/42888162?s=40&v=4"
         },
         {
-          "username": "Avogar",
-          "avatar": "https://avatars.githubusercontent.com/u/48961922?s=40&v=4"
+          "username": "iskunk",
+          "avatar": "https://avatars.githubusercontent.com/u/523357?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 17,
-      "author": "brave",
-      "repoName": "brave-core",
-      "url": "https://github.com/brave/brave-core",
-      "description": "Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues",
+      "author": "esphome",
+      "repoName": "esphome",
+      "url": "https://github.com/esphome/esphome",
+      "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2975,
-      "forks": 1124,
-      "currentPeriodStars": 0,
+      "stars": 10550,
+      "forks": 5019,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
-          "username": "cdesouza-chromium",
-          "avatar": "https://avatars.githubusercontent.com/u/34235777?s=40&v=4"
+          "username": "jesserockz",
+          "avatar": "https://avatars.githubusercontent.com/u/3060199?s=40&v=4"
         },
         {
-          "username": "mkarolin",
-          "avatar": "https://avatars.githubusercontent.com/u/41635752?s=40&v=4"
+          "username": "bdraco",
+          "avatar": "https://avatars.githubusercontent.com/u/663432?s=40&v=4"
         },
         {
-          "username": "brave-browser-releases",
-          "avatar": "https://avatars.githubusercontent.com/u/39539223?s=40&v=4"
+          "username": "OttoWinter",
+          "avatar": "https://avatars.githubusercontent.com/u/6833237?s=40&v=4"
         },
         {
-          "username": "brave-builds",
-          "avatar": "https://avatars.githubusercontent.com/u/45370463?s=40&v=4"
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "tmancey",
-          "avatar": "https://avatars.githubusercontent.com/u/1188719?s=40&v=4"
+          "username": "clydebarrow",
+          "avatar": "https://avatars.githubusercontent.com/u/2366188?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 18,
-      "author": "catchorg",
-      "repoName": "Catch2",
-      "url": "https://github.com/catchorg/Catch2",
-      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "author": "facontidavide",
+      "repoName": "PlotJuggler",
+      "url": "https://github.com/facontidavide/PlotJuggler",
+      "description": "The Time Series Visualization Tool that you deserve.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 20184,
-      "forks": 3193,
-      "currentPeriodStars": 4,
+      "stars": 5700,
+      "forks": 756,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
-          "username": "horenmar",
-          "avatar": "https://avatars.githubusercontent.com/u/9026413?s=40&v=4"
+          "username": "facontidavide",
+          "avatar": "https://avatars.githubusercontent.com/u/2822888?s=40&v=4"
         },
         {
-          "username": "philsquared",
-          "avatar": "https://avatars.githubusercontent.com/u/92878?s=40&v=4"
+          "username": "Bartimaeus-",
+          "avatar": "https://avatars.githubusercontent.com/u/2954254?s=40&v=4"
         },
         {
-          "username": "ChrisThrasher",
-          "avatar": "https://avatars.githubusercontent.com/u/39244355?s=40&v=4"
+          "username": "jbendes",
+          "avatar": "https://avatars.githubusercontent.com/u/3058256?s=40&v=4"
         },
         {
-          "username": "claremacrae",
-          "avatar": "https://avatars.githubusercontent.com/u/4840096?s=40&v=4"
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "JoeyGrajciar",
-          "avatar": "https://avatars.githubusercontent.com/u/5606370?s=40&v=4"
+          "username": "aeudes",
+          "avatar": "https://avatars.githubusercontent.com/u/462068?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 19,
-      "author": "telegramdesktop",
-      "repoName": "tdesktop",
-      "url": "https://github.com/telegramdesktop/tdesktop",
-      "description": "Telegram Desktop messaging app",
+      "author": "Alex313031",
+      "repoName": "thorium",
+      "url": "https://github.com/Alex313031/thorium",
+      "description": "Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29819,
-      "forks": 6263,
-      "currentPeriodStars": 10,
+      "stars": 6789,
+      "forks": 233,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
-          "username": "john-preston",
-          "avatar": "https://avatars.githubusercontent.com/u/17900494?s=40&v=4"
+          "username": "Alex313031",
+          "avatar": "https://avatars.githubusercontent.com/u/45863095?s=40&v=4"
         },
         {
-          "username": "23rd",
-          "avatar": "https://avatars.githubusercontent.com/u/4051126?s=40&v=4"
+          "username": "gz83",
+          "avatar": "https://avatars.githubusercontent.com/u/17492865?s=40&v=4"
         },
         {
-          "username": "ilya-fedin",
-          "avatar": "https://avatars.githubusercontent.com/u/17829319?s=40&v=4"
+          "username": "hocheung-chromium",
+          "avatar": "https://avatars.githubusercontent.com/u/168883047?s=40&v=4"
         },
         {
-          "username": "auchri",
-          "avatar": "https://avatars.githubusercontent.com/u/5092164?s=40&v=4"
+          "username": "midzer",
+          "avatar": "https://avatars.githubusercontent.com/u/6484844?s=40&v=4"
         },
         {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+          "username": "szepeviktor",
+          "avatar": "https://avatars.githubusercontent.com/u/952007?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 20,
-      "author": "microsoft",
-      "repoName": "Detours",
-      "url": "https://github.com/microsoft/Detours",
-      "description": "Detours is a software package for monitoring and instrumenting API calls on Windows. It is distributed in source code form.",
+      "author": "electron",
+      "repoName": "electron",
+      "url": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 6142,
-      "forks": 1126,
-      "currentPeriodStars": 0,
+      "stars": 120081,
+      "forks": 16992,
+      "currentPeriodStars": 25,
       "builtBy": [
         {
-          "username": "bgianfo",
-          "avatar": "https://avatars.githubusercontent.com/u/1212?s=40&v=4"
+          "username": "zcbenz",
+          "avatar": "https://avatars.githubusercontent.com/u/639601?s=40&v=4"
         },
         {
-          "username": "dtarditi",
-          "avatar": "https://avatars.githubusercontent.com/u/11841034?s=40&v=4"
+          "username": "kevinsawicki",
+          "avatar": "https://avatars.githubusercontent.com/u/671378?s=40&v=4"
         },
         {
-          "username": "jaykrell",
-          "avatar": "https://avatars.githubusercontent.com/u/1635728?s=40&v=4"
+          "username": "codebytere",
+          "avatar": "https://avatars.githubusercontent.com/u/2036040?s=40&v=4"
         },
         {
-          "username": "sylveon",
-          "avatar": "https://avatars.githubusercontent.com/u/6440374?s=40&v=4"
+          "username": "MarshallOfSound",
+          "avatar": "https://avatars.githubusercontent.com/u/6634592?s=40&v=4"
         },
         {
-          "username": "sonyps5201314",
-          "avatar": "https://avatars.githubusercontent.com/u/20564099?s=40&v=4"
+          "username": "nornagon",
+          "avatar": "https://avatars.githubusercontent.com/u/172800?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 21,
+      "author": "facebook",
+      "repoName": "react-native",
+      "url": "https://github.com/facebook/react-native",
+      "description": "A framework for building native applications using React",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 125341,
+      "forks": 25084,
+      "currentPeriodStars": 11,
+      "builtBy": [
+        {
+          "username": "reactjs-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/11689122?s=40&v=4"
+        },
+        {
+          "username": "mdvacca",
+          "avatar": "https://avatars.githubusercontent.com/u/515103?s=40&v=4"
+        },
+        {
+          "username": "shergin",
+          "avatar": "https://avatars.githubusercontent.com/u/22032?s=40&v=4"
+        },
+        {
+          "username": "cortinico",
+          "avatar": "https://avatars.githubusercontent.com/u/3001957?s=40&v=4"
+        },
+        {
+          "username": "sammy-SC",
+          "avatar": "https://avatars.githubusercontent.com/u/1733610?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 22,
+      "author": "jd-opensource",
+      "repoName": "xllm",
+      "url": "https://github.com/jd-opensource/xllm",
+      "description": "A high-performance inference engine for LLMs, optimized for diverse AI accelerators.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 1052,
+      "forks": 140,
+      "currentPeriodStars": 5,
+      "builtBy": [
+        {
+          "username": "yq33victor",
+          "avatar": "https://avatars.githubusercontent.com/u/202496873?s=40&v=4"
+        },
+        {
+          "username": "XuZhang99",
+          "avatar": "https://avatars.githubusercontent.com/u/45782417?s=40&v=4"
+        },
+        {
+          "username": "yingxudeng",
+          "avatar": "https://avatars.githubusercontent.com/u/226432936?s=40&v=4"
+        },
+        {
+          "username": "RobbieLeung",
+          "avatar": "https://avatars.githubusercontent.com/u/32608118?s=40&v=4"
+        },
+        {
+          "username": "JimHsiung",
+          "avatar": "https://avatars.githubusercontent.com/u/76585708?s=40&v=4"
         }
       ],
       "aiSummary": null

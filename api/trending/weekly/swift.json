@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "weekly",
-  "captured_at": "2026-02-13 09:57:59",
+  "captured_at": "2026-02-13 12:19:51",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 24406,
+      "stars": 24409,
       "forks": 639,
       "currentPeriodStars": 333,
       "builtBy": [
@@ -40,48 +40,13 @@
     },
     {
       "rank": 2,
-      "author": "steipete",
-      "repoName": "CodexBar",
-      "url": "https://github.com/steipete/CodexBar",
-      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 5564,
-      "forks": 362,
-      "currentPeriodStars": 881,
-      "builtBy": [
-        {
-          "username": "steipete",
-          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
-        },
-        {
-          "username": "ratulsarna",
-          "avatar": "https://avatars.githubusercontent.com/u/105903728?s=40&v=4"
-        },
-        {
-          "username": "bcharleson",
-          "avatar": "https://avatars.githubusercontent.com/u/170791?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "bahag-chaurasiak",
-          "avatar": "https://avatars.githubusercontent.com/u/98406377?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 3,
       "author": "exelban",
       "repoName": "stats",
       "url": "https://github.com/exelban/stats",
       "description": "macOS system monitor in your menu bar",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 36426,
+      "stars": 36429,
       "forks": 1179,
       "currentPeriodStars": 219,
       "builtBy": [
@@ -109,14 +74,14 @@
       "aiSummary": null
     },
     {
-      "rank": 4,
+      "rank": 3,
       "author": "Ranchero-Software",
       "repoName": "NetNewsWire",
       "url": "https://github.com/Ranchero-Software/NetNewsWire",
       "description": "RSS reader for macOS and iOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 9673,
+      "stars": 9669,
       "forks": 645,
       "currentPeriodStars": 93,
       "builtBy": [
@@ -144,14 +109,84 @@
       "aiSummary": null
     },
     {
+      "rank": 4,
+      "author": "steipete",
+      "repoName": "CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 5562,
+      "forks": 362,
+      "currentPeriodStars": 881,
+      "builtBy": [
+        {
+          "username": "steipete",
+          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
+        },
+        {
+          "username": "ratulsarna",
+          "avatar": "https://avatars.githubusercontent.com/u/105903728?s=40&v=4"
+        },
+        {
+          "username": "bcharleson",
+          "avatar": "https://avatars.githubusercontent.com/u/170791?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "bahag-chaurasiak",
+          "avatar": "https://avatars.githubusercontent.com/u/98406377?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
       "rank": 5,
+      "author": "Beingpax",
+      "repoName": "VoiceInk",
+      "url": "https://github.com/Beingpax/VoiceInk",
+      "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 3717,
+      "forks": 473,
+      "currentPeriodStars": 134,
+      "builtBy": [
+        {
+          "username": "Beingpax",
+          "avatar": "https://avatars.githubusercontent.com/u/101010368?s=40&v=4"
+        },
+        {
+          "username": "apps/factory-droid",
+          "avatar": "https://avatars.githubusercontent.com/in/358017?s=40&v=4"
+        },
+        {
+          "username": "BrandonWeng",
+          "avatar": "https://avatars.githubusercontent.com/u/18161326?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "objectiveSee",
+          "avatar": "https://avatars.githubusercontent.com/u/1684106?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 6,
       "author": "altstoreio",
       "repoName": "AltStore",
       "url": "https://github.com/altstoreio/AltStore",
       "description": "AltStore is an alternative app store for non-jailbroken iOS devices.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 13513,
+      "stars": 13511,
       "forks": 1224,
       "currentPeriodStars": 56,
       "builtBy": [
@@ -179,42 +214,42 @@
       "aiSummary": null
     },
     {
-      "rank": 6,
-      "author": "Beingpax",
-      "repoName": "VoiceInk",
-      "url": "https://github.com/Beingpax/VoiceInk",
-      "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
+      "rank": 7,
+      "author": "utmapp",
+      "repoName": "UTM",
+      "url": "https://github.com/utmapp/UTM",
+      "description": "Virtual machines for iOS and macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3712,
-      "forks": 471,
-      "currentPeriodStars": 134,
+      "stars": 32799,
+      "forks": 1647,
+      "currentPeriodStars": 125,
       "builtBy": [
         {
-          "username": "Beingpax",
-          "avatar": "https://avatars.githubusercontent.com/u/101010368?s=40&v=4"
+          "username": "osy",
+          "avatar": "https://avatars.githubusercontent.com/u/50960678?s=40&v=4"
         },
         {
-          "username": "apps/factory-droid",
-          "avatar": "https://avatars.githubusercontent.com/in/358017?s=40&v=4"
+          "username": "osy86",
+          "avatar": "https://avatars.githubusercontent.com/u/76401173?s=40&v=4"
         },
         {
-          "username": "BrandonWeng",
-          "avatar": "https://avatars.githubusercontent.com/u/18161326?s=40&v=4"
+          "username": "MMP0",
+          "avatar": "https://avatars.githubusercontent.com/u/28616020?s=40&v=4"
         },
         {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+          "username": "changanmoon",
+          "avatar": "https://avatars.githubusercontent.com/u/46277006?s=40&v=4"
         },
         {
-          "username": "objectiveSee",
-          "avatar": "https://avatars.githubusercontent.com/u/1684106?s=40&v=4"
+          "username": "conath",
+          "avatar": "https://avatars.githubusercontent.com/u/12073163?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
-      "rank": 7,
+      "rank": 8,
       "author": "yonaskolb",
       "repoName": "XcodeGen",
       "url": "https://github.com/yonaskolb/XcodeGen",
@@ -249,143 +284,7 @@
       "aiSummary": null
     },
     {
-      "rank": 8,
-      "author": "utmapp",
-      "repoName": "UTM",
-      "url": "https://github.com/utmapp/UTM",
-      "description": "Virtual machines for iOS and macOS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 32798,
-      "forks": 1646,
-      "currentPeriodStars": 125,
-      "builtBy": [
-        {
-          "username": "osy",
-          "avatar": "https://avatars.githubusercontent.com/u/50960678?s=40&v=4"
-        },
-        {
-          "username": "osy86",
-          "avatar": "https://avatars.githubusercontent.com/u/76401173?s=40&v=4"
-        },
-        {
-          "username": "MMP0",
-          "avatar": "https://avatars.githubusercontent.com/u/28616020?s=40&v=4"
-        },
-        {
-          "username": "changanmoon",
-          "avatar": "https://avatars.githubusercontent.com/u/46277006?s=40&v=4"
-        },
-        {
-          "username": "conath",
-          "avatar": "https://avatars.githubusercontent.com/u/12073163?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
       "rank": 9,
-      "author": "github",
-      "repoName": "CopilotForXcode",
-      "url": "https://github.com/github/CopilotForXcode",
-      "description": "AI coding assistant for Xcode",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 5670,
-      "forks": 1738,
-      "currentPeriodStars": 36,
-      "builtBy": [
-        {
-          "username": "actions-user",
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4"
-        },
-        {
-          "username": "devm33",
-          "avatar": "https://avatars.githubusercontent.com/u/1682753?s=40&v=4"
-        },
-        {
-          "username": "eliperkins",
-          "avatar": "https://avatars.githubusercontent.com/u/1051453?s=40&v=4"
-        },
-        {
-          "username": "justb0b",
-          "avatar": "https://avatars.githubusercontent.com/u/144845785?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 10,
-      "author": "pointfreeco",
-      "repoName": "swift-composable-architecture",
-      "url": "https://github.com/pointfreeco/swift-composable-architecture",
-      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 14341,
-      "forks": 1635,
-      "currentPeriodStars": 32,
-      "builtBy": [
-        {
-          "username": "stephencelis",
-          "avatar": "https://avatars.githubusercontent.com/u/658?s=40&v=4"
-        },
-        {
-          "username": "mbrandonw",
-          "avatar": "https://avatars.githubusercontent.com/u/135203?s=40&v=4"
-        },
-        {
-          "username": "tgrapperon",
-          "avatar": "https://avatars.githubusercontent.com/u/35562418?s=40&v=4"
-        },
-        {
-          "username": "iampatbrown",
-          "avatar": "https://avatars.githubusercontent.com/u/19797367?s=40&v=4"
-        },
-        {
-          "username": "Jager-yoo",
-          "avatar": "https://avatars.githubusercontent.com/u/71127966?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 11,
-      "author": "Blaizzy",
-      "repoName": "mlx-audio-swift",
-      "url": "https://github.com/Blaizzy/mlx-audio-swift",
-      "description": "A modular Swift SDK for audio processing with MLX on Apple Silicon",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 196,
-      "forks": 22,
-      "currentPeriodStars": 109,
-      "builtBy": [
-        {
-          "username": "Blaizzy",
-          "avatar": "https://avatars.githubusercontent.com/u/23445657?s=40&v=4"
-        },
-        {
-          "username": "rudrankriyam",
-          "avatar": "https://avatars.githubusercontent.com/u/30552772?s=40&v=4"
-        },
-        {
-          "username": "lucasnewman",
-          "avatar": "https://avatars.githubusercontent.com/u/30198451?s=40&v=4"
-        },
-        {
-          "username": "smdesai",
-          "avatar": "https://avatars.githubusercontent.com/u/1291429?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 12,
       "author": "nikitabobko",
       "repoName": "AeroSpace",
       "url": "https://github.com/nikitabobko/AeroSpace",
@@ -420,36 +319,141 @@
       "aiSummary": null
     },
     {
-      "rank": 13,
-      "author": "vapor",
-      "repoName": "vapor",
-      "url": "https://github.com/vapor/vapor",
-      "description": "💧 A server-side Swift HTTP web framework.",
+      "rank": 10,
+      "author": "pointfreeco",
+      "repoName": "swift-composable-architecture",
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 25970,
-      "forks": 1520,
-      "currentPeriodStars": 23,
+      "stars": 14339,
+      "forks": 1635,
+      "currentPeriodStars": 32,
       "builtBy": [
         {
-          "username": "tanner0101",
-          "avatar": "https://avatars.githubusercontent.com/u/1342803?s=40&v=4"
+          "username": "stephencelis",
+          "avatar": "https://avatars.githubusercontent.com/u/658?s=40&v=4"
         },
         {
-          "username": "loganwright",
-          "avatar": "https://avatars.githubusercontent.com/u/5750489?s=40&v=4"
+          "username": "mbrandonw",
+          "avatar": "https://avatars.githubusercontent.com/u/135203?s=40&v=4"
         },
         {
-          "username": "Joannis",
-          "avatar": "https://avatars.githubusercontent.com/u/1951674?s=40&v=4"
+          "username": "tgrapperon",
+          "avatar": "https://avatars.githubusercontent.com/u/35562418?s=40&v=4"
         },
         {
-          "username": "0xTim",
-          "avatar": "https://avatars.githubusercontent.com/u/9938337?s=40&v=4"
+          "username": "iampatbrown",
+          "avatar": "https://avatars.githubusercontent.com/u/19797367?s=40&v=4"
         },
         {
-          "username": "gwynne",
-          "avatar": "https://avatars.githubusercontent.com/u/1130717?s=40&v=4"
+          "username": "Jager-yoo",
+          "avatar": "https://avatars.githubusercontent.com/u/71127966?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 11,
+      "author": "Blaizzy",
+      "repoName": "mlx-audio-swift",
+      "url": "https://github.com/Blaizzy/mlx-audio-swift",
+      "description": "A modular Swift SDK for audio processing with MLX on Apple Silicon",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 197,
+      "forks": 23,
+      "currentPeriodStars": 109,
+      "builtBy": [
+        {
+          "username": "Blaizzy",
+          "avatar": "https://avatars.githubusercontent.com/u/23445657?s=40&v=4"
+        },
+        {
+          "username": "rudrankriyam",
+          "avatar": "https://avatars.githubusercontent.com/u/30552772?s=40&v=4"
+        },
+        {
+          "username": "lucasnewman",
+          "avatar": "https://avatars.githubusercontent.com/u/30198451?s=40&v=4"
+        },
+        {
+          "username": "smdesai",
+          "avatar": "https://avatars.githubusercontent.com/u/1291429?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 12,
+      "author": "TheBoredTeam",
+      "repoName": "boring.notch",
+      "url": "https://github.com/TheBoredTeam/boring.notch",
+      "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 7026,
+      "forks": 492,
+      "currentPeriodStars": 167,
+      "builtBy": [
+        {
+          "username": "Alexander5015",
+          "avatar": "https://avatars.githubusercontent.com/u/33609792?s=40&v=4"
+        },
+        {
+          "username": "theboringhumane",
+          "avatar": "https://avatars.githubusercontent.com/u/46974223?s=40&v=4"
+        },
+        {
+          "username": "richardkunkli",
+          "avatar": "https://avatars.githubusercontent.com/u/58087998?s=40&v=4"
+        },
+        {
+          "username": "OmChachad",
+          "avatar": "https://avatars.githubusercontent.com/u/96822675?s=40&v=4"
+        },
+        {
+          "username": "freepicheep",
+          "avatar": "https://avatars.githubusercontent.com/u/78331877?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 13,
+      "author": "facebook",
+      "repoName": "facebook-ios-sdk",
+      "url": "https://github.com/facebook/facebook-ios-sdk",
+      "description": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 8022,
+      "forks": 3688,
+      "currentPeriodStars": 4,
+      "builtBy": [
+        {
+          "username": "joesus",
+          "avatar": "https://avatars.githubusercontent.com/u/4922820?s=40&v=4"
+        },
+        {
+          "username": "jawwad",
+          "avatar": "https://avatars.githubusercontent.com/u/202240?s=40&v=4"
+        },
+        {
+          "username": "samodom",
+          "avatar": "https://avatars.githubusercontent.com/u/3129948?s=40&v=4"
+        },
+        {
+          "username": "KylinChang",
+          "avatar": "https://avatars.githubusercontent.com/u/11663747?s=40&v=4"
+        },
+        {
+          "username": "tianqibt",
+          "avatar": "https://avatars.githubusercontent.com/u/48967250?s=40&v=4"
         }
       ],
       "aiSummary": null
@@ -462,7 +466,7 @@
       "description": "Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 7330,
+      "stars": 7328,
       "forks": 187,
       "currentPeriodStars": 73,
       "builtBy": [
@@ -491,118 +495,13 @@
     },
     {
       "rank": 15,
-      "author": "PlayCover",
-      "repoName": "PlayCover",
-      "url": "https://github.com/PlayCover/PlayCover",
-      "description": "Community fork of PlayCover",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 10841,
-      "forks": 891,
-      "currentPeriodStars": 78,
-      "builtBy": [
-        {
-          "username": "IsaacMarovitz",
-          "avatar": "https://avatars.githubusercontent.com/u/42140194?s=40&v=4"
-        },
-        {
-          "username": "Depal1",
-          "avatar": "https://avatars.githubusercontent.com/u/47154119?s=40&v=4"
-        },
-        {
-          "username": "weblate",
-          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4"
-        },
-        {
-          "username": "JoseMoreville",
-          "avatar": "https://avatars.githubusercontent.com/u/47700212?s=40&v=4"
-        },
-        {
-          "username": "lixin9311",
-          "avatar": "https://avatars.githubusercontent.com/u/371475?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 16,
-      "author": "facebook",
-      "repoName": "facebook-ios-sdk",
-      "url": "https://github.com/facebook/facebook-ios-sdk",
-      "description": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 8024,
-      "forks": 3688,
-      "currentPeriodStars": 4,
-      "builtBy": [
-        {
-          "username": "joesus",
-          "avatar": "https://avatars.githubusercontent.com/u/4922820?s=40&v=4"
-        },
-        {
-          "username": "jawwad",
-          "avatar": "https://avatars.githubusercontent.com/u/202240?s=40&v=4"
-        },
-        {
-          "username": "samodom",
-          "avatar": "https://avatars.githubusercontent.com/u/3129948?s=40&v=4"
-        },
-        {
-          "username": "KylinChang",
-          "avatar": "https://avatars.githubusercontent.com/u/11663747?s=40&v=4"
-        },
-        {
-          "username": "tianqibt",
-          "avatar": "https://avatars.githubusercontent.com/u/48967250?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 17,
-      "author": "altic-dev",
-      "repoName": "FluidVoice",
-      "url": "https://github.com/altic-dev/FluidVoice",
-      "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 1072,
-      "forks": 59,
-      "currentPeriodStars": 88,
-      "builtBy": [
-        {
-          "username": "altic-dev",
-          "avatar": "https://avatars.githubusercontent.com/u/224717674?s=40&v=4"
-        },
-        {
-          "username": "grohith327",
-          "avatar": "https://avatars.githubusercontent.com/u/36641932?s=40&v=4"
-        },
-        {
-          "username": "apps/macroscopeapp",
-          "avatar": "https://avatars.githubusercontent.com/in/900172?s=40&v=4"
-        },
-        {
-          "username": "veged",
-          "avatar": "https://avatars.githubusercontent.com/u/15365?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 18,
       "author": "realm",
       "repoName": "SwiftLint",
       "url": "https://github.com/realm/SwiftLint",
       "description": "A tool to enforce Swift style and conventions.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 19450,
+      "stars": 19448,
       "forks": 2280,
       "currentPeriodStars": 19,
       "builtBy": [
@@ -630,42 +529,7 @@
       "aiSummary": null
     },
     {
-      "rank": 19,
-      "author": "DebugSwift",
-      "repoName": "DebugSwift",
-      "url": "https://github.com/DebugSwift/DebugSwift",
-      "description": "A toolkit to make debugging iOS applications easier 🚀",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 1252,
-      "forks": 117,
-      "currentPeriodStars": 195,
-      "builtBy": [
-        {
-          "username": "MaatheusGois",
-          "avatar": "https://avatars.githubusercontent.com/u/31082311?s=40&v=4"
-        },
-        {
-          "username": "maatheusgois-dd",
-          "avatar": "https://avatars.githubusercontent.com/u/199827342?s=40&v=4"
-        },
-        {
-          "username": "apps/github-advanced-security",
-          "avatar": "https://avatars.githubusercontent.com/in/57789?s=40&v=4"
-        },
-        {
-          "username": "fenli",
-          "avatar": "https://avatars.githubusercontent.com/u/5110285?s=40&v=4"
-        },
-        {
-          "username": "murilogteixeira",
-          "avatar": "https://avatars.githubusercontent.com/u/38084757?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 20,
+      "rank": 16,
       "author": "apple",
       "repoName": "swift-collections",
       "url": "https://github.com/apple/swift-collections",
@@ -700,7 +564,7 @@
       "aiSummary": null
     },
     {
-      "rank": 21,
+      "rank": 17,
       "author": "whoeevee",
       "repoName": "EeveeSpotifyReborn",
       "url": "https://github.com/whoeevee/EeveeSpotifyReborn",
@@ -708,7 +572,7 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": 2133,
-      "forks": 9537,
+      "forks": 9538,
       "currentPeriodStars": 22,
       "builtBy": [
         {
@@ -730,6 +594,149 @@
         {
           "username": "LIKVIDATOR1337",
           "avatar": "https://avatars.githubusercontent.com/u/54180773?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 18,
+      "author": "Whisky-App",
+      "repoName": "Whisky",
+      "url": "https://github.com/Whisky-App/Whisky",
+      "description": "A modern Wine wrapper for macOS built with SwiftUI",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 14889,
+      "forks": 469,
+      "currentPeriodStars": 29,
+      "builtBy": [
+        {
+          "username": "IsaacMarovitz",
+          "avatar": "https://avatars.githubusercontent.com/u/42140194?s=40&v=4"
+        },
+        {
+          "username": "ohaiibuzzle",
+          "avatar": "https://avatars.githubusercontent.com/u/23693150?s=40&v=4"
+        },
+        {
+          "username": "Mika412",
+          "avatar": "https://avatars.githubusercontent.com/u/5073663?s=40&v=4"
+        },
+        {
+          "username": "cuba",
+          "avatar": "https://avatars.githubusercontent.com/u/909331?s=40&v=4"
+        },
+        {
+          "username": "alexsch01",
+          "avatar": "https://avatars.githubusercontent.com/u/5721147?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 19,
+      "author": "DebugSwift",
+      "repoName": "DebugSwift",
+      "url": "https://github.com/DebugSwift/DebugSwift",
+      "description": "A toolkit to make debugging iOS applications easier 🚀",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 1273,
+      "forks": 119,
+      "currentPeriodStars": 195,
+      "builtBy": [
+        {
+          "username": "MaatheusGois",
+          "avatar": "https://avatars.githubusercontent.com/u/31082311?s=40&v=4"
+        },
+        {
+          "username": "maatheusgois-dd",
+          "avatar": "https://avatars.githubusercontent.com/u/199827342?s=40&v=4"
+        },
+        {
+          "username": "apps/github-advanced-security",
+          "avatar": "https://avatars.githubusercontent.com/in/57789?s=40&v=4"
+        },
+        {
+          "username": "fenli",
+          "avatar": "https://avatars.githubusercontent.com/u/5110285?s=40&v=4"
+        },
+        {
+          "username": "murilogteixeira",
+          "avatar": "https://avatars.githubusercontent.com/u/38084757?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "DebugSwift 是一款专为 iOS 应用设计的调试工具包，旨在简化开发者的调试流程。它通过集成视图层级检查、性能监控、网络请求追踪等核心功能，解决了传统调试方式繁琐、信息分散的痛点，显著提升了问题定位与诊断的效率。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 20,
+      "author": "OAuthSwift",
+      "repoName": "OAuthSwift",
+      "url": "https://github.com/OAuthSwift/OAuthSwift",
+      "description": "Swift based OAuth library for iOS",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 3324,
+      "forks": 597,
+      "currentPeriodStars": 0,
+      "builtBy": [
+        {
+          "username": "phimage",
+          "avatar": "https://avatars.githubusercontent.com/u/8875768?s=40&v=4"
+        },
+        {
+          "username": "phatblat",
+          "avatar": "https://avatars.githubusercontent.com/u/28851?s=40&v=4"
+        },
+        {
+          "username": "michaeljdeeb",
+          "avatar": "https://avatars.githubusercontent.com/u/1417123?s=40&v=4"
+        },
+        {
+          "username": "MrWoWander",
+          "avatar": "https://avatars.githubusercontent.com/u/24256100?s=40&v=4"
+        },
+        {
+          "username": "nighthawk",
+          "avatar": "https://avatars.githubusercontent.com/u/22646?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 21,
+      "author": "altic-dev",
+      "repoName": "FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 1073,
+      "forks": 59,
+      "currentPeriodStars": 88,
+      "builtBy": [
+        {
+          "username": "altic-dev",
+          "avatar": "https://avatars.githubusercontent.com/u/224717674?s=40&v=4"
+        },
+        {
+          "username": "grohith327",
+          "avatar": "https://avatars.githubusercontent.com/u/36641932?s=40&v=4"
+        },
+        {
+          "username": "apps/macroscopeapp",
+          "avatar": "https://avatars.githubusercontent.com/in/900172?s=40&v=4"
+        },
+        {
+          "username": "veged",
+          "avatar": "https://avatars.githubusercontent.com/u/15365?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
       "aiSummary": null

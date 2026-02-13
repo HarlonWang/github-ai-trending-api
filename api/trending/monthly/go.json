@@ -1,53 +1,18 @@
 {
   "count": 19,
   "since": "monthly",
-  "captured_at": "2026-02-13 09:58:28",
+  "captured_at": "2026-02-13 12:20:22",
   "data": [
     {
       "rank": 1,
-      "author": "steveyegge",
-      "repoName": "beads",
-      "url": "https://github.com/steveyegge/beads",
-      "description": "Beads - A memory upgrade for your coding agent",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 16130,
-      "forks": 957,
-      "currentPeriodStars": 6405,
-      "builtBy": [
-        {
-          "username": "steveyegge",
-          "avatar": "https://avatars.githubusercontent.com/u/613744?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "ampcode-com",
-          "avatar": "https://avatars.githubusercontent.com/u/220109460?s=40&v=4"
-        },
-        {
-          "username": "maphew",
-          "avatar": "https://avatars.githubusercontent.com/u/486200?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 2,
       "author": "ollama",
       "repoName": "ollama",
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 162517,
-      "forks": 14570,
+      "stars": 162497,
+      "forks": 14572,
       "currentPeriodStars": 3672,
       "builtBy": [
         {
@@ -74,7 +39,77 @@
       "aiSummary": null
     },
     {
+      "rank": 2,
+      "author": "steveyegge",
+      "repoName": "beads",
+      "url": "https://github.com/steveyegge/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 16135,
+      "forks": 953,
+      "currentPeriodStars": 6405,
+      "builtBy": [
+        {
+          "username": "steveyegge",
+          "avatar": "https://avatars.githubusercontent.com/u/613744?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "ampcode-com",
+          "avatar": "https://avatars.githubusercontent.com/u/220109460?s=40&v=4"
+        },
+        {
+          "username": "maphew",
+          "avatar": "https://avatars.githubusercontent.com/u/486200?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
       "rank": 3,
+      "author": "hashicorp",
+      "repoName": "vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 35019,
+      "forks": 4598,
+      "currentPeriodStars": 1269,
+      "builtBy": [
+        {
+          "username": "jefferai",
+          "avatar": "https://avatars.githubusercontent.com/u/28627?s=40&v=4"
+        },
+        {
+          "username": "vishalnayak",
+          "avatar": "https://avatars.githubusercontent.com/u/3053672?s=40&v=4"
+        },
+        {
+          "username": "hc-github-team-secure-vault-core",
+          "avatar": "https://avatars.githubusercontent.com/u/82990506?s=40&v=4"
+        },
+        {
+          "username": "armon",
+          "avatar": "https://avatars.githubusercontent.com/u/592032?s=40&v=4"
+        },
+        {
+          "username": "ncabatoff",
+          "avatar": "https://avatars.githubusercontent.com/u/5587236?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 4,
       "author": "AlexxIT",
       "repoName": "go2rtc",
       "url": "https://github.com/AlexxIT/go2rtc",
@@ -109,71 +144,36 @@
       "aiSummary": null
     },
     {
-      "rank": 4,
-      "author": "hashicorp",
-      "repoName": "vault",
-      "url": "https://github.com/hashicorp/vault",
-      "description": "A tool for secrets management, encryption as a service, and privileged access management",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 35020,
-      "forks": 4598,
-      "currentPeriodStars": 1269,
-      "builtBy": [
-        {
-          "username": "jefferai",
-          "avatar": "https://avatars.githubusercontent.com/u/28627?s=40&v=4"
-        },
-        {
-          "username": "vishalnayak",
-          "avatar": "https://avatars.githubusercontent.com/u/3053672?s=40&v=4"
-        },
-        {
-          "username": "hc-github-team-secure-vault-core",
-          "avatar": "https://avatars.githubusercontent.com/u/82990506?s=40&v=4"
-        },
-        {
-          "username": "armon",
-          "avatar": "https://avatars.githubusercontent.com/u/592032?s=40&v=4"
-        },
-        {
-          "username": "ncabatoff",
-          "avatar": "https://avatars.githubusercontent.com/u/5587236?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
       "rank": 5,
-      "author": "juicedata",
-      "repoName": "juicefs",
-      "url": "https://github.com/juicedata/juicefs",
-      "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+      "author": "steipete",
+      "repoName": "gogcli",
+      "url": "https://github.com/steipete/gogcli",
+      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 13208,
-      "forks": 1161,
-      "currentPeriodStars": 558,
+      "stars": 1689,
+      "forks": 170,
+      "currentPeriodStars": 1270,
       "builtBy": [
         {
-          "username": "davies",
-          "avatar": "https://avatars.githubusercontent.com/u/40902?s=40&v=4"
+          "username": "steipete",
+          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
         },
         {
-          "username": "zhijian-pro",
-          "avatar": "https://avatars.githubusercontent.com/u/31313340?s=40&v=4"
+          "username": "salmonumbrella",
+          "avatar": "https://avatars.githubusercontent.com/u/182032677?s=40&v=4"
         },
         {
-          "username": "SandyXSD",
-          "avatar": "https://avatars.githubusercontent.com/u/13882241?s=40&v=4"
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "zhoucheng361",
-          "avatar": "https://avatars.githubusercontent.com/u/100545994?s=40&v=4"
+          "username": "jeanregisser",
+          "avatar": "https://avatars.githubusercontent.com/u/57791?s=40&v=4"
         },
         {
-          "username": "xiaogaozi",
-          "avatar": "https://avatars.githubusercontent.com/u/149645?s=40&v=4"
+          "username": "antons",
+          "avatar": "https://avatars.githubusercontent.com/u/129705?s=40&v=4"
         }
       ],
       "aiSummary": null
@@ -186,8 +186,8 @@
       "description": "Glamourous agentic coding for all 💘",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19830,
-      "forks": 1227,
+      "stars": 19827,
+      "forks": 1226,
       "currentPeriodStars": 2255,
       "builtBy": [
         {
@@ -215,48 +215,13 @@
     },
     {
       "rank": 7,
-      "author": "ArvinLovegood",
-      "repoName": "go-stock",
-      "url": "https://github.com/ArvinLovegood/go-stock",
-      "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4444,
-      "forks": 738,
-      "currentPeriodStars": 723,
-      "builtBy": [
-        {
-          "username": "ArvinLovegood",
-          "avatar": "https://avatars.githubusercontent.com/u/7401917?s=40&v=4"
-        },
-        {
-          "username": "CodeNoobLH",
-          "avatar": "https://avatars.githubusercontent.com/u/49932926?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "GiCo001",
-          "avatar": "https://avatars.githubusercontent.com/u/13131107?s=40&v=4"
-        },
-        {
-          "username": "apps/github-advanced-security",
-          "avatar": "https://avatars.githubusercontent.com/in/57789?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 8,
       "author": "putyy",
       "repoName": "res-downloader",
       "url": "https://github.com/putyy/res-downloader",
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15185,
+      "stars": 15183,
       "forks": 1884,
       "currentPeriodStars": 1962,
       "builtBy": [
@@ -280,36 +245,71 @@
       "aiSummary": null
     },
     {
-      "rank": 9,
-      "author": "cilium",
-      "repoName": "cilium",
-      "url": "https://github.com/cilium/cilium",
-      "description": "eBPF-based Networking, Security, and Observability",
+      "rank": 8,
+      "author": "hashicorp",
+      "repoName": "terraform-provider-aws",
+      "url": "https://github.com/hashicorp/terraform-provider-aws",
+      "description": "The AWS Provider enables Terraform to manage AWS resources.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 23680,
-      "forks": 3606,
-      "currentPeriodStars": 446,
+      "stars": 10743,
+      "forks": 9957,
+      "currentPeriodStars": 74,
       "builtBy": [
         {
-          "username": "aanm",
-          "avatar": "https://avatars.githubusercontent.com/u/5714066?s=40&v=4"
+          "username": "ewbankkit",
+          "avatar": "https://avatars.githubusercontent.com/u/2404182?s=40&v=4"
         },
         {
-          "username": "tgraf",
-          "avatar": "https://avatars.githubusercontent.com/u/1417913?s=40&v=4"
+          "username": "YakDriver",
+          "avatar": "https://avatars.githubusercontent.com/u/31492422?s=40&v=4"
         },
         {
-          "username": "joestringer",
-          "avatar": "https://avatars.githubusercontent.com/u/1243336?s=40&v=4"
+          "username": "gdavison",
+          "avatar": "https://avatars.githubusercontent.com/u/1148298?s=40&v=4"
         },
         {
-          "username": "tklauser",
-          "avatar": "https://avatars.githubusercontent.com/u/539708?s=40&v=4"
+          "username": "bflad",
+          "avatar": "https://avatars.githubusercontent.com/u/189114?s=40&v=4"
         },
         {
-          "username": "jrajahalme",
-          "avatar": "https://avatars.githubusercontent.com/u/6518235?s=40&v=4"
+          "username": "jar-b",
+          "avatar": "https://avatars.githubusercontent.com/u/14969179?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 9,
+      "author": "kyverno",
+      "repoName": "kyverno",
+      "url": "https://github.com/kyverno/kyverno",
+      "description": "Cloud Native Policy Management",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7391,
+      "forks": 1232,
+      "currentPeriodStars": 120,
+      "builtBy": [
+        {
+          "username": "realshuting",
+          "avatar": "https://avatars.githubusercontent.com/u/25727662?s=40&v=4"
+        },
+        {
+          "username": "eddycharly",
+          "avatar": "https://avatars.githubusercontent.com/u/47974576?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "JimBugwadia",
+          "avatar": "https://avatars.githubusercontent.com/u/5489990?s=40&v=4"
+        },
+        {
+          "username": "MariamFahmy98",
+          "avatar": "https://avatars.githubusercontent.com/u/55502281?s=40&v=4"
         }
       ],
       "aiSummary": null
@@ -322,7 +322,7 @@
       "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22398,
+      "stars": 22396,
       "forks": 1096,
       "currentPeriodStars": 1467,
       "builtBy": [
@@ -386,35 +386,35 @@
     },
     {
       "rank": 12,
-      "author": "kyverno",
-      "repoName": "kyverno",
-      "url": "https://github.com/kyverno/kyverno",
-      "description": "Cloud Native Policy Management",
+      "author": "juicedata",
+      "repoName": "juicefs",
+      "url": "https://github.com/juicedata/juicefs",
+      "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7390,
-      "forks": 1232,
-      "currentPeriodStars": 120,
+      "stars": 13208,
+      "forks": 1161,
+      "currentPeriodStars": 558,
       "builtBy": [
         {
-          "username": "realshuting",
-          "avatar": "https://avatars.githubusercontent.com/u/25727662?s=40&v=4"
+          "username": "davies",
+          "avatar": "https://avatars.githubusercontent.com/u/40902?s=40&v=4"
         },
         {
-          "username": "eddycharly",
-          "avatar": "https://avatars.githubusercontent.com/u/47974576?s=40&v=4"
+          "username": "zhijian-pro",
+          "avatar": "https://avatars.githubusercontent.com/u/31313340?s=40&v=4"
         },
         {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+          "username": "SandyXSD",
+          "avatar": "https://avatars.githubusercontent.com/u/13882241?s=40&v=4"
         },
         {
-          "username": "JimBugwadia",
-          "avatar": "https://avatars.githubusercontent.com/u/5489990?s=40&v=4"
+          "username": "zhoucheng361",
+          "avatar": "https://avatars.githubusercontent.com/u/100545994?s=40&v=4"
         },
         {
-          "username": "MariamFahmy98",
-          "avatar": "https://avatars.githubusercontent.com/u/55502281?s=40&v=4"
+          "username": "xiaogaozi",
+          "avatar": "https://avatars.githubusercontent.com/u/149645?s=40&v=4"
         }
       ],
       "aiSummary": null
@@ -427,7 +427,7 @@
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28235,
+      "stars": 28237,
       "forks": 2280,
       "currentPeriodStars": 1118,
       "builtBy": [
@@ -456,35 +456,35 @@
     },
     {
       "rank": 14,
-      "author": "hashicorp",
-      "repoName": "terraform-provider-aws",
-      "url": "https://github.com/hashicorp/terraform-provider-aws",
-      "description": "The AWS Provider enables Terraform to manage AWS resources.",
+      "author": "go-vikunja",
+      "repoName": "vikunja",
+      "url": "https://github.com/go-vikunja/vikunja",
+      "description": "The to-do app to organize your life.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 10745,
-      "forks": 9957,
-      "currentPeriodStars": 74,
+      "stars": 3322,
+      "forks": 306,
+      "currentPeriodStars": 302,
       "builtBy": [
         {
-          "username": "ewbankkit",
-          "avatar": "https://avatars.githubusercontent.com/u/2404182?s=40&v=4"
+          "username": "kolaente",
+          "avatar": "https://avatars.githubusercontent.com/u/13721712?s=40&v=4"
         },
         {
-          "username": "YakDriver",
-          "avatar": "https://avatars.githubusercontent.com/u/31492422?s=40&v=4"
+          "username": "apps/renovate",
+          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
         },
         {
-          "username": "gdavison",
-          "avatar": "https://avatars.githubusercontent.com/u/1148298?s=40&v=4"
+          "username": "dpschen",
+          "avatar": "https://avatars.githubusercontent.com/u/6173598?s=40&v=4"
         },
         {
-          "username": "bflad",
-          "avatar": "https://avatars.githubusercontent.com/u/189114?s=40&v=4"
+          "username": "vikunja-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/45438395?s=40&v=4"
         },
         {
-          "username": "jar-b",
-          "avatar": "https://avatars.githubusercontent.com/u/14969179?s=40&v=4"
+          "username": "Elscrux",
+          "avatar": "https://avatars.githubusercontent.com/u/34755314?s=40&v=4"
         }
       ],
       "aiSummary": null
@@ -497,8 +497,8 @@
       "description": "GitHub's official MCP Server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26891,
-      "forks": 3580,
+      "stars": 26888,
+      "forks": 3576,
       "currentPeriodStars": 1117,
       "builtBy": [
         {
@@ -526,6 +526,41 @@
     },
     {
       "rank": 16,
+      "author": "ArvinLovegood",
+      "repoName": "go-stock",
+      "url": "https://github.com/ArvinLovegood/go-stock",
+      "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4444,
+      "forks": 739,
+      "currentPeriodStars": 723,
+      "builtBy": [
+        {
+          "username": "ArvinLovegood",
+          "avatar": "https://avatars.githubusercontent.com/u/7401917?s=40&v=4"
+        },
+        {
+          "username": "CodeNoobLH",
+          "avatar": "https://avatars.githubusercontent.com/u/49932926?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "GiCo001",
+          "avatar": "https://avatars.githubusercontent.com/u/13131107?s=40&v=4"
+        },
+        {
+          "username": "apps/github-advanced-security",
+          "avatar": "https://avatars.githubusercontent.com/in/57789?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 17,
       "author": "cli",
       "repoName": "cli",
       "url": "https://github.com/cli/cli",
@@ -533,7 +568,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": 42440,
-      "forks": 7924,
+      "forks": 7925,
       "currentPeriodStars": 528,
       "builtBy": [
         {
@@ -560,106 +595,71 @@
       "aiSummary": null
     },
     {
-      "rank": 17,
-      "author": "navidrome",
-      "repoName": "navidrome",
-      "url": "https://github.com/navidrome/navidrome",
-      "description": "🎧☁️ Your Personal Streaming Service",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 19231,
-      "forks": 1368,
-      "currentPeriodStars": 771,
-      "builtBy": [
-        {
-          "username": "deluan",
-          "avatar": "https://avatars.githubusercontent.com/u/331353?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "kgarner7",
-          "avatar": "https://avatars.githubusercontent.com/u/17521368?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot-preview",
-          "avatar": "https://avatars.githubusercontent.com/in/2141?s=40&v=4"
-        },
-        {
-          "username": "caiocotts",
-          "avatar": "https://avatars.githubusercontent.com/u/31974888?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
       "rank": 18,
-      "author": "meshery",
-      "repoName": "meshery",
-      "url": "https://github.com/meshery/meshery",
-      "description": "Meshery, the cloud native manager",
+      "author": "cilium",
+      "repoName": "cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 9890,
-      "forks": 3041,
-      "currentPeriodStars": 279,
+      "stars": 23677,
+      "forks": 3607,
+      "currentPeriodStars": 446,
       "builtBy": [
         {
-          "username": "leecalcote",
-          "avatar": "https://avatars.githubusercontent.com/u/7570704?s=40&v=4"
+          "username": "aanm",
+          "avatar": "https://avatars.githubusercontent.com/u/5714066?s=40&v=4"
         },
         {
-          "username": "MUzairS15",
-          "avatar": "https://avatars.githubusercontent.com/u/79860504?s=40&v=4"
+          "username": "tgraf",
+          "avatar": "https://avatars.githubusercontent.com/u/1417913?s=40&v=4"
         },
         {
-          "username": "amitamrutiya",
-          "avatar": "https://avatars.githubusercontent.com/u/91112485?s=40&v=4"
+          "username": "joestringer",
+          "avatar": "https://avatars.githubusercontent.com/u/1243336?s=40&v=4"
         },
         {
-          "username": "aabidsofi19",
-          "avatar": "https://avatars.githubusercontent.com/u/65964225?s=40&v=4"
+          "username": "tklauser",
+          "avatar": "https://avatars.githubusercontent.com/u/539708?s=40&v=4"
         },
         {
-          "username": "theBeginner86",
-          "avatar": "https://avatars.githubusercontent.com/u/73700530?s=40&v=4"
+          "username": "jrajahalme",
+          "avatar": "https://avatars.githubusercontent.com/u/6518235?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 19,
-      "author": "abiosoft",
-      "repoName": "colima",
-      "url": "https://github.com/abiosoft/colima",
-      "description": "Container runtimes on macOS (and Linux) with minimal setup",
+      "author": "lharries",
+      "repoName": "whatsapp-mcp",
+      "url": "https://github.com/lharries/whatsapp-mcp",
+      "description": "WhatsApp MCP server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26890,
-      "forks": 530,
-      "currentPeriodStars": 659,
+      "stars": 5313,
+      "forks": 882,
+      "currentPeriodStars": 128,
       "builtBy": [
         {
-          "username": "abiosoft",
-          "avatar": "https://avatars.githubusercontent.com/u/240448?s=40&v=4"
+          "username": "lharries",
+          "avatar": "https://avatars.githubusercontent.com/u/22766134?s=40&v=4"
         },
         {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+          "username": "yaniv-golan",
+          "avatar": "https://avatars.githubusercontent.com/u/5079117?s=40&v=4"
         },
         {
-          "username": "rfay",
-          "avatar": "https://avatars.githubusercontent.com/u/112444?s=40&v=4"
+          "username": "aastroza",
+          "avatar": "https://avatars.githubusercontent.com/u/8590877?s=40&v=4"
         },
         {
-          "username": "LaszloGombos",
-          "avatar": "https://avatars.githubusercontent.com/u/1522773?s=40&v=4"
+          "username": "eltociear",
+          "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&v=4"
         },
         {
-          "username": "artygus",
-          "avatar": "https://avatars.githubusercontent.com/u/4974968?s=40&v=4"
+          "username": "cs4alhaider",
+          "avatar": "https://avatars.githubusercontent.com/u/26744246?s=40&v=4"
         }
       ],
       "aiSummary": null

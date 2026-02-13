@@ -1,7 +1,7 @@
 {
-  "count": 14,
+  "count": 16,
   "since": "weekly",
-  "captured_at": "2026-02-13 09:57:16",
+  "captured_at": "2026-02-13 12:19:05",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21392,
-      "forks": 2163,
+      "stars": 21404,
+      "forks": 2167,
       "currentPeriodStars": 16805,
       "builtBy": [
         {
@@ -40,122 +40,14 @@
     },
     {
       "rank": 2,
-      "author": "openai",
-      "repoName": "skills",
-      "url": "https://github.com/openai/skills",
-      "description": "Skills Catalog for Codex",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 8270,
-      "forks": 461,
-      "currentPeriodStars": 4141,
-      "builtBy": [
-        {
-          "username": "gverma-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
-        },
-        {
-          "username": "dkundel-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4"
-        },
-        {
-          "username": "vb-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&v=4"
-        },
-        {
-          "username": "ae-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&v=4"
-        },
-        {
-          "username": "edward-bayes",
-          "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 3,
-      "author": "Jeffallan",
-      "repoName": "claude-skills",
-      "url": "https://github.com/Jeffallan/claude-skills",
-      "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 1956,
-      "forks": 132,
-      "currentPeriodStars": 1124,
-      "builtBy": [
-        {
-          "username": "Jeffallan",
-          "avatar": "https://avatars.githubusercontent.com/u/23423962?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "liyin2015",
-          "avatar": "https://avatars.githubusercontent.com/u/14322677?s=40&v=4"
-        },
-        {
-          "username": "salmanmkc",
-          "avatar": "https://avatars.githubusercontent.com/u/32169182?s=40&v=4"
-        },
-        {
-          "username": "thomassamoul",
-          "avatar": "https://avatars.githubusercontent.com/u/50757446?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 4,
-      "author": "virattt",
-      "repoName": "dexter",
-      "url": "https://github.com/virattt/dexter",
-      "description": "An autonomous agent for deep financial research",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 14953,
-      "forks": 1810,
-      "currentPeriodStars": 4197,
-      "builtBy": [
-        {
-          "username": "virattt",
-          "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&v=4"
-        },
-        {
-          "username": "MkDev11",
-          "avatar": "https://avatars.githubusercontent.com/u/94194147?s=40&v=4"
-        },
-        {
-          "username": "gupta-8",
-          "avatar": "https://avatars.githubusercontent.com/u/215169640?s=40&v=4"
-        },
-        {
-          "username": "sjhddh",
-          "avatar": "https://avatars.githubusercontent.com/u/5778228?s=40&v=4"
-        },
-        {
-          "username": "bittoby",
-          "avatar": "https://avatars.githubusercontent.com/u/218712309?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 5,
       "author": "google",
       "repoName": "langextract",
       "url": "https://github.com/google/langextract",
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 31720,
-      "forks": 2117,
+      "stars": 31773,
+      "forks": 2115,
       "currentPeriodStars": 6996,
       "builtBy": [
         {
@@ -185,15 +77,161 @@
       }
     },
     {
+      "rank": 3,
+      "author": "github",
+      "repoName": "gh-aw",
+      "url": "https://github.com/github/gh-aw",
+      "description": "GitHub Agentic Workflows",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 2105,
+      "forks": 148,
+      "currentPeriodStars": 1594,
+      "builtBy": [
+        {
+          "username": "apps/copilot-swe-agent",
+          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
+        },
+        {
+          "username": "pelikhan",
+          "avatar": "https://avatars.githubusercontent.com/u/4175913?s=40&v=4"
+        },
+        {
+          "username": "dsyme",
+          "avatar": "https://avatars.githubusercontent.com/u/7204669?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        },
+        {
+          "username": "mnkiefer",
+          "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "gh-aw 是 GitHub 推出的基于 Go 语言开发的智能体工作流框架。它旨在通过可编程的自动化代理来编排复杂的开发任务，解决传统 CI/CD 流程在灵活性与智能决策方面的不足，提升软件交付的自动化与智能化水平。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 4,
+      "author": "openai",
+      "repoName": "skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 8285,
+      "forks": 461,
+      "currentPeriodStars": 4141,
+      "builtBy": [
+        {
+          "username": "gverma-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
+        },
+        {
+          "username": "dkundel-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4"
+        },
+        {
+          "username": "vb-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&v=4"
+        },
+        {
+          "username": "ae-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&v=4"
+        },
+        {
+          "username": "edward-bayes",
+          "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 5,
+      "author": "Jeffallan",
+      "repoName": "claude-skills",
+      "url": "https://github.com/Jeffallan/claude-skills",
+      "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 1998,
+      "forks": 133,
+      "currentPeriodStars": 1124,
+      "builtBy": [
+        {
+          "username": "Jeffallan",
+          "avatar": "https://avatars.githubusercontent.com/u/23423962?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "liyin2015",
+          "avatar": "https://avatars.githubusercontent.com/u/14322677?s=40&v=4"
+        },
+        {
+          "username": "salmanmkc",
+          "avatar": "https://avatars.githubusercontent.com/u/32169182?s=40&v=4"
+        },
+        {
+          "username": "thomassamoul",
+          "avatar": "https://avatars.githubusercontent.com/u/50757446?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。",
+        "source": "deepseek"
+      }
+    },
+    {
       "rank": 6,
+      "author": "virattt",
+      "repoName": "dexter",
+      "url": "https://github.com/virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 14952,
+      "forks": 1812,
+      "currentPeriodStars": 4197,
+      "builtBy": [
+        {
+          "username": "virattt",
+          "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&v=4"
+        },
+        {
+          "username": "MkDev11",
+          "avatar": "https://avatars.githubusercontent.com/u/94194147?s=40&v=4"
+        },
+        {
+          "username": "gupta-8",
+          "avatar": "https://avatars.githubusercontent.com/u/215169640?s=40&v=4"
+        },
+        {
+          "username": "sjhddh",
+          "avatar": "https://avatars.githubusercontent.com/u/5778228?s=40&v=4"
+        },
+        {
+          "username": "bittoby",
+          "avatar": "https://avatars.githubusercontent.com/u/218712309?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 7,
       "author": "badlogic",
       "repoName": "pi-mono",
       "url": "https://github.com/badlogic/pi-mono",
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11435,
-      "forks": 1147,
+      "stars": 11473,
+      "forks": 1144,
       "currentPeriodStars": 4215,
       "builtBy": [
         {
@@ -220,143 +258,15 @@
       "aiSummary": null
     },
     {
-      "rank": 7,
-      "author": "thedotmack",
-      "repoName": "claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 27721,
-      "forks": 1859,
-      "currentPeriodStars": 4200,
-      "builtBy": [
-        {
-          "username": "thedotmack",
-          "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "apps/copilot-swe-agent",
-          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
-        },
-        {
-          "username": "rodboev",
-          "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
       "rank": 8,
-      "author": "linshenkx",
-      "repoName": "prompt-optimizer",
-      "url": "https://github.com/linshenkx/prompt-optimizer",
-      "description": "一款提示词优化器，助力于编写高质量的提示词",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 20854,
-      "forks": 2531,
-      "currentPeriodStars": 1536,
-      "builtBy": [
-        {
-          "username": "linshenkx",
-          "avatar": "https://avatars.githubusercontent.com/u/32978552?s=40&v=4"
-        },
-        {
-          "username": "hexart",
-          "avatar": "https://avatars.githubusercontent.com/u/5528016?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "lanyuanxiaoyao",
-          "avatar": "https://avatars.githubusercontent.com/u/15119304?s=40&v=4"
-        },
-        {
-          "username": "prazjain",
-          "avatar": "https://avatars.githubusercontent.com/u/1950036?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 9,
-      "author": "disler",
-      "repoName": "claude-code-hooks-mastery",
-      "url": "https://github.com/disler/claude-code-hooks-mastery",
-      "description": "Master Claude Code Hooks",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 3019,
-      "forks": 546,
-      "currentPeriodStars": 469,
-      "builtBy": [
-        {
-          "username": "disler",
-          "avatar": "https://avatars.githubusercontent.com/u/7570811?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 10,
-      "author": "tobi",
-      "repoName": "qmd",
-      "url": "https://github.com/tobi/qmd",
-      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 8228,
-      "forks": 437,
-      "currentPeriodStars": 1632,
-      "builtBy": [
-        {
-          "username": "tobi",
-          "avatar": "https://avatars.githubusercontent.com/u/347?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "burke",
-          "avatar": "https://avatars.githubusercontent.com/u/1284?s=40&v=4"
-        },
-        {
-          "username": "mbrendan",
-          "avatar": "https://avatars.githubusercontent.com/u/25271154?s=40&v=4"
-        },
-        {
-          "username": "sh54",
-          "avatar": "https://avatars.githubusercontent.com/u/906180?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 11,
       "author": "hsliuping",
       "repoName": "TradingAgents-CN",
       "url": "https://github.com/hsliuping/TradingAgents-CN",
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17177,
-      "forks": 3703,
+      "stars": 17173,
+      "forks": 3705,
       "currentPeriodStars": 1488,
       "builtBy": [
         {
@@ -383,14 +293,49 @@
       "aiSummary": null
     },
     {
-      "rank": 12,
+      "rank": 9,
+      "author": "thedotmack",
+      "repoName": "claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 27724,
+      "forks": 1863,
+      "currentPeriodStars": 4200,
+      "builtBy": [
+        {
+          "username": "thedotmack",
+          "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "apps/copilot-swe-agent",
+          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
+        },
+        {
+          "username": "rodboev",
+          "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 10,
       "author": "EveryInc",
       "repoName": "compound-engineering-plugin",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8733,
+      "stars": 8735,
       "forks": 679,
       "currentPeriodStars": 1448,
       "builtBy": [
@@ -418,42 +363,7 @@
       "aiSummary": null
     },
     {
-      "rank": 13,
-      "author": "public-apis",
-      "repoName": "public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 398209,
-      "forks": 42603,
-      "currentPeriodStars": 2887,
-      "builtBy": [
-        {
-          "username": "matheusfelipeog",
-          "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&v=4"
-        },
-        {
-          "username": "davemachado",
-          "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&v=4"
-        },
-        {
-          "username": "pawelborkar",
-          "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&v=4"
-        },
-        {
-          "username": "jbrooksuk",
-          "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&v=4"
-        },
-        {
-          "username": "marekdano",
-          "avatar": "https://avatars.githubusercontent.com/u/1914165?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 14,
+      "rank": 11,
       "author": "chenyme",
       "repoName": "grok2api",
       "url": "https://github.com/chenyme/grok2api",
@@ -461,7 +371,7 @@
       "language": "Python",
       "languageColor": "#3572A5",
       "stars": 1396,
-      "forks": 436,
+      "forks": 438,
       "currentPeriodStars": 342,
       "builtBy": [
         {
@@ -483,6 +393,184 @@
         {
           "username": "shellus",
           "avatar": "https://avatars.githubusercontent.com/u/3044880?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 12,
+      "author": "linshenkx",
+      "repoName": "prompt-optimizer",
+      "url": "https://github.com/linshenkx/prompt-optimizer",
+      "description": "一款提示词优化器，助力于编写高质量的提示词",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 20852,
+      "forks": 2528,
+      "currentPeriodStars": 1536,
+      "builtBy": [
+        {
+          "username": "linshenkx",
+          "avatar": "https://avatars.githubusercontent.com/u/32978552?s=40&v=4"
+        },
+        {
+          "username": "hexart",
+          "avatar": "https://avatars.githubusercontent.com/u/5528016?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "lanyuanxiaoyao",
+          "avatar": "https://avatars.githubusercontent.com/u/15119304?s=40&v=4"
+        },
+        {
+          "username": "prazjain",
+          "avatar": "https://avatars.githubusercontent.com/u/1950036?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 13,
+      "author": "tobi",
+      "repoName": "qmd",
+      "url": "https://github.com/tobi/qmd",
+      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 8230,
+      "forks": 439,
+      "currentPeriodStars": 1632,
+      "builtBy": [
+        {
+          "username": "tobi",
+          "avatar": "https://avatars.githubusercontent.com/u/347?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "burke",
+          "avatar": "https://avatars.githubusercontent.com/u/1284?s=40&v=4"
+        },
+        {
+          "username": "mbrendan",
+          "avatar": "https://avatars.githubusercontent.com/u/25271154?s=40&v=4"
+        },
+        {
+          "username": "sh54",
+          "avatar": "https://avatars.githubusercontent.com/u/906180?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 14,
+      "author": "Shubhamsaboo",
+      "repoName": "awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 94531,
+      "forks": 13689,
+      "currentPeriodStars": 2074,
+      "builtBy": [
+        {
+          "username": "Shubhamsaboo",
+          "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&v=4"
+        },
+        {
+          "username": "Madhuvod",
+          "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&v=4"
+        },
+        {
+          "username": "libw0430",
+          "avatar": "https://avatars.githubusercontent.com/u/102198332?s=40&v=4"
+        },
+        {
+          "username": "awesomekoder",
+          "avatar": "https://avatars.githubusercontent.com/u/258367783?s=40&v=4"
+        },
+        {
+          "username": "AndrewHoh",
+          "avatar": "https://avatars.githubusercontent.com/u/774516?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 15,
+      "author": "likec4",
+      "repoName": "likec4",
+      "url": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 2588,
+      "forks": 174,
+      "currentPeriodStars": 962,
+      "builtBy": [
+        {
+          "username": "davydkov",
+          "avatar": "https://avatars.githubusercontent.com/u/824903?s=40&v=4"
+        },
+        {
+          "username": "apps/renovate",
+          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+        },
+        {
+          "username": "pavelpykhtin",
+          "avatar": "https://avatars.githubusercontent.com/u/14885777?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "apps/likec4-ci",
+          "avatar": "https://avatars.githubusercontent.com/in/631189?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 16,
+      "author": "microsoft",
+      "repoName": "RD-Agent",
+      "url": "https://github.com/microsoft/RD-Agent",
+      "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 11090,
+      "forks": 1282,
+      "currentPeriodStars": 294,
+      "builtBy": [
+        {
+          "username": "you-n-g",
+          "avatar": "https://avatars.githubusercontent.com/u/465606?s=40&v=4"
+        },
+        {
+          "username": "peteryang1",
+          "avatar": "https://avatars.githubusercontent.com/u/25981102?s=40&v=4"
+        },
+        {
+          "username": "XianBW",
+          "avatar": "https://avatars.githubusercontent.com/u/36835909?s=40&v=4"
+        },
+        {
+          "username": "WinstonLiyt",
+          "avatar": "https://avatars.githubusercontent.com/u/104308117?s=40&v=4"
+        },
+        {
+          "username": "qew21",
+          "avatar": "https://avatars.githubusercontent.com/u/25722332?s=40&v=4"
         }
       ],
       "aiSummary": null

@@ -1,91 +1,18 @@
 {
-  "count": 14,
+  "count": 13,
   "since": "weekly",
-  "captured_at": "2026-02-13 09:57:22",
+  "captured_at": "2026-02-13 12:19:08",
   "data": [
     {
       "rank": 1,
-      "author": "openai",
-      "repoName": "skills",
-      "url": "https://github.com/openai/skills",
-      "description": "Skills Catalog for Codex",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 8271,
-      "forks": 461,
-      "currentPeriodStars": 4141,
-      "builtBy": [
-        {
-          "username": "gverma-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
-        },
-        {
-          "username": "dkundel-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4"
-        },
-        {
-          "username": "vb-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&v=4"
-        },
-        {
-          "username": "ae-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&v=4"
-        },
-        {
-          "username": "edward-bayes",
-          "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 2,
-      "author": "Jeffallan",
-      "repoName": "claude-skills",
-      "url": "https://github.com/Jeffallan/claude-skills",
-      "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 1956,
-      "forks": 132,
-      "currentPeriodStars": 1124,
-      "builtBy": [
-        {
-          "username": "Jeffallan",
-          "avatar": "https://avatars.githubusercontent.com/u/23423962?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "liyin2015",
-          "avatar": "https://avatars.githubusercontent.com/u/14322677?s=40&v=4"
-        },
-        {
-          "username": "salmanmkc",
-          "avatar": "https://avatars.githubusercontent.com/u/32169182?s=40&v=4"
-        },
-        {
-          "username": "thomassamoul",
-          "avatar": "https://avatars.githubusercontent.com/u/50757446?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 3,
       "author": "google",
       "repoName": "langextract",
       "url": "https://github.com/google/langextract",
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 31720,
-      "forks": 2117,
+      "stars": 31773,
+      "forks": 2115,
       "currentPeriodStars": 6996,
       "builtBy": [
         {
@@ -115,38 +42,88 @@
       }
     },
     {
-      "rank": 4,
-      "author": "disler",
-      "repoName": "claude-code-hooks-mastery",
-      "url": "https://github.com/disler/claude-code-hooks-mastery",
-      "description": "Master Claude Code Hooks",
+      "rank": 2,
+      "author": "openai",
+      "repoName": "skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3019,
-      "forks": 546,
-      "currentPeriodStars": 469,
+      "stars": 8285,
+      "forks": 461,
+      "currentPeriodStars": 4141,
       "builtBy": [
         {
-          "username": "disler",
-          "avatar": "https://avatars.githubusercontent.com/u/7570811?s=40&v=4"
+          "username": "gverma-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
         },
         {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+          "username": "dkundel-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4"
+        },
+        {
+          "username": "vb-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&v=4"
+        },
+        {
+          "username": "ae-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&v=4"
+        },
+        {
+          "username": "edward-bayes",
+          "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "author": "Jeffallan",
+      "repoName": "claude-skills",
+      "url": "https://github.com/Jeffallan/claude-skills",
+      "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 1998,
+      "forks": 133,
+      "currentPeriodStars": 1124,
+      "builtBy": [
+        {
+          "username": "Jeffallan",
+          "avatar": "https://avatars.githubusercontent.com/u/23423962?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "liyin2015",
+          "avatar": "https://avatars.githubusercontent.com/u/14322677?s=40&v=4"
+        },
+        {
+          "username": "salmanmkc",
+          "avatar": "https://avatars.githubusercontent.com/u/32169182?s=40&v=4"
+        },
+        {
+          "username": "thomassamoul",
+          "avatar": "https://avatars.githubusercontent.com/u/50757446?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 4,
       "author": "hsliuping",
       "repoName": "TradingAgents-CN",
       "url": "https://github.com/hsliuping/TradingAgents-CN",
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17177,
-      "forks": 3703,
+      "stars": 17173,
+      "forks": 3705,
       "currentPeriodStars": 1488,
       "builtBy": [
         {
@@ -173,42 +150,7 @@
       "aiSummary": null
     },
     {
-      "rank": 6,
-      "author": "public-apis",
-      "repoName": "public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 398209,
-      "forks": 42603,
-      "currentPeriodStars": 2887,
-      "builtBy": [
-        {
-          "username": "matheusfelipeog",
-          "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&v=4"
-        },
-        {
-          "username": "davemachado",
-          "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&v=4"
-        },
-        {
-          "username": "pawelborkar",
-          "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&v=4"
-        },
-        {
-          "username": "jbrooksuk",
-          "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&v=4"
-        },
-        {
-          "username": "marekdano",
-          "avatar": "https://avatars.githubusercontent.com/u/1914165?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "author": "chenyme",
       "repoName": "grok2api",
       "url": "https://github.com/chenyme/grok2api",
@@ -216,7 +158,7 @@
       "language": "Python",
       "languageColor": "#3572A5",
       "stars": 1396,
-      "forks": 436,
+      "forks": 438,
       "currentPeriodStars": 342,
       "builtBy": [
         {
@@ -243,15 +185,15 @@
       "aiSummary": null
     },
     {
-      "rank": 8,
+      "rank": 6,
       "author": "Shubhamsaboo",
       "repoName": "awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 94535,
-      "forks": 13702,
+      "stars": 94531,
+      "forks": 13689,
       "currentPeriodStars": 2074,
       "builtBy": [
         {
@@ -281,14 +223,192 @@
       }
     },
     {
+      "rank": 7,
+      "author": "microsoft",
+      "repoName": "RD-Agent",
+      "url": "https://github.com/microsoft/RD-Agent",
+      "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 11090,
+      "forks": 1282,
+      "currentPeriodStars": 294,
+      "builtBy": [
+        {
+          "username": "you-n-g",
+          "avatar": "https://avatars.githubusercontent.com/u/465606?s=40&v=4"
+        },
+        {
+          "username": "peteryang1",
+          "avatar": "https://avatars.githubusercontent.com/u/25981102?s=40&v=4"
+        },
+        {
+          "username": "XianBW",
+          "avatar": "https://avatars.githubusercontent.com/u/36835909?s=40&v=4"
+        },
+        {
+          "username": "WinstonLiyt",
+          "avatar": "https://avatars.githubusercontent.com/u/104308117?s=40&v=4"
+        },
+        {
+          "username": "qew21",
+          "avatar": "https://avatars.githubusercontent.com/u/25722332?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 8,
+      "author": "public-apis",
+      "repoName": "public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 398189,
+      "forks": 42604,
+      "currentPeriodStars": 2887,
+      "builtBy": [
+        {
+          "username": "matheusfelipeog",
+          "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&v=4"
+        },
+        {
+          "username": "davemachado",
+          "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&v=4"
+        },
+        {
+          "username": "pawelborkar",
+          "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&v=4"
+        },
+        {
+          "username": "jbrooksuk",
+          "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&v=4"
+        },
+        {
+          "username": "marekdano",
+          "avatar": "https://avatars.githubusercontent.com/u/1914165?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
       "rank": 9,
+      "author": "pydantic",
+      "repoName": "pydantic",
+      "url": "https://github.com/pydantic/pydantic",
+      "description": "Data validation using Python type hints",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 26786,
+      "forks": 2442,
+      "currentPeriodStars": 105,
+      "builtBy": [
+        {
+          "username": "samuelcolvin",
+          "avatar": "https://avatars.githubusercontent.com/u/4039449?s=40&v=4"
+        },
+        {
+          "username": "sydney-runkle",
+          "avatar": "https://avatars.githubusercontent.com/u/54324534?s=40&v=4"
+        },
+        {
+          "username": "Viicos",
+          "avatar": "https://avatars.githubusercontent.com/u/65306057?s=40&v=4"
+        },
+        {
+          "username": "dmontagu",
+          "avatar": "https://avatars.githubusercontent.com/u/35119617?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 10,
+      "author": "element-hq",
+      "repoName": "synapse",
+      "url": "https://github.com/element-hq/synapse",
+      "description": "Synapse: Matrix homeserver written in Python/Twisted + Rust",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 3575,
+      "forks": 461,
+      "currentPeriodStars": 119,
+      "builtBy": [
+        {
+          "username": "erikjohnston",
+          "avatar": "https://avatars.githubusercontent.com/u/8428120?s=40&v=4"
+        },
+        {
+          "username": "richvdh",
+          "avatar": "https://avatars.githubusercontent.com/u/1389908?s=40&v=4"
+        },
+        {
+          "username": "anoadragon453",
+          "avatar": "https://avatars.githubusercontent.com/u/1342360?s=40&v=4"
+        },
+        {
+          "username": "clokep",
+          "avatar": "https://avatars.githubusercontent.com/u/517124?s=40&v=4"
+        },
+        {
+          "username": "NegativeMjark",
+          "avatar": "https://avatars.githubusercontent.com/u/904009?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 11,
+      "author": "cheahjs",
+      "repoName": "free-llm-api-resources",
+      "url": "https://github.com/cheahjs/free-llm-api-resources",
+      "description": "A list of free LLM inference resources accessible via API.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 10314,
+      "forks": 1000,
+      "currentPeriodStars": 1833,
+      "builtBy": [
+        {
+          "username": "cheahjs",
+          "avatar": "https://avatars.githubusercontent.com/u/818368?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        },
+        {
+          "username": "themacexpert",
+          "avatar": "https://avatars.githubusercontent.com/u/5834262?s=40&v=4"
+        },
+        {
+          "username": "justmarkham",
+          "avatar": "https://avatars.githubusercontent.com/u/6509492?s=40&v=4"
+        },
+        {
+          "username": "k-bose",
+          "avatar": "https://avatars.githubusercontent.com/u/131641639?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "该项目汇总了多个可免费调用的LLM推理API资源，解决了开发者因商业API成本高昂或访问受限而难以测试和集成大语言模型的痛点，为实验和小规模应用提供了便捷入口。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 12,
       "author": "bytedance",
       "repoName": "UI-TARS",
       "url": "https://github.com/bytedance/UI-TARS",
       "description": "Pioneering Automated GUI Interaction with Native Agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9561,
+      "stars": 9559,
       "forks": 690,
       "currentPeriodStars": 282,
       "builtBy": [
@@ -316,176 +436,24 @@
       "aiSummary": null
     },
     {
-      "rank": 10,
-      "author": "4thfever",
-      "repoName": "cultivation-world-simulator",
-      "url": "https://github.com/4thfever/cultivation-world-simulator",
-      "description": "基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 902,
-      "forks": 110,
-      "currentPeriodStars": 174,
-      "builtBy": [
-        {
-          "username": "4thfever",
-          "avatar": "https://avatars.githubusercontent.com/u/19970391?s=40&v=4"
-        },
-        {
-          "username": "xzhseh",
-          "avatar": "https://avatars.githubusercontent.com/u/91381303?s=40&v=4"
-        },
-        {
-          "username": "teps3105",
-          "avatar": "https://avatars.githubusercontent.com/u/16871632?s=40&v=4"
-        },
-        {
-          "username": "MarkYangKp",
-          "avatar": "https://avatars.githubusercontent.com/u/42310488?s=40&v=4"
-        },
-        {
-          "username": "Tianrant",
-          "avatar": "https://avatars.githubusercontent.com/u/260025727?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 11,
-      "author": "OpenBMB",
-      "repoName": "ChatDev",
-      "url": "https://github.com/OpenBMB/ChatDev",
-      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 30937,
-      "forks": 3818,
-      "currentPeriodStars": 684,
-      "builtBy": [
-        {
-          "username": "thinkwee",
-          "avatar": "https://avatars.githubusercontent.com/u/11889052?s=40&v=4"
-        },
-        {
-          "username": "Alphamasterliu",
-          "avatar": "https://avatars.githubusercontent.com/u/110011045?s=40&v=4"
-        },
-        {
-          "username": "NA-Wen",
-          "avatar": "https://avatars.githubusercontent.com/u/92134380?s=40&v=4"
-        },
-        {
-          "username": "LaansDole",
-          "avatar": "https://avatars.githubusercontent.com/u/85084360?s=40&v=4"
-        },
-        {
-          "username": "qianc62",
-          "avatar": "https://avatars.githubusercontent.com/u/48988402?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 12,
-      "author": "microsoft",
-      "repoName": "qlib",
-      "url": "https://github.com/microsoft/qlib",
-      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 37346,
-      "forks": 5804,
-      "currentPeriodStars": 562,
-      "builtBy": [
-        {
-          "username": "you-n-g",
-          "avatar": "https://avatars.githubusercontent.com/u/465606?s=40&v=4"
-        },
-        {
-          "username": "bxdd",
-          "avatar": "https://avatars.githubusercontent.com/u/45119470?s=40&v=4"
-        },
-        {
-          "username": "Derek-Wds",
-          "avatar": "https://avatars.githubusercontent.com/u/26081991?s=40&v=4"
-        },
-        {
-          "username": "zhupr",
-          "avatar": "https://avatars.githubusercontent.com/u/18660661?s=40&v=4"
-        },
-        {
-          "username": "SunsetWolf",
-          "avatar": "https://avatars.githubusercontent.com/u/30293408?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
       "rank": 13,
-      "author": "cheahjs",
-      "repoName": "free-llm-api-resources",
-      "url": "https://github.com/cheahjs/free-llm-api-resources",
-      "description": "A list of free LLM inference resources accessible via API.",
+      "author": "disler",
+      "repoName": "claude-code-hooks-mastery",
+      "url": "https://github.com/disler/claude-code-hooks-mastery",
+      "description": "Master Claude Code Hooks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10264,
-      "forks": 995,
-      "currentPeriodStars": 1833,
+      "stars": 3019,
+      "forks": 546,
+      "currentPeriodStars": 469,
       "builtBy": [
         {
-          "username": "cheahjs",
-          "avatar": "https://avatars.githubusercontent.com/u/818368?s=40&v=4"
+          "username": "disler",
+          "avatar": "https://avatars.githubusercontent.com/u/7570811?s=40&v=4"
         },
         {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "themacexpert",
-          "avatar": "https://avatars.githubusercontent.com/u/5834262?s=40&v=4"
-        },
-        {
-          "username": "justmarkham",
-          "avatar": "https://avatars.githubusercontent.com/u/6509492?s=40&v=4"
-        },
-        {
-          "username": "k-bose",
-          "avatar": "https://avatars.githubusercontent.com/u/131641639?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 14,
-      "author": "OpenBMB",
-      "repoName": "MiniCPM-o",
-      "url": "https://github.com/OpenBMB/MiniCPM-o",
-      "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 23734,
-      "forks": 1826,
-      "currentPeriodStars": 784,
-      "builtBy": [
-        {
-          "username": "yiranyyu",
-          "avatar": "https://avatars.githubusercontent.com/u/28106858?s=40&v=4"
-        },
-        {
-          "username": "iceflame89",
-          "avatar": "https://avatars.githubusercontent.com/u/5380770?s=40&v=4"
-        },
-        {
-          "username": "yaoyuanTHU",
-          "avatar": "https://avatars.githubusercontent.com/u/19372848?s=40&v=4"
-        },
-        {
-          "username": "tc-mb",
-          "avatar": "https://avatars.githubusercontent.com/u/157115220?s=40&v=4"
-        },
-        {
-          "username": "YuzaChongyi",
-          "avatar": "https://avatars.githubusercontent.com/u/18023954?s=40&v=4"
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
       "aiSummary": null

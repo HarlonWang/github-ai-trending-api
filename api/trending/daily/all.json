@@ -1,132 +1,56 @@
 {
-  "count": 13,
+  "count": 10,
   "since": "daily",
-  "captured_at": "2026-02-13 09:55:46",
+  "captured_at": "2026-02-13 12:17:20",
   "data": [
     {
       "rank": 1,
-      "author": "tambo-ai",
-      "repoName": "tambo",
-      "url": "https://github.com/tambo-ai/tambo",
-      "description": "Generative UI SDK for React",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 9277,
-      "forks": 448,
-      "currentPeriodStars": 300,
+      "author": "SynkraAI",
+      "repoName": "aios-core",
+      "url": "https://github.com/SynkraAI/aios-core",
+      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 295,
+      "forks": 174,
+      "currentPeriodStars": 105,
       "builtBy": [
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "alecf",
-          "avatar": "https://avatars.githubusercontent.com/u/135340?s=40&v=4"
-        },
-        {
-          "username": "MichaelMilstead",
-          "avatar": "https://avatars.githubusercontent.com/u/8498335?s=40&v=4"
-        },
-        {
-          "username": "tambo-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/230265268?s=40&v=4"
-        },
-        {
-          "username": "akhileshrangani4",
-          "avatar": "https://avatars.githubusercontent.com/u/70284178?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，解决了手动处理流式输出与状态同步的复杂度，提升了开发效率。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 2,
-      "author": "danielmiessler",
-      "repoName": "Personal_AI_Infrastructure",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 7757,
-      "forks": 1107,
-      "currentPeriodStars": 351,
-      "builtBy": [
-        {
-          "username": "danielmiessler",
-          "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&v=4"
-        },
         {
           "username": "claude",
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "ksylvan",
-          "avatar": "https://avatars.githubusercontent.com/u/1226059?s=40&v=4"
+          "username": "Pedrovaleriolopez",
+          "avatar": "https://avatars.githubusercontent.com/u/124090200?s=40&v=4"
         },
         {
-          "username": "mvoehringer",
-          "avatar": "https://avatars.githubusercontent.com/u/2719466?s=40&v=4"
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         },
         {
-          "username": "m4nt0de4",
-          "avatar": "https://avatars.githubusercontent.com/u/176330864?s=40&v=4"
+          "username": "oalanicolas",
+          "avatar": "https://avatars.githubusercontent.com/u/895889?s=40&v=4"
+        },
+        {
+          "username": "semantic-release-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4"
         }
       ],
       "aiSummary": {
-        "content": "danielmiessler/Personal_AI_Infrastructure 是一个基于 TypeScript 的智能体化 AI 基础设施项目。其核心目标是构建一个能扩展和增强人类能力的自动化代理系统，通过编排多个 AI 智能体协同工作，解决个人在信息处理、任务执行与决策支持等方面的效率瓶颈，实现人机能力的深度融合与放大。",
+        "content": "Synkra AIOS Core 是一个基于 JavaScript 的 AI 编排系统核心框架，旨在通过 AI 智能体协同工作，自动化处理全栈开发中的复杂任务流程，从而显著提升开发效率并降低人工编排成本。",
         "source": "deepseek"
       }
     },
     {
-      "rank": 3,
-      "author": "google",
-      "repoName": "langextract",
-      "url": "https://github.com/google/langextract",
-      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 31720,
-      "forks": 2117,
-      "currentPeriodStars": 1122,
-      "builtBy": [
-        {
-          "username": "aksg87",
-          "avatar": "https://avatars.githubusercontent.com/u/19271735?s=40&v=4"
-        },
-        {
-          "username": "kleeena",
-          "avatar": "https://avatars.githubusercontent.com/u/62442533?s=40&v=4"
-        },
-        {
-          "username": "mariano",
-          "avatar": "https://avatars.githubusercontent.com/u/18598?s=40&v=4"
-        },
-        {
-          "username": "tonebeta",
-          "avatar": "https://avatars.githubusercontent.com/u/4890246?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "Google开发的Langextract是一个Python库，利用大语言模型从非结构化文本中提取结构化信息。其核心在于提供精确的溯源能力，确保输出结果可追踪至原文片段，并支持交互式可视化以辅助理解和验证。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "author": "ChromeDevTools",
       "repoName": "chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24546,
-      "forks": 1460,
+      "stars": 24555,
+      "forks": 1461,
       "currentPeriodStars": 436,
       "builtBy": [
         {
@@ -156,319 +80,201 @@
       }
     },
     {
-      "rank": 5,
-      "author": "microsoft",
-      "repoName": "PowerToys",
-      "url": "https://github.com/microsoft/PowerToys",
-      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "language": "C#",
-      "languageColor": "#178600",
-      "stars": 129733,
-      "forks": 7711,
-      "currentPeriodStars": 316,
+      "rank": 3,
+      "author": "danielmiessler",
+      "repoName": "Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 7793,
+      "forks": 1109,
+      "currentPeriodStars": 351,
       "builtBy": [
         {
-          "username": "crutkas",
-          "avatar": "https://avatars.githubusercontent.com/u/1462282?s=40&v=4"
+          "username": "danielmiessler",
+          "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&v=4"
         },
         {
-          "username": "bao-qian",
-          "avatar": "https://avatars.githubusercontent.com/u/1169912?s=40&v=4"
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "qianlifeng",
-          "avatar": "https://avatars.githubusercontent.com/u/1725475?s=40&v=4"
+          "username": "ksylvan",
+          "avatar": "https://avatars.githubusercontent.com/u/1226059?s=40&v=4"
         },
         {
-          "username": "jaimecbernardo",
-          "avatar": "https://avatars.githubusercontent.com/u/26118718?s=40&v=4"
+          "username": "mvoehringer",
+          "avatar": "https://avatars.githubusercontent.com/u/2719466?s=40&v=4"
         },
         {
-          "username": "niels9001",
-          "avatar": "https://avatars.githubusercontent.com/u/9866362?s=40&v=4"
+          "username": "m4nt0de4",
+          "avatar": "https://avatars.githubusercontent.com/u/176330864?s=40&v=4"
         }
       ],
       "aiSummary": {
-        "content": "PowerToys 是微软为 Windows 系统开发的开源效率工具集，旨在通过一系列实用功能（如窗口管理、文件预览、快速启动等）弥补系统原生能力的不足，深度自定义和增强用户工作流，显著提升日常操作与多任务处理的生产力。",
+        "content": "danielmiessler/Personal_AI_Infrastructure 是一个基于 TypeScript 的智能体化 AI 基础设施项目。其核心目标是构建一个能扩展和增强人类能力的自动化代理系统，通过编排多个 AI 智能体协同工作，解决个人在信息处理、任务执行与决策支持等方面的效率瓶颈，实现人机能力的深度融合与放大。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 4,
+      "author": "patchy631",
+      "repoName": "ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 29004,
+      "forks": 4732,
+      "currentPeriodStars": 386,
+      "builtBy": [
+        {
+          "username": "patchy631",
+          "avatar": "https://avatars.githubusercontent.com/u/38653995?s=40&v=4"
+        },
+        {
+          "username": "sitammeur",
+          "avatar": "https://avatars.githubusercontent.com/u/103279526?s=40&v=4"
+        },
+        {
+          "username": "ChawlaAvi",
+          "avatar": "https://avatars.githubusercontent.com/u/36801774?s=40&v=4"
+        },
+        {
+          "username": "nikhil-1e9",
+          "avatar": "https://avatars.githubusercontent.com/u/84204563?s=40&v=4"
+        },
+        {
+          "username": "namanvirk18",
+          "avatar": "https://avatars.githubusercontent.com/u/109527422?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "该项目提供关于大语言模型、检索增强生成和AI智能体应用的深度教程，旨在解决开发者缺乏实战指南的痛点，通过具体案例帮助构建可落地的真实世界AI应用。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 5,
+      "author": "TelegramMessenger",
+      "repoName": "MTProxy",
+      "url": "https://github.com/TelegramMessenger/MTProxy",
+      "description": "",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 5802,
+      "forks": 994,
+      "currentPeriodStars": 48,
+      "builtBy": [
+        {
+          "username": "levlam",
+          "avatar": "https://avatars.githubusercontent.com/u/22669599?s=40&v=4"
+        },
+        {
+          "username": "stek29",
+          "avatar": "https://avatars.githubusercontent.com/u/11808223?s=40&v=4"
+        },
+        {
+          "username": "vysheng",
+          "avatar": "https://avatars.githubusercontent.com/u/1647536?s=40&v=4"
+        },
+        {
+          "username": "savely-krasovsky",
+          "avatar": "https://avatars.githubusercontent.com/u/5345489?s=40&v=4"
+        },
+        {
+          "username": "dfedin",
+          "avatar": "https://avatars.githubusercontent.com/u/6404829?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "MTProxy是Telegram官方推出的轻量级代理工具，使用C语言编写。它通过伪装流量和快速中继，帮助用户在受限网络环境中稳定访问Telegram服务，有效绕过网络封锁。",
         "source": "deepseek"
       }
     },
     {
       "rank": 6,
-      "author": "iOfficeAI",
-      "repoName": "AionUi",
-      "url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 15604,
-      "forks": 1181,
-      "currentPeriodStars": 271,
+      "author": "google-deepmind",
+      "repoName": "superhuman",
+      "url": "https://github.com/google-deepmind/superhuman",
+      "description": "",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": 271,
+      "forks": 21,
+      "currentPeriodStars": 81,
       "builtBy": [
         {
-          "username": "kuishou68",
-          "avatar": "https://avatars.githubusercontent.com/u/54054995?s=40&v=4"
+          "username": "ychervonyi",
+          "avatar": "https://avatars.githubusercontent.com/u/25130217?s=40&v=4"
         },
         {
-          "username": "halvee-tech",
-          "avatar": "https://avatars.githubusercontent.com/u/224486645?s=40&v=4"
+          "username": "dawsenhwang",
+          "avatar": "https://avatars.githubusercontent.com/u/233163904?s=40&v=4"
         },
         {
-          "username": "IceyLiu",
-          "avatar": "https://avatars.githubusercontent.com/u/10683426?s=40&v=4"
+          "username": "nurijunsu",
+          "avatar": "https://avatars.githubusercontent.com/u/41418083?s=40&v=4"
         },
         {
-          "username": "goworm",
-          "avatar": "https://avatars.githubusercontent.com/u/28083037?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+          "username": "lmthang",
+          "avatar": "https://avatars.githubusercontent.com/u/396613?s=40&v=4"
         }
       ],
       "aiSummary": {
-        "content": "AionUi 是一款免费、本地化、开源的 AI 协作工具，支持 Gemini CLI、Claude Code 等多种主流 AI 模型。其核心解决了用户需频繁切换不同 AI 工具界面的痛点，通过统一界面提供 24/7 不间断的集成化编程与对话协作体验。",
+        "content": "DeepMind开源了其“超人”围棋AI的完整技术文档，以LaTeX格式呈现。该项目详细阐述了AlphaGo Zero和AlphaZero的核心算法与训练方法，旨在为学术界提供可复现的参考实现，推动人工智能研究在复杂决策领域的发展。",
         "source": "deepseek"
       }
     },
     {
       "rank": 7,
-      "author": "Shubhamsaboo",
-      "repoName": "awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "author": "cheahjs",
+      "repoName": "free-llm-api-resources",
+      "url": "https://github.com/cheahjs/free-llm-api-resources",
+      "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 94534,
-      "forks": 13702,
-      "currentPeriodStars": 287,
+      "stars": 10314,
+      "forks": 1000,
+      "currentPeriodStars": 1012,
       "builtBy": [
         {
-          "username": "Shubhamsaboo",
-          "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&v=4"
+          "username": "cheahjs",
+          "avatar": "https://avatars.githubusercontent.com/u/818368?s=40&v=4"
         },
         {
-          "username": "Madhuvod",
-          "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&v=4"
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         },
         {
-          "username": "libw0430",
-          "avatar": "https://avatars.githubusercontent.com/u/102198332?s=40&v=4"
+          "username": "themacexpert",
+          "avatar": "https://avatars.githubusercontent.com/u/5834262?s=40&v=4"
         },
         {
-          "username": "awesomekoder",
-          "avatar": "https://avatars.githubusercontent.com/u/258367783?s=40&v=4"
+          "username": "justmarkham",
+          "avatar": "https://avatars.githubusercontent.com/u/6509492?s=40&v=4"
         },
         {
-          "username": "AndrewHoh",
-          "avatar": "https://avatars.githubusercontent.com/u/774516?s=40&v=4"
+          "username": "k-bose",
+          "avatar": "https://avatars.githubusercontent.com/u/131641639?s=40&v=4"
         }
       ],
       "aiSummary": {
-        "content": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。",
+        "content": "该项目汇总了多个可免费调用的LLM推理API资源，解决了开发者因商业API成本高昂或访问受限而难以测试和集成大语言模型的痛点，为实验和小规模应用提供了便捷入口。",
         "source": "deepseek"
       }
     },
     {
       "rank": 8,
-      "author": "rowboatlabs",
-      "repoName": "rowboat",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 5366,
-      "forks": 428,
-      "currentPeriodStars": 191,
-      "builtBy": [
-        {
-          "username": "ramnique",
-          "avatar": "https://avatars.githubusercontent.com/u/30795890?s=40&v=4"
-        },
-        {
-          "username": "akhisud3195",
-          "avatar": "https://avatars.githubusercontent.com/u/55130408?s=40&v=4"
-        },
-        {
-          "username": "arkml",
-          "avatar": "https://avatars.githubusercontent.com/u/6592213?s=40&v=4"
-        },
-        {
-          "username": "tusharmagar",
-          "avatar": "https://avatars.githubusercontent.com/u/47842976?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "Rowboat 是一个开源的 AI 协作者，基于 TypeScript 开发。其核心在于为 AI 助手配备了长期记忆能力，解决了传统 AI 对话中上下文信息易丢失的痛点，能持续记忆用户偏好与历史交互，从而实现更连贯、个性化的协作体验。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 9,
-      "author": "github",
-      "repoName": "gh-aw",
-      "url": "https://github.com/github/gh-aw",
-      "description": "GitHub Agentic Workflows",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2091,
-      "forks": 148,
-      "currentPeriodStars": 405,
-      "builtBy": [
-        {
-          "username": "apps/copilot-swe-agent",
-          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
-        },
-        {
-          "username": "pelikhan",
-          "avatar": "https://avatars.githubusercontent.com/u/4175913?s=40&v=4"
-        },
-        {
-          "username": "dsyme",
-          "avatar": "https://avatars.githubusercontent.com/u/7204669?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "mnkiefer",
-          "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "gh-aw 是 GitHub 推出的基于 Go 语言开发的智能体工作流框架。它旨在通过可编程的自动化代理来编排复杂的开发任务，解决传统 CI/CD 流程在灵活性与智能决策方面的不足，提升软件交付的自动化与智能化水平。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 10,
-      "author": "unslothai",
-      "repoName": "unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 52139,
-      "forks": 4313,
-      "currentPeriodStars": 81,
-      "builtBy": [
-        {
-          "username": "danielhanchen",
-          "avatar": "https://avatars.githubusercontent.com/u/23090290?s=40&v=4"
-        },
-        {
-          "username": "shimmyshimmer",
-          "avatar": "https://avatars.githubusercontent.com/u/107991372?s=40&v=4"
-        },
-        {
-          "username": "apps/pre-commit-ci",
-          "avatar": "https://avatars.githubusercontent.com/in/68672?s=40&v=4"
-        },
-        {
-          "username": "Datta0",
-          "avatar": "https://avatars.githubusercontent.com/u/39181234?s=40&v=4"
-        },
-        {
-          "username": "jeromeku",
-          "avatar": "https://avatars.githubusercontent.com/u/2455711?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "Unsloth 是一个专注于大语言模型高效微调与强化学习的 Python 库。其核心在于通过优化算法显著提升训练速度，可将 OpenAI GPT-OSS、Llama 等模型的训练速度提升 2 倍，同时减少高达 70% 的 VRAM 占用，有效解决了大模型训练资源消耗巨大的痛点。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 11,
-      "author": "cinnyapp",
-      "repoName": "cinny",
-      "url": "https://github.com/cinnyapp/cinny",
-      "description": "Yet another matrix client",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 2934,
-      "forks": 396,
-      "currentPeriodStars": 38,
-      "builtBy": [
-        {
-          "username": "ajbura",
-          "avatar": "https://avatars.githubusercontent.com/u/32841439?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "kfiven",
-          "avatar": "https://avatars.githubusercontent.com/u/33421343?s=40&v=4"
-        },
-        {
-          "username": "apps/renovate",
-          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
-        },
-        {
-          "username": "ginnyTheCat",
-          "avatar": "https://avatars.githubusercontent.com/u/35173023?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "Cinny 是一款基于 Matrix 协议的轻量级即时通讯客户端，采用 TypeScript 开发。它专注于提供快速、简洁的用户体验，解决了官方 Element 客户端较为臃肿、性能开销大的痛点，尤其适合在浏览器和移动端高效使用去中心化通信网络。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 12,
-      "author": "Jeffallan",
-      "repoName": "claude-skills",
-      "url": "https://github.com/Jeffallan/claude-skills",
-      "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 1956,
-      "forks": 132,
-      "currentPeriodStars": 278,
-      "builtBy": [
-        {
-          "username": "Jeffallan",
-          "avatar": "https://avatars.githubusercontent.com/u/23423962?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "liyin2015",
-          "avatar": "https://avatars.githubusercontent.com/u/14322677?s=40&v=4"
-        },
-        {
-          "username": "salmanmkc",
-          "avatar": "https://avatars.githubusercontent.com/u/32169182?s=40&v=4"
-        },
-        {
-          "username": "thomassamoul",
-          "avatar": "https://avatars.githubusercontent.com/u/50757446?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 13,
       "author": "HandsOnLLM",
       "repoName": "Hands-On-Large-Language-Models",
       "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
       "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 21036,
-      "forks": 4981,
+      "stars": 21054,
+      "forks": 4983,
       "currentPeriodStars": 361,
       "builtBy": [
         {
@@ -494,6 +300,82 @@
       ],
       "aiSummary": {
         "content": "该项目为O'Reilly书籍《动手学大语言模型》的官方代码库，通过一系列Jupyter Notebook实践教程，解决了学习者难以将LLM理论知识转化为实际应用能力的痛点，帮助开发者快速上手并构建基于大语言模型的应用程序。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 9,
+      "author": "THUDM",
+      "repoName": "slime",
+      "url": "https://github.com/THUDM/slime",
+      "description": "slime is an LLM post-training framework for RL Scaling.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 3989,
+      "forks": 523,
+      "currentPeriodStars": 85,
+      "builtBy": [
+        {
+          "username": "zhuzilin",
+          "avatar": "https://avatars.githubusercontent.com/u/10428324?s=40&v=4"
+        },
+        {
+          "username": "fzyzcjy",
+          "avatar": "https://avatars.githubusercontent.com/u/5236035?s=40&v=4"
+        },
+        {
+          "username": "yitianlian",
+          "avatar": "https://avatars.githubusercontent.com/u/91449279?s=40&v=4"
+        },
+        {
+          "username": "lilei199908",
+          "avatar": "https://avatars.githubusercontent.com/u/77353389?s=40&v=4"
+        },
+        {
+          "username": "lancerts",
+          "avatar": "https://avatars.githubusercontent.com/u/7495155?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "THUDM/slime 是一个专为大语言模型设计的强化学习扩展后训练框架。它解决了传统RLHF方法在模型规模扩大时面临的计算效率低、训练不稳定等痛点，通过创新的算法优化，实现了对超大规模语言模型高效、稳定的强化学习微调。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 10,
+      "author": "DebugSwift",
+      "repoName": "DebugSwift",
+      "url": "https://github.com/DebugSwift/DebugSwift",
+      "description": "A toolkit to make debugging iOS applications easier 🚀",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 1273,
+      "forks": 119,
+      "currentPeriodStars": 50,
+      "builtBy": [
+        {
+          "username": "MaatheusGois",
+          "avatar": "https://avatars.githubusercontent.com/u/31082311?s=40&v=4"
+        },
+        {
+          "username": "maatheusgois-dd",
+          "avatar": "https://avatars.githubusercontent.com/u/199827342?s=40&v=4"
+        },
+        {
+          "username": "apps/github-advanced-security",
+          "avatar": "https://avatars.githubusercontent.com/in/57789?s=40&v=4"
+        },
+        {
+          "username": "fenli",
+          "avatar": "https://avatars.githubusercontent.com/u/5110285?s=40&v=4"
+        },
+        {
+          "username": "murilogteixeira",
+          "avatar": "https://avatars.githubusercontent.com/u/38084757?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "DebugSwift 是一款专为 iOS 应用设计的调试工具包，旨在简化开发者的调试流程。它通过集成视图层级检查、性能监控、网络请求追踪等核心功能，解决了传统调试方式繁琐、信息分散的痛点，显著提升了问题定位与诊断的效率。",
         "source": "deepseek"
       }
     }

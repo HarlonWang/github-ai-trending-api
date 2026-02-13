@@ -1,7 +1,7 @@
 {
   "count": 23,
   "since": "weekly",
-  "captured_at": "2026-02-13 09:57:34",
+  "captured_at": "2026-02-13 12:19:25",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2091,
+      "stars": 2105,
       "forks": 148,
       "currentPeriodStars": 1594,
       "builtBy": [
@@ -43,118 +43,48 @@
     },
     {
       "rank": 2,
-      "author": "majd",
-      "repoName": "ipatool",
-      "url": "https://github.com/majd/ipatool",
-      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store",
+      "author": "1Panel-dev",
+      "repoName": "1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making it easy to manage OpenClaw agents, local LLMs, websites, databases, containers, files, and scheduled tasks.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8566,
-      "forks": 722,
-      "currentPeriodStars": 151,
+      "stars": 33378,
+      "forks": 2958,
+      "currentPeriodStars": 197,
       "builtBy": [
         {
-          "username": "majd",
-          "avatar": "https://avatars.githubusercontent.com/u/1644696?s=40&v=4"
+          "username": "ssongliu",
+          "avatar": "https://avatars.githubusercontent.com/u/73214554?s=40&v=4"
         },
         {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+          "username": "zhengkunwang223",
+          "avatar": "https://avatars.githubusercontent.com/u/31820853?s=40&v=4"
         },
         {
-          "username": "ViRb3",
-          "avatar": "https://avatars.githubusercontent.com/u/2650170?s=40&v=4"
+          "username": "lan-yonghui",
+          "avatar": "https://avatars.githubusercontent.com/u/81747598?s=40&v=4"
         },
         {
-          "username": "tux-mind",
-          "avatar": "https://avatars.githubusercontent.com/u/1824153?s=40&v=4"
+          "username": "HynoR",
+          "avatar": "https://avatars.githubusercontent.com/u/20227709?s=40&v=4"
         },
         {
-          "username": "testwill",
-          "avatar": "https://avatars.githubusercontent.com/u/8717479?s=40&v=4"
+          "username": "wanghe-fit2cloud",
+          "avatar": "https://avatars.githubusercontent.com/u/46734380?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 3,
-      "author": "5rahim",
-      "repoName": "seanime",
-      "url": "https://github.com/5rahim/seanime",
-      "description": "Open-source media server with a web interface and desktop app for anime and manga.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2822,
-      "forks": 179,
-      "currentPeriodStars": 207,
-      "builtBy": [
-        {
-          "username": "5rahim",
-          "avatar": "https://avatars.githubusercontent.com/u/44007774?s=40&v=4"
-        },
-        {
-          "username": "umag",
-          "avatar": "https://avatars.githubusercontent.com/u/2269529?s=40&v=4"
-        },
-        {
-          "username": "kyoruno",
-          "avatar": "https://avatars.githubusercontent.com/u/51477242?s=40&v=4"
-        },
-        {
-          "username": "Ari-03",
-          "avatar": "https://avatars.githubusercontent.com/u/64171580?s=40&v=4"
-        },
-        {
-          "username": "YoussefJarray",
-          "avatar": "https://avatars.githubusercontent.com/u/32774211?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 4,
-      "author": "ollama",
-      "repoName": "ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 162517,
-      "forks": 14570,
-      "currentPeriodStars": 756,
-      "builtBy": [
-        {
-          "username": "mxyng",
-          "avatar": "https://avatars.githubusercontent.com/u/2372640?s=40&v=4"
-        },
-        {
-          "username": "jmorganca",
-          "avatar": "https://avatars.githubusercontent.com/u/251292?s=40&v=4"
-        },
-        {
-          "username": "dhiltgen",
-          "avatar": "https://avatars.githubusercontent.com/u/4033016?s=40&v=4"
-        },
-        {
-          "username": "BruceMacD",
-          "avatar": "https://avatars.githubusercontent.com/u/5853428?s=40&v=4"
-        },
-        {
-          "username": "jessegross",
-          "avatar": "https://avatars.githubusercontent.com/u/6468499?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 5,
       "author": "aquasecurity",
       "repoName": "trivy",
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 31895,
+      "stars": 31893,
       "forks": 2948,
       "currentPeriodStars": 606,
       "builtBy": [
@@ -182,49 +112,14 @@
       "aiSummary": null
     },
     {
-      "rank": 6,
-      "author": "alireza0",
-      "repoName": "s-ui",
-      "url": "https://github.com/alireza0/s-ui",
-      "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7433,
-      "forks": 1182,
-      "currentPeriodStars": 144,
-      "builtBy": [
-        {
-          "username": "alireza0",
-          "avatar": "https://avatars.githubusercontent.com/u/12573084?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "Shellgate",
-          "avatar": "https://avatars.githubusercontent.com/u/128194280?s=40&v=4"
-        },
-        {
-          "username": "Kagashini",
-          "avatar": "https://avatars.githubusercontent.com/u/10905488?s=40&v=4"
-        },
-        {
-          "username": "shahin-io",
-          "avatar": "https://avatars.githubusercontent.com/u/115543613?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 7,
+      "rank": 4,
       "author": "abiosoft",
       "repoName": "colima",
       "url": "https://github.com/abiosoft/colima",
       "description": "Container runtimes on macOS (and Linux) with minimal setup",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26890,
+      "stars": 26892,
       "forks": 530,
       "currentPeriodStars": 209,
       "builtBy": [
@@ -252,42 +147,182 @@
       "aiSummary": null
     },
     {
-      "rank": 8,
-      "author": "infracost",
-      "repoName": "infracost",
-      "url": "https://github.com/infracost/infracost",
-      "description": "Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!",
+      "rank": 5,
+      "author": "jesseduffield",
+      "repoName": "lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12159,
-      "forks": 656,
-      "currentPeriodStars": 89,
+      "stars": 72267,
+      "forks": 2504,
+      "currentPeriodStars": 541,
       "builtBy": [
         {
-          "username": "aliscott",
-          "avatar": "https://avatars.githubusercontent.com/u/158824?s=40&v=4"
+          "username": "jesseduffield",
+          "avatar": "https://avatars.githubusercontent.com/u/8456633?s=40&v=4"
         },
         {
-          "username": "alikhajeh1",
-          "avatar": "https://avatars.githubusercontent.com/u/638577?s=40&v=4"
+          "username": "stefanhaller",
+          "avatar": "https://avatars.githubusercontent.com/u/1225667?s=40&v=4"
         },
         {
-          "username": "hugorut",
-          "avatar": "https://avatars.githubusercontent.com/u/6455139?s=40&v=4"
+          "username": "mjarkk",
+          "avatar": "https://avatars.githubusercontent.com/u/15320763?s=40&v=4"
         },
         {
-          "username": "tim775",
-          "avatar": "https://avatars.githubusercontent.com/u/52185?s=40&v=4"
+          "username": "dawidd6",
+          "avatar": "https://avatars.githubusercontent.com/u/9713907?s=40&v=4"
+        },
+        {
+          "username": "Ryooooooga",
+          "avatar": "https://avatars.githubusercontent.com/u/10097437?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 6,
+      "author": "prometheus",
+      "repoName": "alertmanager",
+      "url": "https://github.com/prometheus/alertmanager",
+      "description": "Prometheus Alertmanager",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 8349,
+      "forks": 2403,
+      "currentPeriodStars": 14,
+      "builtBy": [
+        {
+          "username": "fabxc",
+          "avatar": "https://avatars.githubusercontent.com/u/4948210?s=40&v=4"
+        },
+        {
+          "username": "stuartnelson3",
+          "avatar": "https://avatars.githubusercontent.com/u/1398104?s=40&v=4"
+        },
+        {
+          "username": "simonpasquier",
+          "avatar": "https://avatars.githubusercontent.com/u/2587585?s=40&v=4"
         },
         {
           "username": "apps/dependabot",
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "juliusv",
+          "avatar": "https://avatars.githubusercontent.com/u/538008?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 7,
+      "author": "alireza0",
+      "repoName": "s-ui",
+      "url": "https://github.com/alireza0/s-ui",
+      "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7436,
+      "forks": 1182,
+      "currentPeriodStars": 144,
+      "builtBy": [
+        {
+          "username": "alireza0",
+          "avatar": "https://avatars.githubusercontent.com/u/12573084?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "Shellgate",
+          "avatar": "https://avatars.githubusercontent.com/u/128194280?s=40&v=4"
+        },
+        {
+          "username": "Kagashini",
+          "avatar": "https://avatars.githubusercontent.com/u/10905488?s=40&v=4"
+        },
+        {
+          "username": "shahin-io",
+          "avatar": "https://avatars.githubusercontent.com/u/115543613?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 8,
+      "author": "traefik",
+      "repoName": "traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 61611,
+      "forks": 5827,
+      "currentPeriodStars": 166,
+      "builtBy": [
+        {
+          "username": "ldez",
+          "avatar": "https://avatars.githubusercontent.com/u/5674651?s=40&v=4"
+        },
+        {
+          "username": "emilevauge",
+          "avatar": "https://avatars.githubusercontent.com/u/6207234?s=40&v=4"
+        },
+        {
+          "username": "rtribotte",
+          "avatar": "https://avatars.githubusercontent.com/u/13045437?s=40&v=4"
+        },
+        {
+          "username": "kevinpollet",
+          "avatar": "https://avatars.githubusercontent.com/u/299142?s=40&v=4"
+        },
+        {
+          "username": "mmatur",
+          "avatar": "https://avatars.githubusercontent.com/u/1776972?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 9,
+      "author": "ollama",
+      "repoName": "ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 162497,
+      "forks": 14572,
+      "currentPeriodStars": 756,
+      "builtBy": [
+        {
+          "username": "mxyng",
+          "avatar": "https://avatars.githubusercontent.com/u/2372640?s=40&v=4"
+        },
+        {
+          "username": "jmorganca",
+          "avatar": "https://avatars.githubusercontent.com/u/251292?s=40&v=4"
+        },
+        {
+          "username": "dhiltgen",
+          "avatar": "https://avatars.githubusercontent.com/u/4033016?s=40&v=4"
+        },
+        {
+          "username": "BruceMacD",
+          "avatar": "https://avatars.githubusercontent.com/u/5853428?s=40&v=4"
+        },
+        {
+          "username": "jessegross",
+          "avatar": "https://avatars.githubusercontent.com/u/6468499?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 10,
       "author": "juanfont",
       "repoName": "headscale",
       "url": "https://github.com/juanfont/headscale",
@@ -318,154 +353,49 @@
       "aiSummary": null
     },
     {
-      "rank": 10,
-      "author": "gin-gonic",
-      "repoName": "gin",
-      "url": "https://github.com/gin-gonic/gin",
-      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 87986,
-      "forks": 8559,
-      "currentPeriodStars": 98,
-      "builtBy": [
-        {
-          "username": "manucorporat",
-          "avatar": "https://avatars.githubusercontent.com/u/127379?s=40&v=4"
-        },
-        {
-          "username": "javierprovecho",
-          "avatar": "https://avatars.githubusercontent.com/u/2457529?s=40&v=4"
-        },
-        {
-          "username": "thinkerou",
-          "avatar": "https://avatars.githubusercontent.com/u/4488261?s=40&v=4"
-        },
-        {
-          "username": "appleboy",
-          "avatar": "https://avatars.githubusercontent.com/u/21979?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
       "rank": 11,
-      "author": "rcourtman",
-      "repoName": "Pulse",
-      "url": "https://github.com/rcourtman/Pulse",
-      "description": "Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard",
+      "author": "majd",
+      "repoName": "ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4438,
-      "forks": 187,
-      "currentPeriodStars": 340,
+      "stars": 8565,
+      "forks": 722,
+      "currentPeriodStars": 151,
       "builtBy": [
         {
-          "username": "rcourtman",
-          "avatar": "https://avatars.githubusercontent.com/u/8825017?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "actions-user",
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4"
+          "username": "majd",
+          "avatar": "https://avatars.githubusercontent.com/u/1644696?s=40&v=4"
         },
         {
           "username": "apps/dependabot",
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+          "username": "ViRb3",
+          "avatar": "https://avatars.githubusercontent.com/u/2650170?s=40&v=4"
+        },
+        {
+          "username": "tux-mind",
+          "avatar": "https://avatars.githubusercontent.com/u/1824153?s=40&v=4"
+        },
+        {
+          "username": "testwill",
+          "avatar": "https://avatars.githubusercontent.com/u/8717479?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 12,
-      "author": "ariga",
-      "repoName": "atlas",
-      "url": "https://github.com/ariga/atlas",
-      "description": "Declarative schema migrations with schema-as-code workflows",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 8080,
-      "forks": 337,
-      "currentPeriodStars": 56,
-      "builtBy": [
-        {
-          "username": "a8m",
-          "avatar": "https://avatars.githubusercontent.com/u/7413593?s=40&v=4"
-        },
-        {
-          "username": "rotemtam",
-          "avatar": "https://avatars.githubusercontent.com/u/1522681?s=40&v=4"
-        },
-        {
-          "username": "masseelch",
-          "avatar": "https://avatars.githubusercontent.com/u/12862103?s=40&v=4"
-        },
-        {
-          "username": "giautm",
-          "avatar": "https://avatars.githubusercontent.com/u/12751435?s=40&v=4"
-        },
-        {
-          "username": "hilakashai",
-          "avatar": "https://avatars.githubusercontent.com/u/73284641?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 13,
-      "author": "restic",
-      "repoName": "restic",
-      "url": "https://github.com/restic/restic",
-      "description": "Fast, secure, efficient backup program",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 32209,
-      "forks": 1716,
-      "currentPeriodStars": 122,
-      "builtBy": [
-        {
-          "username": "fd0",
-          "avatar": "https://avatars.githubusercontent.com/u/123276?s=40&v=4"
-        },
-        {
-          "username": "MichaelEischer",
-          "avatar": "https://avatars.githubusercontent.com/u/9106997?s=40&v=4"
-        },
-        {
-          "username": "rawtaz",
-          "avatar": "https://avatars.githubusercontent.com/u/825204?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "greatroar",
-          "avatar": "https://avatars.githubusercontent.com/u/61184462?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 14,
       "author": "syncthing",
       "repoName": "syncthing",
       "url": "https://github.com/syncthing/syncthing",
       "description": "Open Source Continuous File Synchronization",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 79870,
+      "stars": 79866,
       "forks": 4930,
       "currentPeriodStars": 213,
       "builtBy": [
@@ -493,154 +423,259 @@
       "aiSummary": null
     },
     {
-      "rank": 15,
-      "author": "projectcalico",
-      "repoName": "calico",
-      "url": "https://github.com/projectcalico/calico",
-      "description": "Cloud native networking and network security",
+      "rank": 13,
+      "author": "gin-gonic",
+      "repoName": "gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7060,
-      "forks": 1543,
-      "currentPeriodStars": 16,
+      "stars": 87979,
+      "forks": 8558,
+      "currentPeriodStars": 98,
       "builtBy": [
         {
-          "username": "caseydavenport",
-          "avatar": "https://avatars.githubusercontent.com/u/1944093?s=40&v=4"
+          "username": "manucorporat",
+          "avatar": "https://avatars.githubusercontent.com/u/127379?s=40&v=4"
         },
         {
-          "username": "tomastigera",
-          "avatar": "https://avatars.githubusercontent.com/u/49207409?s=40&v=4"
+          "username": "javierprovecho",
+          "avatar": "https://avatars.githubusercontent.com/u/2457529?s=40&v=4"
         },
         {
-          "username": "fasaxc",
-          "avatar": "https://avatars.githubusercontent.com/u/469264?s=40&v=4"
+          "username": "thinkerou",
+          "avatar": "https://avatars.githubusercontent.com/u/4488261?s=40&v=4"
         },
         {
-          "username": "ozdanborne",
-          "avatar": "https://avatars.githubusercontent.com/u/3444362?s=40&v=4"
+          "username": "appleboy",
+          "avatar": "https://avatars.githubusercontent.com/u/21979?s=40&v=4"
         },
         {
-          "username": "marvin-tigera",
-          "avatar": "https://avatars.githubusercontent.com/u/19392133?s=40&v=4"
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 14,
+      "author": "5rahim",
+      "repoName": "seanime",
+      "url": "https://github.com/5rahim/seanime",
+      "description": "Open-source media server with a web interface and desktop app for anime and manga.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 2820,
+      "forks": 179,
+      "currentPeriodStars": 207,
+      "builtBy": [
+        {
+          "username": "5rahim",
+          "avatar": "https://avatars.githubusercontent.com/u/44007774?s=40&v=4"
+        },
+        {
+          "username": "umag",
+          "avatar": "https://avatars.githubusercontent.com/u/2269529?s=40&v=4"
+        },
+        {
+          "username": "kyoruno",
+          "avatar": "https://avatars.githubusercontent.com/u/51477242?s=40&v=4"
+        },
+        {
+          "username": "Ari-03",
+          "avatar": "https://avatars.githubusercontent.com/u/64171580?s=40&v=4"
+        },
+        {
+          "username": "YoussefJarray",
+          "avatar": "https://avatars.githubusercontent.com/u/32774211?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 15,
+      "author": "infracost",
+      "repoName": "infracost",
+      "url": "https://github.com/infracost/infracost",
+      "description": "Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 12157,
+      "forks": 656,
+      "currentPeriodStars": 89,
+      "builtBy": [
+        {
+          "username": "aliscott",
+          "avatar": "https://avatars.githubusercontent.com/u/158824?s=40&v=4"
+        },
+        {
+          "username": "alikhajeh1",
+          "avatar": "https://avatars.githubusercontent.com/u/638577?s=40&v=4"
+        },
+        {
+          "username": "hugorut",
+          "avatar": "https://avatars.githubusercontent.com/u/6455139?s=40&v=4"
+        },
+        {
+          "username": "tim775",
+          "avatar": "https://avatars.githubusercontent.com/u/52185?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 16,
-      "author": "kubernetes-sigs",
-      "repoName": "gateway-api",
-      "url": "https://github.com/kubernetes-sigs/gateway-api",
-      "description": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+      "author": "wavetermdev",
+      "repoName": "waveterm",
+      "url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, cross-platform terminal for seamless workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2650,
-      "forks": 664,
-      "currentPeriodStars": 27,
+      "stars": 17332,
+      "forks": 775,
+      "currentPeriodStars": 327,
       "builtBy": [
         {
-          "username": "k8s-ci-robot",
-          "avatar": "https://avatars.githubusercontent.com/u/20407524?s=40&v=4"
+          "username": "sawka",
+          "avatar": "https://avatars.githubusercontent.com/u/2722291?s=40&v=4"
         },
         {
-          "username": "robscott",
-          "avatar": "https://avatars.githubusercontent.com/u/419322?s=40&v=4"
+          "username": "esimkowitz",
+          "avatar": "https://avatars.githubusercontent.com/u/16651283?s=40&v=4"
         },
         {
           "username": "apps/dependabot",
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "shaneutt",
-          "avatar": "https://avatars.githubusercontent.com/u/5332524?s=40&v=4"
+          "username": "apps/wave-builder",
+          "avatar": "https://avatars.githubusercontent.com/in/999893?s=40&v=4"
         },
         {
-          "username": "howardjohn",
-          "avatar": "https://avatars.githubusercontent.com/u/623453?s=40&v=4"
+          "username": "oneirocosm",
+          "avatar": "https://avatars.githubusercontent.com/u/107814465?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 17,
-      "author": "jesseduffield",
-      "repoName": "lazygit",
-      "url": "https://github.com/jesseduffield/lazygit",
-      "description": "simple terminal UI for git commands",
+      "author": "gitleaks",
+      "repoName": "gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 72263,
-      "forks": 2504,
-      "currentPeriodStars": 541,
+      "stars": 24892,
+      "forks": 1913,
+      "currentPeriodStars": 102,
       "builtBy": [
         {
-          "username": "jesseduffield",
-          "avatar": "https://avatars.githubusercontent.com/u/8456633?s=40&v=4"
+          "username": "zricethezav",
+          "avatar": "https://avatars.githubusercontent.com/u/15034943?s=40&v=4"
         },
         {
-          "username": "stefanhaller",
-          "avatar": "https://avatars.githubusercontent.com/u/1225667?s=40&v=4"
+          "username": "rgmz",
+          "avatar": "https://avatars.githubusercontent.com/u/32133502?s=40&v=4"
         },
         {
-          "username": "mjarkk",
-          "avatar": "https://avatars.githubusercontent.com/u/15320763?s=40&v=4"
+          "username": "w0rmr1d3r",
+          "avatar": "https://avatars.githubusercontent.com/u/20722014?s=40&v=4"
         },
         {
-          "username": "dawidd6",
-          "avatar": "https://avatars.githubusercontent.com/u/9713907?s=40&v=4"
+          "username": "petegallagher",
+          "avatar": "https://avatars.githubusercontent.com/u/688331?s=40&v=4"
         },
         {
-          "username": "Ryooooooga",
-          "avatar": "https://avatars.githubusercontent.com/u/10097437?s=40&v=4"
+          "username": "bufferoverflow",
+          "avatar": "https://avatars.githubusercontent.com/u/378909?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 18,
-      "author": "kubernetes-sigs",
-      "repoName": "kustomize",
-      "url": "https://github.com/kubernetes-sigs/kustomize",
-      "description": "Customization of kubernetes YAML configurations",
+      "author": "restic",
+      "repoName": "restic",
+      "url": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 11938,
-      "forks": 2364,
-      "currentPeriodStars": 19,
+      "stars": 32208,
+      "forks": 1716,
+      "currentPeriodStars": 122,
       "builtBy": [
         {
-          "username": "monopole",
-          "avatar": "https://avatars.githubusercontent.com/u/2928188?s=40&v=4"
+          "username": "fd0",
+          "avatar": "https://avatars.githubusercontent.com/u/123276?s=40&v=4"
         },
         {
-          "username": "k8s-ci-robot",
-          "avatar": "https://avatars.githubusercontent.com/u/20407524?s=40&v=4"
+          "username": "MichaelEischer",
+          "avatar": "https://avatars.githubusercontent.com/u/9106997?s=40&v=4"
         },
         {
-          "username": "natasha41575",
-          "avatar": "https://avatars.githubusercontent.com/u/16629434?s=40&v=4"
+          "username": "rawtaz",
+          "avatar": "https://avatars.githubusercontent.com/u/825204?s=40&v=4"
         },
         {
-          "username": "Liujingfang1",
-          "avatar": "https://avatars.githubusercontent.com/u/8498608?s=40&v=4"
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "Shell32-Natsu",
-          "avatar": "https://avatars.githubusercontent.com/u/5417586?s=40&v=4"
+          "username": "greatroar",
+          "avatar": "https://avatars.githubusercontent.com/u/61184462?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 19,
+      "author": "hashicorp",
+      "repoName": "terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 47657,
+      "forks": 10213,
+      "currentPeriodStars": 66,
+      "builtBy": [
+        {
+          "username": "jbardin",
+          "avatar": "https://avatars.githubusercontent.com/u/35067?s=40&v=4"
+        },
+        {
+          "username": "mitchellh",
+          "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4"
+        },
+        {
+          "username": "apparentlymart",
+          "avatar": "https://avatars.githubusercontent.com/u/20180?s=40&v=4"
+        },
+        {
+          "username": "stack72",
+          "avatar": "https://avatars.githubusercontent.com/u/227823?s=40&v=4"
+        },
+        {
+          "username": "catsby",
+          "avatar": "https://avatars.githubusercontent.com/u/61721?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 20,
       "author": "gofiber",
       "repoName": "fiber",
       "url": "https://github.com/gofiber/fiber",
       "description": "⚡️ Express inspired web framework written in Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 39204,
+      "stars": 39202,
       "forks": 1956,
       "currentPeriodStars": 103,
       "builtBy": [
@@ -668,125 +703,98 @@
       "aiSummary": null
     },
     {
-      "rank": 20,
-      "author": "prometheus",
-      "repoName": "node_exporter",
-      "url": "https://github.com/prometheus/node_exporter",
-      "description": "Exporter for machine metrics",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 13141,
-      "forks": 2598,
-      "currentPeriodStars": 34,
-      "builtBy": [
-        {
-          "username": "SuperQ",
-          "avatar": "https://avatars.githubusercontent.com/u/1320667?s=40&v=4"
-        },
-        {
-          "username": "discordianfish",
-          "avatar": "https://avatars.githubusercontent.com/u/275966?s=40&v=4"
-        },
-        {
-          "username": "grobie",
-          "avatar": "https://avatars.githubusercontent.com/u/3432?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "juliusv",
-          "avatar": "https://avatars.githubusercontent.com/u/538008?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
       "rank": 21,
-      "author": "kubernetes",
-      "repoName": "kubernetes",
-      "url": "https://github.com/kubernetes/kubernetes",
-      "description": "Production-Grade Container Scheduling and Management",
+      "author": "kubernetes-sigs",
+      "repoName": "kustomize",
+      "url": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 120470,
-      "forks": 42452,
-      "currentPeriodStars": 190,
+      "stars": 11935,
+      "forks": 2364,
+      "currentPeriodStars": 19,
       "builtBy": [
+        {
+          "username": "monopole",
+          "avatar": "https://avatars.githubusercontent.com/u/2928188?s=40&v=4"
+        },
         {
           "username": "k8s-ci-robot",
           "avatar": "https://avatars.githubusercontent.com/u/20407524?s=40&v=4"
         },
         {
-          "username": "liggitt",
-          "avatar": "https://avatars.githubusercontent.com/u/980082?s=40&v=4"
+          "username": "natasha41575",
+          "avatar": "https://avatars.githubusercontent.com/u/16629434?s=40&v=4"
         },
         {
-          "username": "thockin",
-          "avatar": "https://avatars.githubusercontent.com/u/5595220?s=40&v=4"
+          "username": "Liujingfang1",
+          "avatar": "https://avatars.githubusercontent.com/u/8498608?s=40&v=4"
         },
         {
-          "username": "wojtek-t",
-          "avatar": "https://avatars.githubusercontent.com/u/10743879?s=40&v=4"
-        },
-        {
-          "username": "brendandburns",
-          "avatar": "https://avatars.githubusercontent.com/u/5751682?s=40&v=4"
+          "username": "Shell32-Natsu",
+          "avatar": "https://avatars.githubusercontent.com/u/5417586?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 22,
-      "author": "binwiederhier",
-      "repoName": "ntfy",
-      "url": "https://github.com/binwiederhier/ntfy",
-      "description": "Send push notifications to your phone or desktop using PUT/POST",
+      "author": "JanDeDobbeleer",
+      "repoName": "oh-my-posh",
+      "url": "https://github.com/JanDeDobbeleer/oh-my-posh",
+      "description": "The most customisable and low-latency cross platform/shell prompt renderer",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28720,
-      "forks": 1177,
-      "currentPeriodStars": 128,
+      "stars": 21515,
+      "forks": 2690,
+      "currentPeriodStars": 87,
       "builtBy": [
         {
-          "username": "binwiederhier",
-          "avatar": "https://avatars.githubusercontent.com/u/664597?s=40&v=4"
+          "username": "JanDeDobbeleer",
+          "avatar": "https://avatars.githubusercontent.com/u/2492783?s=40&v=4"
         },
         {
-          "username": "nimbleghost",
-          "avatar": "https://avatars.githubusercontent.com/u/132819643?s=40&v=4"
+          "username": "apps/allcontributors",
+          "avatar": "https://avatars.githubusercontent.com/in/23186?s=40&v=4"
         },
         {
-          "username": "wunter8",
-          "avatar": "https://avatars.githubusercontent.com/u/8421688?s=40&v=4"
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "StoyanDimitrov",
-          "avatar": "https://avatars.githubusercontent.com/u/10962709?s=40&v=4"
+          "username": "lnu",
+          "avatar": "https://avatars.githubusercontent.com/u/1829553?s=40&v=4"
         },
         {
-          "username": "karmanyaahm",
-          "avatar": "https://avatars.githubusercontent.com/u/32671690?s=40&v=4"
+          "username": "lewis-yeung",
+          "avatar": "https://avatars.githubusercontent.com/u/83903009?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 23,
-      "author": "bluenviron",
-      "repoName": "mediamtx",
-      "url": "https://github.com/bluenviron/mediamtx",
-      "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+      "author": "rcourtman",
+      "repoName": "Pulse",
+      "url": "https://github.com/rcourtman/Pulse",
+      "description": "Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 17910,
-      "forks": 2123,
-      "currentPeriodStars": 85,
+      "stars": 4443,
+      "forks": 188,
+      "currentPeriodStars": 340,
       "builtBy": [
         {
-          "username": "aler9",
-          "avatar": "https://avatars.githubusercontent.com/u/46489434?s=40&v=4"
+          "username": "rcourtman",
+          "avatar": "https://avatars.githubusercontent.com/u/8825017?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "actions-user",
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4"
         },
         {
           "username": "apps/dependabot",
@@ -795,14 +803,6 @@
         {
           "username": "apps/github-actions",
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "bluenviron-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/214245907?s=40&v=4"
-        },
-        {
-          "username": "bouk",
-          "avatar": "https://avatars.githubusercontent.com/u/97820?s=40&v=4"
         }
       ],
       "aiSummary": null

@@ -1,18 +1,467 @@
 {
-  "count": 17,
+  "count": 16,
   "since": "daily",
-  "captured_at": "2026-02-13 09:56:26",
+  "captured_at": "2026-02-13 12:18:16",
   "data": [
     {
       "rank": 1,
+      "author": "cheahjs",
+      "repoName": "free-llm-api-resources",
+      "url": "https://github.com/cheahjs/free-llm-api-resources",
+      "description": "A list of free LLM inference resources accessible via API.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 10314,
+      "forks": 1000,
+      "currentPeriodStars": 1012,
+      "builtBy": [
+        {
+          "username": "cheahjs",
+          "avatar": "https://avatars.githubusercontent.com/u/818368?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        },
+        {
+          "username": "themacexpert",
+          "avatar": "https://avatars.githubusercontent.com/u/5834262?s=40&v=4"
+        },
+        {
+          "username": "justmarkham",
+          "avatar": "https://avatars.githubusercontent.com/u/6509492?s=40&v=4"
+        },
+        {
+          "username": "k-bose",
+          "avatar": "https://avatars.githubusercontent.com/u/131641639?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "该项目汇总了多个可免费调用的LLM推理API资源，解决了开发者因商业API成本高昂或访问受限而难以测试和集成大语言模型的痛点，为实验和小规模应用提供了便捷入口。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 2,
+      "author": "THUDM",
+      "repoName": "slime",
+      "url": "https://github.com/THUDM/slime",
+      "description": "slime is an LLM post-training framework for RL Scaling.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 3989,
+      "forks": 523,
+      "currentPeriodStars": 85,
+      "builtBy": [
+        {
+          "username": "zhuzilin",
+          "avatar": "https://avatars.githubusercontent.com/u/10428324?s=40&v=4"
+        },
+        {
+          "username": "fzyzcjy",
+          "avatar": "https://avatars.githubusercontent.com/u/5236035?s=40&v=4"
+        },
+        {
+          "username": "yitianlian",
+          "avatar": "https://avatars.githubusercontent.com/u/91449279?s=40&v=4"
+        },
+        {
+          "username": "lilei199908",
+          "avatar": "https://avatars.githubusercontent.com/u/77353389?s=40&v=4"
+        },
+        {
+          "username": "lancerts",
+          "avatar": "https://avatars.githubusercontent.com/u/7495155?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "THUDM/slime 是一个专为大语言模型设计的强化学习扩展后训练框架。它解决了传统RLHF方法在模型规模扩大时面临的计算效率低、训练不稳定等痛点，通过创新的算法优化，实现了对超大规模语言模型高效、稳定的强化学习微调。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 3,
+      "author": "karpathy",
+      "repoName": "nanochat",
+      "url": "https://github.com/karpathy/nanochat",
+      "description": "The best ChatGPT that $100 can buy.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 43168,
+      "forks": 5601,
+      "currentPeriodStars": 176,
+      "builtBy": [
+        {
+          "username": "karpathy",
+          "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4"
+        },
+        {
+          "username": "svlandeg",
+          "avatar": "https://avatars.githubusercontent.com/u/8796347?s=40&v=4"
+        },
+        {
+          "username": "lukestanley",
+          "avatar": "https://avatars.githubusercontent.com/u/306671?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "ericsilberstein",
+          "avatar": "https://avatars.githubusercontent.com/u/10590453?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 4,
+      "author": "K-Dense-AI",
+      "repoName": "claude-scientific-skills",
+      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "description": "A set of ready to use scientific skills for Claude",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 8606,
+      "forks": 1022,
+      "currentPeriodStars": 119,
+      "builtBy": [
+        {
+          "username": "TKassis",
+          "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4"
+        },
+        {
+          "username": "vin-bio",
+          "avatar": "https://avatars.githubusercontent.com/u/178814228?s=40&v=4"
+        },
+        {
+          "username": "OrionLi545",
+          "avatar": "https://avatars.githubusercontent.com/u/92694268?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "fedorov",
+          "avatar": "https://avatars.githubusercontent.com/u/313942?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 5,
+      "author": "coleam00",
+      "repoName": "context-engineering-intro",
+      "url": "https://github.com/coleam00/context-engineering-intro",
+      "description": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 12440,
+      "forks": 2618,
+      "currentPeriodStars": 33,
+      "builtBy": [
+        {
+          "username": "coleam00",
+          "avatar": "https://avatars.githubusercontent.com/u/47287758?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 6,
+      "author": "agiresearch",
+      "repoName": "AIOS",
+      "url": "https://github.com/agiresearch/AIOS",
+      "description": "AIOS: AI Agent Operating System",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 5076,
+      "forks": 686,
+      "currentPeriodStars": 15,
+      "builtBy": [
+        {
+          "username": "dongyuanjushi",
+          "avatar": "https://avatars.githubusercontent.com/u/48231234?s=40&v=4"
+        },
+        {
+          "username": "evison",
+          "avatar": "https://avatars.githubusercontent.com/u/10415541?s=40&v=4"
+        },
+        {
+          "username": "BRama10",
+          "avatar": "https://avatars.githubusercontent.com/u/81198936?s=40&v=4"
+        },
+        {
+          "username": "agiresearch",
+          "avatar": "https://avatars.githubusercontent.com/u/130198651?s=40&v=4"
+        },
+        {
+          "username": "XiangZhang-zx",
+          "avatar": "https://avatars.githubusercontent.com/u/129304623?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 7,
+      "author": "karpathy",
+      "repoName": "nanoGPT",
+      "url": "https://github.com/karpathy/nanoGPT",
+      "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 53080,
+      "forks": 8986,
+      "currentPeriodStars": 127,
+      "builtBy": [
+        {
+          "username": "karpathy",
+          "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4"
+        },
+        {
+          "username": "apivovarov",
+          "avatar": "https://avatars.githubusercontent.com/u/218087?s=40&v=4"
+        },
+        {
+          "username": "danielgross",
+          "avatar": "https://avatars.githubusercontent.com/u/279531?s=40&v=4"
+        },
+        {
+          "username": "otaviogood",
+          "avatar": "https://avatars.githubusercontent.com/u/189850?s=40&v=4"
+        },
+        {
+          "username": "lantiga",
+          "avatar": "https://avatars.githubusercontent.com/u/191033?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 8,
+      "author": "Free-TV",
+      "repoName": "IPTV",
+      "url": "https://github.com/Free-TV/IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 13769,
+      "forks": 2006,
+      "currentPeriodStars": 434,
+      "builtBy": [
+        {
+          "username": "KAMI911",
+          "avatar": "https://avatars.githubusercontent.com/u/5292264?s=40&v=4"
+        },
+        {
+          "username": "freetv332",
+          "avatar": "https://avatars.githubusercontent.com/u/82442641?s=40&v=4"
+        },
+        {
+          "username": "NezbednikSK",
+          "avatar": "https://avatars.githubusercontent.com/u/47603275?s=40&v=4"
+        },
+        {
+          "username": "TVKaista",
+          "avatar": "https://avatars.githubusercontent.com/u/103857112?s=40&v=4"
+        },
+        {
+          "username": "infid0",
+          "avatar": "https://avatars.githubusercontent.com/u/17656192?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 9,
+      "author": "github",
+      "repoName": "spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 69448,
+      "forks": 6006,
+      "currentPeriodStars": 256,
+      "builtBy": [
+        {
+          "username": "localden",
+          "avatar": "https://avatars.githubusercontent.com/u/53200638?s=40&v=4"
+        },
+        {
+          "username": "apps/copilot-pull-request-reviewer",
+          "avatar": "https://avatars.githubusercontent.com/in/946600?s=40&v=4"
+        },
+        {
+          "username": "tinesoft",
+          "avatar": "https://avatars.githubusercontent.com/u/4053092?s=40&v=4"
+        },
+        {
+          "username": "isdaniel",
+          "avatar": "https://avatars.githubusercontent.com/u/9159452?s=40&v=4"
+        },
+        {
+          "username": "ahmet-cetinkaya",
+          "avatar": "https://avatars.githubusercontent.com/u/53148314?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 10,
+      "author": "goauthentik",
+      "repoName": "authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 20101,
+      "forks": 1472,
+      "currentPeriodStars": 20,
+      "builtBy": [
+        {
+          "username": "BeryJu",
+          "avatar": "https://avatars.githubusercontent.com/u/1932513?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "apps/transifex-integration",
+          "avatar": "https://avatars.githubusercontent.com/in/18568?s=40&v=4"
+        },
+        {
+          "username": "rissson",
+          "avatar": "https://avatars.githubusercontent.com/u/18313093?s=40&v=4"
+        },
+        {
+          "username": "apps/authentik-automation",
+          "avatar": "https://avatars.githubusercontent.com/in/340695?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 11,
+      "author": "microsoft",
+      "repoName": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 86992,
+      "forks": 5063,
+      "currentPeriodStars": 89,
+      "builtBy": [
+        {
+          "username": "afourney",
+          "avatar": "https://avatars.githubusercontent.com/u/4017093?s=40&v=4"
+        },
+        {
+          "username": "gagb",
+          "avatar": "https://avatars.githubusercontent.com/u/13227607?s=40&v=4"
+        },
+        {
+          "username": "sugatoray",
+          "avatar": "https://avatars.githubusercontent.com/u/10201242?s=40&v=4"
+        },
+        {
+          "username": "PetrAPConsulting",
+          "avatar": "https://avatars.githubusercontent.com/u/173082609?s=40&v=4"
+        },
+        {
+          "username": "l-lumin",
+          "avatar": "https://avatars.githubusercontent.com/u/71011125?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 12,
+      "author": "bregman-arie",
+      "repoName": "devops-exercises",
+      "url": "https://github.com/bregman-arie/devops-exercises",
+      "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 81048,
+      "forks": 18579,
+      "currentPeriodStars": 57,
+      "builtBy": [
+        {
+          "username": "surister",
+          "avatar": "https://avatars.githubusercontent.com/u/37985796?s=40&v=4"
+        },
+        {
+          "username": "austinsonger",
+          "avatar": "https://avatars.githubusercontent.com/u/26654315?s=40&v=4"
+        },
+        {
+          "username": "bregman-arie",
+          "avatar": "https://avatars.githubusercontent.com/u/10349437?s=40&v=4"
+        },
+        {
+          "username": "knoxknot",
+          "avatar": "https://avatars.githubusercontent.com/u/23431146?s=40&v=4"
+        },
+        {
+          "username": "djeada",
+          "avatar": "https://avatars.githubusercontent.com/u/37275728?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 13,
+      "author": "unclecode",
+      "repoName": "crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 60037,
+      "forks": 6123,
+      "currentPeriodStars": 102,
+      "builtBy": [
+        {
+          "username": "unclecode",
+          "avatar": "https://avatars.githubusercontent.com/u/12494079?s=40&v=4"
+        },
+        {
+          "username": "ntohidi",
+          "avatar": "https://avatars.githubusercontent.com/u/17140097?s=40&v=4"
+        },
+        {
+          "username": "aravindkarnam",
+          "avatar": "https://avatars.githubusercontent.com/u/15815124?s=40&v=4"
+        },
+        {
+          "username": "Ahmed-Tawfik94",
+          "avatar": "https://avatars.githubusercontent.com/u/106467151?s=40&v=4"
+        },
+        {
+          "username": "SohamKukreti",
+          "avatar": "https://avatars.githubusercontent.com/u/114597712?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 14,
       "author": "google",
       "repoName": "langextract",
       "url": "https://github.com/google/langextract",
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 31720,
-      "forks": 2117,
+      "stars": 31773,
+      "forks": 2115,
       "currentPeriodStars": 1122,
       "builtBy": [
         {
@@ -42,558 +491,59 @@
       }
     },
     {
-      "rank": 2,
-      "author": "Shubhamsaboo",
-      "repoName": "awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 94534,
-      "forks": 13702,
-      "currentPeriodStars": 287,
-      "builtBy": [
-        {
-          "username": "Shubhamsaboo",
-          "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&v=4"
-        },
-        {
-          "username": "Madhuvod",
-          "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&v=4"
-        },
-        {
-          "username": "libw0430",
-          "avatar": "https://avatars.githubusercontent.com/u/102198332?s=40&v=4"
-        },
-        {
-          "username": "awesomekoder",
-          "avatar": "https://avatars.githubusercontent.com/u/258367783?s=40&v=4"
-        },
-        {
-          "username": "AndrewHoh",
-          "avatar": "https://avatars.githubusercontent.com/u/774516?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 3,
-      "author": "unslothai",
-      "repoName": "unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 52139,
-      "forks": 4313,
-      "currentPeriodStars": 81,
-      "builtBy": [
-        {
-          "username": "danielhanchen",
-          "avatar": "https://avatars.githubusercontent.com/u/23090290?s=40&v=4"
-        },
-        {
-          "username": "shimmyshimmer",
-          "avatar": "https://avatars.githubusercontent.com/u/107991372?s=40&v=4"
-        },
-        {
-          "username": "apps/pre-commit-ci",
-          "avatar": "https://avatars.githubusercontent.com/in/68672?s=40&v=4"
-        },
-        {
-          "username": "Datta0",
-          "avatar": "https://avatars.githubusercontent.com/u/39181234?s=40&v=4"
-        },
-        {
-          "username": "jeromeku",
-          "avatar": "https://avatars.githubusercontent.com/u/2455711?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "Unsloth 是一个专注于大语言模型高效微调与强化学习的 Python 库。其核心在于通过优化算法显著提升训练速度，可将 OpenAI GPT-OSS、Llama 等模型的训练速度提升 2 倍，同时减少高达 70% 的 VRAM 占用，有效解决了大模型训练资源消耗巨大的痛点。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 4,
-      "author": "Jeffallan",
-      "repoName": "claude-skills",
-      "url": "https://github.com/Jeffallan/claude-skills",
-      "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 1956,
-      "forks": 132,
-      "currentPeriodStars": 278,
-      "builtBy": [
-        {
-          "username": "Jeffallan",
-          "avatar": "https://avatars.githubusercontent.com/u/23423962?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "liyin2015",
-          "avatar": "https://avatars.githubusercontent.com/u/14322677?s=40&v=4"
-        },
-        {
-          "username": "salmanmkc",
-          "avatar": "https://avatars.githubusercontent.com/u/32169182?s=40&v=4"
-        },
-        {
-          "username": "thomassamoul",
-          "avatar": "https://avatars.githubusercontent.com/u/50757446?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 5,
-      "author": "cheahjs",
-      "repoName": "free-llm-api-resources",
-      "url": "https://github.com/cheahjs/free-llm-api-resources",
-      "description": "A list of free LLM inference resources accessible via API.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 10263,
-      "forks": 995,
-      "currentPeriodStars": 1012,
-      "builtBy": [
-        {
-          "username": "cheahjs",
-          "avatar": "https://avatars.githubusercontent.com/u/818368?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "themacexpert",
-          "avatar": "https://avatars.githubusercontent.com/u/5834262?s=40&v=4"
-        },
-        {
-          "username": "justmarkham",
-          "avatar": "https://avatars.githubusercontent.com/u/6509492?s=40&v=4"
-        },
-        {
-          "username": "k-bose",
-          "avatar": "https://avatars.githubusercontent.com/u/131641639?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 6,
-      "author": "hsliuping",
-      "repoName": "TradingAgents-CN",
-      "url": "https://github.com/hsliuping/TradingAgents-CN",
-      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 17176,
-      "forks": 3703,
-      "currentPeriodStars": 159,
-      "builtBy": [
-        {
-          "username": "hsliuping",
-          "avatar": "https://avatars.githubusercontent.com/u/128790537?s=40&v=4"
-        },
-        {
-          "username": "Yijia-Xiao",
-          "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4"
-        },
-        {
-          "username": "EdwardoSunny",
-          "avatar": "https://avatars.githubusercontent.com/u/68405458?s=40&v=4"
-        },
-        {
-          "username": "ZeroAct",
-          "avatar": "https://avatars.githubusercontent.com/u/46982469?s=40&v=4"
-        },
-        {
-          "username": "BG8CFB",
-          "avatar": "https://avatars.githubusercontent.com/u/50827102?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 7,
-      "author": "Free-TV",
-      "repoName": "IPTV",
-      "url": "https://github.com/Free-TV/IPTV",
-      "description": "M3U Playlist for free TV channels",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 13768,
-      "forks": 2006,
-      "currentPeriodStars": 434,
-      "builtBy": [
-        {
-          "username": "KAMI911",
-          "avatar": "https://avatars.githubusercontent.com/u/5292264?s=40&v=4"
-        },
-        {
-          "username": "freetv332",
-          "avatar": "https://avatars.githubusercontent.com/u/82442641?s=40&v=4"
-        },
-        {
-          "username": "NezbednikSK",
-          "avatar": "https://avatars.githubusercontent.com/u/47603275?s=40&v=4"
-        },
-        {
-          "username": "TVKaista",
-          "avatar": "https://avatars.githubusercontent.com/u/103857112?s=40&v=4"
-        },
-        {
-          "username": "infid0",
-          "avatar": "https://avatars.githubusercontent.com/u/17656192?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 8,
-      "author": "datawhalechina",
-      "repoName": "hello-agents",
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 20794,
-      "forks": 2376,
-      "currentPeriodStars": 162,
-      "builtBy": [
-        {
-          "username": "jjyaoao",
-          "avatar": "https://avatars.githubusercontent.com/u/88936287?s=40&v=4"
-        },
-        {
-          "username": "HeteroCat",
-          "avatar": "https://avatars.githubusercontent.com/u/111065724?s=40&v=4"
-        },
-        {
-          "username": "fengju0213",
-          "avatar": "https://avatars.githubusercontent.com/u/168447269?s=40&v=4"
-        },
-        {
-          "username": "Tasselszcx",
-          "avatar": "https://avatars.githubusercontent.com/u/93756983?s=40&v=4"
-        },
-        {
-          "username": "Tsumugii24",
-          "avatar": "https://avatars.githubusercontent.com/u/124921491?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 9,
-      "author": "Tencent",
-      "repoName": "AngelSlim",
-      "url": "https://github.com/Tencent/AngelSlim",
-      "description": "Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 431,
-      "forks": 50,
-      "currentPeriodStars": 15,
-      "builtBy": [
-        {
-          "username": "yghstill",
-          "avatar": "https://avatars.githubusercontent.com/u/15628872?s=40&v=4"
-        },
-        {
-          "username": "RuBing-Yang",
-          "avatar": "https://avatars.githubusercontent.com/u/65957422?s=40&v=4"
-        },
-        {
-          "username": "liusong1222",
-          "avatar": "https://avatars.githubusercontent.com/u/163373464?s=40&v=4"
-        },
-        {
-          "username": "irisliu10",
-          "avatar": "https://avatars.githubusercontent.com/u/38269816?s=40&v=4"
-        },
-        {
-          "username": "StromNoNo",
-          "avatar": "https://avatars.githubusercontent.com/u/60839046?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 10,
-      "author": "bregman-arie",
-      "repoName": "devops-exercises",
-      "url": "https://github.com/bregman-arie/devops-exercises",
-      "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 81045,
-      "forks": 18575,
-      "currentPeriodStars": 57,
-      "builtBy": [
-        {
-          "username": "surister",
-          "avatar": "https://avatars.githubusercontent.com/u/37985796?s=40&v=4"
-        },
-        {
-          "username": "austinsonger",
-          "avatar": "https://avatars.githubusercontent.com/u/26654315?s=40&v=4"
-        },
-        {
-          "username": "bregman-arie",
-          "avatar": "https://avatars.githubusercontent.com/u/10349437?s=40&v=4"
-        },
-        {
-          "username": "knoxknot",
-          "avatar": "https://avatars.githubusercontent.com/u/23431146?s=40&v=4"
-        },
-        {
-          "username": "djeada",
-          "avatar": "https://avatars.githubusercontent.com/u/37275728?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 11,
-      "author": "autogluon",
-      "repoName": "autogluon",
-      "url": "https://github.com/autogluon/autogluon",
-      "description": "Fast and Accurate ML in 3 Lines of Code",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 9940,
-      "forks": 1117,
-      "currentPeriodStars": 20,
-      "builtBy": [
-        {
-          "username": "Innixma",
-          "avatar": "https://avatars.githubusercontent.com/u/16392542?s=40&v=4"
-        },
-        {
-          "username": "shchur",
-          "avatar": "https://avatars.githubusercontent.com/u/6944857?s=40&v=4"
-        },
-        {
-          "username": "zhiqiangdon",
-          "avatar": "https://avatars.githubusercontent.com/u/25371851?s=40&v=4"
-        },
-        {
-          "username": "yinweisu",
-          "avatar": "https://avatars.githubusercontent.com/u/21029745?s=40&v=4"
-        },
-        {
-          "username": "gradientsky",
-          "avatar": "https://avatars.githubusercontent.com/u/10080307?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 12,
-      "author": "numpy",
-      "repoName": "numpy",
-      "url": "https://github.com/numpy/numpy",
-      "description": "The fundamental package for scientific computing with Python.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 31435,
-      "forks": 12049,
-      "currentPeriodStars": 7,
-      "builtBy": [
-        {
-          "username": "charris",
-          "avatar": "https://avatars.githubusercontent.com/u/77272?s=40&v=4"
-        },
-        {
-          "username": "seberg",
-          "avatar": "https://avatars.githubusercontent.com/u/61977?s=40&v=4"
-        },
-        {
-          "username": "mattip",
-          "avatar": "https://avatars.githubusercontent.com/u/823911?s=40&v=4"
-        },
-        {
-          "username": "teoliphant",
-          "avatar": "https://avatars.githubusercontent.com/u/254880?s=40&v=4"
-        },
-        {
-          "username": "cournape",
-          "avatar": "https://avatars.githubusercontent.com/u/25111?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 13,
-      "author": "Azure",
-      "repoName": "Azure-Sentinel",
-      "url": "https://github.com/Azure/Azure-Sentinel",
-      "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 5474,
-      "forks": 3517,
-      "currentPeriodStars": 5,
-      "builtBy": [
-        {
-          "username": "v-atulyadav",
-          "avatar": "https://avatars.githubusercontent.com/u/104008048?s=40&v=4"
-        },
-        {
-          "username": "v-prasadboke",
-          "avatar": "https://avatars.githubusercontent.com/u/117061676?s=40&v=4"
-        },
-        {
-          "username": "v-sabiraj",
-          "avatar": "https://avatars.githubusercontent.com/u/94349919?s=40&v=4"
-        },
-        {
-          "username": "oshezaf",
-          "avatar": "https://avatars.githubusercontent.com/u/39997089?s=40&v=4"
-        },
-        {
-          "username": "shainw",
-          "avatar": "https://avatars.githubusercontent.com/u/45466083?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 14,
-      "author": "bramstroker",
-      "repoName": "homeassistant-powercalc",
-      "url": "https://github.com/bramstroker/homeassistant-powercalc",
-      "description": "Custom component to calculate estimated power consumption of lights and other appliances",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 1387,
-      "forks": 363,
-      "currentPeriodStars": 3,
-      "builtBy": [
-        {
-          "username": "bramstroker",
-          "avatar": "https://avatars.githubusercontent.com/u/2345875?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "apps/pre-commit-ci",
-          "avatar": "https://avatars.githubusercontent.com/in/68672?s=40&v=4"
-        },
-        {
-          "username": "apps/renovate",
-          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
-        },
-        {
-          "username": "crowdin-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/58779643?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
       "rank": 15,
-      "author": "stanfordnlp",
-      "repoName": "dspy",
-      "url": "https://github.com/stanfordnlp/dspy",
-      "description": "DSPy: The framework for programming—not prompting—language models",
+      "author": "element-hq",
+      "repoName": "synapse",
+      "url": "https://github.com/element-hq/synapse",
+      "description": "Synapse: Matrix homeserver written in Python/Twisted + Rust",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32179,
-      "forks": 2627,
-      "currentPeriodStars": 30,
+      "stars": 3575,
+      "forks": 461,
+      "currentPeriodStars": 23,
       "builtBy": [
         {
-          "username": "okhat",
-          "avatar": "https://avatars.githubusercontent.com/u/963532?s=40&v=4"
+          "username": "erikjohnston",
+          "avatar": "https://avatars.githubusercontent.com/u/8428120?s=40&v=4"
         },
         {
-          "username": "arnavsinghvi11",
-          "avatar": "https://avatars.githubusercontent.com/u/54859892?s=40&v=4"
+          "username": "richvdh",
+          "avatar": "https://avatars.githubusercontent.com/u/1389908?s=40&v=4"
         },
         {
-          "username": "chenmoneygithub",
-          "avatar": "https://avatars.githubusercontent.com/u/22925031?s=40&v=4"
+          "username": "anoadragon453",
+          "avatar": "https://avatars.githubusercontent.com/u/1342360?s=40&v=4"
         },
         {
-          "username": "krypticmouse",
-          "avatar": "https://avatars.githubusercontent.com/u/43719685?s=40&v=4"
+          "username": "clokep",
+          "avatar": "https://avatars.githubusercontent.com/u/517124?s=40&v=4"
         },
         {
-          "username": "TomeHirata",
-          "avatar": "https://avatars.githubusercontent.com/u/33407409?s=40&v=4"
+          "username": "NegativeMjark",
+          "avatar": "https://avatars.githubusercontent.com/u/904009?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 16,
-      "author": "OpenBB-finance",
-      "repoName": "OpenBB",
-      "url": "https://github.com/OpenBB-finance/OpenBB",
-      "description": "Financial data platform for analysts, quants and AI agents.",
+      "author": "jamwithai",
+      "repoName": "production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 60203,
-      "forks": 5883,
-      "currentPeriodStars": 75,
+      "stars": 2386,
+      "forks": 694,
+      "currentPeriodStars": 16,
       "builtBy": [
         {
-          "username": "jmaslek",
-          "avatar": "https://avatars.githubusercontent.com/u/18151143?s=40&v=4"
+          "username": "jamwithai",
+          "avatar": "https://avatars.githubusercontent.com/u/186450365?s=40&v=4"
         },
         {
-          "username": "deeleeramone",
-          "avatar": "https://avatars.githubusercontent.com/u/85772166?s=40&v=4"
-        },
-        {
-          "username": "colin99d",
-          "avatar": "https://avatars.githubusercontent.com/u/72827203?s=40&v=4"
-        },
-        {
-          "username": "DidierRLopes",
-          "avatar": "https://avatars.githubusercontent.com/u/25267873?s=40&v=4"
-        },
-        {
-          "username": "montezdesousa",
-          "avatar": "https://avatars.githubusercontent.com/u/79287829?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 17,
-      "author": "coleam00",
-      "repoName": "context-engineering-intro",
-      "url": "https://github.com/coleam00/context-engineering-intro",
-      "description": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 12442,
-      "forks": 2619,
-      "currentPeriodStars": 33,
-      "builtBy": [
-        {
-          "username": "coleam00",
-          "avatar": "https://avatars.githubusercontent.com/u/47287758?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+          "username": "shantanu156",
+          "avatar": "https://avatars.githubusercontent.com/u/62331655?s=40&v=4"
         }
       ],
       "aiSummary": null
