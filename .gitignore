@@ -3,3 +3,7 @@ node_modules/
 *.log
 .idea/
 .env
+
+# SQLite temp files
+*.db-wal
+*.db-shm

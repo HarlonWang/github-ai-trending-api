@@ -34,10 +34,10 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # 检查是否有文件变更
-          if [[ -n $(git status --porcelain api/ archives/) ]]; then
-            git add api/ archives/
-            git commit -m "chore(data): update trending data $(date +'%Y-%m-%d')"
+          # 检查是否有文件变更 (包括 data/ 目录下的数据库)
+          if [[ -n $(git status --porcelain api/ data/) ]]; then
+            git add api/ data/
+            git commit -m "chore(data): update trending data and db $(date +'%Y-%m-%d')"
             git push
           else
             echo "No changes to commit."

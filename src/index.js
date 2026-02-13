@@ -2,9 +2,11 @@ import { LANGUAGES, PERIODS } from './consts.js';
 import { fetchTrending } from './scraper.js';
 import { saveTrendingData } from './storage.js';
 import { injectAISummaries } from './ai/index.js';
+import { initDB } from './db.js';
 
 async function main() {
-    console.log('Starting GitHub Trending Crawler...');
+    console.log('Starting GitHub Trending Crawler with SQLite...');
+    initDB();
     const startTime = Date.now();
 
     // 遍历 PERIODS 与 LANGUAGES

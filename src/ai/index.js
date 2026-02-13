@@ -1,6 +1,7 @@
 import { AI_CONFIG } from '../consts.js';
 import * as gemini from './providers/gemini.js';
 import * as deepseek from './providers/deepseek.js';
+import { getCachedAISummary, saveAISummary } from '../db.js';
 
 const providers = { gemini, deepseek };
 
@@ -29,8 +30,20 @@ async function callProvider(providerName, prompt) {
  * 为单个仓库生成总结（支持多级兜底）
  */
 async function getSummaryWithFallback(repo) {
+  const fullName = `${repo.author}/${repo.repoName}`;
+
+  // 1. 检查缓存
+  const cached = getCachedAISummary(fullName);
+  if (cached) {
+    console.log(`[AI] Cache Hit: ${fullName}`);
+    return {
+      content: cached.content,
+      source: `cache(${cached.provider})`
+    };
+  }
+
   const prompt = AI_CONFIG.promptTemplate
-    .replace('{{name}}', `${repo.author}/${repo.repoName}`)
+    .replace('{{name}}', fullName)
     .replace('{{lang}}', repo.language || 'Unknown')
     .replace('{{desc}}', repo.description || 'No description');
 
@@ -44,8 +57,12 @@ async function getSummaryWithFallback(repo) {
     try {
       const content = await callProvider(providerName, prompt);
       if (content) {
+        const trimmedContent = content.trim();
+        // 2. 存入缓存
+        saveAISummary(fullName, trimmedContent, providerName);
+        
         return {
-          content: content.trim(),
+          content: trimmedContent,
           source: providerName
         };
       }
