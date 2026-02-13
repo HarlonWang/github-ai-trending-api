@@ -1,6 +1,6 @@
 {
   "count": 20,
-  "captured_at": "2026-02-13 07:26:01",
+  "captured_at": "2026-02-13 08:59:16",
   "data": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 762,
+      "stars": 779,
       "forks": 41,
       "currentPeriodStars": 109,
       "builtBy": [
@@ -45,8 +45,8 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2641,
-      "forks": 206,
+      "stars": 2643,
+      "forks": 207,
       "currentPeriodStars": 41,
       "builtBy": [
         {
@@ -76,8 +76,8 @@
       "description": "Mumble is an open-source, low-latency, high quality voice chat software.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7653,
-      "forks": 1273,
+      "stars": 7658,
+      "forks": 1274,
       "currentPeriodStars": 16,
       "builtBy": [
         {
@@ -111,7 +111,7 @@
       "description": "🦊 Anti-detect browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5302,
+      "stars": 5307,
       "forks": 489,
       "currentPeriodStars": 56,
       "builtBy": [
@@ -146,7 +146,7 @@
       "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14196,
+      "stars": 14197,
       "forks": 2198,
       "currentPeriodStars": 12,
       "builtBy": [
@@ -181,7 +181,7 @@
       "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12051,
+      "stars": 12052,
       "forks": 4433,
       "currentPeriodStars": 5,
       "builtBy": [
@@ -216,7 +216,7 @@
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19517,
+      "stars": 19524,
       "forks": 2482,
       "currentPeriodStars": 19,
       "builtBy": [
@@ -251,7 +251,7 @@
       "description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9498,
+      "stars": 9499,
       "forks": 1720,
       "currentPeriodStars": 3,
       "builtBy": [
@@ -286,7 +286,7 @@
       "description": "Seamless operability between C++11 and Python",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 17721,
+      "stars": 17723,
       "forks": 2268,
       "currentPeriodStars": 7,
       "builtBy": [
@@ -357,7 +357,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 433,
-      "forks": 342,
+      "forks": 341,
       "currentPeriodStars": 0,
       "builtBy": [
         {
@@ -453,7 +453,7 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9970,
+      "stars": 9971,
       "forks": 701,
       "currentPeriodStars": 19,
       "builtBy": [
@@ -523,7 +523,7 @@
       "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 45840,
+      "stars": 45841,
       "forks": 8072,
       "currentPeriodStars": 22,
       "builtBy": [
@@ -593,7 +593,7 @@
       "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 20182,
+      "stars": 20184,
       "forks": 3193,
       "currentPeriodStars": 4,
       "builtBy": [
@@ -628,7 +628,7 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29818,
+      "stars": 29819,
       "forks": 6263,
       "currentPeriodStars": 10,
       "builtBy": [

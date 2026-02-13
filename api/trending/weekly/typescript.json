@@ -1,6 +1,6 @@
 {
   "count": 14,
-  "captured_at": "2026-02-13 07:26:44",
+  "captured_at": "2026-02-13 09:00:07",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21328,
-      "forks": 2153,
+      "stars": 21358,
+      "forks": 2158,
       "currentPeriodStars": 16805,
       "builtBy": [
         {
@@ -45,7 +45,7 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14928,
+      "stars": 14941,
       "forks": 1809,
       "currentPeriodStars": 4197,
       "builtBy": [
@@ -80,8 +80,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11381,
-      "forks": 1140,
+      "stars": 11417,
+      "forks": 1144,
       "currentPeriodStars": 4215,
       "builtBy": [
         {
@@ -115,8 +115,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 27688,
-      "forks": 1858,
+      "stars": 27709,
+      "forks": 1859,
       "currentPeriodStars": 4200,
       "builtBy": [
         {
@@ -150,7 +150,7 @@
       "description": "一款提示词优化器，助力于编写高质量的提示词",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 20828,
+      "stars": 20843,
       "forks": 2529,
       "currentPeriodStars": 1536,
       "builtBy": [
@@ -185,8 +185,8 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8206,
-      "forks": 436,
+      "stars": 8221,
+      "forks": 437,
       "currentPeriodStars": 1632,
       "builtBy": [
         {
@@ -220,7 +220,7 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8721,
+      "stars": 8729,
       "forks": 679,
       "currentPeriodStars": 1448,
       "builtBy": [
@@ -255,7 +255,7 @@
       "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24555,
+      "stars": 24556,
       "forks": 2338,
       "currentPeriodStars": 255,
       "builtBy": [
@@ -290,7 +290,7 @@
       "description": "Copilot Chat extension for VS Code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9451,
+      "stars": 9453,
       "forks": 1644,
       "currentPeriodStars": 67,
       "builtBy": [
@@ -326,7 +326,7 @@
       "language": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 14389,
-      "forks": 1541,
+      "forks": 1540,
       "currentPeriodStars": 271,
       "builtBy": [
         {
@@ -360,7 +360,7 @@
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 27938,
+      "stars": 27943,
       "forks": 2729,
       "currentPeriodStars": 1324,
       "builtBy": [
@@ -430,7 +430,7 @@
       "description": "Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :)",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9203,
+      "stars": 9204,
       "forks": 662,
       "currentPeriodStars": 164,
       "builtBy": [
@@ -465,8 +465,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15526,
-      "forks": 1179,
+      "stars": 15571,
+      "forks": 1180,
       "currentPeriodStars": 2976,
       "builtBy": [
         {

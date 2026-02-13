@@ -1,6 +1,6 @@
 {
   "count": 18,
-  "captured_at": "2026-02-13 07:26:41",
+  "captured_at": "2026-02-13 09:00:04",
   "data": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19262,
+      "stars": 19267,
       "forks": 835,
       "currentPeriodStars": 1678,
       "builtBy": [
@@ -107,7 +107,7 @@
       "description": "⚡ Better `pre-commit`, re-engineered in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6142,
+      "stars": 6147,
       "forks": 165,
       "currentPeriodStars": 682,
       "builtBy": [
@@ -142,8 +142,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60206,
-      "forks": 7926,
+      "stars": 60214,
+      "forks": 7927,
       "currentPeriodStars": 1129,
       "builtBy": [
         {
@@ -177,7 +177,7 @@
       "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8322,
+      "stars": 8323,
       "forks": 576,
       "currentPeriodStars": 547,
       "builtBy": [
@@ -282,7 +282,7 @@
       "description": "Build fast web applications with Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 20024,
+      "stars": 20025,
       "forks": 837,
       "currentPeriodStars": 125,
       "builtBy": [
@@ -317,8 +317,8 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 54924,
-      "forks": 2549,
+      "stars": 54931,
+      "forks": 2550,
       "currentPeriodStars": 409,
       "builtBy": [
         {
@@ -457,8 +457,8 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9809,
-      "forks": 874,
+      "stars": 9810,
+      "forks": 875,
       "currentPeriodStars": 175,
       "builtBy": [
         {
@@ -493,7 +493,7 @@
       "language": "Rust",
       "languageColor": "#dea584",
       "stars": 29000,
-      "forks": 960,
+      "forks": 961,
       "currentPeriodStars": 319,
       "builtBy": [
         {
@@ -562,7 +562,7 @@
       "description": "The Magic Mask for Android",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 58678,
+      "stars": 58680,
       "forks": 16720,
       "currentPeriodStars": 161,
       "builtBy": [
@@ -597,8 +597,8 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 75249,
-      "forks": 6929,
+      "stars": 75256,
+      "forks": 6931,
       "currentPeriodStars": 479,
       "builtBy": [
         {

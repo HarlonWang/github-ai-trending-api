@@ -1,6 +1,6 @@
 {
   "count": 19,
-  "captured_at": "2026-02-13 07:27:57",
+  "captured_at": "2026-02-13 09:01:26",
   "data": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "description": "A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6638,
+      "stars": 6637,
       "forks": 250,
       "currentPeriodStars": 3115,
       "builtBy": [
@@ -80,7 +80,7 @@
       "description": "Bringing Astrid Tasks back from the dead",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 4909,
+      "stars": 4910,
       "forks": 600,
       "currentPeriodStars": 160,
       "builtBy": [
@@ -115,8 +115,8 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 4718,
-      "forks": 673,
+      "stars": 4716,
+      "forks": 674,
       "currentPeriodStars": 419,
       "builtBy": [
         {
@@ -150,7 +150,7 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 50937,
+      "stars": 50942,
       "forks": 6926,
       "currentPeriodStars": 1633,
       "builtBy": [
@@ -208,7 +208,7 @@
       "description": "Painless E2E Automation for Mobile and Web",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 10704,
+      "stars": 10707,
       "forks": 612,
       "currentPeriodStars": 692,
       "builtBy": [
@@ -279,7 +279,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": 8037,
-      "forks": 592,
+      "forks": 593,
       "currentPeriodStars": 174,
       "builtBy": [
         {
@@ -313,7 +313,7 @@
       "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 24561,
+      "stars": 24558,
       "forks": 1054,
       "currentPeriodStars": 747,
       "builtBy": [
@@ -383,7 +383,7 @@
       "description": "Lightweight unofficial Steam client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2567,
+      "stars": 2568,
       "forks": 100,
       "currentPeriodStars": 524,
       "builtBy": [
@@ -453,7 +453,7 @@
       "description": "More Expressive InstallerX !",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3614,
+      "stars": 3615,
       "forks": 137,
       "currentPeriodStars": 492,
       "builtBy": [
@@ -558,7 +558,7 @@
       "description": "The cutest Material 3 Expressive music streaming client for Android, built for performance and extensibility.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 621,
+      "stars": 623,
       "forks": 20,
       "currentPeriodStars": 269,
       "builtBy": [
@@ -628,7 +628,7 @@
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 21811,
+      "stars": 21812,
       "forks": 2006,
       "currentPeriodStars": 1242,
       "builtBy": [

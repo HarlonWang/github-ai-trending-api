@@ -1,6 +1,6 @@
 {
   "count": 20,
-  "captured_at": "2026-02-13 07:25:51",
+  "captured_at": "2026-02-13 08:59:08",
   "data": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "description": "A simple, decentralized mesh VPN with WireGuard support.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9954,
+      "stars": 9956,
       "forks": 939,
       "currentPeriodStars": 89,
       "builtBy": [
@@ -80,7 +80,7 @@
       "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31059,
+      "stars": 31061,
       "forks": 1122,
       "currentPeriodStars": 14,
       "builtBy": [
@@ -115,7 +115,7 @@
       "description": "Fast file explorer written with Tauri and React.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1163,
+      "stars": 1165,
       "forks": 91,
       "currentPeriodStars": 9,
       "builtBy": [
@@ -185,7 +185,7 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30390,
+      "stars": 30391,
       "forks": 2759,
       "currentPeriodStars": 84,
       "builtBy": [
@@ -220,7 +220,7 @@
       "description": "Official successor to conduwuit",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1353,
+      "stars": 1356,
       "forks": 90,
       "currentPeriodStars": 32,
       "builtBy": [
@@ -255,8 +255,8 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 54924,
-      "forks": 2549,
+      "stars": 54930,
+      "forks": 2550,
       "currentPeriodStars": 64,
       "builtBy": [
         {
@@ -290,7 +290,7 @@
       "description": "Graph-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1693,
+      "stars": 1694,
       "forks": 380,
       "currentPeriodStars": 2,
       "builtBy": [
@@ -325,7 +325,7 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19262,
+      "stars": 19267,
       "forks": 835,
       "currentPeriodStars": 72,
       "builtBy": [
@@ -465,8 +465,8 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 107404,
-      "forks": 15967,
+      "stars": 107410,
+      "forks": 15968,
       "currentPeriodStars": 68,
       "builtBy": [
         {
@@ -570,8 +570,8 @@
       "description": "A high-performance observability data pipeline.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 21321,
-      "forks": 2007,
+      "stars": 21322,
+      "forks": 2008,
       "currentPeriodStars": 6,
       "builtBy": [
         {
@@ -605,8 +605,8 @@
       "description": "📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19494,
-      "forks": 1955,
+      "stars": 19495,
+      "forks": 1956,
       "currentPeriodStars": 41,
       "builtBy": [
         {

@@ -1,6 +1,6 @@
 {
   "count": 13,
-  "captured_at": "2026-02-13 07:25:55",
+  "captured_at": "2026-02-13 08:59:13",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9212,
-      "forks": 441,
+      "stars": 9251,
+      "forks": 443,
       "currentPeriodStars": 300,
       "builtBy": [
         {
@@ -48,8 +48,8 @@
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 7681,
-      "forks": 1100,
+      "stars": 7723,
+      "forks": 1105,
       "currentPeriodStars": 351,
       "builtBy": [
         {
@@ -86,7 +86,7 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24499,
+      "stars": 24527,
       "forks": 1459,
       "currentPeriodStars": 436,
       "builtBy": [
@@ -124,8 +124,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15526,
-      "forks": 1179,
+      "stars": 15571,
+      "forks": 1180,
       "currentPeriodStars": 271,
       "builtBy": [
         {
@@ -162,8 +162,8 @@
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 5300,
-      "forks": 421,
+      "stars": 5337,
+      "forks": 425,
       "currentPeriodStars": 191,
       "builtBy": [
         {
@@ -200,7 +200,7 @@
       "description": "Yet another matrix client",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 2916,
+      "stars": 2925,
       "forks": 392,
       "currentPeriodStars": 38,
       "builtBy": [
@@ -238,7 +238,7 @@
       "description": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 82080,
+      "stars": 82102,
       "forks": 6018,
       "currentPeriodStars": 397,
       "builtBy": [
@@ -273,7 +273,7 @@
       "description": "Infisical is the open-source platform for secrets, certificates, and privileged access management.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24897,
+      "stars": 24901,
       "forks": 1705,
       "currentPeriodStars": 41,
       "builtBy": [
@@ -308,7 +308,7 @@
       "description": "Access Google Workspace when using Gemini CLI",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 336,
+      "stars": 337,
       "forks": 44,
       "currentPeriodStars": 8,
       "builtBy": [
@@ -343,7 +343,7 @@
       "description": "Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1963,
+      "stars": 1965,
       "forks": 276,
       "currentPeriodStars": 43,
       "builtBy": [
@@ -379,7 +379,7 @@
       "language": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 12610,
-      "forks": 2445,
+      "forks": 2446,
       "currentPeriodStars": 19,
       "builtBy": [
         {
@@ -413,7 +413,7 @@
       "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21057,
+      "stars": 21059,
       "forks": 1539,
       "currentPeriodStars": 57,
       "builtBy": [
@@ -448,8 +448,8 @@
       "description": "Building a modern alternative to Salesforce, powered by the community.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 39667,
-      "forks": 5156,
+      "stars": 39674,
+      "forks": 5157,
       "currentPeriodStars": 39,
       "builtBy": [
         {

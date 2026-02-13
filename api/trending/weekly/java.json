@@ -1,6 +1,6 @@
 {
   "count": 22,
-  "captured_at": "2026-02-13 07:26:32",
+  "captured_at": "2026-02-13 08:59:52",
   "data": [
     {
       "rank": 1,
@@ -45,8 +45,8 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 30006,
-      "forks": 6831,
+      "stars": 30022,
+      "forks": 6834,
       "currentPeriodStars": 302,
       "builtBy": [
         {
@@ -76,7 +76,7 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22064,
+      "stars": 22067,
       "forks": 5406,
       "currentPeriodStars": 385,
       "builtBy": [
@@ -111,7 +111,7 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 64327,
+      "stars": 64329,
       "forks": 7137,
       "currentPeriodStars": 238,
       "builtBy": [
@@ -146,8 +146,8 @@
       "description": "Example Fabric mod",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 2119,
-      "forks": 1233,
+      "stars": 2120,
+      "forks": 1234,
       "currentPeriodStars": 18,
       "builtBy": [
         {
@@ -243,7 +243,7 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22022,
+      "stars": 22026,
       "forks": 13083,
       "currentPeriodStars": 183,
       "builtBy": [
@@ -384,7 +384,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 12202,
-      "forks": 2553,
+      "forks": 2554,
       "currentPeriodStars": 79,
       "builtBy": [
         {
@@ -418,7 +418,7 @@
       "description": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25127,
+      "stars": 25128,
       "forks": 2732,
       "currentPeriodStars": 78,
       "builtBy": [
@@ -453,8 +453,8 @@
       "description": "Mirror of Apache Kafka",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 31879,
-      "forks": 14956,
+      "stars": 31880,
+      "forks": 14957,
       "currentPeriodStars": 51,
       "builtBy": [
         {
@@ -523,7 +523,7 @@
       "description": "Termux add-on app which exposes device functionality as API to command line programs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 3445,
+      "stars": 3446,
       "forks": 712,
       "currentPeriodStars": 37,
       "builtBy": [
@@ -593,8 +593,8 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32806,
-      "forks": 8046,
+      "stars": 32809,
+      "forks": 8047,
       "currentPeriodStars": 154,
       "builtBy": [
         {
@@ -628,7 +628,7 @@
       "description": "Agentic AI Framework for Java Developers",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8393,
+      "stars": 8396,
       "forks": 1850,
       "currentPeriodStars": 103,
       "builtBy": [

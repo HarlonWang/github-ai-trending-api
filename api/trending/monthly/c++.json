@@ -1,6 +1,6 @@
 {
   "count": 24,
-  "captured_at": "2026-02-13 07:27:45",
+  "captured_at": "2026-02-13 09:01:09",
   "data": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "description": "MLX: An array framework for Apple silicon",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 23915,
+      "stars": 23917,
       "forks": 1509,
       "currentPeriodStars": 509,
       "builtBy": [
@@ -45,7 +45,7 @@
       "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18652,
+      "stars": 18654,
       "forks": 1652,
       "currentPeriodStars": 1814,
       "builtBy": [
@@ -150,7 +150,7 @@
       "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12483,
+      "stars": 12484,
       "forks": 984,
       "currentPeriodStars": 534,
       "builtBy": [
@@ -186,7 +186,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 46704,
-      "forks": 5203,
+      "forks": 5204,
       "currentPeriodStars": 1095,
       "builtBy": [
         {
@@ -220,8 +220,8 @@
       "description": "Notepad++ official repository",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 27126,
-      "forks": 5103,
+      "stars": 27128,
+      "forks": 5104,
       "currentPeriodStars": 487,
       "builtBy": [
         {
@@ -255,8 +255,8 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 106615,
-      "forks": 24316,
+      "stars": 106618,
+      "forks": 24317,
       "currentPeriodStars": 1526,
       "builtBy": [
         {
@@ -290,7 +290,7 @@
       "description": "A cross-platform, reimplementation of Notepad++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 13426,
+      "stars": 13427,
       "forks": 810,
       "currentPeriodStars": 379,
       "builtBy": [
@@ -325,7 +325,7 @@
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 101805,
+      "stars": 101807,
       "forks": 9069,
       "currentPeriodStars": 612,
       "builtBy": [
@@ -360,7 +360,7 @@
       "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7164,
+      "stars": 7165,
       "forks": 1962,
       "currentPeriodStars": 267,
       "builtBy": [
@@ -395,7 +395,7 @@
       "description": "Official Transmission BitTorrent client repository",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14252,
+      "stars": 14253,
       "forks": 1340,
       "currentPeriodStars": 361,
       "builtBy": [
@@ -430,7 +430,7 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 94952,
+      "stars": 94953,
       "forks": 14893,
       "currentPeriodStars": 2376,
       "builtBy": [
@@ -500,8 +500,8 @@
       "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 77137,
-      "forks": 8327,
+      "stars": 77138,
+      "forks": 8326,
       "currentPeriodStars": 264,
       "builtBy": [
         {
@@ -536,7 +536,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 18159,
-      "forks": 2209,
+      "forks": 2210,
       "currentPeriodStars": 222,
       "builtBy": [
         {
@@ -605,7 +605,7 @@
       "description": "An open-source 3DS emulator project based on Citra.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 6498,
+      "stars": 6499,
       "forks": 407,
       "currentPeriodStars": 330,
       "builtBy": [
@@ -640,7 +640,7 @@
       "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 70680,
+      "stars": 70681,
       "forks": 16029,
       "currentPeriodStars": 469,
       "builtBy": [
@@ -675,7 +675,7 @@
       "description": "A free and strong UCI chess engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14749,
+      "stars": 14750,
       "forks": 2775,
       "currentPeriodStars": 298,
       "builtBy": [
@@ -710,7 +710,7 @@
       "description": "Cross-platform, customizable ML solutions for live and streaming media.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 33762,
+      "stars": 33764,
       "forks": 5793,
       "currentPeriodStars": 819,
       "builtBy": [
