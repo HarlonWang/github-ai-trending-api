@@ -1,8 +1,9 @@
+import dayjs from 'dayjs';
 import { LANGUAGES, PERIODS } from './consts.js';
 import { fetchTrending } from './scraper.js';
-import { saveTrendingData } from './storage.js';
+import { exportToJson } from './exporter.js';
 import { injectAISummaries } from './ai/index.js';
-import { initDB } from './db.js';
+import { initDB, upsertRepo, insertSnapshot, runTransaction } from './db.js';
 
 async function main() {
     console.log('Starting GitHub Trending Crawler with SQLite...');
@@ -10,27 +11,46 @@ async function main() {
     const startTime = Date.now();
 
     // 遍历 PERIODS 与 LANGUAGES
-    // 考虑到 GitHub 限流，建议每次 Action 分批跑或只跑部分周期
     for (const since of PERIODS) {
-        console.log(`
-=== Period: ${since} ===`);
+        console.log(`\n=== Period: ${since} ===`);
 
         for (const lang of LANGUAGES) {
             try {
                 const langName = lang || 'All Languages';
-                console.log(`
---- Processing: ${langName} ---`);
+                console.log(`\n--- Processing: ${langName} ---`);
 
+                // 1. 抓取 (Fetch)
                 const repos = await fetchTrending(lang, since);
 
                 if (repos.length > 0) {
+                    const capturedAt = dayjs().format('YYYY-MM-DD HH:mm:ss');
+
+                    // 2. 仓库信息写入 DB
+                    runTransaction(() => {
+                        for (const repo of repos) {
+                            upsertRepo(repo);
+                        }
+                    });
+
+                    // 3. AI 摘要总结
                     try {
                         await injectAISummaries(repos, lang, since);
                     } catch (aiError) {
                         console.error(`[AI] Error processing summaries for ${lang || 'All'}:`, aiError.message);
                     }
-                    await saveTrendingData(repos, lang, since);
-                    console.log(`Success: ${repos.length} repos fetched.`);
+
+                    // 4. 记录快照 (Record Snapshots)
+                    runTransaction(() => {
+                        for (const repo of repos) {
+                            const fullName = `${repo.author}/${repo.repoName}`;
+                            insertSnapshot(fullName, since, lang, repo, capturedAt);
+                        }
+                    });
+
+                    // 5. 导出 API (Export JSON)
+                    await exportToJson(since, lang, capturedAt);
+
+                    console.log(`Success: ${repos.length} repos processed.`);
                 } else {
                     console.warn(`Warning: 0 repos fetched for ${langName}`);
                 }
@@ -47,8 +67,7 @@ async function main() {
     }
 
     const duration = ((Date.now() - startTime) / 1000).toFixed(2);
-    console.log(`
-All tasks completed in ${duration}s`);
+    console.log(`\nAll tasks completed in ${duration}s`);
 }
 
 main().catch(err => { console.error(err.stack); });
