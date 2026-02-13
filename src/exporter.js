@@ -34,6 +34,7 @@ export async function exportToJson(since = 'daily', language = '', capturedAt) {
 
   const output = {
     count: latestData.length,
+    since: since,
     captured_at: capturedAt, // 使用主流程传入的时间点，确保 JSON 与 DB 记录同步
     data: latestData.map(item => ({
       rank: item.rank,
