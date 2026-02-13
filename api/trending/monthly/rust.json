@@ -1,6 +1,6 @@
 {
   "count": 22,
-  "captured_at": "2026-02-13 06:54:25",
+  "captured_at": "2026-02-13 07:27:35",
   "data": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 23169,
+      "stars": 23176,
       "forks": 2629,
       "currentPeriodStars": 11138,
       "builtBy": [
@@ -45,7 +45,7 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19260,
+      "stars": 19262,
       "forks": 835,
       "currentPeriodStars": 1854,
       "builtBy": [
@@ -115,7 +115,7 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30391,
+      "stars": 30390,
       "forks": 2759,
       "currentPeriodStars": 4743,
       "builtBy": [
@@ -150,7 +150,7 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60199,
+      "stars": 60206,
       "forks": 7926,
       "currentPeriodStars": 4522,
       "builtBy": [
@@ -220,8 +220,8 @@
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 102664,
-      "forks": 3378,
+      "stars": 102665,
+      "forks": 3379,
       "currentPeriodStars": 1646,
       "builtBy": [
         {
@@ -255,7 +255,7 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2015,
+      "stars": 2016,
       "forks": 74,
       "currentPeriodStars": 948,
       "builtBy": [
@@ -325,7 +325,7 @@
       "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29791,
+      "stars": 29792,
       "forks": 2247,
       "currentPeriodStars": 337,
       "builtBy": [
@@ -430,7 +430,7 @@
       "description": "An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6955,
+      "stars": 6956,
       "forks": 115,
       "currentPeriodStars": 7296,
       "builtBy": [
@@ -535,7 +535,7 @@
       "description": "dev tools, env vars, task runner",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 24505,
+      "stars": 24506,
       "forks": 881,
       "currentPeriodStars": 1591,
       "builtBy": [
@@ -605,7 +605,7 @@
       "description": "A terminal workspace with batteries included",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 28997,
+      "stars": 29000,
       "forks": 960,
       "currentPeriodStars": 936,
       "builtBy": [
@@ -675,8 +675,8 @@
       "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 55889,
-      "forks": 2372,
+      "stars": 55888,
+      "forks": 2373,
       "currentPeriodStars": 599,
       "builtBy": [
         {

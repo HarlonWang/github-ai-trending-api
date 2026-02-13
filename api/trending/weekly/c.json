@@ -1,6 +1,6 @@
 {
   "count": 21,
-  "captured_at": "2026-02-13 06:53:48",
+  "captured_at": "2026-02-13 07:26:55",
   "data": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "description": "anti-dpi software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1596,
+      "stars": 1597,
       "forks": 49,
       "currentPeriodStars": 153,
       "builtBy": [
@@ -103,7 +103,7 @@
       "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14720,
+      "stars": 14721,
       "forks": 2157,
       "currentPeriodStars": 71,
       "builtBy": [
@@ -138,7 +138,7 @@
       "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12395,
+      "stars": 12394,
       "forks": 2737,
       "currentPeriodStars": 91,
       "builtBy": [
@@ -208,7 +208,7 @@
       "description": "Ultralightweight JSON parser in ANSI C",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12451,
+      "stars": 12452,
       "forks": 3435,
       "currentPeriodStars": 27,
       "builtBy": [
@@ -278,7 +278,7 @@
       "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 21806,
+      "stars": 21807,
       "forks": 1045,
       "currentPeriodStars": 176,
       "builtBy": [
@@ -383,8 +383,8 @@
       "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13611,
-      "forks": 1616,
+      "stars": 13612,
+      "forks": 1617,
       "currentPeriodStars": 65,
       "builtBy": [
         {
@@ -663,7 +663,7 @@
       "description": "ehviewer，用爱发电，快乐前行",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 22372,
+      "stars": 22373,
       "forks": 593,
       "currentPeriodStars": 164,
       "builtBy": [
@@ -698,7 +698,7 @@
       "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 59076,
+      "stars": 59077,
       "forks": 27493,
       "currentPeriodStars": 157,
       "builtBy": [

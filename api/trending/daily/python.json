@@ -1,6 +1,6 @@
 {
   "count": 17,
-  "captured_at": "2026-02-13 06:52:26",
+  "captured_at": "2026-02-13 07:25:34",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 31599,
-      "forks": 2107,
+      "stars": 31620,
+      "forks": 2109,
       "currentPeriodStars": 1122,
       "builtBy": [
         {
@@ -35,7 +35,10 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "Google开发的Langextract是一个Python库，利用大语言模型从非结构化文本中提取结构化信息。其核心在于提供精确的溯源能力，确保输出结果可追踪至原文片段，并支持交互式可视化以辅助理解和验证。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 2,
@@ -45,8 +48,8 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 94478,
-      "forks": 13694,
+      "stars": 94492,
+      "forks": 13696,
       "currentPeriodStars": 287,
       "builtBy": [
         {
@@ -70,7 +73,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/774516?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 3,
@@ -80,8 +86,8 @@
       "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 52091,
-      "forks": 4312,
+      "stars": 52105,
+      "forks": 4313,
       "currentPeriodStars": 81,
       "builtBy": [
         {
@@ -105,7 +111,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/2455711?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "Unsloth 是一个专注于大语言模型高效微调与强化学习的 Python 库。其核心在于通过优化算法显著提升训练速度，可将 OpenAI GPT-OSS、Llama 等模型的训练速度提升 2 倍，同时减少高达 70% 的 VRAM 占用，有效解决了大模型训练资源消耗巨大的痛点。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 4,
@@ -115,8 +124,8 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1851,
-      "forks": 126,
+      "stars": 1870,
+      "forks": 127,
       "currentPeriodStars": 278,
       "builtBy": [
         {
@@ -140,7 +149,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/50757446?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 5,
@@ -150,7 +162,7 @@
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10229,
+      "stars": 10236,
       "forks": 993,
       "currentPeriodStars": 1012,
       "builtBy": [
@@ -185,8 +197,8 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17152,
-      "forks": 3698,
+      "stars": 17157,
+      "forks": 3699,
       "currentPeriodStars": 159,
       "builtBy": [
         {
@@ -220,7 +232,7 @@
       "description": "M3U Playlist for free TV channels",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 13760,
+      "stars": 13762,
       "forks": 2006,
       "currentPeriodStars": 434,
       "builtBy": [
@@ -255,8 +267,8 @@
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 20755,
-      "forks": 2369,
+      "stars": 20765,
+      "forks": 2371,
       "currentPeriodStars": 162,
       "builtBy": [
         {
@@ -325,7 +337,7 @@
       "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 81035,
+      "stars": 81037,
       "forks": 18571,
       "currentPeriodStars": 57,
       "builtBy": [
@@ -395,7 +407,7 @@
       "description": "The fundamental package for scientific computing with Python.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 31434,
+      "stars": 31435,
       "forks": 12048,
       "currentPeriodStars": 7,
       "builtBy": [
@@ -431,7 +443,7 @@
       "language": "Python",
       "languageColor": "#3572A5",
       "stars": 5473,
-      "forks": 3516,
+      "forks": 3517,
       "currentPeriodStars": 5,
       "builtBy": [
         {
@@ -500,7 +512,7 @@
       "description": "DSPy: The framework for programming—not prompting—language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32178,
+      "stars": 32177,
       "forks": 2628,
       "currentPeriodStars": 30,
       "builtBy": [
@@ -535,7 +547,7 @@
       "description": "Financial data platform for analysts, quants and AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 60180,
+      "stars": 60182,
       "forks": 5882,
       "currentPeriodStars": 75,
       "builtBy": [

@@ -1,6 +1,6 @@
 {
   "count": 20,
-  "captured_at": "2026-02-13 06:52:55",
+  "captured_at": "2026-02-13 07:26:01",
   "data": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 758,
+      "stars": 762,
       "forks": 41,
       "currentPeriodStars": 109,
       "builtBy": [
@@ -46,7 +46,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 2641,
-      "forks": 205,
+      "forks": 206,
       "currentPeriodStars": 41,
       "builtBy": [
         {
@@ -111,7 +111,7 @@
       "description": "🦊 Anti-detect browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5300,
+      "stars": 5302,
       "forks": 489,
       "currentPeriodStars": 56,
       "builtBy": [
@@ -321,7 +321,7 @@
       "description": "DuckDB is an analytical in-process SQL database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 36066,
+      "stars": 36068,
       "forks": 2926,
       "currentPeriodStars": 30,
       "builtBy": [

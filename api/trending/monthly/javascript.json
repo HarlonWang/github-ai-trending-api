@@ -1,6 +1,6 @@
 {
   "count": 15,
-  "captured_at": "2026-02-13 06:54:12",
+  "captured_at": "2026-02-13 07:27:18",
   "data": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 20105,
+      "stars": 20113,
       "forks": 1833,
       "currentPeriodStars": 20027,
       "builtBy": [
@@ -45,7 +45,7 @@
       "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程技巧、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 6802,
+      "stars": 6807,
       "forks": 753,
       "currentPeriodStars": 5839,
       "builtBy": [
@@ -80,7 +80,7 @@
       "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 21074,
+      "stars": 21076,
       "forks": 2417,
       "currentPeriodStars": 3885,
       "builtBy": [
@@ -115,7 +115,7 @@
       "description": "Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 3988,
+      "stars": 3989,
       "forks": 632,
       "currentPeriodStars": 1442,
       "builtBy": [
@@ -290,7 +290,7 @@
       "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 44215,
+      "stars": 44214,
       "forks": 2991,
       "currentPeriodStars": 397,
       "builtBy": [
@@ -325,7 +325,7 @@
       "description": "📱 Display and control your Android device graphically with scrcpy.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 8116,
+      "stars": 8119,
       "forks": 596,
       "currentPeriodStars": 834,
       "builtBy": [
@@ -395,7 +395,7 @@
       "description": "Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 1677,
+      "stars": 1679,
       "forks": 96,
       "currentPeriodStars": 449,
       "builtBy": [
@@ -492,7 +492,7 @@
       "description": "💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 17211,
+      "stars": 17212,
       "forks": 971,
       "currentPeriodStars": 184,
       "builtBy": [

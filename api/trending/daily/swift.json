@@ -1,6 +1,6 @@
 {
   "count": 20,
-  "captured_at": "2026-02-13 06:53:02",
+  "captured_at": "2026-02-13 07:26:11",
   "data": [
     {
       "rank": 1,
@@ -220,7 +220,7 @@
       "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 7015,
+      "stars": 7016,
       "forks": 492,
       "currentPeriodStars": 21,
       "builtBy": [
@@ -430,7 +430,7 @@
       "description": "AeroSpace is an i3-like tiling window manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 18842,
+      "stars": 18844,
       "forks": 419,
       "currentPeriodStars": 35,
       "builtBy": [

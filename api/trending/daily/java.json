@@ -1,6 +1,6 @@
 {
   "count": 22,
-  "captured_at": "2026-02-13 06:52:37",
+  "captured_at": "2026-02-13 07:25:44",
   "data": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 64326,
+      "stars": 64327,
       "forks": 7137,
       "currentPeriodStars": 39,
       "builtBy": [
@@ -348,7 +348,7 @@
       "description": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25126,
+      "stars": 25127,
       "forks": 2732,
       "currentPeriodStars": 45,
       "builtBy": [
@@ -383,7 +383,7 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22021,
+      "stars": 22022,
       "forks": 13083,
       "currentPeriodStars": 44,
       "builtBy": [
@@ -489,7 +489,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 45221,
-      "forks": 15823,
+      "forks": 15824,
       "currentPeriodStars": 10,
       "builtBy": [
         {
@@ -593,7 +593,7 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32805,
+      "stars": 32806,
       "forks": 8046,
       "currentPeriodStars": 27,
       "builtBy": [

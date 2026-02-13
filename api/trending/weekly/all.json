@@ -1,6 +1,6 @@
 {
   "count": 14,
-  "captured_at": "2026-02-13 06:53:10",
+  "captured_at": "2026-02-13 07:26:21",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21314,
-      "forks": 2152,
+      "stars": 21328,
+      "forks": 2153,
       "currentPeriodStars": 16805,
       "builtBy": [
         {
@@ -45,8 +45,8 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8246,
-      "forks": 459,
+      "stars": 8253,
+      "forks": 461,
       "currentPeriodStars": 4141,
       "builtBy": [
         {
@@ -80,8 +80,8 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1852,
-      "forks": 126,
+      "stars": 1870,
+      "forks": 127,
       "currentPeriodStars": 1124,
       "builtBy": [
         {
@@ -105,7 +105,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/50757446?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 4,
@@ -115,8 +118,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14917,
-      "forks": 1807,
+      "stars": 14928,
+      "forks": 1809,
       "currentPeriodStars": 4197,
       "builtBy": [
         {
@@ -150,8 +153,8 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 31600,
-      "forks": 2107,
+      "stars": 31621,
+      "forks": 2109,
       "currentPeriodStars": 6996,
       "builtBy": [
         {
@@ -175,7 +178,10 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "Google开发的Langextract是一个Python库，利用大语言模型从非结构化文本中提取结构化信息。其核心在于提供精确的溯源能力，确保输出结果可追踪至原文片段，并支持交互式可视化以辅助理解和验证。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 6,
@@ -185,7 +191,7 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11371,
+      "stars": 11381,
       "forks": 1140,
       "currentPeriodStars": 4215,
       "builtBy": [
@@ -220,8 +226,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 27676,
-      "forks": 1856,
+      "stars": 27688,
+      "forks": 1858,
       "currentPeriodStars": 4200,
       "builtBy": [
         {
@@ -255,7 +261,7 @@
       "description": "一款提示词优化器，助力于编写高质量的提示词",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 20822,
+      "stars": 20827,
       "forks": 2529,
       "currentPeriodStars": 1536,
       "builtBy": [
@@ -290,7 +296,7 @@
       "description": "Master Claude Code Hooks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3011,
+      "stars": 3013,
       "forks": 546,
       "currentPeriodStars": 469,
       "builtBy": [
@@ -313,8 +319,8 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8203,
-      "forks": 435,
+      "stars": 8206,
+      "forks": 436,
       "currentPeriodStars": 1632,
       "builtBy": [
         {
@@ -348,8 +354,8 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17152,
-      "forks": 3698,
+      "stars": 17157,
+      "forks": 3699,
       "currentPeriodStars": 1488,
       "builtBy": [
         {
@@ -383,7 +389,7 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8719,
+      "stars": 8721,
       "forks": 679,
       "currentPeriodStars": 1448,
       "builtBy": [
@@ -418,7 +424,7 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 398188,
+      "stars": 398190,
       "forks": 42601,
       "currentPeriodStars": 2887,
       "builtBy": [
@@ -453,7 +459,7 @@
       "description": "基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1391,
+      "stars": 1392,
       "forks": 435,
       "currentPeriodStars": 342,
       "builtBy": [

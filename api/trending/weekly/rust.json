@@ -1,6 +1,6 @@
 {
   "count": 18,
-  "captured_at": "2026-02-13 06:53:31",
+  "captured_at": "2026-02-13 07:26:41",
   "data": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19260,
+      "stars": 19262,
       "forks": 835,
       "currentPeriodStars": 1678,
       "builtBy": [
@@ -142,7 +142,7 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60199,
+      "stars": 60206,
       "forks": 7926,
       "currentPeriodStars": 1129,
       "builtBy": [
@@ -282,7 +282,7 @@
       "description": "Build fast web applications with Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 20023,
+      "stars": 20024,
       "forks": 837,
       "currentPeriodStars": 125,
       "builtBy": [
@@ -317,8 +317,8 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 54922,
-      "forks": 2547,
+      "stars": 54924,
+      "forks": 2549,
       "currentPeriodStars": 409,
       "builtBy": [
         {
@@ -352,7 +352,7 @@
       "description": "A new type of shell",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 38300,
+      "stars": 38301,
       "forks": 2047,
       "currentPeriodStars": 177,
       "builtBy": [
@@ -492,7 +492,7 @@
       "description": "A terminal workspace with batteries included",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 28997,
+      "stars": 29000,
       "forks": 960,
       "currentPeriodStars": 319,
       "builtBy": [

@@ -1,6 +1,6 @@
 {
   "count": 19,
-  "captured_at": "2026-02-13 06:54:46",
+  "captured_at": "2026-02-13 07:27:57",
   "data": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "description": "A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6636,
+      "stars": 6638,
       "forks": 250,
       "currentPeriodStars": 3115,
       "builtBy": [
@@ -243,8 +243,8 @@
       "description": "Just a music player.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2860,
-      "forks": 138,
+      "stars": 2862,
+      "forks": 139,
       "currentPeriodStars": 442,
       "builtBy": [
         {
@@ -313,7 +313,7 @@
       "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 24560,
+      "stars": 24561,
       "forks": 1054,
       "currentPeriodStars": 747,
       "builtBy": [
@@ -383,7 +383,7 @@
       "description": "Lightweight unofficial Steam client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2566,
+      "stars": 2567,
       "forks": 100,
       "currentPeriodStars": 524,
       "builtBy": [
@@ -558,7 +558,7 @@
       "description": "The cutest Material 3 Expressive music streaming client for Android, built for performance and extensibility.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 620,
+      "stars": 621,
       "forks": 20,
       "currentPeriodStars": 269,
       "builtBy": [

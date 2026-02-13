@@ -1,6 +1,6 @@
 {
   "count": 21,
-  "captured_at": "2026-02-13 06:53:42",
+  "captured_at": "2026-02-13 07:26:50",
   "data": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "description": "MLX: An array framework for Apple silicon",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 23914,
+      "stars": 23915,
       "forks": 1509,
       "currentPeriodStars": 112,
       "builtBy": [
@@ -216,8 +216,8 @@
       "description": "Production ready toolkit to run AI locally",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7177,
-      "forks": 221,
+      "stars": 7196,
+      "forks": 222,
       "currentPeriodStars": 1035,
       "builtBy": [
         {
@@ -348,7 +348,7 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 758,
+      "stars": 762,
       "forks": 41,
       "currentPeriodStars": 326,
       "builtBy": [
@@ -383,7 +383,7 @@
       "description": "Bitcoin Core integration/staging tree",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 88096,
+      "stars": 88097,
       "forks": 38908,
       "currentPeriodStars": 172,
       "builtBy": [
@@ -453,7 +453,7 @@
       "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 6965,
+      "stars": 6967,
       "forks": 443,
       "currentPeriodStars": 36,
       "builtBy": [
@@ -524,7 +524,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 2641,
-      "forks": 205,
+      "forks": 206,
       "currentPeriodStars": 101,
       "builtBy": [
         {
@@ -554,7 +554,7 @@
       "description": "Windows Subsystem for Linux",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 31082,
+      "stars": 31083,
       "forks": 1613,
       "currentPeriodStars": 82,
       "builtBy": [

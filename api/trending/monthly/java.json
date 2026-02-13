@@ -1,6 +1,6 @@
 {
   "count": 15,
-  "captured_at": "2026-02-13 06:54:17",
+  "captured_at": "2026-02-13 07:27:23",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 37133,
-      "forks": 3463,
+      "forks": 3462,
       "currentPeriodStars": 971,
       "builtBy": [
         {
@@ -45,7 +45,7 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22063,
+      "stars": 22064,
       "forks": 5406,
       "currentPeriodStars": 1175,
       "builtBy": [
@@ -80,7 +80,7 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22021,
+      "stars": 22022,
       "forks": 13083,
       "currentPeriodStars": 488,
       "builtBy": [
@@ -115,8 +115,8 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 30000,
-      "forks": 6830,
+      "stars": 30006,
+      "forks": 6831,
       "currentPeriodStars": 932,
       "builtBy": [
         {
@@ -321,7 +321,7 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32805,
+      "stars": 32806,
       "forks": 8046,
       "currentPeriodStars": 678,
       "builtBy": [
@@ -392,7 +392,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 48663,
-      "forks": 4038,
+      "forks": 4039,
       "currentPeriodStars": 522,
       "builtBy": [
         {

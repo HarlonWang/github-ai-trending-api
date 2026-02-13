@@ -1,6 +1,6 @@
 {
   "count": 18,
-  "captured_at": "2026-02-13 06:54:29",
+  "captured_at": "2026-02-13 07:27:39",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 189899,
-      "forks": 32226,
+      "stars": 189993,
+      "forks": 32252,
       "currentPeriodStars": 184746,
       "builtBy": [
         {
@@ -45,8 +45,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15514,
-      "forks": 1175,
+      "stars": 15527,
+      "forks": 1179,
       "currentPeriodStars": 11808,
       "builtBy": [
         {
@@ -70,7 +70,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "AionUi 是一款免费、本地化、开源的 AI 协作工具，支持 Gemini CLI、Claude Code 等多种主流 AI 模型。其核心解决了用户需频繁切换不同 AI 工具界面的痛点，通过统一界面提供 24/7 不间断的集成化编程与对话协作体验。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 3,
@@ -80,7 +83,7 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11371,
+      "stars": 11382,
       "forks": 1140,
       "currentPeriodStars": 9580,
       "builtBy": [
@@ -115,8 +118,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21314,
-      "forks": 2152,
+      "stars": 21328,
+      "forks": 2153,
       "currentPeriodStars": 17455,
       "builtBy": [
         {
@@ -150,7 +153,7 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 36388,
+      "stars": 36396,
       "forks": 2219,
       "currentPeriodStars": 11178,
       "builtBy": [
@@ -185,8 +188,8 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8203,
-      "forks": 435,
+      "stars": 8206,
+      "forks": 436,
       "currentPeriodStars": 6653,
       "builtBy": [
         {
@@ -220,8 +223,8 @@
       "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12372,
-      "forks": 1428,
+      "stars": 12373,
+      "forks": 1429,
       "currentPeriodStars": 9641,
       "builtBy": [
         {
@@ -255,8 +258,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 103621,
-      "forks": 10024,
+      "stars": 103641,
+      "forks": 10027,
       "currentPeriodStars": 39755,
       "builtBy": [
         {
@@ -290,8 +293,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 27677,
-      "forks": 1856,
+      "stars": 27688,
+      "forks": 1858,
       "currentPeriodStars": 14358,
       "builtBy": [
         {
@@ -325,8 +328,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14917,
-      "forks": 1807,
+      "stars": 14928,
+      "forks": 1809,
       "currentPeriodStars": 7931,
       "builtBy": [
         {
@@ -360,7 +363,7 @@
       "description": "the best agent harness",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 31063,
+      "stars": 31079,
       "forks": 2319,
       "currentPeriodStars": 16133,
       "builtBy": [
@@ -395,7 +398,7 @@
       "description": "Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8275,
+      "stars": 8276,
       "forks": 554,
       "currentPeriodStars": 5991,
       "builtBy": [
@@ -465,7 +468,7 @@
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 16405,
+      "stars": 16408,
       "forks": 1646,
       "currentPeriodStars": 2345,
       "builtBy": [
@@ -500,7 +503,7 @@
       "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1475,
+      "stars": 1476,
       "forks": 171,
       "currentPeriodStars": 1121,
       "builtBy": [
@@ -535,7 +538,7 @@
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14800,
+      "stars": 14802,
       "forks": 1020,
       "currentPeriodStars": 4206,
       "builtBy": [
@@ -570,7 +573,7 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8719,
+      "stars": 8721,
       "forks": 679,
       "currentPeriodStars": 4149,
       "builtBy": [
@@ -605,7 +608,7 @@
       "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 45617,
+      "stars": 45622,
       "forks": 2177,
       "currentPeriodStars": 4036,
       "builtBy": [

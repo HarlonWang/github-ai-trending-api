@@ -1,6 +1,6 @@
 {
   "count": 21,
-  "captured_at": "2026-02-13 06:52:41",
+  "captured_at": "2026-02-13 07:25:47",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2061,
-      "forks": 146,
+      "stars": 2067,
+      "forks": 147,
       "currentPeriodStars": 405,
       "builtBy": [
         {
@@ -35,7 +35,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "gh-aw 是 GitHub 推出的基于 Go 语言开发的智能体工作流框架。它旨在通过可编程的自动化代理来编排复杂的开发任务，解决传统 CI/CD 流程在灵活性与智能决策方面的不足，提升软件交付的自动化与智能化水平。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 2,
@@ -45,7 +48,7 @@
       "description": "The Cloud Native Application Proxy",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 61615,
+      "stars": 61616,
       "forks": 5828,
       "currentPeriodStars": 24,
       "builtBy": [
@@ -80,7 +83,7 @@
       "description": "The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4823,
+      "stars": 4824,
       "forks": 251,
       "currentPeriodStars": 12,
       "builtBy": [
@@ -185,7 +188,7 @@
       "description": "Temporal service",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 18296,
+      "stars": 18297,
       "forks": 1347,
       "currentPeriodStars": 15,
       "builtBy": [
@@ -290,7 +293,7 @@
       "description": "Fast linters runner for Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 18483,
+      "stars": 18484,
       "forks": 1544,
       "currentPeriodStars": 10,
       "builtBy": [
@@ -325,7 +328,7 @@
       "description": "Dolt – Git for Data",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19775,
+      "stars": 19776,
       "forks": 623,
       "currentPeriodStars": 11,
       "builtBy": [
@@ -360,7 +363,7 @@
       "description": "An open source, self-hosted implementation of the Tailscale control server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35298,
+      "stars": 35300,
       "forks": 1899,
       "currentPeriodStars": 91,
       "builtBy": [
@@ -391,7 +394,7 @@
       "description": "Fast and easy to use database for logs, which can efficiently handle terabytes of logs",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1490,
+      "stars": 1491,
       "forks": 97,
       "currentPeriodStars": 4,
       "builtBy": [
@@ -531,7 +534,7 @@
       "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2309,
+      "stars": 2311,
       "forks": 234,
       "currentPeriodStars": 78,
       "builtBy": [

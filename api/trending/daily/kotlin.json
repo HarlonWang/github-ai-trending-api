@@ -1,6 +1,6 @@
 {
   "count": 18,
-  "captured_at": "2026-02-13 06:53:05",
+  "captured_at": "2026-02-13 07:26:15",
   "data": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "description": "AirPods liberated from Apple's ecosystem.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 25341,
+      "stars": 25342,
       "forks": 1352,
       "currentPeriodStars": 29,
       "builtBy": [
@@ -80,7 +80,7 @@
       "description": "Lightweight unofficial Steam client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2566,
+      "stars": 2567,
       "forks": 100,
       "currentPeriodStars": 36,
       "builtBy": [
@@ -115,7 +115,7 @@
       "description": "A shadowsocks client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 36654,
+      "stars": 36655,
       "forks": 11541,
       "currentPeriodStars": 5,
       "builtBy": [
@@ -220,7 +220,7 @@
       "description": "Xposed Module that unlocks and adds unique features to the Grindr app",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 454,
+      "stars": 455,
       "forks": 84,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -290,7 +290,7 @@
       "description": "A Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 14990,
+      "stars": 14992,
       "forks": 3112,
       "currentPeriodStars": 11,
       "builtBy": [
@@ -453,7 +453,7 @@
       "description": "Android app for streaming and downloading media.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 8866,
+      "stars": 8867,
       "forks": 775,
       "currentPeriodStars": 7,
       "builtBy": [

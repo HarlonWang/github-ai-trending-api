@@ -1,6 +1,6 @@
 {
   "count": 22,
-  "captured_at": "2026-02-13 06:53:22",
+  "captured_at": "2026-02-13 07:26:32",
   "data": [
     {
       "rank": 1,
@@ -45,8 +45,8 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 30000,
-      "forks": 6829,
+      "stars": 30006,
+      "forks": 6831,
       "currentPeriodStars": 302,
       "builtBy": [
         {
@@ -76,7 +76,7 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22063,
+      "stars": 22064,
       "forks": 5406,
       "currentPeriodStars": 385,
       "builtBy": [
@@ -111,7 +111,7 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 64326,
+      "stars": 64327,
       "forks": 7137,
       "currentPeriodStars": 238,
       "builtBy": [
@@ -243,7 +243,7 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22021,
+      "stars": 22022,
       "forks": 13083,
       "currentPeriodStars": 183,
       "builtBy": [
@@ -278,7 +278,7 @@
       "description": "Sketchware Pro's sources in Java. Now anyone can contribute to Sketchware Pro.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 1448,
+      "stars": 1449,
       "forks": 561,
       "currentPeriodStars": 24,
       "builtBy": [
@@ -418,7 +418,7 @@
       "description": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25126,
+      "stars": 25127,
       "forks": 2732,
       "currentPeriodStars": 78,
       "builtBy": [
@@ -593,7 +593,7 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32805,
+      "stars": 32806,
       "forks": 8046,
       "currentPeriodStars": 154,
       "builtBy": [
@@ -628,7 +628,7 @@
       "description": "Agentic AI Framework for Java Developers",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8392,
+      "stars": 8393,
       "forks": 1850,
       "currentPeriodStars": 103,
       "builtBy": [
@@ -663,7 +663,7 @@
       "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8687,
+      "stars": 8686,
       "forks": 1842,
       "currentPeriodStars": 22,
       "builtBy": [
@@ -729,7 +729,7 @@
       "description": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 21124,
+      "stars": 21125,
       "forks": 6127,
       "currentPeriodStars": 54,
       "builtBy": [

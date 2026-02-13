@@ -1,6 +1,6 @@
 {
   "count": 13,
-  "captured_at": "2026-02-13 06:52:21",
+  "captured_at": "2026-02-13 07:24:12",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9195,
-      "forks": 439,
+      "stars": 9212,
+      "forks": 441,
       "currentPeriodStars": 300,
       "builtBy": [
         {
@@ -35,7 +35,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/70284178?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，解决了手动处理流式输出与状态同步的复杂度，提升了开发效率。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 2,
@@ -45,8 +48,8 @@
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 7667,
-      "forks": 1099,
+      "stars": 7681,
+      "forks": 1100,
       "currentPeriodStars": 351,
       "builtBy": [
         {
@@ -70,7 +73,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/176330864?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "danielmiessler/Personal_AI_Infrastructure 是一个基于 TypeScript 的智能体化 AI 基础设施项目。其核心目标是构建一个能扩展和增强人类能力的自动化代理系统，通过编排多个 AI 智能体协同工作，解决个人在信息处理、任务执行与决策支持等方面的效率瓶颈，实现人机能力的深度融合与放大。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 3,
@@ -80,8 +86,8 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 31598,
-      "forks": 2107,
+      "stars": 31620,
+      "forks": 2109,
       "currentPeriodStars": 1122,
       "builtBy": [
         {
@@ -105,7 +111,10 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "Google开发的Langextract是一个Python库，利用大语言模型从非结构化文本中提取结构化信息。其核心在于提供精确的溯源能力，确保输出结果可追踪至原文片段，并支持交互式可视化以辅助理解和验证。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 4,
@@ -115,8 +124,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24484,
-      "forks": 1457,
+      "stars": 24497,
+      "forks": 1459,
       "currentPeriodStars": 436,
       "builtBy": [
         {
@@ -140,7 +149,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/325588?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 5,
@@ -150,7 +162,7 @@
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C#",
       "languageColor": "#178600",
-      "stars": 129702,
+      "stars": 129708,
       "forks": 7709,
       "currentPeriodStars": 316,
       "builtBy": [
@@ -175,7 +187,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/9866362?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "PowerToys 是微软为 Windows 系统开发的开源效率工具集，旨在通过一系列实用功能（如窗口管理、文件预览、快速启动等）弥补系统原生能力的不足，深度自定义和增强用户工作流，显著提升日常操作与多任务处理的生产力。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 6,
@@ -185,8 +200,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15511,
-      "forks": 1175,
+      "stars": 15526,
+      "forks": 1179,
       "currentPeriodStars": 271,
       "builtBy": [
         {
@@ -210,7 +225,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "AionUi 是一款免费、本地化、开源的 AI 协作工具，支持 Gemini CLI、Claude Code 等多种主流 AI 模型。其核心解决了用户需频繁切换不同 AI 工具界面的痛点，通过统一界面提供 24/7 不间断的集成化编程与对话协作体验。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 7,
@@ -220,8 +238,8 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 94478,
-      "forks": 13694,
+      "stars": 94491,
+      "forks": 13696,
       "currentPeriodStars": 287,
       "builtBy": [
         {
@@ -245,7 +263,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/774516?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 8,
@@ -255,8 +276,8 @@
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 5282,
-      "forks": 418,
+      "stars": 5299,
+      "forks": 421,
       "currentPeriodStars": 191,
       "builtBy": [
         {
@@ -280,7 +301,10 @@
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "Rowboat 是一个开源的 AI 协作者，基于 TypeScript 开发。其核心在于为 AI 助手配备了长期记忆能力，解决了传统 AI 对话中上下文信息易丢失的痛点，能持续记忆用户偏好与历史交互，从而实现更连贯、个性化的协作体验。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 9,
@@ -290,8 +314,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2061,
-      "forks": 146,
+      "stars": 2067,
+      "forks": 147,
       "currentPeriodStars": 405,
       "builtBy": [
         {
@@ -315,7 +339,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "gh-aw 是 GitHub 推出的基于 Go 语言开发的智能体工作流框架。它旨在通过可编程的自动化代理来编排复杂的开发任务，解决传统 CI/CD 流程在灵活性与智能决策方面的不足，提升软件交付的自动化与智能化水平。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 10,
@@ -325,8 +352,8 @@
       "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 52091,
-      "forks": 4312,
+      "stars": 52104,
+      "forks": 4313,
       "currentPeriodStars": 81,
       "builtBy": [
         {
@@ -350,7 +377,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/2455711?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "Unsloth 是一个专注于大语言模型高效微调与强化学习的 Python 库。其核心在于通过优化算法显著提升训练速度，可将 OpenAI GPT-OSS、Llama 等模型的训练速度提升 2 倍，同时减少高达 70% 的 VRAM 占用，有效解决了大模型训练资源消耗巨大的痛点。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 11,
@@ -360,8 +390,8 @@
       "description": "Yet another matrix client",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 2912,
-      "forks": 391,
+      "stars": 2915,
+      "forks": 392,
       "currentPeriodStars": 38,
       "builtBy": [
         {
@@ -385,7 +415,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/35173023?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "Cinny 是一款基于 Matrix 协议的轻量级即时通讯客户端，采用 TypeScript 开发。它专注于提供快速、简洁的用户体验，解决了官方 Element 客户端较为臃肿、性能开销大的痛点，尤其适合在浏览器和移动端高效使用去中心化通信网络。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 12,
@@ -395,8 +428,8 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1851,
-      "forks": 126,
+      "stars": 1869,
+      "forks": 127,
       "currentPeriodStars": 278,
       "builtBy": [
         {
@@ -420,7 +453,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/50757446?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。",
+        "source": "deepseek"
+      }
     },
     {
       "rank": 13,
@@ -430,8 +466,8 @@
       "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 20991,
-      "forks": 4976,
+      "stars": 21000,
+      "forks": 4978,
       "currentPeriodStars": 361,
       "builtBy": [
         {
@@ -455,7 +491,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/6709785?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "该项目为O'Reilly书籍《动手学大语言模型》的官方代码库，通过一系列Jupyter Notebook实践教程，解决了学习者难以将LLM理论知识转化为实际应用能力的痛点，帮助开发者快速上手并构建基于大语言模型的应用程序。",
+        "source": "deepseek"
+      }
     }
   ]
 }

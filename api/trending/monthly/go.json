@@ -1,6 +1,6 @@
 {
   "count": 19,
-  "captured_at": "2026-02-13 06:54:21",
+  "captured_at": "2026-02-13 07:27:29",
   "data": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16120,
+      "stars": 16121,
       "forks": 957,
       "currentPeriodStars": 6405,
       "builtBy": [
@@ -45,7 +45,7 @@
       "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 162499,
+      "stars": 162503,
       "forks": 14569,
       "currentPeriodStars": 3672,
       "builtBy": [
@@ -150,7 +150,7 @@
       "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 13205,
+      "stars": 13206,
       "forks": 1161,
       "currentPeriodStars": 558,
       "builtBy": [
@@ -185,7 +185,7 @@
       "description": "Glamourous agentic coding for all 💘",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19823,
+      "stars": 19825,
       "forks": 1227,
       "currentPeriodStars": 2255,
       "builtBy": [
@@ -220,7 +220,7 @@
       "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4440,
+      "stars": 4441,
       "forks": 738,
       "currentPeriodStars": 723,
       "builtBy": [
@@ -532,7 +532,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": 42439,
-      "forks": 7923,
+      "forks": 7924,
       "currentPeriodStars": 528,
       "builtBy": [
         {
@@ -566,7 +566,7 @@
       "description": "🎧☁️ Your Personal Streaming Service",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19228,
+      "stars": 19229,
       "forks": 1368,
       "currentPeriodStars": 771,
       "builtBy": [
@@ -636,7 +636,7 @@
       "description": "Container runtimes on macOS (and Linux) with minimal setup",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26886,
+      "stars": 26888,
       "forks": 530,
       "currentPeriodStars": 659,
       "builtBy": [

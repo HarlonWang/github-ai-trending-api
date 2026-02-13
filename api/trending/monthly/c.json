@@ -1,6 +1,6 @@
 {
   "count": 19,
-  "captured_at": "2026-02-13 06:54:38",
+  "captured_at": "2026-02-13 07:27:50",
   "data": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "description": "WiFi security auditing tools suite",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6924,
+      "stars": 6925,
       "forks": 1233,
       "currentPeriodStars": 173,
       "builtBy": [
@@ -80,7 +80,7 @@
       "description": "tmux source code",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 41714,
+      "stars": 41716,
       "forks": 2408,
       "currentPeriodStars": 1025,
       "builtBy": [
@@ -221,7 +221,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 3124,
-      "forks": 245,
+      "forks": 244,
       "currentPeriodStars": 1178,
       "builtBy": [
         {
@@ -255,7 +255,7 @@
       "description": "A simple and easy-to-use library to enjoy videogames programming",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 30927,
+      "stars": 30929,
       "forks": 2926,
       "currentPeriodStars": 727,
       "builtBy": [
@@ -290,7 +290,7 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4447,
+      "stars": 4448,
       "forks": 648,
       "currentPeriodStars": 132,
       "builtBy": [
@@ -395,7 +395,7 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14457,
+      "stars": 14458,
       "forks": 8652,
       "currentPeriodStars": 323,
       "builtBy": [
@@ -465,7 +465,7 @@
       "description": "A tiling window manager for macOS based on binary space partitioning",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 28154,
+      "stars": 28155,
       "forks": 693,
       "currentPeriodStars": 303,
       "builtBy": [
@@ -535,7 +535,7 @@
       "description": "anti-dpi software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1596,
+      "stars": 1597,
       "forks": 49,
       "currentPeriodStars": 543,
       "builtBy": [
@@ -558,8 +558,8 @@
       "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13611,
-      "forks": 1616,
+      "stars": 13612,
+      "forks": 1617,
       "currentPeriodStars": 257,
       "builtBy": [
         {

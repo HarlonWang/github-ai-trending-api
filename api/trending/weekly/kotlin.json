@@ -1,6 +1,6 @@
 {
   "count": 17,
-  "captured_at": "2026-02-13 06:53:59",
+  "captured_at": "2026-02-13 07:27:05",
   "data": [
     {
       "rank": 1,
@@ -45,7 +45,7 @@
       "description": "A Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 14990,
+      "stars": 14992,
       "forks": 3112,
       "currentPeriodStars": 94,
       "builtBy": [
@@ -115,7 +115,7 @@
       "description": "Software simulation for Android hardware-backed key pairs with key attestation",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 784,
+      "stars": 786,
       "forks": 75,
       "currentPeriodStars": 125,
       "builtBy": [
@@ -150,7 +150,7 @@
       "description": "Lightweight unofficial Steam client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2566,
+      "stars": 2567,
       "forks": 100,
       "currentPeriodStars": 254,
       "builtBy": [
@@ -220,7 +220,7 @@
       "description": "A cross-platform music app using YouTube Music for backend",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 7767,
+      "stars": 7768,
       "forks": 348,
       "currentPeriodStars": 183,
       "builtBy": [
@@ -255,7 +255,7 @@
       "description": "The Kotlin Programming Language.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 52299,
+      "stars": 52300,
       "forks": 6215,
       "currentPeriodStars": 48,
       "builtBy": [
@@ -290,7 +290,7 @@
       "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 35925,
+      "stars": 35929,
       "forks": 1748,
       "currentPeriodStars": 202,
       "builtBy": [

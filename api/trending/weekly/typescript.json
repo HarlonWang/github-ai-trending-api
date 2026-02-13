@@ -1,6 +1,6 @@
 {
   "count": 14,
-  "captured_at": "2026-02-13 06:53:36",
+  "captured_at": "2026-02-13 07:26:44",
   "data": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21314,
-      "forks": 2152,
+      "stars": 21328,
+      "forks": 2153,
       "currentPeriodStars": 16805,
       "builtBy": [
         {
@@ -45,8 +45,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14917,
-      "forks": 1807,
+      "stars": 14928,
+      "forks": 1809,
       "currentPeriodStars": 4197,
       "builtBy": [
         {
@@ -80,7 +80,7 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11371,
+      "stars": 11381,
       "forks": 1140,
       "currentPeriodStars": 4215,
       "builtBy": [
@@ -115,8 +115,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 27676,
-      "forks": 1856,
+      "stars": 27688,
+      "forks": 1858,
       "currentPeriodStars": 4200,
       "builtBy": [
         {
@@ -150,7 +150,7 @@
       "description": "一款提示词优化器，助力于编写高质量的提示词",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 20822,
+      "stars": 20828,
       "forks": 2529,
       "currentPeriodStars": 1536,
       "builtBy": [
@@ -185,8 +185,8 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8203,
-      "forks": 435,
+      "stars": 8206,
+      "forks": 436,
       "currentPeriodStars": 1632,
       "builtBy": [
         {
@@ -220,7 +220,7 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8719,
+      "stars": 8721,
       "forks": 679,
       "currentPeriodStars": 1448,
       "builtBy": [
@@ -255,7 +255,7 @@
       "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24554,
+      "stars": 24555,
       "forks": 2338,
       "currentPeriodStars": 255,
       "builtBy": [
@@ -360,8 +360,8 @@
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 27935,
-      "forks": 2730,
+      "stars": 27938,
+      "forks": 2729,
       "currentPeriodStars": 1324,
       "builtBy": [
         {
@@ -465,8 +465,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15513,
-      "forks": 1175,
+      "stars": 15526,
+      "forks": 1179,
       "currentPeriodStars": 2976,
       "builtBy": [
         {
@@ -490,7 +490,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "AionUi 是一款免费、本地化、开源的 AI 协作工具，支持 Gemini CLI、Claude Code 等多种主流 AI 模型。其核心解决了用户需频繁切换不同 AI 工具界面的痛点，通过统一界面提供 24/7 不间断的集成化编程与对话协作体验。",
+        "source": "deepseek"
+      }
     }
   ]
 }

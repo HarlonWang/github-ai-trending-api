@@ -1,6 +1,6 @@
 {
   "count": 21,
-  "captured_at": "2026-02-13 06:52:58",
+  "captured_at": "2026-02-13 07:26:05",
   "data": [
     {
       "rank": 1,
@@ -150,8 +150,8 @@
       "description": "Display and control your Android device",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 135577,
-      "forks": 12641,
+      "stars": 135582,
+      "forks": 12642,
       "currentPeriodStars": 54,
       "builtBy": [
         {
@@ -430,7 +430,7 @@
       "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14720,
+      "stars": 14721,
       "forks": 2157,
       "currentPeriodStars": 18,
       "builtBy": [
@@ -570,7 +570,7 @@
       "description": "anti-dpi software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1596,
+      "stars": 1597,
       "forks": 49,
       "currentPeriodStars": 27,
       "builtBy": [

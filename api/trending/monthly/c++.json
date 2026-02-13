@@ -1,6 +1,6 @@
 {
   "count": 24,
-  "captured_at": "2026-02-13 06:54:34",
+  "captured_at": "2026-02-13 07:27:45",
   "data": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "description": "MLX: An array framework for Apple silicon",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 23914,
+      "stars": 23915,
       "forks": 1509,
       "currentPeriodStars": 509,
       "builtBy": [
@@ -45,7 +45,7 @@
       "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18650,
+      "stars": 18652,
       "forks": 1652,
       "currentPeriodStars": 1814,
       "builtBy": [
@@ -150,7 +150,7 @@
       "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12481,
+      "stars": 12483,
       "forks": 984,
       "currentPeriodStars": 534,
       "builtBy": [
@@ -185,7 +185,7 @@
       "description": "Port of OpenAI's Whisper model in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 46701,
+      "stars": 46704,
       "forks": 5203,
       "currentPeriodStars": 1095,
       "builtBy": [
@@ -535,7 +535,7 @@
       "description": "PlayStation 3 emulator and debugger",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18158,
+      "stars": 18159,
       "forks": 2209,
       "currentPeriodStars": 222,
       "builtBy": [
@@ -570,8 +570,8 @@
       "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14506,
-      "forks": 20235,
+      "stars": 14507,
+      "forks": 20236,
       "currentPeriodStars": 193,
       "builtBy": [
         {
@@ -605,7 +605,7 @@
       "description": "An open-source 3DS emulator project based on Citra.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 6497,
+      "stars": 6498,
       "forks": 407,
       "currentPeriodStars": 330,
       "builtBy": [
@@ -640,7 +640,7 @@
       "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 70679,
+      "stars": 70680,
       "forks": 16029,
       "currentPeriodStars": 469,
       "builtBy": [
@@ -815,7 +815,7 @@
       "description": "DuckDB is an analytical in-process SQL database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 36066,
+      "stars": 36068,
       "forks": 2926,
       "currentPeriodStars": 767,
       "builtBy": [
