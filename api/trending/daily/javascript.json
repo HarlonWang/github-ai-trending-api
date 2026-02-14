@@ -1,7 +1,7 @@
 {
-  "count": 11,
+  "count": 7,
   "since": "daily",
-  "captured_at": "2026-02-14 00:17:51",
+  "captured_at": "2026-02-14 12:18:11",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 412,
-      "forks": 209,
-      "currentPeriodStars": 106,
+      "stars": 507,
+      "forks": 225,
+      "currentPeriodStars": 223,
       "builtBy": [
         {
           "username": "claude",
@@ -43,49 +43,14 @@
     },
     {
       "rank": 2,
-      "author": "is-a-dev",
-      "repoName": "register",
-      "url": "https://github.com/is-a-dev/register",
-      "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 9538,
-      "forks": 18053,
-      "currentPeriodStars": 8,
-      "builtBy": [
-        {
-          "username": "wdhdev",
-          "avatar": "https://avatars.githubusercontent.com/u/87287585?s=40&v=4"
-        },
-        {
-          "username": "DEV-DIBSTER",
-          "avatar": "https://avatars.githubusercontent.com/u/76603072?s=40&v=4"
-        },
-        {
-          "username": "iostpa",
-          "avatar": "https://avatars.githubusercontent.com/u/69630113?s=40&v=4"
-        },
-        {
-          "username": "STICKnoLOGIC",
-          "avatar": "https://avatars.githubusercontent.com/u/65322242?s=40&v=4"
-        },
-        {
-          "username": "phenax",
-          "avatar": "https://avatars.githubusercontent.com/u/11407672?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 3,
       "author": "yctimlin",
       "repoName": "mcp_excalidraw",
       "url": "https://github.com/yctimlin/mcp_excalidraw",
       "description": "",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 863,
-      "forks": 82,
+      "stars": 881,
+      "forks": 83,
       "currentPeriodStars": 41,
       "builtBy": [
         {
@@ -112,281 +77,176 @@
       "aiSummary": null
     },
     {
-      "rank": 4,
-      "author": "gnmyt",
-      "repoName": "Nexterm",
-      "url": "https://github.com/gnmyt/Nexterm",
-      "description": "The open source server management software for SSH, VNC & RDP",
+      "rank": 3,
+      "author": "louislam",
+      "repoName": "uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 3939,
-      "forks": 208,
-      "currentPeriodStars": 37,
+      "stars": 82792,
+      "forks": 7394,
+      "currentPeriodStars": 34,
       "builtBy": [
         {
-          "username": "gnmyt",
-          "avatar": "https://avatars.githubusercontent.com/u/35641351?s=40&v=4"
+          "username": "louislam",
+          "avatar": "https://avatars.githubusercontent.com/u/1336778?s=40&v=4"
         },
         {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+          "username": "CommanderStorm",
+          "avatar": "https://avatars.githubusercontent.com/u/26258709?s=40&v=4"
         },
         {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+          "username": "chakflying",
+          "avatar": "https://avatars.githubusercontent.com/u/3271800?s=40&v=4"
         },
         {
-          "username": "actions-user",
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4"
+          "username": "Saibamen",
+          "avatar": "https://avatars.githubusercontent.com/u/905878?s=40&v=4"
         },
         {
-          "username": "tcatlas",
-          "avatar": "https://avatars.githubusercontent.com/u/23132187?s=40&v=4"
+          "username": "Computroniks",
+          "avatar": "https://avatars.githubusercontent.com/u/67638596?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 4,
+      "author": "carbon-design-system",
+      "repoName": "carbon",
+      "url": "https://github.com/carbon-design-system/carbon",
+      "description": "A design system built by IBM",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 8762,
+      "forks": 2096,
+      "currentPeriodStars": 7,
+      "builtBy": [
+        {
+          "username": "apps/kodiakhq",
+          "avatar": "https://avatars.githubusercontent.com/in/29196?s=40&v=4"
+        },
+        {
+          "username": "joshblack",
+          "avatar": "https://avatars.githubusercontent.com/u/3901764?s=40&v=4"
+        },
+        {
+          "username": "tw15egan",
+          "avatar": "https://avatars.githubusercontent.com/u/11928039?s=40&v=4"
+        },
+        {
+          "username": "tay1orjones",
+          "avatar": "https://avatars.githubusercontent.com/u/3360588?s=40&v=4"
+        },
+        {
+          "username": "emyarod",
+          "avatar": "https://avatars.githubusercontent.com/u/8265238?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 5,
-      "author": "module-federation",
-      "repoName": "core",
-      "url": "https://github.com/module-federation/core",
-      "description": "Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications",
+      "author": "sveltejs",
+      "repoName": "svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 2435,
-      "forks": 386,
-      "currentPeriodStars": 5,
+      "stars": 85751,
+      "forks": 4769,
+      "currentPeriodStars": 9,
       "builtBy": [
         {
-          "username": "ScriptedAlchemy",
-          "avatar": "https://avatars.githubusercontent.com/u/25274700?s=40&v=4"
+          "username": "Rich-Harris",
+          "avatar": "https://avatars.githubusercontent.com/u/1162160?s=40&v=4"
         },
         {
-          "username": "apps/renovate",
-          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+          "username": "dummdidumm",
+          "avatar": "https://avatars.githubusercontent.com/u/5968653?s=40&v=4"
         },
         {
-          "username": "2heal1",
-          "avatar": "https://avatars.githubusercontent.com/u/41466093?s=40&v=4"
+          "username": "Conduitry",
+          "avatar": "https://avatars.githubusercontent.com/u/16696352?s=40&v=4"
         },
         {
-          "username": "zhoushaw",
-          "avatar": "https://avatars.githubusercontent.com/u/27547179?s=40&v=4"
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         },
         {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+          "username": "trueadm",
+          "avatar": "https://avatars.githubusercontent.com/u/1519870?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 6,
-      "author": "aandrew-me",
-      "repoName": "ytDownloader",
-      "url": "https://github.com/aandrew-me/ytDownloader",
-      "description": "Desktop App for downloading Videos and Audios from hundreds of sites",
+      "author": "pshenok",
+      "repoName": "server-survival",
+      "url": "https://github.com/pshenok/server-survival",
+      "description": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 8118,
-      "forks": 688,
-      "currentPeriodStars": 31,
+      "stars": 4808,
+      "forks": 575,
+      "currentPeriodStars": 109,
       "builtBy": [
         {
-          "username": "aandrew-me",
-          "avatar": "https://avatars.githubusercontent.com/u/66430340?s=40&v=4"
+          "username": "pshenok",
+          "avatar": "https://avatars.githubusercontent.com/u/42213409?s=40&v=4"
         },
         {
-          "username": "albanobattistella",
-          "avatar": "https://avatars.githubusercontent.com/u/34811668?s=40&v=4"
+          "username": "kant2002",
+          "avatar": "https://avatars.githubusercontent.com/u/4257079?s=40&v=4"
         },
         {
-          "username": "Muxutruk2",
-          "avatar": "https://avatars.githubusercontent.com/u/156070698?s=40&v=4"
+          "username": "velosojonathan5",
+          "avatar": "https://avatars.githubusercontent.com/u/16419310?s=40&v=4"
         },
         {
-          "username": "soredake",
-          "avatar": "https://avatars.githubusercontent.com/u/5204968?s=40&v=4"
+          "username": "TraxionRPh",
+          "avatar": "https://avatars.githubusercontent.com/u/103160824?s=40&v=4"
         },
         {
-          "username": "candrapersada",
-          "avatar": "https://avatars.githubusercontent.com/u/36833664?s=40&v=4"
+          "username": "ikkira",
+          "avatar": "https://avatars.githubusercontent.com/u/4424977?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 7,
-      "author": "mui",
-      "repoName": "material-ui",
-      "url": "https://github.com/mui/material-ui",
-      "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+      "author": "github",
+      "repoName": "awesome-copilot",
+      "url": "https://github.com/github/awesome-copilot",
+      "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 97799,
-      "forks": 32763,
-      "currentPeriodStars": 17,
+      "stars": 21179,
+      "forks": 2419,
+      "currentPeriodStars": 93,
       "builtBy": [
         {
-          "username": "oliviertassinari",
-          "avatar": "https://avatars.githubusercontent.com/u/3165635?s=40&v=4"
+          "username": "aaronpowell",
+          "avatar": "https://avatars.githubusercontent.com/u/434140?s=40&v=4"
         },
         {
-          "username": "apps/renovate",
-          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+          "username": "apps/copilot-pull-request-reviewer",
+          "avatar": "https://avatars.githubusercontent.com/in/946600?s=40&v=4"
         },
         {
-          "username": "dmtrKovalenko",
-          "avatar": "https://avatars.githubusercontent.com/u/16926049?s=40&v=4"
+          "username": "codemillmatt",
+          "avatar": "https://avatars.githubusercontent.com/u/2053639?s=40&v=4"
         },
         {
-          "username": "apps/dependabot-preview",
-          "avatar": "https://avatars.githubusercontent.com/in/2141?s=40&v=4"
+          "username": "apps/copilot-swe-agent",
+          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
         },
         {
-          "username": "eps1lon",
-          "avatar": "https://avatars.githubusercontent.com/u/12292047?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 8,
-      "author": "vercel",
-      "repoName": "next.js",
-      "url": "https://github.com/vercel/next.js",
-      "description": "The React Framework",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 137653,
-      "forks": 30455,
-      "currentPeriodStars": 35,
-      "builtBy": [
-        {
-          "username": "ijjk",
-          "avatar": "https://avatars.githubusercontent.com/u/22380829?s=40&v=4"
-        },
-        {
-          "username": "timneutkens",
-          "avatar": "https://avatars.githubusercontent.com/u/6324199?s=40&v=4"
-        },
-        {
-          "username": "sokra",
-          "avatar": "https://avatars.githubusercontent.com/u/1365881?s=40&v=4"
-        },
-        {
-          "username": "vercel-release-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/88769842?s=40&v=4"
-        },
-        {
-          "username": "huozhi",
-          "avatar": "https://avatars.githubusercontent.com/u/4800338?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 9,
-      "author": "PipedreamHQ",
-      "repoName": "pipedream",
-      "url": "https://github.com/PipedreamHQ/pipedream",
-      "description": "Connect APIs, remarkably fast. Free for developers.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 11086,
-      "forks": 5578,
-      "currentPeriodStars": 3,
-      "builtBy": [
-        {
-          "username": "dylburger",
-          "avatar": "https://avatars.githubusercontent.com/u/242668?s=40&v=4"
-        },
-        {
-          "username": "michelle0927",
-          "avatar": "https://avatars.githubusercontent.com/u/10889229?s=40&v=4"
-        },
-        {
-          "username": "danhsiung",
-          "avatar": "https://avatars.githubusercontent.com/u/35384182?s=40&v=4"
-        },
-        {
-          "username": "luancazarine",
-          "avatar": "https://avatars.githubusercontent.com/u/5638699?s=40&v=4"
-        },
-        {
-          "username": "jcortes",
-          "avatar": "https://avatars.githubusercontent.com/u/506051?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 10,
-      "author": "ToolJet",
-      "repoName": "ToolJet",
-      "url": "https://github.com/ToolJet/ToolJet",
-      "description": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 37423,
-      "forks": 4942,
-      "currentPeriodStars": 4,
-      "builtBy": [
-        {
-          "username": "Navaneeth-pk",
-          "avatar": "https://avatars.githubusercontent.com/u/7828962?s=40&v=4"
-        },
-        {
-          "username": "arpitnath",
-          "avatar": "https://avatars.githubusercontent.com/u/67645175?s=40&v=4"
-        },
-        {
-          "username": "adishM98",
-          "avatar": "https://avatars.githubusercontent.com/u/44204658?s=40&v=4"
-        },
-        {
-          "username": "akshaysasidrn",
-          "avatar": "https://avatars.githubusercontent.com/u/11629675?s=40&v=4"
-        },
-        {
-          "username": "johnsoncherian",
-          "avatar": "https://avatars.githubusercontent.com/u/57667706?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 11,
-      "author": "nodejs",
-      "repoName": "node",
-      "url": "https://github.com/nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 115700,
-      "forks": 34727,
-      "currentPeriodStars": 19,
-      "builtBy": [
-        {
-          "username": "Trott",
-          "avatar": "https://avatars.githubusercontent.com/u/718899?s=40&v=4"
-        },
-        {
-          "username": "ry",
-          "avatar": "https://avatars.githubusercontent.com/u/80?s=40&v=4"
-        },
-        {
-          "username": "bnoordhuis",
-          "avatar": "https://avatars.githubusercontent.com/u/275871?s=40&v=4"
-        },
-        {
-          "username": "addaleax",
-          "avatar": "https://avatars.githubusercontent.com/u/899444?s=40&v=4"
-        },
-        {
-          "username": "isaacs",
-          "avatar": "https://avatars.githubusercontent.com/u/9287?s=40&v=4"
+          "username": "jhauga",
+          "avatar": "https://avatars.githubusercontent.com/u/10998676?s=40&v=4"
         }
       ],
       "aiSummary": null

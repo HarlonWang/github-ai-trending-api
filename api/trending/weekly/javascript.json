@@ -1,39 +1,39 @@
 {
-  "count": 10,
+  "count": 12,
   "since": "weekly",
-  "captured_at": "2026-02-14 00:18:42",
+  "captured_at": "2026-02-14 12:19:02",
   "data": [
     {
       "rank": 1,
-      "author": "viarotel-org",
-      "repoName": "escrcpy",
-      "url": "https://github.com/viarotel-org/escrcpy",
-      "description": "📱 Display and control your Android device graphically with scrcpy.",
+      "author": "yctimlin",
+      "repoName": "mcp_excalidraw",
+      "url": "https://github.com/yctimlin/mcp_excalidraw",
+      "description": "",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 8128,
-      "forks": 594,
-      "currentPeriodStars": 478,
+      "stars": 881,
+      "forks": 83,
+      "currentPeriodStars": 146,
       "builtBy": [
         {
-          "username": "viarotel",
-          "avatar": "https://avatars.githubusercontent.com/u/38282758?s=40&v=4"
+          "username": "yctimlin",
+          "avatar": "https://avatars.githubusercontent.com/u/37396655?s=40&v=4"
         },
         {
-          "username": "reindex-ot",
-          "avatar": "https://avatars.githubusercontent.com/u/32851879?s=40&v=4"
+          "username": "frNNcs",
+          "avatar": "https://avatars.githubusercontent.com/u/34633159?s=40&v=4"
         },
         {
-          "username": "dainamiter",
-          "avatar": "https://avatars.githubusercontent.com/u/189065486?s=40&v=4"
+          "username": "ycsahara",
+          "avatar": "https://avatars.githubusercontent.com/u/171326707?s=40&v=4"
         },
         {
-          "username": "salmanmkc",
-          "avatar": "https://avatars.githubusercontent.com/u/32169182?s=40&v=4"
+          "username": "gianluca-venturini",
+          "avatar": "https://avatars.githubusercontent.com/u/6535621?s=40&v=4"
         },
         {
-          "username": "ahmed-0011",
-          "avatar": "https://avatars.githubusercontent.com/u/74181508?s=40&v=4"
+          "username": "Songmengdi",
+          "avatar": "https://avatars.githubusercontent.com/u/40119877?s=40&v=4"
         }
       ],
       "aiSummary": null
@@ -46,8 +46,8 @@
       "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 3235,
-      "forks": 128,
+      "stars": 3360,
+      "forks": 131,
       "currentPeriodStars": 869,
       "builtBy": [
         {
@@ -75,14 +75,49 @@
     },
     {
       "rank": 3,
+      "author": "viarotel-org",
+      "repoName": "escrcpy",
+      "url": "https://github.com/viarotel-org/escrcpy",
+      "description": "📱 Display and control your Android device graphically with scrcpy.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 8136,
+      "forks": 594,
+      "currentPeriodStars": 478,
+      "builtBy": [
+        {
+          "username": "viarotel",
+          "avatar": "https://avatars.githubusercontent.com/u/38282758?s=40&v=4"
+        },
+        {
+          "username": "reindex-ot",
+          "avatar": "https://avatars.githubusercontent.com/u/32851879?s=40&v=4"
+        },
+        {
+          "username": "dainamiter",
+          "avatar": "https://avatars.githubusercontent.com/u/189065486?s=40&v=4"
+        },
+        {
+          "username": "salmanmkc",
+          "avatar": "https://avatars.githubusercontent.com/u/32169182?s=40&v=4"
+        },
+        {
+          "username": "ahmed-0011",
+          "avatar": "https://avatars.githubusercontent.com/u/74181508?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 4,
       "author": "qist",
       "repoName": "tvbox",
       "url": "https://github.com/qist/tvbox",
       "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 8011,
-      "forks": 2987,
+      "stars": 8032,
+      "forks": 2992,
       "currentPeriodStars": 186,
       "builtBy": [
         {
@@ -109,71 +144,36 @@
       "aiSummary": null
     },
     {
-      "rank": 4,
-      "author": "yctimlin",
-      "repoName": "mcp_excalidraw",
-      "url": "https://github.com/yctimlin/mcp_excalidraw",
-      "description": "",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 863,
-      "forks": 82,
-      "currentPeriodStars": 146,
-      "builtBy": [
-        {
-          "username": "yctimlin",
-          "avatar": "https://avatars.githubusercontent.com/u/37396655?s=40&v=4"
-        },
-        {
-          "username": "frNNcs",
-          "avatar": "https://avatars.githubusercontent.com/u/34633159?s=40&v=4"
-        },
-        {
-          "username": "ycsahara",
-          "avatar": "https://avatars.githubusercontent.com/u/171326707?s=40&v=4"
-        },
-        {
-          "username": "gianluca-venturini",
-          "avatar": "https://avatars.githubusercontent.com/u/6535621?s=40&v=4"
-        },
-        {
-          "username": "Songmengdi",
-          "avatar": "https://avatars.githubusercontent.com/u/40119877?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
       "rank": 5,
-      "author": "anuraghazra",
-      "repoName": "github-readme-stats",
-      "url": "https://github.com/anuraghazra/github-readme-stats",
-      "description": "⚡ Dynamically generated stats for your github readmes",
+      "author": "justlovemaki",
+      "repoName": "AIClient-2-API",
+      "url": "https://github.com/justlovemaki/AIClient-2-API",
+      "description": "Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 78348,
-      "forks": 30443,
-      "currentPeriodStars": 145,
+      "stars": 4028,
+      "forks": 632,
+      "currentPeriodStars": 406,
       "builtBy": [
         {
-          "username": "qwerty541",
-          "avatar": "https://avatars.githubusercontent.com/u/53787217?s=40&v=4"
+          "username": "justlikemaki",
+          "avatar": "https://avatars.githubusercontent.com/u/12859173?s=40&v=4"
         },
         {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+          "username": "justlovemaki",
+          "avatar": "https://avatars.githubusercontent.com/u/22851716?s=40&v=4"
         },
         {
-          "username": "anuraghazra",
-          "avatar": "https://avatars.githubusercontent.com/u/35374649?s=40&v=4"
+          "username": "leonaii",
+          "avatar": "https://avatars.githubusercontent.com/u/7904076?s=40&v=4"
         },
         {
-          "username": "rickstaa",
-          "avatar": "https://avatars.githubusercontent.com/u/17570430?s=40&v=4"
+          "username": "MicoMiOvO",
+          "avatar": "https://avatars.githubusercontent.com/u/119792728?s=40&v=4"
         },
         {
-          "username": "opheliagoldstein",
-          "avatar": "https://avatars.githubusercontent.com/u/159258143?s=40&v=4"
+          "username": "tickernelz",
+          "avatar": "https://avatars.githubusercontent.com/u/10543415?s=40&v=4"
         }
       ],
       "aiSummary": null
@@ -186,8 +186,8 @@
       "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 36592,
-      "forks": 2851,
+      "stars": 36591,
+      "forks": 2852,
       "currentPeriodStars": 766,
       "builtBy": [
         {
@@ -215,49 +215,119 @@
     },
     {
       "rank": 7,
-      "author": "Stremio",
-      "repoName": "stremio-web",
-      "url": "https://github.com/Stremio/stremio-web",
-      "description": "Stremio - Freedom to Stream",
+      "author": "anuraghazra",
+      "repoName": "github-readme-stats",
+      "url": "https://github.com/anuraghazra/github-readme-stats",
+      "description": "⚡ Dynamically generated stats for your github readmes",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 8977,
-      "forks": 999,
-      "currentPeriodStars": 52,
+      "stars": 78352,
+      "forks": 30457,
+      "currentPeriodStars": 145,
       "builtBy": [
         {
-          "username": "nklhtv",
-          "avatar": "https://avatars.githubusercontent.com/u/5950722?s=40&v=4"
+          "username": "qwerty541",
+          "avatar": "https://avatars.githubusercontent.com/u/53787217?s=40&v=4"
         },
         {
-          "username": "tymmesyde",
-          "avatar": "https://avatars.githubusercontent.com/u/7889816?s=40&v=4"
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "kKaskak",
-          "avatar": "https://avatars.githubusercontent.com/u/117831817?s=40&v=4"
+          "username": "anuraghazra",
+          "avatar": "https://avatars.githubusercontent.com/u/35374649?s=40&v=4"
         },
         {
-          "username": "swetlasg",
-          "avatar": "https://avatars.githubusercontent.com/u/15102316?s=40&v=4"
+          "username": "rickstaa",
+          "avatar": "https://avatars.githubusercontent.com/u/17570430?s=40&v=4"
         },
         {
-          "username": "Botsy",
-          "avatar": "https://avatars.githubusercontent.com/u/10400528?s=40&v=4"
+          "username": "opheliagoldstein",
+          "avatar": "https://avatars.githubusercontent.com/u/159258143?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 8,
+      "author": "GitSquared",
+      "repoName": "edex-ui",
+      "url": "https://github.com/GitSquared/edex-ui",
+      "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 44222,
+      "forks": 2995,
+      "currentPeriodStars": 155,
+      "builtBy": [
+        {
+          "username": "GitSquared",
+          "avatar": "https://avatars.githubusercontent.com/u/24496417?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot-preview",
+          "avatar": "https://avatars.githubusercontent.com/in/2141?s=40&v=4"
+        },
+        {
+          "username": "dependabot-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/36207117?s=40&v=4"
+        },
+        {
+          "username": "apps/greenkeeper",
+          "avatar": "https://avatars.githubusercontent.com/in/505?s=40&v=4"
+        },
+        {
+          "username": "greenkeeperio-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/14790466?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 9,
+      "author": "BrasilAPI",
+      "repoName": "BrasilAPI",
+      "url": "https://github.com/BrasilAPI/BrasilAPI",
+      "description": "Vamos transformar o Brasil em uma API?",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 10193,
+      "forks": 694,
+      "currentPeriodStars": 81,
+      "builtBy": [
+        {
+          "username": "LorhanSohaky",
+          "avatar": "https://avatars.githubusercontent.com/u/16273730?s=40&v=4"
+        },
+        {
+          "username": "lucianopf",
+          "avatar": "https://avatars.githubusercontent.com/u/8251208?s=40&v=4"
+        },
+        {
+          "username": "RodriAndreotti",
+          "avatar": "https://avatars.githubusercontent.com/u/9449048?s=40&v=4"
+        },
+        {
+          "username": "murilohns",
+          "avatar": "https://avatars.githubusercontent.com/u/18074134?s=40&v=4"
+        },
+        {
+          "username": "filipedeschamps",
+          "avatar": "https://avatars.githubusercontent.com/u/4248081?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 10,
       "author": "tangly1024",
       "repoName": "NotionNext",
       "url": "https://github.com/tangly1024/NotionNext",
       "description": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 11098,
-      "forks": 14409,
+      "stars": 11100,
+      "forks": 14415,
       "currentPeriodStars": 69,
       "builtBy": [
         {
@@ -284,14 +354,49 @@
       "aiSummary": null
     },
     {
-      "rank": 9,
+      "rank": 11,
+      "author": "harvard-edge",
+      "repoName": "cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Introduction to Machine Learning Systems",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 18185,
+      "forks": 2126,
+      "currentPeriodStars": 362,
+      "builtBy": [
+        {
+          "username": "profvjreddi",
+          "avatar": "https://avatars.githubusercontent.com/u/6807956?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        },
+        {
+          "username": "hzeljko",
+          "avatar": "https://avatars.githubusercontent.com/u/36451783?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "Mjrovai",
+          "avatar": "https://avatars.githubusercontent.com/u/17109416?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 12,
       "author": "maxandrews",
       "repoName": "Epstein-doc-explorer",
       "url": "https://github.com/maxandrews/Epstein-doc-explorer",
       "description": "a graph explorer of the Epstein emails",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 517,
+      "stars": 518,
       "forks": 96,
       "currentPeriodStars": 90,
       "builtBy": [
@@ -302,41 +407,6 @@
         {
           "username": "maxandrews",
           "avatar": "https://avatars.githubusercontent.com/u/173085487?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 10,
-      "author": "GitSquared",
-      "repoName": "edex-ui",
-      "url": "https://github.com/GitSquared/edex-ui",
-      "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 44217,
-      "forks": 2991,
-      "currentPeriodStars": 155,
-      "builtBy": [
-        {
-          "username": "GitSquared",
-          "avatar": "https://avatars.githubusercontent.com/u/24496417?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot-preview",
-          "avatar": "https://avatars.githubusercontent.com/in/2141?s=40&v=4"
-        },
-        {
-          "username": "dependabot-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/36207117?s=40&v=4"
-        },
-        {
-          "username": "apps/greenkeeper",
-          "avatar": "https://avatars.githubusercontent.com/in/505?s=40&v=4"
-        },
-        {
-          "username": "greenkeeperio-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/14790466?s=40&v=4"
         }
       ],
       "aiSummary": null

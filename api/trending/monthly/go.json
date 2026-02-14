@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "monthly",
-  "captured_at": "2026-02-14 00:19:42",
+  "captured_at": "2026-02-14 12:20:02",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 162543,
-      "forks": 14572,
+      "stars": 162576,
+      "forks": 14576,
       "currentPeriodStars": 3676,
       "builtBy": [
         {
@@ -46,8 +46,8 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16186,
-      "forks": 960,
+      "stars": 16243,
+      "forks": 965,
       "currentPeriodStars": 6340,
       "builtBy": [
         {
@@ -81,8 +81,8 @@
       "description": "A tool for secrets management, encryption as a service, and privileged access management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35022,
-      "forks": 4595,
+      "stars": 35028,
+      "forks": 4596,
       "currentPeriodStars": 1270,
       "builtBy": [
         {
@@ -116,8 +116,8 @@
       "description": "Ultimate camera streaming application",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12285,
-      "forks": 949,
+      "stars": 12292,
+      "forks": 950,
       "currentPeriodStars": 1123,
       "builtBy": [
         {
@@ -151,8 +151,8 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1711,
-      "forks": 169,
+      "stars": 2014,
+      "forks": 192,
       "currentPeriodStars": 1282,
       "builtBy": [
         {
@@ -180,49 +180,14 @@
     },
     {
       "rank": 6,
-      "author": "charmbracelet",
-      "repoName": "crush",
-      "url": "https://github.com/charmbracelet/crush",
-      "description": "Glamourous agentic coding for all 💘",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 19864,
-      "forks": 1224,
-      "currentPeriodStars": 2191,
-      "builtBy": [
-        {
-          "username": "kujtimiihoxha",
-          "avatar": "https://avatars.githubusercontent.com/u/14311743?s=40&v=4"
-        },
-        {
-          "username": "andreynering",
-          "avatar": "https://avatars.githubusercontent.com/u/7011819?s=40&v=4"
-        },
-        {
-          "username": "aymanbagabas",
-          "avatar": "https://avatars.githubusercontent.com/u/3187948?s=40&v=4"
-        },
-        {
-          "username": "caarlos0",
-          "avatar": "https://avatars.githubusercontent.com/u/245435?s=40&v=4"
-        },
-        {
-          "username": "meowgorithm",
-          "avatar": "https://avatars.githubusercontent.com/u/25087?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 7,
       "author": "putyy",
       "repoName": "res-downloader",
       "url": "https://github.com/putyy/res-downloader",
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15188,
-      "forks": 1882,
+      "stars": 15196,
+      "forks": 1885,
       "currentPeriodStars": 1956,
       "builtBy": [
         {
@@ -245,84 +210,14 @@
       "aiSummary": null
     },
     {
-      "rank": 8,
-      "author": "hashicorp",
-      "repoName": "terraform-provider-aws",
-      "url": "https://github.com/hashicorp/terraform-provider-aws",
-      "description": "The AWS Provider enables Terraform to manage AWS resources.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 10743,
-      "forks": 9960,
-      "currentPeriodStars": 74,
-      "builtBy": [
-        {
-          "username": "ewbankkit",
-          "avatar": "https://avatars.githubusercontent.com/u/2404182?s=40&v=4"
-        },
-        {
-          "username": "YakDriver",
-          "avatar": "https://avatars.githubusercontent.com/u/31492422?s=40&v=4"
-        },
-        {
-          "username": "gdavison",
-          "avatar": "https://avatars.githubusercontent.com/u/1148298?s=40&v=4"
-        },
-        {
-          "username": "bflad",
-          "avatar": "https://avatars.githubusercontent.com/u/189114?s=40&v=4"
-        },
-        {
-          "username": "jar-b",
-          "avatar": "https://avatars.githubusercontent.com/u/14969179?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 9,
-      "author": "kyverno",
-      "repoName": "kyverno",
-      "url": "https://github.com/kyverno/kyverno",
-      "description": "Cloud Native Policy Management",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7392,
-      "forks": 1231,
-      "currentPeriodStars": 121,
-      "builtBy": [
-        {
-          "username": "realshuting",
-          "avatar": "https://avatars.githubusercontent.com/u/25727662?s=40&v=4"
-        },
-        {
-          "username": "eddycharly",
-          "avatar": "https://avatars.githubusercontent.com/u/47974576?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "JimBugwadia",
-          "avatar": "https://avatars.githubusercontent.com/u/5489990?s=40&v=4"
-        },
-        {
-          "username": "MariamFahmy98",
-          "avatar": "https://avatars.githubusercontent.com/u/55502281?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 10,
+      "rank": 7,
       "author": "netbirdio",
       "repoName": "netbird",
       "url": "https://github.com/netbirdio/netbird",
       "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22427,
+      "stars": 22452,
       "forks": 1097,
       "currentPeriodStars": 1473,
       "builtBy": [
@@ -350,14 +245,49 @@
       "aiSummary": null
     },
     {
-      "rank": 11,
+      "rank": 8,
+      "author": "hashicorp",
+      "repoName": "terraform-provider-aws",
+      "url": "https://github.com/hashicorp/terraform-provider-aws",
+      "description": "The AWS Provider enables Terraform to manage AWS resources.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 10744,
+      "forks": 9959,
+      "currentPeriodStars": 74,
+      "builtBy": [
+        {
+          "username": "ewbankkit",
+          "avatar": "https://avatars.githubusercontent.com/u/2404182?s=40&v=4"
+        },
+        {
+          "username": "YakDriver",
+          "avatar": "https://avatars.githubusercontent.com/u/31492422?s=40&v=4"
+        },
+        {
+          "username": "gdavison",
+          "avatar": "https://avatars.githubusercontent.com/u/1148298?s=40&v=4"
+        },
+        {
+          "username": "bflad",
+          "avatar": "https://avatars.githubusercontent.com/u/189114?s=40&v=4"
+        },
+        {
+          "username": "jar-b",
+          "avatar": "https://avatars.githubusercontent.com/u/14969179?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 9,
       "author": "korotovsky",
       "repoName": "slack-mcp-server",
       "url": "https://github.com/korotovsky/slack-mcp-server",
       "description": "The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1351,
+      "stars": 1353,
       "forks": 235,
       "currentPeriodStars": 253,
       "builtBy": [
@@ -385,85 +315,50 @@
       "aiSummary": null
     },
     {
-      "rank": 12,
-      "author": "juicedata",
-      "repoName": "juicefs",
-      "url": "https://github.com/juicedata/juicefs",
-      "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+      "rank": 10,
+      "author": "kyverno",
+      "repoName": "kyverno",
+      "url": "https://github.com/kyverno/kyverno",
+      "description": "Cloud Native Policy Management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 13212,
-      "forks": 1161,
-      "currentPeriodStars": 544,
+      "stars": 7394,
+      "forks": 1232,
+      "currentPeriodStars": 121,
       "builtBy": [
         {
-          "username": "davies",
-          "avatar": "https://avatars.githubusercontent.com/u/40902?s=40&v=4"
+          "username": "realshuting",
+          "avatar": "https://avatars.githubusercontent.com/u/25727662?s=40&v=4"
         },
         {
-          "username": "zhijian-pro",
-          "avatar": "https://avatars.githubusercontent.com/u/31313340?s=40&v=4"
+          "username": "eddycharly",
+          "avatar": "https://avatars.githubusercontent.com/u/47974576?s=40&v=4"
         },
         {
-          "username": "SandyXSD",
-          "avatar": "https://avatars.githubusercontent.com/u/13882241?s=40&v=4"
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "zhoucheng361",
-          "avatar": "https://avatars.githubusercontent.com/u/100545994?s=40&v=4"
+          "username": "JimBugwadia",
+          "avatar": "https://avatars.githubusercontent.com/u/5489990?s=40&v=4"
         },
         {
-          "username": "xiaogaozi",
-          "avatar": "https://avatars.githubusercontent.com/u/149645?s=40&v=4"
+          "username": "MariamFahmy98",
+          "avatar": "https://avatars.githubusercontent.com/u/55502281?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
-      "rank": 13,
-      "author": "tailscale",
-      "repoName": "tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 28255,
-      "forks": 2281,
-      "currentPeriodStars": 1121,
-      "builtBy": [
-        {
-          "username": "bradfitz",
-          "avatar": "https://avatars.githubusercontent.com/u/2621?s=40&v=4"
-        },
-        {
-          "username": "danderson",
-          "avatar": "https://avatars.githubusercontent.com/u/1918?s=40&v=4"
-        },
-        {
-          "username": "josharian",
-          "avatar": "https://avatars.githubusercontent.com/u/67496?s=40&v=4"
-        },
-        {
-          "username": "andrew-d",
-          "avatar": "https://avatars.githubusercontent.com/u/1079173?s=40&v=4"
-        },
-        {
-          "username": "raggi",
-          "avatar": "https://avatars.githubusercontent.com/u/348?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 14,
+      "rank": 11,
       "author": "go-vikunja",
       "repoName": "vikunja",
       "url": "https://github.com/go-vikunja/vikunja",
       "description": "The to-do app to organize your life.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3328,
-      "forks": 307,
+      "stars": 3332,
+      "forks": 306,
       "currentPeriodStars": 305,
       "builtBy": [
         {
@@ -490,15 +385,50 @@
       "aiSummary": null
     },
     {
-      "rank": 15,
+      "rank": 12,
+      "author": "aquasecurity",
+      "repoName": "trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 31904,
+      "forks": 2947,
+      "currentPeriodStars": 1018,
+      "builtBy": [
+        {
+          "username": "knqyf263",
+          "avatar": "https://avatars.githubusercontent.com/u/2253692?s=40&v=4"
+        },
+        {
+          "username": "DmitriyLewen",
+          "avatar": "https://avatars.githubusercontent.com/u/91113035?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "nikpivkin",
+          "avatar": "https://avatars.githubusercontent.com/u/100182843?s=40&v=4"
+        },
+        {
+          "username": "simar7",
+          "avatar": "https://avatars.githubusercontent.com/u/1254783?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 13,
       "author": "github",
       "repoName": "github-mcp-server",
       "url": "https://github.com/github/github-mcp-server",
       "description": "GitHub's official MCP Server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26902,
-      "forks": 3577,
+      "stars": 26913,
+      "forks": 3578,
       "currentPeriodStars": 1123,
       "builtBy": [
         {
@@ -525,6 +455,76 @@
       "aiSummary": null
     },
     {
+      "rank": 14,
+      "author": "cli",
+      "repoName": "cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 42456,
+      "forks": 7931,
+      "currentPeriodStars": 534,
+      "builtBy": [
+        {
+          "username": "mislav",
+          "avatar": "https://avatars.githubusercontent.com/u/887?s=40&v=4"
+        },
+        {
+          "username": "vilmibm",
+          "avatar": "https://avatars.githubusercontent.com/u/98482?s=40&v=4"
+        },
+        {
+          "username": "BagToad",
+          "avatar": "https://avatars.githubusercontent.com/u/47394200?s=40&v=4"
+        },
+        {
+          "username": "williammartin",
+          "avatar": "https://avatars.githubusercontent.com/u/1611510?s=40&v=4"
+        },
+        {
+          "username": "andyfeller",
+          "avatar": "https://avatars.githubusercontent.com/u/2089743?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 15,
+      "author": "tailscale",
+      "repoName": "tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 28268,
+      "forks": 2284,
+      "currentPeriodStars": 1121,
+      "builtBy": [
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?s=40&v=4"
+        },
+        {
+          "username": "danderson",
+          "avatar": "https://avatars.githubusercontent.com/u/1918?s=40&v=4"
+        },
+        {
+          "username": "josharian",
+          "avatar": "https://avatars.githubusercontent.com/u/67496?s=40&v=4"
+        },
+        {
+          "username": "andrew-d",
+          "avatar": "https://avatars.githubusercontent.com/u/1079173?s=40&v=4"
+        },
+        {
+          "username": "raggi",
+          "avatar": "https://avatars.githubusercontent.com/u/348?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
       "rank": 16,
       "author": "ArvinLovegood",
       "repoName": "go-stock",
@@ -532,7 +532,7 @@
       "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4446,
+      "stars": 4458,
       "forks": 738,
       "currentPeriodStars": 724,
       "builtBy": [
@@ -561,105 +561,101 @@
     },
     {
       "rank": 17,
-      "author": "cli",
-      "repoName": "cli",
-      "url": "https://github.com/cli/cli",
-      "description": "GitHub’s official command line tool",
+      "author": "juanfont",
+      "repoName": "headscale",
+      "url": "https://github.com/juanfont/headscale",
+      "description": "An open source, self-hosted implementation of the Tailscale control server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 42447,
-      "forks": 7928,
-      "currentPeriodStars": 534,
+      "stars": 35339,
+      "forks": 1899,
+      "currentPeriodStars": 1146,
       "builtBy": [
         {
-          "username": "mislav",
-          "avatar": "https://avatars.githubusercontent.com/u/887?s=40&v=4"
+          "username": "kradalby",
+          "avatar": "https://avatars.githubusercontent.com/u/98431?s=40&v=4"
         },
         {
-          "username": "vilmibm",
-          "avatar": "https://avatars.githubusercontent.com/u/98482?s=40&v=4"
+          "username": "juanfont",
+          "avatar": "https://avatars.githubusercontent.com/u/181059?s=40&v=4"
         },
         {
-          "username": "BagToad",
-          "avatar": "https://avatars.githubusercontent.com/u/47394200?s=40&v=4"
+          "username": "nblock",
+          "avatar": "https://avatars.githubusercontent.com/u/131119?s=40&v=4"
         },
         {
-          "username": "williammartin",
-          "avatar": "https://avatars.githubusercontent.com/u/1611510?s=40&v=4"
-        },
-        {
-          "username": "andyfeller",
-          "avatar": "https://avatars.githubusercontent.com/u/2089743?s=40&v=4"
+          "username": "restanrm",
+          "avatar": "https://avatars.githubusercontent.com/u/4344371?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 18,
-      "author": "cilium",
-      "repoName": "cilium",
-      "url": "https://github.com/cilium/cilium",
-      "description": "eBPF-based Networking, Security, and Observability",
+      "author": "abiosoft",
+      "repoName": "colima",
+      "url": "https://github.com/abiosoft/colima",
+      "description": "Container runtimes on macOS (and Linux) with minimal setup",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 23679,
-      "forks": 3608,
-      "currentPeriodStars": 446,
+      "stars": 26910,
+      "forks": 530,
+      "currentPeriodStars": 670,
       "builtBy": [
         {
-          "username": "aanm",
-          "avatar": "https://avatars.githubusercontent.com/u/5714066?s=40&v=4"
+          "username": "abiosoft",
+          "avatar": "https://avatars.githubusercontent.com/u/240448?s=40&v=4"
         },
         {
-          "username": "tgraf",
-          "avatar": "https://avatars.githubusercontent.com/u/1417913?s=40&v=4"
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "joestringer",
-          "avatar": "https://avatars.githubusercontent.com/u/1243336?s=40&v=4"
+          "username": "rfay",
+          "avatar": "https://avatars.githubusercontent.com/u/112444?s=40&v=4"
         },
         {
-          "username": "tklauser",
-          "avatar": "https://avatars.githubusercontent.com/u/539708?s=40&v=4"
+          "username": "LaszloGombos",
+          "avatar": "https://avatars.githubusercontent.com/u/1522773?s=40&v=4"
         },
         {
-          "username": "jrajahalme",
-          "avatar": "https://avatars.githubusercontent.com/u/6518235?s=40&v=4"
+          "username": "artygus",
+          "avatar": "https://avatars.githubusercontent.com/u/4974968?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 19,
-      "author": "lharries",
-      "repoName": "whatsapp-mcp",
-      "url": "https://github.com/lharries/whatsapp-mcp",
-      "description": "WhatsApp MCP server",
+      "author": "charmbracelet",
+      "repoName": "crush",
+      "url": "https://github.com/charmbracelet/crush",
+      "description": "Glamourous agentic coding for all 💘",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5314,
-      "forks": 880,
-      "currentPeriodStars": 126,
+      "stars": 19921,
+      "forks": 1228,
+      "currentPeriodStars": 2191,
       "builtBy": [
         {
-          "username": "lharries",
-          "avatar": "https://avatars.githubusercontent.com/u/22766134?s=40&v=4"
+          "username": "kujtimiihoxha",
+          "avatar": "https://avatars.githubusercontent.com/u/14311743?s=40&v=4"
         },
         {
-          "username": "yaniv-golan",
-          "avatar": "https://avatars.githubusercontent.com/u/5079117?s=40&v=4"
+          "username": "andreynering",
+          "avatar": "https://avatars.githubusercontent.com/u/7011819?s=40&v=4"
         },
         {
-          "username": "aastroza",
-          "avatar": "https://avatars.githubusercontent.com/u/8590877?s=40&v=4"
+          "username": "aymanbagabas",
+          "avatar": "https://avatars.githubusercontent.com/u/3187948?s=40&v=4"
         },
         {
-          "username": "eltociear",
-          "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&v=4"
+          "username": "caarlos0",
+          "avatar": "https://avatars.githubusercontent.com/u/245435?s=40&v=4"
         },
         {
-          "username": "cs4alhaider",
-          "avatar": "https://avatars.githubusercontent.com/u/26744246?s=40&v=4"
+          "username": "meowgorithm",
+          "avatar": "https://avatars.githubusercontent.com/u/25087?s=40&v=4"
         }
       ],
       "aiSummary": null

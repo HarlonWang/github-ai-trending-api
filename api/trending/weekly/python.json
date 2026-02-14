@@ -1,7 +1,7 @@
 {
   "count": 13,
   "since": "weekly",
-  "captured_at": "2026-02-14 00:18:38",
+  "captured_at": "2026-02-14 12:18:58",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 31993,
-      "forks": 2131,
+      "stars": 32138,
+      "forks": 2144,
       "currentPeriodStars": 7832,
       "builtBy": [
         {
@@ -43,49 +43,14 @@
     },
     {
       "rank": 2,
-      "author": "openai",
-      "repoName": "skills",
-      "url": "https://github.com/openai/skills",
-      "description": "Skills Catalog for Codex",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 8356,
-      "forks": 465,
-      "currentPeriodStars": 3747,
-      "builtBy": [
-        {
-          "username": "gverma-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
-        },
-        {
-          "username": "dkundel-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4"
-        },
-        {
-          "username": "vb-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&v=4"
-        },
-        {
-          "username": "ae-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&v=4"
-        },
-        {
-          "username": "edward-bayes",
-          "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 3,
       "author": "Jeffallan",
       "repoName": "claude-skills",
       "url": "https://github.com/Jeffallan/claude-skills",
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2162,
-      "forks": 142,
+      "stars": 2347,
+      "forks": 155,
       "currentPeriodStars": 1711,
       "builtBy": [
         {
@@ -115,6 +80,41 @@
       }
     },
     {
+      "rank": 3,
+      "author": "openai",
+      "repoName": "skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 8444,
+      "forks": 472,
+      "currentPeriodStars": 3747,
+      "builtBy": [
+        {
+          "username": "gverma-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
+        },
+        {
+          "username": "dkundel-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4"
+        },
+        {
+          "username": "vb-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&v=4"
+        },
+        {
+          "username": "ae-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&v=4"
+        },
+        {
+          "username": "edward-bayes",
+          "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
       "rank": 4,
       "author": "hsliuping",
       "repoName": "TradingAgents-CN",
@@ -122,8 +122,8 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17200,
-      "forks": 3700,
+      "stars": 17241,
+      "forks": 3710,
       "currentPeriodStars": 1568,
       "builtBy": [
         {
@@ -151,35 +151,35 @@
     },
     {
       "rank": 5,
-      "author": "chenyme",
-      "repoName": "grok2api",
-      "url": "https://github.com/chenyme/grok2api",
-      "description": "基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。",
+      "author": "OpenBMB",
+      "repoName": "MiniCPM-o",
+      "url": "https://github.com/OpenBMB/MiniCPM-o",
+      "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1402,
-      "forks": 447,
-      "currentPeriodStars": 323,
+      "stars": 23763,
+      "forks": 1825,
+      "currentPeriodStars": 731,
       "builtBy": [
         {
-          "username": "chenyme",
-          "avatar": "https://avatars.githubusercontent.com/u/118253778?s=40&v=4"
+          "username": "yiranyyu",
+          "avatar": "https://avatars.githubusercontent.com/u/28106858?s=40&v=4"
         },
         {
-          "username": "piexian",
-          "avatar": "https://avatars.githubusercontent.com/u/64474352?s=40&v=4"
+          "username": "iceflame89",
+          "avatar": "https://avatars.githubusercontent.com/u/5380770?s=40&v=4"
         },
         {
-          "username": "BiFangKNT",
-          "avatar": "https://avatars.githubusercontent.com/u/93891533?s=40&v=4"
+          "username": "yaoyuanTHU",
+          "avatar": "https://avatars.githubusercontent.com/u/19372848?s=40&v=4"
         },
         {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+          "username": "tc-mb",
+          "avatar": "https://avatars.githubusercontent.com/u/157115220?s=40&v=4"
         },
         {
-          "username": "shellus",
-          "avatar": "https://avatars.githubusercontent.com/u/3044880?s=40&v=4"
+          "username": "YuzaChongyi",
+          "avatar": "https://avatars.githubusercontent.com/u/18023954?s=40&v=4"
         }
       ],
       "aiSummary": null
@@ -192,8 +192,8 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 94776,
-      "forks": 13732,
+      "stars": 94899,
+      "forks": 13746,
       "currentPeriodStars": 2326,
       "builtBy": [
         {
@@ -224,35 +224,35 @@
     },
     {
       "rank": 7,
-      "author": "microsoft",
-      "repoName": "RD-Agent",
-      "url": "https://github.com/microsoft/RD-Agent",
-      "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
+      "author": "chenyme",
+      "repoName": "grok2api",
+      "url": "https://github.com/chenyme/grok2api",
+      "description": "基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11114,
-      "forks": 1282,
-      "currentPeriodStars": 293,
+      "stars": 1416,
+      "forks": 457,
+      "currentPeriodStars": 323,
       "builtBy": [
         {
-          "username": "you-n-g",
-          "avatar": "https://avatars.githubusercontent.com/u/465606?s=40&v=4"
+          "username": "chenyme",
+          "avatar": "https://avatars.githubusercontent.com/u/118253778?s=40&v=4"
         },
         {
-          "username": "peteryang1",
-          "avatar": "https://avatars.githubusercontent.com/u/25981102?s=40&v=4"
+          "username": "piexian",
+          "avatar": "https://avatars.githubusercontent.com/u/64474352?s=40&v=4"
         },
         {
-          "username": "XianBW",
-          "avatar": "https://avatars.githubusercontent.com/u/36835909?s=40&v=4"
+          "username": "BiFangKNT",
+          "avatar": "https://avatars.githubusercontent.com/u/93891533?s=40&v=4"
         },
         {
-          "username": "WinstonLiyt",
-          "avatar": "https://avatars.githubusercontent.com/u/104308117?s=40&v=4"
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "qew21",
-          "avatar": "https://avatars.githubusercontent.com/u/25722332?s=40&v=4"
+          "username": "shellus",
+          "avatar": "https://avatars.githubusercontent.com/u/3044880?s=40&v=4"
         }
       ],
       "aiSummary": null
@@ -265,8 +265,8 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 398269,
-      "forks": 42604,
+      "stars": 398329,
+      "forks": 42612,
       "currentPeriodStars": 2877,
       "builtBy": [
         {
@@ -294,35 +294,35 @@
     },
     {
       "rank": 9,
-      "author": "pydantic",
-      "repoName": "pydantic",
-      "url": "https://github.com/pydantic/pydantic",
-      "description": "Data validation using Python type hints",
+      "author": "microsoft",
+      "repoName": "RD-Agent",
+      "url": "https://github.com/microsoft/RD-Agent",
+      "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 26792,
-      "forks": 2441,
-      "currentPeriodStars": 101,
+      "stars": 11138,
+      "forks": 1283,
+      "currentPeriodStars": 293,
       "builtBy": [
         {
-          "username": "samuelcolvin",
-          "avatar": "https://avatars.githubusercontent.com/u/4039449?s=40&v=4"
+          "username": "you-n-g",
+          "avatar": "https://avatars.githubusercontent.com/u/465606?s=40&v=4"
         },
         {
-          "username": "sydney-runkle",
-          "avatar": "https://avatars.githubusercontent.com/u/54324534?s=40&v=4"
+          "username": "peteryang1",
+          "avatar": "https://avatars.githubusercontent.com/u/25981102?s=40&v=4"
         },
         {
-          "username": "Viicos",
-          "avatar": "https://avatars.githubusercontent.com/u/65306057?s=40&v=4"
+          "username": "XianBW",
+          "avatar": "https://avatars.githubusercontent.com/u/36835909?s=40&v=4"
         },
         {
-          "username": "dmontagu",
-          "avatar": "https://avatars.githubusercontent.com/u/35119617?s=40&v=4"
+          "username": "WinstonLiyt",
+          "avatar": "https://avatars.githubusercontent.com/u/104308117?s=40&v=4"
         },
         {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+          "username": "qew21",
+          "avatar": "https://avatars.githubusercontent.com/u/25722332?s=40&v=4"
         }
       ],
       "aiSummary": null
@@ -335,8 +335,8 @@
       "description": "Synapse: Matrix homeserver written in Python/Twisted + Rust",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3585,
-      "forks": 462,
+      "stars": 3590,
+      "forks": 464,
       "currentPeriodStars": 120,
       "builtBy": [
         {
@@ -370,8 +370,8 @@
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10623,
-      "forks": 1034,
+      "stars": 10886,
+      "forks": 1055,
       "currentPeriodStars": 2310,
       "builtBy": [
         {
@@ -402,58 +402,70 @@
     },
     {
       "rank": 12,
-      "author": "bytedance",
-      "repoName": "UI-TARS",
-      "url": "https://github.com/bytedance/UI-TARS",
-      "description": "Pioneering Automated GUI Interaction with Native Agents",
+      "author": "DrewThomasson",
+      "repoName": "ebook2audiobook",
+      "url": "https://github.com/DrewThomasson/ebook2audiobook",
+      "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9566,
-      "forks": 690,
-      "currentPeriodStars": 262,
+      "stars": 18135,
+      "forks": 1474,
+      "currentPeriodStars": 736,
       "builtBy": [
         {
-          "username": "pooruss",
-          "avatar": "https://avatars.githubusercontent.com/u/57995076?s=40&v=4"
+          "username": "ROBERT-MCDOWELL",
+          "avatar": "https://avatars.githubusercontent.com/u/2649072?s=40&v=4"
         },
         {
-          "username": "mingcomplex",
-          "avatar": "https://avatars.githubusercontent.com/u/195769464?s=40&v=4"
+          "username": "DrewThomasson",
+          "avatar": "https://avatars.githubusercontent.com/u/126999465?s=40&v=4"
         },
         {
-          "username": "ycjcl868",
-          "avatar": "https://avatars.githubusercontent.com/u/13595509?s=40&v=4"
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         },
         {
-          "username": "AHEADer",
-          "avatar": "https://avatars.githubusercontent.com/u/10228507?s=40&v=4"
+          "username": "mahdi155000",
+          "avatar": "https://avatars.githubusercontent.com/u/72710302?s=40&v=4"
         },
         {
-          "username": "li-plus",
-          "avatar": "https://avatars.githubusercontent.com/u/39846316?s=40&v=4"
+          "username": "Wesam-1110111",
+          "avatar": "https://avatars.githubusercontent.com/u/108031419?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 13,
-      "author": "disler",
-      "repoName": "claude-code-hooks-mastery",
-      "url": "https://github.com/disler/claude-code-hooks-mastery",
-      "description": "Master Claude Code Hooks",
+      "author": "baserow",
+      "repoName": "baserow",
+      "url": "https://github.com/baserow/baserow",
+      "description": "Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3023,
-      "forks": 544,
-      "currentPeriodStars": 433,
+      "stars": 4113,
+      "forks": 505,
+      "currentPeriodStars": 164,
       "builtBy": [
         {
-          "username": "disler",
-          "avatar": "https://avatars.githubusercontent.com/u/7570811?s=40&v=4"
+          "username": "bram2w",
+          "avatar": "https://avatars.githubusercontent.com/u/1261496?s=40&v=4"
         },
         {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+          "username": "jrmi",
+          "avatar": "https://avatars.githubusercontent.com/u/571533?s=40&v=4"
+        },
+        {
+          "username": "stribny",
+          "avatar": "https://avatars.githubusercontent.com/u/313952?s=40&v=4"
+        },
+        {
+          "username": "cezary-baserow",
+          "avatar": "https://avatars.githubusercontent.com/u/238164479?s=40&v=4"
+        },
+        {
+          "username": "silvestrid",
+          "avatar": "https://avatars.githubusercontent.com/u/75379892?s=40&v=4"
         }
       ],
       "aiSummary": null

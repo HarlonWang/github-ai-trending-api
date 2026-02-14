@@ -1,10 +1,118 @@
 {
   "count": 19,
   "since": "monthly",
-  "captured_at": "2026-02-14 00:20:01",
+  "captured_at": "2026-02-14 12:20:21",
   "data": [
     {
       "rank": 1,
+      "author": "TelegramMessenger",
+      "repoName": "MTProxy",
+      "url": "https://github.com/TelegramMessenger/MTProxy",
+      "description": "",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 5939,
+      "forks": 1001,
+      "currentPeriodStars": 278,
+      "builtBy": [
+        {
+          "username": "levlam",
+          "avatar": "https://avatars.githubusercontent.com/u/22669599?s=40&v=4"
+        },
+        {
+          "username": "stek29",
+          "avatar": "https://avatars.githubusercontent.com/u/11808223?s=40&v=4"
+        },
+        {
+          "username": "vysheng",
+          "avatar": "https://avatars.githubusercontent.com/u/1647536?s=40&v=4"
+        },
+        {
+          "username": "savely-krasovsky",
+          "avatar": "https://avatars.githubusercontent.com/u/5345489?s=40&v=4"
+        },
+        {
+          "username": "dfedin",
+          "avatar": "https://avatars.githubusercontent.com/u/6404829?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "MTProxy是Telegram官方推出的轻量级代理工具，使用C语言编写。它通过伪装流量和快速中继，帮助用户在受限网络环境中稳定访问Telegram服务，有效绕过网络封锁。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 2,
+      "author": "aircrack-ng",
+      "repoName": "aircrack-ng",
+      "url": "https://github.com/aircrack-ng/aircrack-ng",
+      "description": "WiFi security auditing tools suite",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 6928,
+      "forks": 1236,
+      "currentPeriodStars": 177,
+      "builtBy": [
+        {
+          "username": "Mister-X-",
+          "avatar": "https://avatars.githubusercontent.com/u/3520734?s=40&v=4"
+        },
+        {
+          "username": "jbenden",
+          "avatar": "https://avatars.githubusercontent.com/u/73767?s=40&v=4"
+        },
+        {
+          "username": "gemesa",
+          "avatar": "https://avatars.githubusercontent.com/u/59890178?s=40&v=4"
+        },
+        {
+          "username": "ZeroChaos-",
+          "avatar": "https://avatars.githubusercontent.com/u/1670905?s=40&v=4"
+        },
+        {
+          "username": "jmberg",
+          "avatar": "https://avatars.githubusercontent.com/u/5159728?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 3,
+      "author": "tmux",
+      "repoName": "tmux",
+      "url": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 41752,
+      "forks": 2409,
+      "currentPeriodStars": 1040,
+      "builtBy": [
+        {
+          "username": "nicm",
+          "avatar": "https://avatars.githubusercontent.com/u/304243?s=40&v=4"
+        },
+        {
+          "username": "ThomasAdam",
+          "avatar": "https://avatars.githubusercontent.com/u/101281?s=40&v=4"
+        },
+        {
+          "username": "tcunha",
+          "avatar": "https://avatars.githubusercontent.com/u/772823?s=40&v=4"
+        },
+        {
+          "username": "topcat001",
+          "avatar": "https://avatars.githubusercontent.com/u/22438522?s=40&v=4"
+        },
+        {
+          "username": "mathstuf",
+          "avatar": "https://avatars.githubusercontent.com/u/97253?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 4,
       "author": "kaansenol5",
       "repoName": "VibeOS",
       "url": "https://github.com/kaansenol5/VibeOS",
@@ -39,192 +147,14 @@
       "aiSummary": null
     },
     {
-      "rank": 2,
-      "author": "aircrack-ng",
-      "repoName": "aircrack-ng",
-      "url": "https://github.com/aircrack-ng/aircrack-ng",
-      "description": "WiFi security auditing tools suite",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 6926,
-      "forks": 1235,
-      "currentPeriodStars": 177,
-      "builtBy": [
-        {
-          "username": "Mister-X-",
-          "avatar": "https://avatars.githubusercontent.com/u/3520734?s=40&v=4"
-        },
-        {
-          "username": "jbenden",
-          "avatar": "https://avatars.githubusercontent.com/u/73767?s=40&v=4"
-        },
-        {
-          "username": "gemesa",
-          "avatar": "https://avatars.githubusercontent.com/u/59890178?s=40&v=4"
-        },
-        {
-          "username": "ZeroChaos-",
-          "avatar": "https://avatars.githubusercontent.com/u/1670905?s=40&v=4"
-        },
-        {
-          "username": "jmberg",
-          "avatar": "https://avatars.githubusercontent.com/u/5159728?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 3,
-      "author": "tmux",
-      "repoName": "tmux",
-      "url": "https://github.com/tmux/tmux",
-      "description": "tmux source code",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 41732,
-      "forks": 2408,
-      "currentPeriodStars": 1040,
-      "builtBy": [
-        {
-          "username": "nicm",
-          "avatar": "https://avatars.githubusercontent.com/u/304243?s=40&v=4"
-        },
-        {
-          "username": "ThomasAdam",
-          "avatar": "https://avatars.githubusercontent.com/u/101281?s=40&v=4"
-        },
-        {
-          "username": "tcunha",
-          "avatar": "https://avatars.githubusercontent.com/u/772823?s=40&v=4"
-        },
-        {
-          "username": "topcat001",
-          "avatar": "https://avatars.githubusercontent.com/u/22438522?s=40&v=4"
-        },
-        {
-          "username": "mathstuf",
-          "avatar": "https://avatars.githubusercontent.com/u/97253?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 4,
-      "author": "TelegramMessenger",
-      "repoName": "MTProxy",
-      "url": "https://github.com/TelegramMessenger/MTProxy",
-      "description": "",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 5877,
-      "forks": 996,
-      "currentPeriodStars": 278,
-      "builtBy": [
-        {
-          "username": "levlam",
-          "avatar": "https://avatars.githubusercontent.com/u/22669599?s=40&v=4"
-        },
-        {
-          "username": "stek29",
-          "avatar": "https://avatars.githubusercontent.com/u/11808223?s=40&v=4"
-        },
-        {
-          "username": "vysheng",
-          "avatar": "https://avatars.githubusercontent.com/u/1647536?s=40&v=4"
-        },
-        {
-          "username": "savely-krasovsky",
-          "avatar": "https://avatars.githubusercontent.com/u/5345489?s=40&v=4"
-        },
-        {
-          "username": "dfedin",
-          "avatar": "https://avatars.githubusercontent.com/u/6404829?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "MTProxy是Telegram官方推出的轻量级代理工具，使用C语言编写。它通过伪装流量和快速中继，帮助用户在受限网络环境中稳定访问Telegram服务，有效绕过网络封锁。",
-        "source": "deepseek"
-      }
-    },
-    {
       "rank": 5,
-      "author": "RfidResearchGroup",
-      "repoName": "ChameleonUltra",
-      "url": "https://github.com/RfidResearchGroup/ChameleonUltra",
-      "description": "The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 2277,
-      "forks": 323,
-      "currentPeriodStars": 157,
-      "builtBy": [
-        {
-          "username": "doegox",
-          "avatar": "https://avatars.githubusercontent.com/u/60773?s=40&v=4"
-        },
-        {
-          "username": "xianglin1998",
-          "avatar": "https://avatars.githubusercontent.com/u/23152044?s=40&v=4"
-        },
-        {
-          "username": "GameTec-live",
-          "avatar": "https://avatars.githubusercontent.com/u/66077766?s=40&v=4"
-        },
-        {
-          "username": "turbocool3r",
-          "avatar": "https://avatars.githubusercontent.com/u/60693357?s=40&v=4"
-        },
-        {
-          "username": "Foxushka",
-          "avatar": "https://avatars.githubusercontent.com/u/135865149?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 6,
-      "author": "VirtualBox",
-      "repoName": "virtualbox",
-      "url": "https://github.com/VirtualBox/virtualbox",
-      "description": "Source code for Oracle VirtualBox",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 1000,
-      "forks": 121,
-      "currentPeriodStars": 96,
-      "builtBy": [
-        {
-          "username": "AlexanderEichner",
-          "avatar": "https://avatars.githubusercontent.com/u/58793089?s=40&v=4"
-        },
-        {
-          "username": "bird2tori",
-          "avatar": "https://avatars.githubusercontent.com/u/15661096?s=40&v=4"
-        },
-        {
-          "username": "alflr",
-          "avatar": "https://avatars.githubusercontent.com/u/206876341?s=40&v=4"
-        },
-        {
-          "username": "Dsen-orcl",
-          "avatar": "https://avatars.githubusercontent.com/u/213637604?s=40&v=4"
-        },
-        {
-          "username": "ramshven",
-          "avatar": "https://avatars.githubusercontent.com/u/213565284?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 7,
       "author": "HarbourMasters",
       "repoName": "Shipwright",
       "url": "https://github.com/HarbourMasters/Shipwright",
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4447,
+      "stars": 4448,
       "forks": 648,
       "currentPeriodStars": 130,
       "builtBy": [
@@ -252,14 +182,119 @@
       "aiSummary": null
     },
     {
+      "rank": 6,
+      "author": "RfidResearchGroup",
+      "repoName": "ChameleonUltra",
+      "url": "https://github.com/RfidResearchGroup/ChameleonUltra",
+      "description": "The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 2279,
+      "forks": 323,
+      "currentPeriodStars": 157,
+      "builtBy": [
+        {
+          "username": "doegox",
+          "avatar": "https://avatars.githubusercontent.com/u/60773?s=40&v=4"
+        },
+        {
+          "username": "xianglin1998",
+          "avatar": "https://avatars.githubusercontent.com/u/23152044?s=40&v=4"
+        },
+        {
+          "username": "GameTec-live",
+          "avatar": "https://avatars.githubusercontent.com/u/66077766?s=40&v=4"
+        },
+        {
+          "username": "turbocool3r",
+          "avatar": "https://avatars.githubusercontent.com/u/60693357?s=40&v=4"
+        },
+        {
+          "username": "Foxushka",
+          "avatar": "https://avatars.githubusercontent.com/u/135865149?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 7,
+      "author": "sandboxie-plus",
+      "repoName": "Sandboxie",
+      "url": "https://github.com/sandboxie-plus/Sandboxie",
+      "description": "Sandboxie Plus & Classic",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 17524,
+      "forks": 1906,
+      "currentPeriodStars": 722,
+      "builtBy": [
+        {
+          "username": "DavidXanatos",
+          "avatar": "https://avatars.githubusercontent.com/u/3890945?s=40&v=4"
+        },
+        {
+          "username": "isaak654",
+          "avatar": "https://avatars.githubusercontent.com/u/12372772?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        },
+        {
+          "username": "offhub",
+          "avatar": "https://avatars.githubusercontent.com/u/6871698?s=40&v=4"
+        },
+        {
+          "username": "love-code-yeyixiao",
+          "avatar": "https://avatars.githubusercontent.com/u/92030377?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
       "rank": 8,
+      "author": "zephyrproject-rtos",
+      "repoName": "zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 14466,
+      "forks": 8654,
+      "currentPeriodStars": 322,
+      "builtBy": [
+        {
+          "username": "nashif",
+          "avatar": "https://avatars.githubusercontent.com/u/180017?s=40&v=4"
+        },
+        {
+          "username": "jukkar",
+          "avatar": "https://avatars.githubusercontent.com/u/1098415?s=40&v=4"
+        },
+        {
+          "username": "galak",
+          "avatar": "https://avatars.githubusercontent.com/u/16417047?s=40&v=4"
+        },
+        {
+          "username": "gmarull",
+          "avatar": "https://avatars.githubusercontent.com/u/25011557?s=40&v=4"
+        },
+        {
+          "username": "cvinayak",
+          "avatar": "https://avatars.githubusercontent.com/u/6350656?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 9,
       "author": "Zelda64Recomp",
       "repoName": "Zelda64Recomp",
       "url": "https://github.com/Zelda64Recomp/Zelda64Recomp",
       "description": "Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6818,
+      "stars": 6819,
       "forks": 313,
       "currentPeriodStars": 187,
       "builtBy": [
@@ -287,7 +322,7 @@
       "aiSummary": null
     },
     {
-      "rank": 9,
+      "rank": 10,
       "author": "DavidXanatos",
       "repoName": "TaskExplorer",
       "url": "https://github.com/DavidXanatos/TaskExplorer",
@@ -322,155 +357,15 @@
       "aiSummary": null
     },
     {
-      "rank": 10,
-      "author": "sandboxie-plus",
-      "repoName": "Sandboxie",
-      "url": "https://github.com/sandboxie-plus/Sandboxie",
-      "description": "Sandboxie Plus & Classic",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17522,
-      "forks": 1904,
-      "currentPeriodStars": 722,
-      "builtBy": [
-        {
-          "username": "DavidXanatos",
-          "avatar": "https://avatars.githubusercontent.com/u/3890945?s=40&v=4"
-        },
-        {
-          "username": "isaak654",
-          "avatar": "https://avatars.githubusercontent.com/u/12372772?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "offhub",
-          "avatar": "https://avatars.githubusercontent.com/u/6871698?s=40&v=4"
-        },
-        {
-          "username": "love-code-yeyixiao",
-          "avatar": "https://avatars.githubusercontent.com/u/92030377?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
       "rank": 11,
-      "author": "sonic-net",
-      "repoName": "sonic-buildimage",
-      "url": "https://github.com/sonic-net/sonic-buildimage",
-      "description": "Scripts which perform an installable binary image build for SONiC",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 920,
-      "forks": 1728,
-      "currentPeriodStars": 13,
-      "builtBy": [
-        {
-          "username": "mssonicbld",
-          "avatar": "https://avatars.githubusercontent.com/u/79238446?s=40&v=4"
-        },
-        {
-          "username": "lguohan",
-          "avatar": "https://avatars.githubusercontent.com/u/2293967?s=40&v=4"
-        },
-        {
-          "username": "jleveque",
-          "avatar": "https://avatars.githubusercontent.com/u/3300381?s=40&v=4"
-        },
-        {
-          "username": "qiluo-msft",
-          "avatar": "https://avatars.githubusercontent.com/u/11406616?s=40&v=4"
-        },
-        {
-          "username": "saiarcot895",
-          "avatar": "https://avatars.githubusercontent.com/u/5923875?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 12,
-      "author": "zephyrproject-rtos",
-      "repoName": "zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 14464,
-      "forks": 8654,
-      "currentPeriodStars": 322,
-      "builtBy": [
-        {
-          "username": "nashif",
-          "avatar": "https://avatars.githubusercontent.com/u/180017?s=40&v=4"
-        },
-        {
-          "username": "jukkar",
-          "avatar": "https://avatars.githubusercontent.com/u/1098415?s=40&v=4"
-        },
-        {
-          "username": "galak",
-          "avatar": "https://avatars.githubusercontent.com/u/16417047?s=40&v=4"
-        },
-        {
-          "username": "gmarull",
-          "avatar": "https://avatars.githubusercontent.com/u/25011557?s=40&v=4"
-        },
-        {
-          "username": "cvinayak",
-          "avatar": "https://avatars.githubusercontent.com/u/6350656?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 13,
-      "author": "raysan5",
-      "repoName": "raylib",
-      "url": "https://github.com/raysan5/raylib",
-      "description": "A simple and easy-to-use library to enjoy videogames programming",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 30940,
-      "forks": 2924,
-      "currentPeriodStars": 717,
-      "builtBy": [
-        {
-          "username": "raysan5",
-          "avatar": "https://avatars.githubusercontent.com/u/5766837?s=40&v=4"
-        },
-        {
-          "username": "a3f",
-          "avatar": "https://avatars.githubusercontent.com/u/5204368?s=40&v=4"
-        },
-        {
-          "username": "JeffM2501",
-          "avatar": "https://avatars.githubusercontent.com/u/322174?s=40&v=4"
-        },
-        {
-          "username": "victorfisac",
-          "avatar": "https://avatars.githubusercontent.com/u/10688349?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 14,
       "author": "openssl",
       "repoName": "openssl",
       "url": "https://github.com/openssl/openssl",
       "description": "TLS/SSL and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 29554,
-      "forks": 11049,
+      "stars": 29556,
+      "forks": 11050,
       "currentPeriodStars": 233,
       "builtBy": [
         {
@@ -497,119 +392,14 @@
       "aiSummary": null
     },
     {
-      "rank": 15,
-      "author": "greatscottgadgets",
-      "repoName": "hackrf",
-      "url": "https://github.com/greatscottgadgets/hackrf",
-      "description": "low cost software radio platform",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 7730,
-      "forks": 1669,
-      "currentPeriodStars": 90,
-      "builtBy": [
-        {
-          "username": "mossmann",
-          "avatar": "https://avatars.githubusercontent.com/u/1195107?s=40&v=4"
-        },
-        {
-          "username": "jboone",
-          "avatar": "https://avatars.githubusercontent.com/u/778248?s=40&v=4"
-        },
-        {
-          "username": "martinling",
-          "avatar": "https://avatars.githubusercontent.com/u/673823?s=40&v=4"
-        },
-        {
-          "username": "dominicgs",
-          "avatar": "https://avatars.githubusercontent.com/u/91747?s=40&v=4"
-        },
-        {
-          "username": "bvernoux",
-          "avatar": "https://avatars.githubusercontent.com/u/432709?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 16,
-      "author": "curl",
-      "repoName": "curl",
-      "url": "https://github.com/curl/curl",
-      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 40683,
-      "forks": 7056,
-      "currentPeriodStars": 384,
-      "builtBy": [
-        {
-          "username": "bagder",
-          "avatar": "https://avatars.githubusercontent.com/u/177011?s=40&v=4"
-        },
-        {
-          "username": "vszakats",
-          "avatar": "https://avatars.githubusercontent.com/u/1446897?s=40&v=4"
-        },
-        {
-          "username": "yangtse",
-          "avatar": "https://avatars.githubusercontent.com/u/242954?s=40&v=4"
-        },
-        {
-          "username": "captain-caveman2k",
-          "avatar": "https://avatars.githubusercontent.com/u/1523871?s=40&v=4"
-        },
-        {
-          "username": "dfandrich",
-          "avatar": "https://avatars.githubusercontent.com/u/228259?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 17,
-      "author": "asmvik",
-      "repoName": "yabai",
-      "url": "https://github.com/asmvik/yabai",
-      "description": "A tiling window manager for macOS based on binary space partitioning",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 28154,
-      "forks": 693,
-      "currentPeriodStars": 297,
-      "builtBy": [
-        {
-          "username": "asmvik",
-          "avatar": "https://avatars.githubusercontent.com/u/6175959?s=40&v=4"
-        },
-        {
-          "username": "dominiklohmann",
-          "avatar": "https://avatars.githubusercontent.com/u/4488655?s=40&v=4"
-        },
-        {
-          "username": "tbiehn",
-          "avatar": "https://avatars.githubusercontent.com/u/184800?s=40&v=4"
-        },
-        {
-          "username": "tsujp",
-          "avatar": "https://avatars.githubusercontent.com/u/4571498?s=40&v=4"
-        },
-        {
-          "username": "meseck",
-          "avatar": "https://avatars.githubusercontent.com/u/34334994?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 18,
+      "rank": 12,
       "author": "xiaojieonly",
       "repoName": "Ehviewer_CN_SXJ",
       "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
       "description": "ehviewer，用爱发电，快乐前行",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 22385,
+      "stars": 22392,
       "forks": 593,
       "currentPeriodStars": 623,
       "builtBy": [
@@ -637,14 +427,84 @@
       "aiSummary": null
     },
     {
-      "rank": 19,
+      "rank": 13,
+      "author": "curl",
+      "repoName": "curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 40696,
+      "forks": 7057,
+      "currentPeriodStars": 384,
+      "builtBy": [
+        {
+          "username": "bagder",
+          "avatar": "https://avatars.githubusercontent.com/u/177011?s=40&v=4"
+        },
+        {
+          "username": "vszakats",
+          "avatar": "https://avatars.githubusercontent.com/u/1446897?s=40&v=4"
+        },
+        {
+          "username": "yangtse",
+          "avatar": "https://avatars.githubusercontent.com/u/242954?s=40&v=4"
+        },
+        {
+          "username": "captain-caveman2k",
+          "avatar": "https://avatars.githubusercontent.com/u/1523871?s=40&v=4"
+        },
+        {
+          "username": "dfandrich",
+          "avatar": "https://avatars.githubusercontent.com/u/228259?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 14,
+      "author": "raysan5",
+      "repoName": "raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 30945,
+      "forks": 2925,
+      "currentPeriodStars": 717,
+      "builtBy": [
+        {
+          "username": "raysan5",
+          "avatar": "https://avatars.githubusercontent.com/u/5766837?s=40&v=4"
+        },
+        {
+          "username": "a3f",
+          "avatar": "https://avatars.githubusercontent.com/u/5204368?s=40&v=4"
+        },
+        {
+          "username": "JeffM2501",
+          "avatar": "https://avatars.githubusercontent.com/u/322174?s=40&v=4"
+        },
+        {
+          "username": "victorfisac",
+          "avatar": "https://avatars.githubusercontent.com/u/10688349?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 15,
       "author": "winsiderss",
       "repoName": "systeminformer",
       "url": "https://github.com/winsiderss/systeminformer",
       "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13615,
+      "stars": 13616,
       "forks": 1615,
       "currentPeriodStars": 266,
       "builtBy": [
@@ -667,6 +527,134 @@
         {
           "username": "diversenok",
           "avatar": "https://avatars.githubusercontent.com/u/30962924?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 16,
+      "author": "reactos",
+      "repoName": "reactos",
+      "url": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 17070,
+      "forks": 2036,
+      "currentPeriodStars": 278,
+      "builtBy": [
+        {
+          "username": "AmineKhaldi",
+          "avatar": "https://avatars.githubusercontent.com/u/352225?s=40&v=4"
+        },
+        {
+          "username": "tkreuzer",
+          "avatar": "https://avatars.githubusercontent.com/u/313067?s=40&v=4"
+        },
+        {
+          "username": "EricKohl",
+          "avatar": "https://avatars.githubusercontent.com/u/32571919?s=40&v=4"
+        },
+        {
+          "username": "HBelusca",
+          "avatar": "https://avatars.githubusercontent.com/u/1969829?s=40&v=4"
+        },
+        {
+          "username": "ThFabba",
+          "avatar": "https://avatars.githubusercontent.com/u/18138474?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 17,
+      "author": "greatscottgadgets",
+      "repoName": "hackrf",
+      "url": "https://github.com/greatscottgadgets/hackrf",
+      "description": "low cost software radio platform",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7731,
+      "forks": 1669,
+      "currentPeriodStars": 90,
+      "builtBy": [
+        {
+          "username": "mossmann",
+          "avatar": "https://avatars.githubusercontent.com/u/1195107?s=40&v=4"
+        },
+        {
+          "username": "jboone",
+          "avatar": "https://avatars.githubusercontent.com/u/778248?s=40&v=4"
+        },
+        {
+          "username": "martinling",
+          "avatar": "https://avatars.githubusercontent.com/u/673823?s=40&v=4"
+        },
+        {
+          "username": "dominicgs",
+          "avatar": "https://avatars.githubusercontent.com/u/91747?s=40&v=4"
+        },
+        {
+          "username": "bvernoux",
+          "avatar": "https://avatars.githubusercontent.com/u/432709?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 18,
+      "author": "apache",
+      "repoName": "nuttx",
+      "url": "https://github.com/apache/nuttx",
+      "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 3695,
+      "forks": 1484,
+      "currentPeriodStars": 75,
+      "builtBy": [
+        {
+          "username": "gregory-nutt",
+          "avatar": "https://avatars.githubusercontent.com/u/7749654?s=40&v=4"
+        },
+        {
+          "username": "xiaoxiang781216",
+          "avatar": "https://avatars.githubusercontent.com/u/18066964?s=40&v=4"
+        },
+        {
+          "username": "yamt",
+          "avatar": "https://avatars.githubusercontent.com/u/1845377?s=40&v=4"
+        },
+        {
+          "username": "anchao",
+          "avatar": "https://avatars.githubusercontent.com/u/758493?s=40&v=4"
+        },
+        {
+          "username": "raiden00pl",
+          "avatar": "https://avatars.githubusercontent.com/u/6563055?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 19,
+      "author": "bol-van",
+      "repoName": "zapret2",
+      "url": "https://github.com/bol-van/zapret2",
+      "description": "anti-dpi software",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 1618,
+      "forks": 50,
+      "currentPeriodStars": 543,
+      "builtBy": [
+        {
+          "username": "bol-van",
+          "avatar": "https://avatars.githubusercontent.com/u/9076680?s=40&v=4"
+        },
+        {
+          "username": "Pavel4e5",
+          "avatar": "https://avatars.githubusercontent.com/u/50713272?s=40&v=4"
         }
       ],
       "aiSummary": null

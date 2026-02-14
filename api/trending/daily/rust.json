@@ -1,54 +1,124 @@
 {
-  "count": 20,
+  "count": 15,
   "since": "daily",
-  "captured_at": "2026-02-14 00:18:07",
+  "captured_at": "2026-02-14 12:18:24",
   "data": [
     {
       "rank": 1,
-      "author": "cube-js",
-      "repoName": "cube",
-      "url": "https://github.com/cube-js/cube",
-      "description": "📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics",
+      "author": "rustfs",
+      "repoName": "rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19499,
-      "forks": 1956,
-      "currentPeriodStars": 12,
+      "stars": 21454,
+      "forks": 928,
+      "currentPeriodStars": 144,
       "builtBy": [
         {
-          "username": "paveltiunov",
-          "avatar": "https://avatars.githubusercontent.com/u/323320?s=40&v=4"
+          "username": "houseme",
+          "avatar": "https://avatars.githubusercontent.com/u/4829346?s=40&v=4"
         },
         {
-          "username": "ovr",
-          "avatar": "https://avatars.githubusercontent.com/u/572096?s=40&v=4"
+          "username": "overtrue",
+          "avatar": "https://avatars.githubusercontent.com/u/1472352?s=40&v=4"
         },
         {
-          "username": "hassankhan",
-          "avatar": "https://avatars.githubusercontent.com/u/1781985?s=40&v=4"
+          "username": "weisd",
+          "avatar": "https://avatars.githubusercontent.com/u/2057561?s=40&v=4"
         },
         {
-          "username": "vasilev-alex",
-          "avatar": "https://avatars.githubusercontent.com/u/4973437?s=40&v=4"
+          "username": "guojidan",
+          "avatar": "https://avatars.githubusercontent.com/u/63799833?s=40&v=4"
         },
         {
-          "username": "igorlukanin",
-          "avatar": "https://avatars.githubusercontent.com/u/3852894?s=40&v=4"
+          "username": "loverustfs",
+          "avatar": "https://avatars.githubusercontent.com/u/155562731?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 2,
+      "author": "astral-sh",
+      "repoName": "ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 45745,
+      "forks": 1768,
+      "currentPeriodStars": 18,
+      "builtBy": [
+        {
+          "username": "charliermarsh",
+          "avatar": "https://avatars.githubusercontent.com/u/1309177?s=40&v=4"
+        },
+        {
+          "username": "MichaReiser",
+          "avatar": "https://avatars.githubusercontent.com/u/1203881?s=40&v=4"
+        },
+        {
+          "username": "AlexWaygood",
+          "avatar": "https://avatars.githubusercontent.com/u/66076021?s=40&v=4"
+        },
+        {
+          "username": "apps/renovate",
+          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+        },
+        {
+          "username": "dhruvmanila",
+          "avatar": "https://avatars.githubusercontent.com/u/67177269?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 3,
+      "author": "modelcontextprotocol",
+      "repoName": "rust-sdk",
+      "url": "https://github.com/modelcontextprotocol/rust-sdk",
+      "description": "The official Rust SDK for the Model Context Protocol",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3000,
+      "forks": 460,
+      "currentPeriodStars": 7,
+      "builtBy": [
+        {
+          "username": "jokemanfire",
+          "avatar": "https://avatars.githubusercontent.com/u/26783504?s=40&v=4"
+        },
+        {
+          "username": "4t145",
+          "avatar": "https://avatars.githubusercontent.com/u/34513116?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "alexhancock",
+          "avatar": "https://avatars.githubusercontent.com/u/427516?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 4,
       "author": "GyulyVGC",
       "repoName": "sniffnet",
       "url": "https://github.com/GyulyVGC/sniffnet",
       "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32720,
+      "stars": 32738,
       "forks": 1203,
-      "currentPeriodStars": 58,
+      "currentPeriodStars": 48,
       "builtBy": [
         {
           "username": "GyulyVGC",
@@ -74,154 +144,14 @@
       "aiSummary": null
     },
     {
-      "rank": 3,
-      "author": "Eventual-Inc",
-      "repoName": "Daft",
-      "url": "https://github.com/Eventual-Inc/Daft",
-      "description": "High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 5207,
-      "forks": 400,
-      "currentPeriodStars": 4,
-      "builtBy": [
-        {
-          "username": "jaychia",
-          "avatar": "https://avatars.githubusercontent.com/u/17691182?s=40&v=4"
-        },
-        {
-          "username": "samster25",
-          "avatar": "https://avatars.githubusercontent.com/u/2550285?s=40&v=4"
-        },
-        {
-          "username": "colin-ho",
-          "avatar": "https://avatars.githubusercontent.com/u/77712970?s=40&v=4"
-        },
-        {
-          "username": "universalmind303",
-          "avatar": "https://avatars.githubusercontent.com/u/21327470?s=40&v=4"
-        },
-        {
-          "username": "desmondcheongzx",
-          "avatar": "https://avatars.githubusercontent.com/u/9080227?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 4,
-      "author": "NVIDIA",
-      "repoName": "bare-metal-manager-core",
-      "url": "https://github.com/NVIDIA/bare-metal-manager-core",
-      "description": "NVIDIA Bare Metal Manager - Hardware Lifecycle Management and multitenant networking",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 28,
-      "forks": 27,
-      "currentPeriodStars": 4,
-      "builtBy": [
-        {
-          "username": "Matthias247",
-          "avatar": "https://avatars.githubusercontent.com/u/6330334?s=40&v=4"
-        },
-        {
-          "username": "abvarshney-nv",
-          "avatar": "https://avatars.githubusercontent.com/u/241782697?s=40&v=4"
-        },
-        {
-          "username": "ianderson-nvidia",
-          "avatar": "https://avatars.githubusercontent.com/u/241811076?s=40&v=4"
-        },
-        {
-          "username": "michaelbasnight-nv",
-          "avatar": "https://avatars.githubusercontent.com/u/97125389?s=40&v=4"
-        },
-        {
-          "username": "ajf",
-          "avatar": "https://avatars.githubusercontent.com/u/151974?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
       "rank": 5,
-      "author": "ai-dynamo",
-      "repoName": "dynamo",
-      "url": "https://github.com/ai-dynamo/dynamo",
-      "description": "A Datacenter Scale Distributed Inference Serving Framework",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 6094,
-      "forks": 856,
-      "currentPeriodStars": 5,
-      "builtBy": [
-        {
-          "username": "grahamking",
-          "avatar": "https://avatars.githubusercontent.com/u/180418?s=40&v=4"
-        },
-        {
-          "username": "rmccorm4",
-          "avatar": "https://avatars.githubusercontent.com/u/21284872?s=40&v=4"
-        },
-        {
-          "username": "PeaBrane",
-          "avatar": "https://avatars.githubusercontent.com/u/48601490?s=40&v=4"
-        },
-        {
-          "username": "nv-anants",
-          "avatar": "https://avatars.githubusercontent.com/u/181898173?s=40&v=4"
-        },
-        {
-          "username": "tedzhouhk",
-          "avatar": "https://avatars.githubusercontent.com/u/6771308?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 6,
-      "author": "linera-io",
-      "repoName": "linera-protocol",
-      "url": "https://github.com/linera-io/linera-protocol",
-      "description": "Main repository for the Linera protocol",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 32099,
-      "forks": 2286,
-      "currentPeriodStars": 22,
-      "builtBy": [
-        {
-          "username": "ma2bd",
-          "avatar": "https://avatars.githubusercontent.com/u/1105398?s=40&v=4"
-        },
-        {
-          "username": "jvff",
-          "avatar": "https://avatars.githubusercontent.com/u/3216731?s=40&v=4"
-        },
-        {
-          "username": "afck",
-          "avatar": "https://avatars.githubusercontent.com/u/7894725?s=40&v=4"
-        },
-        {
-          "username": "ndr-ds",
-          "avatar": "https://avatars.githubusercontent.com/u/2917611?s=40&v=4"
-        },
-        {
-          "username": "apps/github-merge-queue",
-          "avatar": "https://avatars.githubusercontent.com/u/9919?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 7,
       "author": "facebook",
       "repoName": "pyrefly",
       "url": "https://github.com/facebook/pyrefly",
       "description": "A fast type checker and language server for Python",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5325,
+      "stars": 5331,
       "forks": 270,
       "currentPeriodStars": 13,
       "builtBy": [
@@ -249,211 +179,281 @@
       "aiSummary": null
     },
     {
-      "rank": 8,
-      "author": "cocoindex-io",
-      "repoName": "cocoindex",
-      "url": "https://github.com/cocoindex-io/cocoindex",
-      "description": "Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!",
+      "rank": 6,
+      "author": "jely2002",
+      "repoName": "youtube-dl-gui",
+      "url": "https://github.com/jely2002/youtube-dl-gui",
+      "description": "Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6090,
-      "forks": 448,
-      "currentPeriodStars": 7,
+      "stars": 7567,
+      "forks": 564,
+      "currentPeriodStars": 9,
       "builtBy": [
         {
-          "username": "badmonster0",
-          "avatar": "https://avatars.githubusercontent.com/u/1772842?s=40&v=4"
-        },
-        {
-          "username": "georgeh0",
-          "avatar": "https://avatars.githubusercontent.com/u/657722?s=40&v=4"
-        },
-        {
-          "username": "lemorage",
-          "avatar": "https://avatars.githubusercontent.com/u/88943827?s=40&v=4"
-        },
-        {
-          "username": "cocoindex-dev",
-          "avatar": "https://avatars.githubusercontent.com/u/190809840?s=40&v=4"
-        },
-        {
-          "username": "Haleshot",
-          "avatar": "https://avatars.githubusercontent.com/u/57552973?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 9,
-      "author": "rust-lang",
-      "repoName": "rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 110254,
-      "forks": 14486,
-      "currentPeriodStars": 33,
-      "builtBy": [
-        {
-          "username": "bors",
-          "avatar": "https://avatars.githubusercontent.com/u/3372342?s=40&v=4"
-        },
-        {
-          "username": "matthiaskrgr",
-          "avatar": "https://avatars.githubusercontent.com/u/476013?s=40&v=4"
-        },
-        {
-          "username": "RalfJung",
-          "avatar": "https://avatars.githubusercontent.com/u/330628?s=40&v=4"
-        },
-        {
-          "username": "matklad",
-          "avatar": "https://avatars.githubusercontent.com/u/1711539?s=40&v=4"
-        },
-        {
-          "username": "GuillaumeGomez",
-          "avatar": "https://avatars.githubusercontent.com/u/3050060?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 10,
-      "author": "atuinsh",
-      "repoName": "atuin",
-      "url": "https://github.com/atuinsh/atuin",
-      "description": "✨ Magical shell history",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 28266,
-      "forks": 777,
-      "currentPeriodStars": 22,
-      "builtBy": [
-        {
-          "username": "ellie",
-          "avatar": "https://avatars.githubusercontent.com/u/53315310?s=40&v=4"
+          "username": "jely2002",
+          "avatar": "https://avatars.githubusercontent.com/u/20154900?s=40&v=4"
         },
         {
           "username": "apps/dependabot",
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "conradludgate",
-          "avatar": "https://avatars.githubusercontent.com/u/6625462?s=40&v=4"
+          "username": "independent-arg",
+          "avatar": "https://avatars.githubusercontent.com/u/251550460?s=40&v=4"
         },
         {
-          "username": "akinomyoga",
-          "avatar": "https://avatars.githubusercontent.com/u/8982192?s=40&v=4"
+          "username": "bovirus",
+          "avatar": "https://avatars.githubusercontent.com/u/1262554?s=40&v=4"
         },
         {
-          "username": "BinaryMuse",
-          "avatar": "https://avatars.githubusercontent.com/u/189606?s=40&v=4"
+          "username": "fco-pires",
+          "avatar": "https://avatars.githubusercontent.com/u/43559417?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 7,
+      "author": "meilisearch",
+      "repoName": "meilisearch",
+      "url": "https://github.com/meilisearch/meilisearch",
+      "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 55903,
+      "forks": 2372,
+      "currentPeriodStars": 24,
+      "builtBy": [
+        {
+          "username": "Kerollmops",
+          "avatar": "https://avatars.githubusercontent.com/u/3610253?s=40&v=4"
+        },
+        {
+          "username": "irevoire",
+          "avatar": "https://avatars.githubusercontent.com/u/7032172?s=40&v=4"
+        },
+        {
+          "username": "dureuill",
+          "avatar": "https://avatars.githubusercontent.com/u/41078892?s=40&v=4"
+        },
+        {
+          "username": "ManyTheFish",
+          "avatar": "https://avatars.githubusercontent.com/u/6482087?s=40&v=4"
+        },
+        {
+          "username": "MarinPostma",
+          "avatar": "https://avatars.githubusercontent.com/u/28804882?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 8,
+      "author": "vortex-data",
+      "repoName": "vortex",
+      "url": "https://github.com/vortex-data/vortex",
+      "description": "An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2712,
+      "forks": 132,
+      "currentPeriodStars": 5,
+      "builtBy": [
+        {
+          "username": "robert3005",
+          "avatar": "https://avatars.githubusercontent.com/u/512084?s=40&v=4"
+        },
+        {
+          "username": "gatesn",
+          "avatar": "https://avatars.githubusercontent.com/u/1928052?s=40&v=4"
+        },
+        {
+          "username": "apps/renovate",
+          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+        },
+        {
+          "username": "joseph-isaacs",
+          "avatar": "https://avatars.githubusercontent.com/u/2413449?s=40&v=4"
+        },
+        {
+          "username": "AdamGS",
+          "avatar": "https://avatars.githubusercontent.com/u/6495257?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 9,
+      "author": "model-checking",
+      "repoName": "kani",
+      "url": "https://github.com/model-checking/kani",
+      "description": "Kani Rust Verifier",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2918,
+      "forks": 141,
+      "currentPeriodStars": 12,
+      "builtBy": [
+        {
+          "username": "celinval",
+          "avatar": "https://avatars.githubusercontent.com/u/35149715?s=40&v=4"
+        },
+        {
+          "username": "apps/github-merge-queue",
+          "avatar": "https://avatars.githubusercontent.com/u/9919?s=40&v=4"
+        },
+        {
+          "username": "tautschnig",
+          "avatar": "https://avatars.githubusercontent.com/u/1144736?s=40&v=4"
+        },
+        {
+          "username": "zhassan-aws",
+          "avatar": "https://avatars.githubusercontent.com/u/88045115?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 10,
+      "author": "signalapp",
+      "repoName": "libsignal",
+      "url": "https://github.com/signalapp/libsignal",
+      "description": "Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 5422,
+      "forks": 669,
+      "currentPeriodStars": 9,
+      "builtBy": [
+        {
+          "username": "jrose-signal",
+          "avatar": "https://avatars.githubusercontent.com/u/72036507?s=40&v=4"
+        },
+        {
+          "username": "jack-signal",
+          "avatar": "https://avatars.githubusercontent.com/u/67017134?s=40&v=4"
+        },
+        {
+          "username": "akonradi-signal",
+          "avatar": "https://avatars.githubusercontent.com/u/144144902?s=40&v=4"
+        },
+        {
+          "username": "moiseev-signal",
+          "avatar": "https://avatars.githubusercontent.com/u/122060238?s=40&v=4"
+        },
+        {
+          "username": "andrew-signal",
+          "avatar": "https://avatars.githubusercontent.com/u/181278005?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 11,
-      "author": "surrealdb",
-      "repoName": "surrealdb",
-      "url": "https://github.com/surrealdb/surrealdb",
-      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+      "author": "H-M-H",
+      "repoName": "Weylus",
+      "url": "https://github.com/H-M-H/Weylus",
+      "description": "Use your tablet as graphic tablet/touch screen on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31060,
-      "forks": 1122,
-      "currentPeriodStars": 14,
+      "stars": 8829,
+      "forks": 358,
+      "currentPeriodStars": 8,
       "builtBy": [
         {
-          "username": "tobiemh",
-          "avatar": "https://avatars.githubusercontent.com/u/1588290?s=40&v=4"
+          "username": "H-M-H",
+          "avatar": "https://avatars.githubusercontent.com/u/7461564?s=40&v=4"
         },
         {
-          "username": "rushmorem",
-          "avatar": "https://avatars.githubusercontent.com/u/4958190?s=40&v=4"
+          "username": "qdlmcfresh",
+          "avatar": "https://avatars.githubusercontent.com/u/10837173?s=40&v=4"
         },
         {
-          "username": "emmanuel-keller",
-          "avatar": "https://avatars.githubusercontent.com/u/1282276?s=40&v=4"
+          "username": "rschroll",
+          "avatar": "https://avatars.githubusercontent.com/u/367903?s=40&v=4"
         },
         {
-          "username": "DelSkayn",
-          "avatar": "https://avatars.githubusercontent.com/u/7524414?s=40&v=4"
+          "username": "schctl",
+          "avatar": "https://avatars.githubusercontent.com/u/82153580?s=40&v=4"
         },
         {
-          "username": "kearfy",
-          "avatar": "https://avatars.githubusercontent.com/u/17960250?s=40&v=4"
+          "username": "danielrutz",
+          "avatar": "https://avatars.githubusercontent.com/u/2223467?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 12,
-      "author": "rust-lang",
-      "repoName": "rust-analyzer",
-      "url": "https://github.com/rust-lang/rust-analyzer",
-      "description": "A Rust compiler front-end for IDEs",
+      "author": "deuxfleurs-org",
+      "repoName": "garage",
+      "url": "https://github.com/deuxfleurs-org/garage",
+      "description": "(Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16048,
-      "forks": 1947,
-      "currentPeriodStars": 11,
+      "stars": 2739,
+      "forks": 109,
+      "currentPeriodStars": 34,
       "builtBy": [
         {
-          "username": "apps/bors",
-          "avatar": "https://avatars.githubusercontent.com/in/1847?s=40&v=4"
+          "username": "Alexis211",
+          "avatar": "https://avatars.githubusercontent.com/u/101484?s=40&v=4"
         },
         {
-          "username": "matklad",
-          "avatar": "https://avatars.githubusercontent.com/u/1711539?s=40&v=4"
+          "username": "superboum",
+          "avatar": "https://avatars.githubusercontent.com/u/1770289?s=40&v=4"
         },
         {
-          "username": "bors",
-          "avatar": "https://avatars.githubusercontent.com/u/3372342?s=40&v=4"
+          "username": "jpds",
+          "avatar": "https://avatars.githubusercontent.com/u/29158971?s=40&v=4"
         },
         {
-          "username": "Veykril",
-          "avatar": "https://avatars.githubusercontent.com/u/3757771?s=40&v=4"
+          "username": "trinity-1686a",
+          "avatar": "https://avatars.githubusercontent.com/u/35889323?s=40&v=4"
         },
         {
-          "username": "lnicola",
-          "avatar": "https://avatars.githubusercontent.com/u/308347?s=40&v=4"
+          "username": "gwen-lg",
+          "avatar": "https://avatars.githubusercontent.com/u/105106246?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 13,
-      "author": "EasyTier",
-      "repoName": "EasyTier",
-      "url": "https://github.com/EasyTier/EasyTier",
-      "description": "A simple, decentralized mesh VPN with WireGuard support.",
+      "author": "dani-garcia",
+      "repoName": "vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9968,
-      "forks": 941,
-      "currentPeriodStars": 45,
+      "stars": 54975,
+      "forks": 2553,
+      "currentPeriodStars": 49,
       "builtBy": [
         {
-          "username": "KKRainbow",
-          "avatar": "https://avatars.githubusercontent.com/u/5665404?s=40&v=4"
+          "username": "dani-garcia",
+          "avatar": "https://avatars.githubusercontent.com/u/725423?s=40&v=4"
         },
         {
-          "username": "m1m1sha",
-          "avatar": "https://avatars.githubusercontent.com/u/56671041?s=40&v=4"
+          "username": "BlackDex",
+          "avatar": "https://avatars.githubusercontent.com/u/610450?s=40&v=4"
         },
         {
-          "username": "xzzpig",
-          "avatar": "https://avatars.githubusercontent.com/u/10323274?s=40&v=4"
+          "username": "jjlin",
+          "avatar": "https://avatars.githubusercontent.com/u/203380?s=40&v=4"
         },
         {
-          "username": "fanyang89",
-          "avatar": "https://avatars.githubusercontent.com/u/14011681?s=40&v=4"
+          "username": "mprasil",
+          "avatar": "https://avatars.githubusercontent.com/u/8255364?s=40&v=4"
         },
         {
-          "username": "FrankHan052176",
-          "avatar": "https://avatars.githubusercontent.com/u/48244729?s=40&v=4"
+          "username": "stefan0xC",
+          "avatar": "https://avatars.githubusercontent.com/u/509385?s=40&v=4"
         }
       ],
       "aiSummary": null
@@ -495,210 +495,35 @@
     },
     {
       "rank": 15,
-      "author": "max-sixty",
-      "repoName": "worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "author": "gfx-rs",
+      "repoName": "wgpu",
+      "url": "https://github.com/gfx-rs/wgpu",
+      "description": "A cross-platform, safe, pure-Rust graphics API.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2045,
-      "forks": 73,
-      "currentPeriodStars": 31,
+      "stars": 16364,
+      "forks": 1212,
+      "currentPeriodStars": 24,
       "builtBy": [
         {
-          "username": "max-sixty",
-          "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&v=4"
+          "username": "kvark",
+          "avatar": "https://avatars.githubusercontent.com/u/107301?s=40&v=4"
         },
         {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+          "username": "apps/bors",
+          "avatar": "https://avatars.githubusercontent.com/in/1847?s=40&v=4"
         },
         {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+          "username": "cwfitzgerald",
+          "avatar": "https://avatars.githubusercontent.com/u/7861353?s=40&v=4"
         },
         {
-          "username": "worktrunk-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/254187624?s=40&v=4"
+          "username": "jimblandy",
+          "avatar": "https://avatars.githubusercontent.com/u/751272?s=40&v=4"
         },
         {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 16,
-      "author": "openai",
-      "repoName": "codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 60278,
-      "forks": 7937,
-      "currentPeriodStars": 171,
-      "builtBy": [
-        {
-          "username": "bolinfest",
-          "avatar": "https://avatars.githubusercontent.com/u/655869?s=40&v=4"
-        },
-        {
-          "username": "jif-oai",
-          "avatar": "https://avatars.githubusercontent.com/u/230027070?s=40&v=4"
-        },
-        {
-          "username": "aibrahim-oai",
-          "avatar": "https://avatars.githubusercontent.com/u/219906144?s=40&v=4"
-        },
-        {
-          "username": "pakrym-oai",
-          "avatar": "https://avatars.githubusercontent.com/u/204937752?s=40&v=4"
-        },
-        {
-          "username": "nornagon-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/172423086?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 17,
-      "author": "vortex-data",
-      "repoName": "vortex",
-      "url": "https://github.com/vortex-data/vortex",
-      "description": "An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2709,
-      "forks": 132,
-      "currentPeriodStars": 5,
-      "builtBy": [
-        {
-          "username": "robert3005",
-          "avatar": "https://avatars.githubusercontent.com/u/512084?s=40&v=4"
-        },
-        {
-          "username": "gatesn",
-          "avatar": "https://avatars.githubusercontent.com/u/1928052?s=40&v=4"
-        },
-        {
-          "username": "apps/renovate",
-          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
-        },
-        {
-          "username": "joseph-isaacs",
-          "avatar": "https://avatars.githubusercontent.com/u/2413449?s=40&v=4"
-        },
-        {
-          "username": "AdamGS",
-          "avatar": "https://avatars.githubusercontent.com/u/6495257?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 18,
-      "author": "MystenLabs",
-      "repoName": "sui",
-      "url": "https://github.com/MystenLabs/sui",
-      "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 7605,
-      "forks": 11713,
-      "currentPeriodStars": 5,
-      "builtBy": [
-        {
-          "username": "lxfind",
-          "avatar": "https://avatars.githubusercontent.com/u/1581614?s=40&v=4"
-        },
-        {
-          "username": "bmwill",
-          "avatar": "https://avatars.githubusercontent.com/u/6741899?s=40&v=4"
-        },
-        {
-          "username": "amnn",
-          "avatar": "https://avatars.githubusercontent.com/u/332275?s=40&v=4"
-        },
-        {
-          "username": "mystenmark",
-          "avatar": "https://avatars.githubusercontent.com/u/103447440?s=40&v=4"
-        },
-        {
-          "username": "mwtian",
-          "avatar": "https://avatars.githubusercontent.com/u/81660174?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 19,
-      "author": "farion1231",
-      "repoName": "cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 17984,
-      "forks": 1131,
-      "currentPeriodStars": 210,
-      "builtBy": [
-        {
-          "username": "farion1231",
-          "avatar": "https://avatars.githubusercontent.com/u/44939412?s=40&v=4"
-        },
-        {
-          "username": "yovinchen",
-          "avatar": "https://avatars.githubusercontent.com/u/76760071?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "TinsFox",
-          "avatar": "https://avatars.githubusercontent.com/u/33956589?s=40&v=4"
-        },
-        {
-          "username": "tianrking",
-          "avatar": "https://avatars.githubusercontent.com/u/10758833?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 20,
-      "author": "rustdesk",
-      "repoName": "rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 107424,
-      "forks": 15964,
-      "currentPeriodStars": 67,
-      "builtBy": [
-        {
-          "username": "rustdesk",
-          "avatar": "https://avatars.githubusercontent.com/u/71636191?s=40&v=4"
-        },
-        {
-          "username": "fufesou",
-          "avatar": "https://avatars.githubusercontent.com/u/13586388?s=40&v=4"
-        },
-        {
-          "username": "21pages",
-          "avatar": "https://avatars.githubusercontent.com/u/14891774?s=40&v=4"
-        },
-        {
-          "username": "Kingtous",
-          "avatar": "https://avatars.githubusercontent.com/u/39793325?s=40&v=4"
-        },
-        {
-          "username": "Heap-Hop",
-          "avatar": "https://avatars.githubusercontent.com/u/62206297?s=40&v=4"
+          "username": "teoxoy",
+          "avatar": "https://avatars.githubusercontent.com/u/28601907?s=40&v=4"
         }
       ],
       "aiSummary": null

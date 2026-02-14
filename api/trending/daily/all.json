@@ -1,19 +1,57 @@
 {
-  "count": 10,
+  "count": 11,
   "since": "daily",
-  "captured_at": "2026-02-14 00:17:15",
+  "captured_at": "2026-02-14 12:17:20",
   "data": [
     {
       "rank": 1,
+      "author": "tambo-ai",
+      "repoName": "tambo",
+      "url": "https://github.com/tambo-ai/tambo",
+      "description": "Generative UI SDK for React",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 9418,
+      "forks": 457,
+      "currentPeriodStars": 544,
+      "builtBy": [
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "alecf",
+          "avatar": "https://avatars.githubusercontent.com/u/135340?s=40&v=4"
+        },
+        {
+          "username": "MichaelMilstead",
+          "avatar": "https://avatars.githubusercontent.com/u/8498335?s=40&v=4"
+        },
+        {
+          "username": "tambo-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/230265268?s=40&v=4"
+        },
+        {
+          "username": "akhileshrangani4",
+          "avatar": "https://avatars.githubusercontent.com/u/70284178?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，解决了手动处理流式输出与状态同步的复杂度，提升了开发效率。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 2,
       "author": "SynkraAI",
       "repoName": "aios-core",
       "url": "https://github.com/SynkraAI/aios-core",
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 412,
-      "forks": 209,
-      "currentPeriodStars": 106,
+      "stars": 507,
+      "forks": 225,
+      "currentPeriodStars": 223,
       "builtBy": [
         {
           "username": "claude",
@@ -42,16 +80,92 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "author": "rowboatlabs",
+      "repoName": "rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 5591,
+      "forks": 445,
+      "currentPeriodStars": 467,
+      "builtBy": [
+        {
+          "username": "ramnique",
+          "avatar": "https://avatars.githubusercontent.com/u/30795890?s=40&v=4"
+        },
+        {
+          "username": "akhisud3195",
+          "avatar": "https://avatars.githubusercontent.com/u/55130408?s=40&v=4"
+        },
+        {
+          "username": "arkml",
+          "avatar": "https://avatars.githubusercontent.com/u/6592213?s=40&v=4"
+        },
+        {
+          "username": "tusharmagar",
+          "avatar": "https://avatars.githubusercontent.com/u/47842976?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "Rowboat 是一个开源的 AI 协作者，基于 TypeScript 开发。其核心在于为 AI 助手配备了长期记忆能力，解决了传统 AI 对话中上下文信息易丢失的痛点，能持续记忆用户偏好与历史交互，从而实现更连贯、个性化的协作体验。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 4,
+      "author": "minio",
+      "repoName": "minio",
+      "url": "https://github.com/minio/minio",
+      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 60223,
+      "forks": 7002,
+      "currentPeriodStars": 44,
+      "builtBy": [
+        {
+          "username": "harshavardhana",
+          "avatar": "https://avatars.githubusercontent.com/u/622699?s=40&v=4"
+        },
+        {
+          "username": "vadmeste",
+          "avatar": "https://avatars.githubusercontent.com/u/283197?s=40&v=4"
+        },
+        {
+          "username": "klauspost",
+          "avatar": "https://avatars.githubusercontent.com/u/5663952?s=40&v=4"
+        },
+        {
+          "username": "minio-trusted",
+          "avatar": "https://avatars.githubusercontent.com/u/21070888?s=40&v=4"
+        },
+        {
+          "username": "poornas",
+          "avatar": "https://avatars.githubusercontent.com/u/791968?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "MinIO 是一款基于 Go 语言开发的高性能对象存储系统，完全兼容 Amazon S3 API。它解决了企业构建私有云存储时对高性能、可扩展且与主流生态兼容的存储服务的需求，适用于大规模数据湖、备份和云原生应用场景。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 5,
       "author": "ChromeDevTools",
       "repoName": "chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24714,
-      "forks": 1462,
-      "currentPeriodStars": 363,
+      "stars": 24878,
+      "forks": 1473,
+      "currentPeriodStars": 326,
       "builtBy": [
         {
           "username": "OrKoN",
@@ -80,302 +194,218 @@
       }
     },
     {
-      "rank": 3,
-      "author": "danielmiessler",
-      "repoName": "Personal_AI_Infrastructure",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 8025,
-      "forks": 1133,
-      "currentPeriodStars": 595,
-      "builtBy": [
-        {
-          "username": "danielmiessler",
-          "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "ksylvan",
-          "avatar": "https://avatars.githubusercontent.com/u/1226059?s=40&v=4"
-        },
-        {
-          "username": "mvoehringer",
-          "avatar": "https://avatars.githubusercontent.com/u/2719466?s=40&v=4"
-        },
-        {
-          "username": "m4nt0de4",
-          "avatar": "https://avatars.githubusercontent.com/u/176330864?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "danielmiessler/Personal_AI_Infrastructure 是一个基于 TypeScript 的智能体化 AI 基础设施项目。其核心目标是构建一个能扩展和增强人类能力的自动化代理系统，通过编排多个 AI 智能体协同工作，解决个人在信息处理、任务执行与决策支持等方面的效率瓶颈，实现人机能力的深度融合与放大。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 4,
-      "author": "patchy631",
-      "repoName": "ai-engineering-hub",
-      "url": "https://github.com/patchy631/ai-engineering-hub",
-      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 29290,
-      "forks": 4749,
-      "currentPeriodStars": 84,
-      "builtBy": [
-        {
-          "username": "patchy631",
-          "avatar": "https://avatars.githubusercontent.com/u/38653995?s=40&v=4"
-        },
-        {
-          "username": "sitammeur",
-          "avatar": "https://avatars.githubusercontent.com/u/103279526?s=40&v=4"
-        },
-        {
-          "username": "ChawlaAvi",
-          "avatar": "https://avatars.githubusercontent.com/u/36801774?s=40&v=4"
-        },
-        {
-          "username": "nikhil-1e9",
-          "avatar": "https://avatars.githubusercontent.com/u/84204563?s=40&v=4"
-        },
-        {
-          "username": "namanvirk18",
-          "avatar": "https://avatars.githubusercontent.com/u/109527422?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "该项目提供关于大语言模型、检索增强生成和AI智能体应用的深度教程，旨在解决开发者缺乏实战指南的痛点，通过具体案例帮助构建可落地的真实世界AI应用。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 5,
-      "author": "TelegramMessenger",
-      "repoName": "MTProxy",
-      "url": "https://github.com/TelegramMessenger/MTProxy",
-      "description": "",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 5877,
-      "forks": 996,
-      "currentPeriodStars": 35,
-      "builtBy": [
-        {
-          "username": "levlam",
-          "avatar": "https://avatars.githubusercontent.com/u/22669599?s=40&v=4"
-        },
-        {
-          "username": "stek29",
-          "avatar": "https://avatars.githubusercontent.com/u/11808223?s=40&v=4"
-        },
-        {
-          "username": "vysheng",
-          "avatar": "https://avatars.githubusercontent.com/u/1647536?s=40&v=4"
-        },
-        {
-          "username": "savely-krasovsky",
-          "avatar": "https://avatars.githubusercontent.com/u/5345489?s=40&v=4"
-        },
-        {
-          "username": "dfedin",
-          "avatar": "https://avatars.githubusercontent.com/u/6404829?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "MTProxy是Telegram官方推出的轻量级代理工具，使用C语言编写。它通过伪装流量和快速中继，帮助用户在受限网络环境中稳定访问Telegram服务，有效绕过网络封锁。",
-        "source": "deepseek"
-      }
-    },
-    {
       "rank": 6,
-      "author": "google-deepmind",
-      "repoName": "superhuman",
-      "url": "https://github.com/google-deepmind/superhuman",
-      "description": "",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": 367,
-      "forks": 26,
-      "currentPeriodStars": 49,
+      "author": "alibaba",
+      "repoName": "zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 971,
+      "forks": 56,
+      "currentPeriodStars": 198,
       "builtBy": [
         {
-          "username": "ychervonyi",
-          "avatar": "https://avatars.githubusercontent.com/u/25130217?s=40&v=4"
+          "username": "iaojnh",
+          "avatar": "https://avatars.githubusercontent.com/u/38692278?s=40&v=4"
         },
         {
-          "username": "dawsenhwang",
-          "avatar": "https://avatars.githubusercontent.com/u/233163904?s=40&v=4"
+          "username": "feihongxu0824",
+          "avatar": "https://avatars.githubusercontent.com/u/237691413?s=40&v=4"
         },
         {
-          "username": "nurijunsu",
-          "avatar": "https://avatars.githubusercontent.com/u/41418083?s=40&v=4"
+          "username": "egolearner",
+          "avatar": "https://avatars.githubusercontent.com/u/45122959?s=40&v=4"
         },
         {
-          "username": "lmthang",
-          "avatar": "https://avatars.githubusercontent.com/u/396613?s=40&v=4"
+          "username": "Cuiyus",
+          "avatar": "https://avatars.githubusercontent.com/u/42903451?s=40&v=4"
+        },
+        {
+          "username": "zhourrr",
+          "avatar": "https://avatars.githubusercontent.com/u/78126249?s=40&v=4"
         }
       ],
       "aiSummary": {
-        "content": "DeepMind开源了其“超人”围棋AI的完整技术文档，以LaTeX格式呈现。该项目详细阐述了AlphaGo Zero和AlphaZero的核心算法与训练方法，旨在为学术界提供可复现的参考实现，推动人工智能研究在复杂决策领域的发展。",
+        "content": "zvec 是阿里巴巴开源的轻量级、极速进程内向量数据库。它专为需要高性能向量相似性搜索的场景设计，通过消除网络开销和复杂部署，实现了低延迟、高吞吐量的近似最近邻检索。",
         "source": "deepseek"
       }
     },
     {
       "rank": 7,
-      "author": "cheahjs",
-      "repoName": "free-llm-api-resources",
-      "url": "https://github.com/cheahjs/free-llm-api-resources",
-      "description": "A list of free LLM inference resources accessible via API.",
+      "author": "ruvnet",
+      "repoName": "wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10622,
-      "forks": 1034,
-      "currentPeriodStars": 392,
+      "stars": 5958,
+      "forks": 544,
+      "currentPeriodStars": 83,
       "builtBy": [
         {
-          "username": "cheahjs",
-          "avatar": "https://avatars.githubusercontent.com/u/818368?s=40&v=4"
+          "username": "ruvnet",
+          "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "Ruvnet/Wifi-DensePose 实现了 InvisPose 系统，利用普通家用网状路由器发出的 WiFi 信号，实现了穿墙的实时密集人体姿态估计。该系统解决了传统视觉方法在遮挡或无光环境下失效的痛点，无需穿戴设备即可进行全身动作追踪。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 8,
+      "author": "Zipstack",
+      "repoName": "unstract",
+      "url": "https://github.com/Zipstack/unstract",
+      "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 6163,
+      "forks": 588,
+      "currentPeriodStars": 24,
+      "builtBy": [
+        {
+          "username": "chandrasekharan-zipstack",
+          "avatar": "https://avatars.githubusercontent.com/u/117059509?s=40&v=4"
+        },
+        {
+          "username": "muhammad-ali-e",
+          "avatar": "https://avatars.githubusercontent.com/u/117142933?s=40&v=4"
+        },
+        {
+          "username": "Deepak-Kesavan",
+          "avatar": "https://avatars.githubusercontent.com/u/89829542?s=40&v=4"
+        },
+        {
+          "username": "apps/pre-commit-ci",
+          "avatar": "https://avatars.githubusercontent.com/in/68672?s=40&v=4"
+        },
+        {
+          "username": "gaya3-zipstack",
+          "avatar": "https://avatars.githubusercontent.com/u/142381512?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "Zipstack/unstract 是一个基于 Python 的无代码 LLM 平台，旨在解决非结构化文档处理难题。其核心功能是让用户无需编程即可快速部署 API 和 ETL 流水线，从而自动化提取并结构化文档中的关键信息。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 9,
+      "author": "letta-ai",
+      "repoName": "letta-code",
+      "url": "https://github.com/letta-ai/letta-code",
+      "description": "The memory-first coding agent",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 1085,
+      "forks": 133,
+      "currentPeriodStars": 30,
+      "builtBy": [
+        {
+          "username": "cpacker",
+          "avatar": "https://avatars.githubusercontent.com/u/5475622?s=40&v=4"
+        },
+        {
+          "username": "letta-code",
+          "avatar": "https://avatars.githubusercontent.com/u/248085862?s=40&v=4"
         },
         {
           "username": "apps/github-actions",
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         },
         {
-          "username": "themacexpert",
-          "avatar": "https://avatars.githubusercontent.com/u/5834262?s=40&v=4"
+          "username": "jnjpng",
+          "avatar": "https://avatars.githubusercontent.com/u/13899997?s=40&v=4"
         },
         {
-          "username": "justmarkham",
-          "avatar": "https://avatars.githubusercontent.com/u/6509492?s=40&v=4"
-        },
-        {
-          "username": "k-bose",
-          "avatar": "https://avatars.githubusercontent.com/u/131641639?s=40&v=4"
+          "username": "kl2806",
+          "avatar": "https://avatars.githubusercontent.com/u/9100255?s=40&v=4"
         }
       ],
       "aiSummary": {
-        "content": "该项目汇总了多个可免费调用的LLM推理API资源，解决了开发者因商业API成本高昂或访问受限而难以测试和集成大语言模型的痛点，为实验和小规模应用提供了便捷入口。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 8,
-      "author": "HandsOnLLM",
-      "repoName": "Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 21151,
-      "forks": 4994,
-      "currentPeriodStars": 329,
-      "builtBy": [
-        {
-          "username": "MaartenGr",
-          "avatar": "https://avatars.githubusercontent.com/u/25746895?s=40&v=4"
-        },
-        {
-          "username": "negativenagesh",
-          "avatar": "https://avatars.githubusercontent.com/u/148525245?s=40&v=4"
-        },
-        {
-          "username": "jalammar",
-          "avatar": "https://avatars.githubusercontent.com/u/1007956?s=40&v=4"
-        },
-        {
-          "username": "dkapitan",
-          "avatar": "https://avatars.githubusercontent.com/u/4090894?s=40&v=4"
-        },
-        {
-          "username": "dcarpintero",
-          "avatar": "https://avatars.githubusercontent.com/u/6709785?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "该项目为O'Reilly书籍《动手学大语言模型》的官方代码库，通过一系列Jupyter Notebook实践教程，解决了学习者难以将LLM理论知识转化为实际应用能力的痛点，帮助开发者快速上手并构建基于大语言模型的应用程序。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 9,
-      "author": "THUDM",
-      "repoName": "slime",
-      "url": "https://github.com/THUDM/slime",
-      "description": "slime is an LLM post-training framework for RL Scaling.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 4073,
-      "forks": 528,
-      "currentPeriodStars": 85,
-      "builtBy": [
-        {
-          "username": "zhuzilin",
-          "avatar": "https://avatars.githubusercontent.com/u/10428324?s=40&v=4"
-        },
-        {
-          "username": "fzyzcjy",
-          "avatar": "https://avatars.githubusercontent.com/u/5236035?s=40&v=4"
-        },
-        {
-          "username": "yitianlian",
-          "avatar": "https://avatars.githubusercontent.com/u/91449279?s=40&v=4"
-        },
-        {
-          "username": "lilei199908",
-          "avatar": "https://avatars.githubusercontent.com/u/77353389?s=40&v=4"
-        },
-        {
-          "username": "lancerts",
-          "avatar": "https://avatars.githubusercontent.com/u/7495155?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "THUDM/slime 是一个专为大语言模型设计的强化学习扩展后训练框架。它解决了传统RLHF方法在模型规模扩大时面临的计算效率低、训练不稳定等痛点，通过创新的算法优化，实现了对超大规模语言模型高效、稳定的强化学习微调。",
+        "content": "Letta-Code 是一个基于记忆优先理念的 TypeScript 编码智能体。它通过持久化记忆上下文，有效解决了传统AI编码助手在多轮复杂对话中遗忘历史、上下文丢失的核心痛点，从而能更连贯、精准地理解和执行长期开发任务。",
         "source": "deepseek"
       }
     },
     {
       "rank": 10,
-      "author": "DebugSwift",
-      "repoName": "DebugSwift",
-      "url": "https://github.com/DebugSwift/DebugSwift",
-      "description": "A toolkit to make debugging iOS applications easier 🚀",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 1422,
-      "forks": 125,
-      "currentPeriodStars": 52,
+      "author": "ruby",
+      "repoName": "ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 23315,
+      "forks": 5562,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
-          "username": "MaatheusGois",
-          "avatar": "https://avatars.githubusercontent.com/u/31082311?s=40&v=4"
+          "username": "nobu",
+          "avatar": "https://avatars.githubusercontent.com/u/16700?s=40&v=4"
         },
         {
-          "username": "maatheusgois-dd",
-          "avatar": "https://avatars.githubusercontent.com/u/199827342?s=40&v=4"
+          "username": "matzbot",
+          "avatar": "https://avatars.githubusercontent.com/u/29403229?s=40&v=4"
         },
         {
-          "username": "apps/github-advanced-security",
-          "avatar": "https://avatars.githubusercontent.com/in/57789?s=40&v=4"
+          "username": "akr",
+          "avatar": "https://avatars.githubusercontent.com/u/10538?s=40&v=4"
         },
         {
-          "username": "fenli",
-          "avatar": "https://avatars.githubusercontent.com/u/5110285?s=40&v=4"
+          "username": "hsbt",
+          "avatar": "https://avatars.githubusercontent.com/u/12301?s=40&v=4"
         },
         {
-          "username": "murilogteixeira",
-          "avatar": "https://avatars.githubusercontent.com/u/38084757?s=40&v=4"
+          "username": "k0kubun",
+          "avatar": "https://avatars.githubusercontent.com/u/3138447?s=40&v=4"
         }
       ],
       "aiSummary": {
-        "content": "DebugSwift 是一款专为 iOS 应用设计的调试工具包，旨在简化开发者的调试流程。它通过集成视图层级检查、性能监控、网络请求追踪等核心功能，解决了传统调试方式繁琐、信息分散的痛点，显著提升了问题定位与诊断的效率。",
+        "content": "Ruby 编程语言的核心实现，提供了动态、面向对象的脚本语言环境。其核心价值在于通过简洁优雅的语法和强大的元编程能力，显著提升了开发者的生产力和代码可读性，尤其适用于快速原型开发和Web应用构建。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 11,
+      "author": "cinnyapp",
+      "repoName": "cinny",
+      "url": "https://github.com/cinnyapp/cinny",
+      "description": "Yet another matrix client",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 2980,
+      "forks": 406,
+      "currentPeriodStars": 153,
+      "builtBy": [
+        {
+          "username": "ajbura",
+          "avatar": "https://avatars.githubusercontent.com/u/32841439?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "kfiven",
+          "avatar": "https://avatars.githubusercontent.com/u/33421343?s=40&v=4"
+        },
+        {
+          "username": "apps/renovate",
+          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+        },
+        {
+          "username": "ginnyTheCat",
+          "avatar": "https://avatars.githubusercontent.com/u/35173023?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "Cinny 是一款基于 Matrix 协议的轻量级即时通讯客户端，采用 TypeScript 开发。它专注于提供快速、简洁的用户体验，解决了官方 Element 客户端较为臃肿、性能开销大的痛点，尤其适合在浏览器和移动端高效使用去中心化通信网络。",
         "source": "deepseek"
       }
     }

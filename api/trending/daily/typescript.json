@@ -1,342 +1,18 @@
 {
-  "count": 15,
+  "count": 11,
   "since": "daily",
-  "captured_at": "2026-02-14 00:18:11",
+  "captured_at": "2026-02-14 12:18:30",
   "data": [
     {
       "rank": 1,
-      "author": "ChromeDevTools",
-      "repoName": "chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 24714,
-      "forks": 1462,
-      "currentPeriodStars": 363,
-      "builtBy": [
-        {
-          "username": "OrKoN",
-          "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "Lightning00Blade",
-          "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&v=4"
-        },
-        {
-          "username": "browser-automation-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&v=4"
-        },
-        {
-          "username": "szuend",
-          "avatar": "https://avatars.githubusercontent.com/u/325588?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 2,
-      "author": "danielmiessler",
-      "repoName": "Personal_AI_Infrastructure",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 8025,
-      "forks": 1133,
-      "currentPeriodStars": 595,
-      "builtBy": [
-        {
-          "username": "danielmiessler",
-          "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "ksylvan",
-          "avatar": "https://avatars.githubusercontent.com/u/1226059?s=40&v=4"
-        },
-        {
-          "username": "mvoehringer",
-          "avatar": "https://avatars.githubusercontent.com/u/2719466?s=40&v=4"
-        },
-        {
-          "username": "m4nt0de4",
-          "avatar": "https://avatars.githubusercontent.com/u/176330864?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "danielmiessler/Personal_AI_Infrastructure 是一个基于 TypeScript 的智能体化 AI 基础设施项目。其核心目标是构建一个能扩展和增强人类能力的自动化代理系统，通过编排多个 AI 智能体协同工作，解决个人在信息处理、任务执行与决策支持等方面的效率瓶颈，实现人机能力的深度融合与放大。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 3,
-      "author": "CyberTimon",
-      "repoName": "RapidRAW",
-      "url": "https://github.com/CyberTimon/RapidRAW",
-      "description": "A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 4981,
-      "forks": 164,
-      "currentPeriodStars": 86,
-      "builtBy": [
-        {
-          "username": "CyberTimon",
-          "avatar": "https://avatars.githubusercontent.com/u/78795905?s=40&v=4"
-        },
-        {
-          "username": "andrewazores",
-          "avatar": "https://avatars.githubusercontent.com/u/3787464?s=40&v=4"
-        },
-        {
-          "username": "RayJW",
-          "avatar": "https://avatars.githubusercontent.com/u/29835902?s=40&v=4"
-        },
-        {
-          "username": "william-niq",
-          "avatar": "https://avatars.githubusercontent.com/u/132473775?s=40&v=4"
-        },
-        {
-          "username": "riccio8",
-          "avatar": "https://avatars.githubusercontent.com/u/134144784?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 4,
-      "author": "rowboatlabs",
-      "repoName": "rowboat",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 5496,
-      "forks": 437,
-      "currentPeriodStars": 467,
-      "builtBy": [
-        {
-          "username": "ramnique",
-          "avatar": "https://avatars.githubusercontent.com/u/30795890?s=40&v=4"
-        },
-        {
-          "username": "akhisud3195",
-          "avatar": "https://avatars.githubusercontent.com/u/55130408?s=40&v=4"
-        },
-        {
-          "username": "arkml",
-          "avatar": "https://avatars.githubusercontent.com/u/6592213?s=40&v=4"
-        },
-        {
-          "username": "tusharmagar",
-          "avatar": "https://avatars.githubusercontent.com/u/47842976?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "Rowboat 是一个开源的 AI 协作者，基于 TypeScript 开发。其核心在于为 AI 助手配备了长期记忆能力，解决了传统 AI 对话中上下文信息易丢失的痛点，能持续记忆用户偏好与历史交互，从而实现更连贯、个性化的协作体验。",
-        "source": "deepseek"
-      }
-    },
-    {
-      "rank": 5,
-      "author": "EveryInc",
-      "repoName": "compound-engineering-plugin",
-      "url": "https://github.com/EveryInc/compound-engineering-plugin",
-      "description": "Official Claude Code compound engineering plugin",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 8790,
-      "forks": 682,
-      "currentPeriodStars": 128,
-      "builtBy": [
-        {
-          "username": "kieranklaassen",
-          "avatar": "https://avatars.githubusercontent.com/u/209089?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "tmchow",
-          "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&v=4"
-        },
-        {
-          "username": "julik",
-          "avatar": "https://avatars.githubusercontent.com/u/16446?s=40&v=4"
-        },
-        {
-          "username": "dshipper",
-          "avatar": "https://avatars.githubusercontent.com/u/263564?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 6,
-      "author": "actions",
-      "repoName": "setup-node",
-      "url": "https://github.com/actions/setup-node",
-      "description": "Set up your GitHub Actions workflow with a specific version of node.js",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 4636,
-      "forks": 1627,
-      "currentPeriodStars": 2,
-      "builtBy": [
-        {
-          "username": "dmitry-shibanov",
-          "avatar": "https://avatars.githubusercontent.com/u/28229110?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "aminya",
-          "avatar": "https://avatars.githubusercontent.com/u/16418197?s=40&v=4"
-        },
-        {
-          "username": "jef",
-          "avatar": "https://avatars.githubusercontent.com/u/12074633?s=40&v=4"
-        },
-        {
-          "username": "IvanZosimov",
-          "avatar": "https://avatars.githubusercontent.com/u/98037481?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 7,
-      "author": "musistudio",
-      "repoName": "claude-code-router",
-      "url": "https://github.com/musistudio/claude-code-router",
-      "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 27802,
-      "forks": 2152,
-      "currentPeriodStars": 75,
-      "builtBy": [
-        {
-          "username": "musistudio",
-          "avatar": "https://avatars.githubusercontent.com/u/21162426?s=40&v=4"
-        },
-        {
-          "username": "TonyGeez",
-          "avatar": "https://avatars.githubusercontent.com/u/141154740?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "BigUncle",
-          "avatar": "https://avatars.githubusercontent.com/u/9360607?s=40&v=4"
-        },
-        {
-          "username": "sbtobb",
-          "avatar": "https://avatars.githubusercontent.com/u/8125099?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 8,
-      "author": "angular",
-      "repoName": "angular",
-      "url": "https://github.com/angular/angular",
-      "description": "Deliver web apps with confidence 🚀",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 99824,
-      "forks": 27058,
-      "currentPeriodStars": 14,
-      "builtBy": [
-        {
-          "username": "gkalpak",
-          "avatar": "https://avatars.githubusercontent.com/u/8604205?s=40&v=4"
-        },
-        {
-          "username": "petebacondarwin",
-          "avatar": "https://avatars.githubusercontent.com/u/15655?s=40&v=4"
-        },
-        {
-          "username": "devversion",
-          "avatar": "https://avatars.githubusercontent.com/u/4987015?s=40&v=4"
-        },
-        {
-          "username": "crisbeto",
-          "avatar": "https://avatars.githubusercontent.com/u/4450522?s=40&v=4"
-        },
-        {
-          "username": "atscott",
-          "avatar": "https://avatars.githubusercontent.com/u/479713?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 9,
-      "author": "microsoft",
-      "repoName": "azure-devops-mcp",
-      "url": "https://github.com/microsoft/azure-devops-mcp",
-      "description": "The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 1266,
-      "forks": 405,
-      "currentPeriodStars": 0,
-      "builtBy": [
-        {
-          "username": "danhellem",
-          "avatar": "https://avatars.githubusercontent.com/u/10525048?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "polatengin",
-          "avatar": "https://avatars.githubusercontent.com/u/118744?s=40&v=4"
-        },
-        {
-          "username": "Novaes",
-          "avatar": "https://avatars.githubusercontent.com/u/1021909?s=40&v=4"
-        },
-        {
-          "username": "nikolapeja6",
-          "avatar": "https://avatars.githubusercontent.com/u/18459277?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 10,
       "author": "tambo-ai",
       "repoName": "tambo",
       "url": "https://github.com/tambo-ai/tambo",
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9390,
-      "forks": 452,
+      "stars": 9419,
+      "forks": 457,
       "currentPeriodStars": 544,
       "builtBy": [
         {
@@ -366,155 +42,129 @@
       }
     },
     {
-      "rank": 11,
-      "author": "getmaxun",
-      "repoName": "maxun",
-      "url": "https://github.com/getmaxun/maxun",
-      "description": "✨ The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes ✨",
+      "rank": 2,
+      "author": "rowboatlabs",
+      "repoName": "rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14858,
-      "forks": 1197,
-      "currentPeriodStars": 170,
+      "stars": 5591,
+      "forks": 445,
+      "currentPeriodStars": 467,
       "builtBy": [
         {
-          "username": "amhsirak",
-          "avatar": "https://avatars.githubusercontent.com/u/76456498?s=40&v=4"
+          "username": "ramnique",
+          "avatar": "https://avatars.githubusercontent.com/u/30795890?s=40&v=4"
         },
         {
-          "username": "RohitR311",
-          "avatar": "https://avatars.githubusercontent.com/u/70875861?s=40&v=4"
+          "username": "akhisud3195",
+          "avatar": "https://avatars.githubusercontent.com/u/55130408?s=40&v=4"
         },
         {
-          "username": "AmitChauhan63390",
-          "avatar": "https://avatars.githubusercontent.com/u/36507878?s=40&v=4"
+          "username": "arkml",
+          "avatar": "https://avatars.githubusercontent.com/u/6592213?s=40&v=4"
         },
         {
-          "username": "naveenpan09",
-          "avatar": "https://avatars.githubusercontent.com/u/182222691?s=40&v=4"
+          "username": "tusharmagar",
+          "avatar": "https://avatars.githubusercontent.com/u/47842976?s=40&v=4"
         },
         {
-          "username": "ninja-programmer",
-          "avatar": "https://avatars.githubusercontent.com/u/84878205?s=40&v=4"
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "Rowboat 是一个开源的 AI 协作者，基于 TypeScript 开发。其核心在于为 AI 助手配备了长期记忆能力，解决了传统 AI 对话中上下文信息易丢失的痛点，能持续记忆用户偏好与历史交互，从而实现更连贯、个性化的协作体验。",
+        "source": "deepseek"
+      }
     },
     {
-      "rank": 12,
-      "author": "renovatebot",
-      "repoName": "renovate",
-      "url": "https://github.com/renovatebot/renovate",
-      "description": "Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io",
+      "rank": 3,
+      "author": "ChromeDevTools",
+      "repoName": "chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 20817,
-      "forks": 2937,
-      "currentPeriodStars": 8,
+      "stars": 24878,
+      "forks": 1473,
+      "currentPeriodStars": 326,
       "builtBy": [
         {
-          "username": "apps/renovate",
-          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+          "username": "OrKoN",
+          "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4"
         },
         {
-          "username": "rarkins",
-          "avatar": "https://avatars.githubusercontent.com/u/6311784?s=40&v=4"
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "viceice",
-          "avatar": "https://avatars.githubusercontent.com/u/1798109?s=40&v=4"
+          "username": "Lightning00Blade",
+          "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&v=4"
         },
         {
-          "username": "renovate-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4"
+          "username": "browser-automation-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&v=4"
         },
         {
-          "username": "zharinov",
-          "avatar": "https://avatars.githubusercontent.com/u/1239644?s=40&v=4"
+          "username": "szuend",
+          "avatar": "https://avatars.githubusercontent.com/u/325588?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。",
+        "source": "deepseek"
+      }
     },
     {
-      "rank": 13,
-      "author": "openclaw",
-      "repoName": "openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "rank": 4,
+      "author": "letta-ai",
+      "repoName": "letta-code",
+      "url": "https://github.com/letta-ai/letta-code",
+      "description": "The memory-first coding agent",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 191878,
-      "forks": 32803,
-      "currentPeriodStars": 3176,
+      "stars": 1085,
+      "forks": 133,
+      "currentPeriodStars": 30,
       "builtBy": [
         {
-          "username": "steipete",
-          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
+          "username": "cpacker",
+          "avatar": "https://avatars.githubusercontent.com/u/5475622?s=40&v=4"
         },
         {
-          "username": "thewilloftheshadow",
-          "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&v=4"
+          "username": "letta-code",
+          "avatar": "https://avatars.githubusercontent.com/u/248085862?s=40&v=4"
         },
         {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         },
         {
-          "username": "vignesh07",
-          "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&v=4"
+          "username": "jnjpng",
+          "avatar": "https://avatars.githubusercontent.com/u/13899997?s=40&v=4"
         },
         {
-          "username": "gumadeiras",
-          "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
+          "username": "kl2806",
+          "avatar": "https://avatars.githubusercontent.com/u/9100255?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummary": {
+        "content": "Letta-Code 是一个基于记忆优先理念的 TypeScript 编码智能体。它通过持久化记忆上下文，有效解决了传统AI编码助手在多轮复杂对话中遗忘历史、上下文丢失的核心痛点，从而能更连贯、精准地理解和执行长期开发任务。",
+        "source": "deepseek"
+      }
     },
     {
-      "rank": 14,
-      "author": "spacebarchat",
-      "repoName": "server",
-      "url": "https://github.com/spacebarchat/server",
-      "description": "Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 1975,
-      "forks": 278,
-      "currentPeriodStars": 37,
-      "builtBy": [
-        {
-          "username": "samuelscheit",
-          "avatar": "https://avatars.githubusercontent.com/u/34555296?s=40&v=4"
-        },
-        {
-          "username": "MaddyUnderStars",
-          "avatar": "https://avatars.githubusercontent.com/u/46743919?s=40&v=4"
-        },
-        {
-          "username": "TheArcaneBrony",
-          "avatar": "https://avatars.githubusercontent.com/u/13570458?s=40&v=4"
-        },
-        {
-          "username": "MathMan05",
-          "avatar": "https://avatars.githubusercontent.com/u/73901602?s=40&v=4"
-        },
-        {
-          "username": "Puyodead1",
-          "avatar": "https://avatars.githubusercontent.com/u/14828766?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 15,
+      "rank": 5,
       "author": "cinnyapp",
       "repoName": "cinny",
       "url": "https://github.com/cinnyapp/cinny",
       "description": "Yet another matrix client",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 2963,
-      "forks": 404,
+      "stars": 2980,
+      "forks": 406,
       "currentPeriodStars": 153,
       "builtBy": [
         {
@@ -542,6 +192,219 @@
         "content": "Cinny 是一款基于 Matrix 协议的轻量级即时通讯客户端，采用 TypeScript 开发。它专注于提供快速、简洁的用户体验，解决了官方 Element 客户端较为臃肿、性能开销大的痛点，尤其适合在浏览器和移动端高效使用去中心化通信网络。",
         "source": "deepseek"
       }
+    },
+    {
+      "rank": 6,
+      "author": "danielmiessler",
+      "repoName": "Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 8290,
+      "forks": 1149,
+      "currentPeriodStars": 518,
+      "builtBy": [
+        {
+          "username": "danielmiessler",
+          "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "ksylvan",
+          "avatar": "https://avatars.githubusercontent.com/u/1226059?s=40&v=4"
+        },
+        {
+          "username": "mvoehringer",
+          "avatar": "https://avatars.githubusercontent.com/u/2719466?s=40&v=4"
+        },
+        {
+          "username": "m4nt0de4",
+          "avatar": "https://avatars.githubusercontent.com/u/176330864?s=40&v=4"
+        }
+      ],
+      "aiSummary": {
+        "content": "danielmiessler/Personal_AI_Infrastructure 是一个基于 TypeScript 的智能体化 AI 基础设施项目。其核心目标是构建一个能扩展和增强人类能力的自动化代理系统，通过编排多个 AI 智能体协同工作，解决个人在信息处理、任务执行与决策支持等方面的效率瓶颈，实现人机能力的深度融合与放大。",
+        "source": "deepseek"
+      }
+    },
+    {
+      "rank": 7,
+      "author": "chartdb",
+      "repoName": "chartdb",
+      "url": "https://github.com/chartdb/chartdb",
+      "description": "Database diagrams editor that allows you to visualize and design your DB with a single query.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 21216,
+      "forks": 1259,
+      "currentPeriodStars": 78,
+      "builtBy": [
+        {
+          "username": "guyb1",
+          "avatar": "https://avatars.githubusercontent.com/u/6676322?s=40&v=4"
+        },
+        {
+          "username": "johnnyfish",
+          "avatar": "https://avatars.githubusercontent.com/u/9851076?s=40&v=4"
+        },
+        {
+          "username": "origranot",
+          "avatar": "https://avatars.githubusercontent.com/u/48911144?s=40&v=4"
+        },
+        {
+          "username": "GuyMoses",
+          "avatar": "https://avatars.githubusercontent.com/u/9597234?s=40&v=4"
+        },
+        {
+          "username": "ilyaLibin",
+          "avatar": "https://avatars.githubusercontent.com/u/12880486?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 8,
+      "author": "openclaw",
+      "repoName": "openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 193293,
+      "forks": 33194,
+      "currentPeriodStars": 3176,
+      "builtBy": [
+        {
+          "username": "steipete",
+          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
+        },
+        {
+          "username": "thewilloftheshadow",
+          "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "vignesh07",
+          "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&v=4"
+        },
+        {
+          "username": "gumadeiras",
+          "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 9,
+      "author": "getmaxun",
+      "repoName": "maxun",
+      "url": "https://github.com/getmaxun/maxun",
+      "description": "✨ The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes ✨",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 14878,
+      "forks": 1197,
+      "currentPeriodStars": 170,
+      "builtBy": [
+        {
+          "username": "amhsirak",
+          "avatar": "https://avatars.githubusercontent.com/u/76456498?s=40&v=4"
+        },
+        {
+          "username": "RohitR311",
+          "avatar": "https://avatars.githubusercontent.com/u/70875861?s=40&v=4"
+        },
+        {
+          "username": "AmitChauhan63390",
+          "avatar": "https://avatars.githubusercontent.com/u/36507878?s=40&v=4"
+        },
+        {
+          "username": "naveenpan09",
+          "avatar": "https://avatars.githubusercontent.com/u/182222691?s=40&v=4"
+        },
+        {
+          "username": "ninja-programmer",
+          "avatar": "https://avatars.githubusercontent.com/u/84878205?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 10,
+      "author": "backstage",
+      "repoName": "backstage",
+      "url": "https://github.com/backstage/backstage",
+      "description": "Backstage is an open framework for building developer portals",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 32593,
+      "forks": 7087,
+      "currentPeriodStars": 5,
+      "builtBy": [
+        {
+          "username": "Rugvip",
+          "avatar": "https://avatars.githubusercontent.com/u/4984472?s=40&v=4"
+        },
+        {
+          "username": "freben",
+          "avatar": "https://avatars.githubusercontent.com/u/3097461?s=40&v=4"
+        },
+        {
+          "username": "benjdlambert",
+          "avatar": "https://avatars.githubusercontent.com/u/3645856?s=40&v=4"
+        },
+        {
+          "username": "apps/renovate",
+          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+        },
+        {
+          "username": "apps/backstage-goalie",
+          "avatar": "https://avatars.githubusercontent.com/u/72526453?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 11,
+      "author": "rybbit-io",
+      "repoName": "rybbit",
+      "url": "https://github.com/rybbit-io/rybbit",
+      "description": "🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 11317,
+      "forks": 580,
+      "currentPeriodStars": 91,
+      "builtBy": [
+        {
+          "username": "goldflag",
+          "avatar": "https://avatars.githubusercontent.com/u/45103519?s=40&v=4"
+        },
+        {
+          "username": "ECuiDev",
+          "avatar": "https://avatars.githubusercontent.com/u/37892357?s=40&v=4"
+        },
+        {
+          "username": "poliroid",
+          "avatar": "https://avatars.githubusercontent.com/u/3240589?s=40&v=4"
+        },
+        {
+          "username": "JMeng1",
+          "avatar": "https://avatars.githubusercontent.com/u/66975945?s=40&v=4"
+        },
+        {
+          "username": "rockinrimmer",
+          "avatar": "https://avatars.githubusercontent.com/u/5732724?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
     }
   ]
 }

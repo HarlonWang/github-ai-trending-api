@@ -1,7 +1,7 @@
 {
-  "count": 20,
+  "count": 21,
   "since": "daily",
-  "captured_at": "2026-02-14 00:18:25",
+  "captured_at": "2026-02-14 12:18:44",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A toolkit to make debugging iOS applications easier 🚀",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1422,
-      "forks": 125,
-      "currentPeriodStars": 52,
+      "stars": 1555,
+      "forks": 134,
+      "currentPeriodStars": 302,
       "builtBy": [
         {
           "username": "MaatheusGois",
@@ -43,118 +43,13 @@
     },
     {
       "rank": 2,
-      "author": "TelegramMessenger",
-      "repoName": "Telegram-iOS",
-      "url": "https://github.com/TelegramMessenger/Telegram-iOS",
-      "description": "Telegram-iOS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 8000,
-      "forks": 2408,
-      "currentPeriodStars": 3,
-      "builtBy": [
-        {
-          "username": "laktyushin",
-          "avatar": "https://avatars.githubusercontent.com/u/491013?s=40&v=4"
-        },
-        {
-          "username": "overtake",
-          "avatar": "https://avatars.githubusercontent.com/u/1260850?s=40&v=4"
-        },
-        {
-          "username": "smohantty",
-          "avatar": "https://avatars.githubusercontent.com/u/34466874?s=40&v=4"
-        },
-        {
-          "username": "hermet",
-          "avatar": "https://avatars.githubusercontent.com/u/3711518?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 3,
-      "author": "TheBoredTeam",
-      "repoName": "boring.notch",
-      "url": "https://github.com/TheBoredTeam/boring.notch",
-      "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 7046,
-      "forks": 495,
-      "currentPeriodStars": 52,
-      "builtBy": [
-        {
-          "username": "Alexander5015",
-          "avatar": "https://avatars.githubusercontent.com/u/33609792?s=40&v=4"
-        },
-        {
-          "username": "theboringhumane",
-          "avatar": "https://avatars.githubusercontent.com/u/46974223?s=40&v=4"
-        },
-        {
-          "username": "richardkunkli",
-          "avatar": "https://avatars.githubusercontent.com/u/58087998?s=40&v=4"
-        },
-        {
-          "username": "OmChachad",
-          "avatar": "https://avatars.githubusercontent.com/u/96822675?s=40&v=4"
-        },
-        {
-          "username": "freepicheep",
-          "avatar": "https://avatars.githubusercontent.com/u/78331877?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 4,
-      "author": "apple",
-      "repoName": "swift-collections",
-      "url": "https://github.com/apple/swift-collections",
-      "description": "Commonly used data structures for Swift",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 4340,
-      "forks": 361,
-      "currentPeriodStars": 4,
-      "builtBy": [
-        {
-          "username": "lorentey",
-          "avatar": "https://avatars.githubusercontent.com/u/608696?s=40&v=4"
-        },
-        {
-          "username": "msteindorfer",
-          "avatar": "https://avatars.githubusercontent.com/u/1998004?s=40&v=4"
-        },
-        {
-          "username": "vanvoorden",
-          "avatar": "https://avatars.githubusercontent.com/u/7544575?s=40&v=4"
-        },
-        {
-          "username": "shahmishal",
-          "avatar": "https://avatars.githubusercontent.com/u/2727770?s=40&v=4"
-        },
-        {
-          "username": "compnerd",
-          "avatar": "https://avatars.githubusercontent.com/u/63311?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 5,
       "author": "lwouis",
       "repoName": "alt-tab-macos",
       "url": "https://github.com/lwouis/alt-tab-macos",
       "description": "Windows alt-tab on macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14736,
+      "stars": 14741,
       "forks": 484,
       "currentPeriodStars": 32,
       "builtBy": [
@@ -182,392 +77,287 @@
       "aiSummary": null
     },
     {
-      "rank": 6,
-      "author": "Ranchero-Software",
-      "repoName": "NetNewsWire",
-      "url": "https://github.com/Ranchero-Software/NetNewsWire",
-      "description": "RSS reader for macOS and iOS.",
+      "rank": 3,
+      "author": "Alamofire",
+      "repoName": "Alamofire",
+      "url": "https://github.com/Alamofire/Alamofire",
+      "description": "Elegant HTTP Networking in Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 9672,
-      "forks": 645,
-      "currentPeriodStars": 7,
+      "stars": 42350,
+      "forks": 7670,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
-          "username": "brentsimmons",
-          "avatar": "https://avatars.githubusercontent.com/u/1297121?s=40&v=4"
+          "username": "cnoon",
+          "avatar": "https://avatars.githubusercontent.com/u/169110?s=40&v=4"
         },
         {
-          "username": "vincode-io",
-          "avatar": "https://avatars.githubusercontent.com/u/16448027?s=40&v=4"
+          "username": "jshier",
+          "avatar": "https://avatars.githubusercontent.com/u/51020?s=40&v=4"
         },
         {
-          "username": "stuartbreckenridge",
-          "avatar": "https://avatars.githubusercontent.com/u/7046652?s=40&v=4"
+          "username": "mattt",
+          "avatar": "https://avatars.githubusercontent.com/u/7659?s=40&v=4"
         },
         {
-          "username": "Wevah",
-          "avatar": "https://avatars.githubusercontent.com/u/130825?s=40&v=4"
+          "username": "kylef",
+          "avatar": "https://avatars.githubusercontent.com/u/44164?s=40&v=4"
         },
         {
-          "username": "kielgillard",
-          "avatar": "https://avatars.githubusercontent.com/u/567949?s=40&v=4"
+          "username": "kcharwood",
+          "avatar": "https://avatars.githubusercontent.com/u/198768?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 4,
+      "author": "TheBoredTeam",
+      "repoName": "boring.notch",
+      "url": "https://github.com/TheBoredTeam/boring.notch",
+      "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 7051,
+      "forks": 497,
+      "currentPeriodStars": 52,
+      "builtBy": [
+        {
+          "username": "Alexander5015",
+          "avatar": "https://avatars.githubusercontent.com/u/33609792?s=40&v=4"
+        },
+        {
+          "username": "theboringhumane",
+          "avatar": "https://avatars.githubusercontent.com/u/46974223?s=40&v=4"
+        },
+        {
+          "username": "richardkunkli",
+          "avatar": "https://avatars.githubusercontent.com/u/58087998?s=40&v=4"
+        },
+        {
+          "username": "OmChachad",
+          "avatar": "https://avatars.githubusercontent.com/u/96822675?s=40&v=4"
+        },
+        {
+          "username": "freepicheep",
+          "avatar": "https://avatars.githubusercontent.com/u/78331877?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 5,
+      "author": "signalapp",
+      "repoName": "Signal-iOS",
+      "url": "https://github.com/signalapp/Signal-iOS",
+      "description": "A private messenger for iOS.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 11849,
+      "forks": 3352,
+      "currentPeriodStars": 5,
+      "builtBy": [
+        {
+          "username": "charlesmchen-signal",
+          "avatar": "https://avatars.githubusercontent.com/u/36971147?s=40&v=4"
+        },
+        {
+          "username": "Imperiopolis",
+          "avatar": "https://avatars.githubusercontent.com/u/957960?s=40&v=4"
+        },
+        {
+          "username": "charlesmchen",
+          "avatar": "https://avatars.githubusercontent.com/u/625803?s=40&v=4"
+        },
+        {
+          "username": "michaelkirk-signal",
+          "avatar": "https://avatars.githubusercontent.com/u/36971200?s=40&v=4"
+        },
+        {
+          "username": "max-signal",
+          "avatar": "https://avatars.githubusercontent.com/u/103334431?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 6,
+      "author": "MonitorControl",
+      "repoName": "MonitorControl",
+      "url": "https://github.com/MonitorControl/MonitorControl",
+      "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 32402,
+      "forks": 928,
+      "currentPeriodStars": 20,
+      "builtBy": [
+        {
+          "username": "waydabber",
+          "avatar": "https://avatars.githubusercontent.com/u/37590873?s=40&v=4"
+        },
+        {
+          "username": "reitermarkus",
+          "avatar": "https://avatars.githubusercontent.com/u/1309829?s=40&v=4"
+        },
+        {
+          "username": "JoniVR",
+          "avatar": "https://avatars.githubusercontent.com/u/7591717?s=40&v=4"
+        },
+        {
+          "username": "the0neyouseek",
+          "avatar": "https://avatars.githubusercontent.com/u/4009175?s=40&v=4"
+        },
+        {
+          "username": "jajoho",
+          "avatar": "https://avatars.githubusercontent.com/u/15175599?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 7,
-      "author": "pointfreeco",
-      "repoName": "swift-composable-architecture",
-      "url": "https://github.com/pointfreeco/swift-composable-architecture",
-      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+      "author": "Beingpax",
+      "repoName": "VoiceInk",
+      "url": "https://github.com/Beingpax/VoiceInk",
+      "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14340,
-      "forks": 1635,
-      "currentPeriodStars": 5,
+      "stars": 3738,
+      "forks": 476,
+      "currentPeriodStars": 23,
       "builtBy": [
         {
-          "username": "stephencelis",
-          "avatar": "https://avatars.githubusercontent.com/u/658?s=40&v=4"
+          "username": "Beingpax",
+          "avatar": "https://avatars.githubusercontent.com/u/101010368?s=40&v=4"
         },
         {
-          "username": "mbrandonw",
-          "avatar": "https://avatars.githubusercontent.com/u/135203?s=40&v=4"
+          "username": "apps/factory-droid",
+          "avatar": "https://avatars.githubusercontent.com/in/358017?s=40&v=4"
         },
         {
-          "username": "tgrapperon",
-          "avatar": "https://avatars.githubusercontent.com/u/35562418?s=40&v=4"
+          "username": "BrandonWeng",
+          "avatar": "https://avatars.githubusercontent.com/u/18161326?s=40&v=4"
         },
         {
-          "username": "iampatbrown",
-          "avatar": "https://avatars.githubusercontent.com/u/19797367?s=40&v=4"
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "Jager-yoo",
-          "avatar": "https://avatars.githubusercontent.com/u/71127966?s=40&v=4"
+          "username": "objectiveSee",
+          "avatar": "https://avatars.githubusercontent.com/u/1684106?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 8,
-      "author": "migueldeicaza",
-      "repoName": "SwiftTerm",
-      "url": "https://github.com/migueldeicaza/SwiftTerm",
-      "description": "Xterm/VT100 Terminal emulator in Swift",
+      "author": "apple",
+      "repoName": "swift-collections",
+      "url": "https://github.com/apple/swift-collections",
+      "description": "Commonly used data structures for Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1330,
-      "forks": 229,
+      "stars": 4341,
+      "forks": 361,
       "currentPeriodStars": 4,
       "builtBy": [
         {
-          "username": "migueldeicaza",
-          "avatar": "https://avatars.githubusercontent.com/u/36863?s=40&v=4"
+          "username": "lorentey",
+          "avatar": "https://avatars.githubusercontent.com/u/608696?s=40&v=4"
         },
         {
-          "username": "krzyzanowskim",
-          "avatar": "https://avatars.githubusercontent.com/u/758033?s=40&v=4"
+          "username": "msteindorfer",
+          "avatar": "https://avatars.githubusercontent.com/u/1998004?s=40&v=4"
         },
         {
-          "username": "palmin",
-          "avatar": "https://avatars.githubusercontent.com/u/1230554?s=40&v=4"
+          "username": "vanvoorden",
+          "avatar": "https://avatars.githubusercontent.com/u/7544575?s=40&v=4"
         },
         {
-          "username": "iOSappssolutions",
-          "avatar": "https://avatars.githubusercontent.com/u/60011782?s=40&v=4"
+          "username": "shahmishal",
+          "avatar": "https://avatars.githubusercontent.com/u/2727770?s=40&v=4"
         },
         {
-          "username": "thecoolwinter",
-          "avatar": "https://avatars.githubusercontent.com/u/35942988?s=40&v=4"
+          "username": "compnerd",
+          "avatar": "https://avatars.githubusercontent.com/u/63311?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 9,
-      "author": "OAuthSwift",
-      "repoName": "OAuthSwift",
-      "url": "https://github.com/OAuthSwift/OAuthSwift",
-      "description": "Swift based OAuth library for iOS",
+      "author": "dinoki-ai",
+      "repoName": "osaurus",
+      "url": "https://github.com/dinoki-ai/osaurus",
+      "description": "AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3324,
-      "forks": 597,
-      "currentPeriodStars": 0,
+      "stars": 3476,
+      "forks": 140,
+      "currentPeriodStars": 33,
       "builtBy": [
         {
-          "username": "phimage",
-          "avatar": "https://avatars.githubusercontent.com/u/8875768?s=40&v=4"
+          "username": "tpae",
+          "avatar": "https://avatars.githubusercontent.com/u/189663?s=40&v=4"
         },
         {
-          "username": "phatblat",
-          "avatar": "https://avatars.githubusercontent.com/u/28851?s=40&v=4"
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         },
         {
-          "username": "michaeljdeeb",
-          "avatar": "https://avatars.githubusercontent.com/u/1417123?s=40&v=4"
+          "username": "jcurbelo",
+          "avatar": "https://avatars.githubusercontent.com/u/5923174?s=40&v=4"
         },
         {
-          "username": "MrWoWander",
-          "avatar": "https://avatars.githubusercontent.com/u/24256100?s=40&v=4"
+          "username": "Nathan1258",
+          "avatar": "https://avatars.githubusercontent.com/u/53881694?s=40&v=4"
         },
         {
-          "username": "nighthawk",
-          "avatar": "https://avatars.githubusercontent.com/u/22646?s=40&v=4"
+          "username": "lw0717",
+          "avatar": "https://avatars.githubusercontent.com/u/13251400?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 10,
-      "author": "stripe",
-      "repoName": "stripe-ios",
-      "url": "https://github.com/stripe/stripe-ios",
-      "description": "Stripe iOS SDK",
+      "author": "tuist",
+      "repoName": "tuist",
+      "url": "https://github.com/tuist/tuist",
+      "description": "A virtual platform team for mobile devs who ship",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2491,
-      "forks": 1040,
-      "currentPeriodStars": 0,
+      "stars": 5521,
+      "forks": 693,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
-          "username": "jack-stripe",
-          "avatar": "https://avatars.githubusercontent.com/u/23086671?s=40&v=4"
+          "username": "fortmarek",
+          "avatar": "https://avatars.githubusercontent.com/u/9371695?s=40&v=4"
         },
         {
-          "username": "yuki-stripe",
-          "avatar": "https://avatars.githubusercontent.com/u/47796191?s=40&v=4"
+          "username": "pepicrft",
+          "avatar": "https://avatars.githubusercontent.com/u/663605?s=40&v=4"
         },
         {
-          "username": "davidme-stripe",
-          "avatar": "https://avatars.githubusercontent.com/u/52758633?s=40&v=4"
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "porter-stripe",
-          "avatar": "https://avatars.githubusercontent.com/u/88012362?s=40&v=4"
+          "username": "apps/depfu",
+          "avatar": "https://avatars.githubusercontent.com/in/715?s=40&v=4"
         },
         {
-          "username": "bg-stripe",
-          "avatar": "https://avatars.githubusercontent.com/u/23086960?s=40&v=4"
+          "username": "apps/dependabot-preview",
+          "avatar": "https://avatars.githubusercontent.com/in/2141?s=40&v=4"
         }
       ],
       "aiSummary": null
     },
     {
       "rank": 11,
-      "author": "kitlangton",
-      "repoName": "Hex",
-      "url": "https://github.com/kitlangton/Hex",
-      "description": "VOICE → WORDS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 891,
-      "forks": 76,
-      "currentPeriodStars": 11,
-      "builtBy": [
-        {
-          "username": "kitlangton",
-          "avatar": "https://avatars.githubusercontent.com/u/7587245?s=40&v=4"
-        },
-        {
-          "username": "emmiebyte",
-          "avatar": "https://avatars.githubusercontent.com/u/8311311?s=40&v=4"
-        },
-        {
-          "username": "plyght",
-          "avatar": "https://avatars.githubusercontent.com/u/81438024?s=40&v=4"
-        },
-        {
-          "username": "ropl-btc",
-          "avatar": "https://avatars.githubusercontent.com/u/75593191?s=40&v=4"
-        },
-        {
-          "username": "ruseel",
-          "avatar": "https://avatars.githubusercontent.com/u/81857?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 12,
-      "author": "apple",
-      "repoName": "swift-async-algorithms",
-      "url": "https://github.com/apple/swift-async-algorithms",
-      "description": "Async Algorithms for Swift",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 3593,
-      "forks": 200,
-      "currentPeriodStars": 2,
-      "builtBy": [
-        {
-          "username": "phausler",
-          "avatar": "https://avatars.githubusercontent.com/u/278470?s=40&v=4"
-        },
-        {
-          "username": "FranzBusch",
-          "avatar": "https://avatars.githubusercontent.com/u/3491887?s=40&v=4"
-        },
-        {
-          "username": "kperryua",
-          "avatar": "https://avatars.githubusercontent.com/u/15824561?s=40&v=4"
-        },
-        {
-          "username": "twittemb",
-          "avatar": "https://avatars.githubusercontent.com/u/12281292?s=40&v=4"
-        },
-        {
-          "username": "parkera",
-          "avatar": "https://avatars.githubusercontent.com/u/144462?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 13,
-      "author": "getsentry",
-      "repoName": "sentry-cocoa",
-      "url": "https://github.com/getsentry/sentry-cocoa",
-      "description": "The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 1022,
-      "forks": 378,
-      "currentPeriodStars": 0,
-      "builtBy": [
-        {
-          "username": "philipphofmann",
-          "avatar": "https://avatars.githubusercontent.com/u/2443292?s=40&v=4"
-        },
-        {
-          "username": "HazAT",
-          "avatar": "https://avatars.githubusercontent.com/u/363802?s=40&v=4"
-        },
-        {
-          "username": "armcknight",
-          "avatar": "https://avatars.githubusercontent.com/u/3241469?s=40&v=4"
-        },
-        {
-          "username": "brustolin",
-          "avatar": "https://avatars.githubusercontent.com/u/28265868?s=40&v=4"
-        },
-        {
-          "username": "philprime",
-          "avatar": "https://avatars.githubusercontent.com/u/30923007?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 14,
-      "author": "peripheryapp",
-      "repoName": "periphery",
-      "url": "https://github.com/peripheryapp/periphery",
-      "description": "A tool to identify unused code in Swift projects.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 6005,
-      "forks": 221,
-      "currentPeriodStars": 2,
-      "builtBy": [
-        {
-          "username": "ileitch",
-          "avatar": "https://avatars.githubusercontent.com/u/48235?s=40&v=4"
-        },
-        {
-          "username": "kateinoigakukun",
-          "avatar": "https://avatars.githubusercontent.com/u/11702759?s=40&v=4"
-        },
-        {
-          "username": "jszumski",
-          "avatar": "https://avatars.githubusercontent.com/u/784312?s=40&v=4"
-        },
-        {
-          "username": "rofle100lvl",
-          "avatar": "https://avatars.githubusercontent.com/u/45801227?s=40&v=4"
-        },
-        {
-          "username": "rock88",
-          "avatar": "https://avatars.githubusercontent.com/u/323908?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 15,
-      "author": "AudioKit",
-      "repoName": "AudioKit",
-      "url": "https://github.com/AudioKit/AudioKit",
-      "description": "Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 11272,
-      "forks": 1607,
-      "currentPeriodStars": 3,
-      "builtBy": [
-        {
-          "username": "aure",
-          "avatar": "https://avatars.githubusercontent.com/u/13122?s=40&v=4"
-        },
-        {
-          "username": "wtholliday",
-          "avatar": "https://avatars.githubusercontent.com/u/841144?s=40&v=4"
-        },
-        {
-          "username": "eljeff",
-          "avatar": "https://avatars.githubusercontent.com/u/4977304?s=40&v=4"
-        },
-        {
-          "username": "megastep",
-          "avatar": "https://avatars.githubusercontent.com/u/115222?s=40&v=4"
-        },
-        {
-          "username": "ryanfrancesconi",
-          "avatar": "https://avatars.githubusercontent.com/u/2917795?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 16,
-      "author": "airbnb",
-      "repoName": "lottie-ios",
-      "url": "https://github.com/airbnb/lottie-ios",
-      "description": "An iOS library to natively render After Effects vector animations",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 26663,
-      "forks": 3834,
-      "currentPeriodStars": 0,
-      "builtBy": [
-        {
-          "username": "buba447",
-          "avatar": "https://avatars.githubusercontent.com/u/1163980?s=40&v=4"
-        },
-        {
-          "username": "calda",
-          "avatar": "https://avatars.githubusercontent.com/u/1811727?s=40&v=4"
-        },
-        {
-          "username": "thedrick",
-          "avatar": "https://avatars.githubusercontent.com/u/796488?s=40&v=4"
-        },
-        {
-          "username": "Coeur",
-          "avatar": "https://avatars.githubusercontent.com/u/839992?s=40&v=4"
-        },
-        {
-          "username": "marcelofabri",
-          "avatar": "https://avatars.githubusercontent.com/u/833072?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 17,
       "author": "pointfreeco",
       "repoName": "swift-snapshot-testing",
       "url": "https://github.com/pointfreeco/swift-snapshot-testing",
@@ -602,42 +392,7 @@
       "aiSummary": null
     },
     {
-      "rank": 18,
-      "author": "nikitabobko",
-      "repoName": "AeroSpace",
-      "url": "https://github.com/nikitabobko/AeroSpace",
-      "description": "AeroSpace is an i3-like tiling window manager for macOS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 18855,
-      "forks": 417,
-      "currentPeriodStars": 29,
-      "builtBy": [
-        {
-          "username": "nikitabobko",
-          "avatar": "https://avatars.githubusercontent.com/u/20517828?s=40&v=4"
-        },
-        {
-          "username": "mobile-ar",
-          "avatar": "https://avatars.githubusercontent.com/u/758096?s=40&v=4"
-        },
-        {
-          "username": "jakenvac",
-          "avatar": "https://avatars.githubusercontent.com/u/9119973?s=40&v=4"
-        },
-        {
-          "username": "rickyz",
-          "avatar": "https://avatars.githubusercontent.com/u/616784?s=40&v=4"
-        },
-        {
-          "username": "Henkru",
-          "avatar": "https://avatars.githubusercontent.com/u/4019880?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 19,
+      "rank": 12,
       "author": "apple",
       "repoName": "swift-nio",
       "url": "https://github.com/apple/swift-nio",
@@ -672,36 +427,316 @@
       "aiSummary": null
     },
     {
-      "rank": 20,
-      "author": "swiftlang",
-      "repoName": "swift-package-manager",
-      "url": "https://github.com/swiftlang/swift-package-manager",
-      "description": "The Package Manager for the Swift Programming Language",
+      "rank": 13,
+      "author": "apple",
+      "repoName": "swift-async-algorithms",
+      "url": "https://github.com/apple/swift-async-algorithms",
+      "description": "Async Algorithms for Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 10094,
-      "forks": 1442,
+      "stars": 3595,
+      "forks": 201,
+      "currentPeriodStars": 2,
+      "builtBy": [
+        {
+          "username": "phausler",
+          "avatar": "https://avatars.githubusercontent.com/u/278470?s=40&v=4"
+        },
+        {
+          "username": "FranzBusch",
+          "avatar": "https://avatars.githubusercontent.com/u/3491887?s=40&v=4"
+        },
+        {
+          "username": "kperryua",
+          "avatar": "https://avatars.githubusercontent.com/u/15824561?s=40&v=4"
+        },
+        {
+          "username": "twittemb",
+          "avatar": "https://avatars.githubusercontent.com/u/12281292?s=40&v=4"
+        },
+        {
+          "username": "parkera",
+          "avatar": "https://avatars.githubusercontent.com/u/144462?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 14,
+      "author": "pointfreeco",
+      "repoName": "swift-composable-architecture",
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 14341,
+      "forks": 1635,
+      "currentPeriodStars": 5,
+      "builtBy": [
+        {
+          "username": "stephencelis",
+          "avatar": "https://avatars.githubusercontent.com/u/658?s=40&v=4"
+        },
+        {
+          "username": "mbrandonw",
+          "avatar": "https://avatars.githubusercontent.com/u/135203?s=40&v=4"
+        },
+        {
+          "username": "tgrapperon",
+          "avatar": "https://avatars.githubusercontent.com/u/35562418?s=40&v=4"
+        },
+        {
+          "username": "iampatbrown",
+          "avatar": "https://avatars.githubusercontent.com/u/19797367?s=40&v=4"
+        },
+        {
+          "username": "Jager-yoo",
+          "avatar": "https://avatars.githubusercontent.com/u/71127966?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 15,
+      "author": "getsentry",
+      "repoName": "sentry-cocoa",
+      "url": "https://github.com/getsentry/sentry-cocoa",
+      "description": "The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 1022,
+      "forks": 378,
       "currentPeriodStars": 0,
       "builtBy": [
         {
-          "username": "aciidgh",
-          "avatar": "https://avatars.githubusercontent.com/u/4136295?s=40&v=4"
+          "username": "philipphofmann",
+          "avatar": "https://avatars.githubusercontent.com/u/2443292?s=40&v=4"
         },
         {
-          "username": "ddunbar",
-          "avatar": "https://avatars.githubusercontent.com/u/106625?s=40&v=4"
+          "username": "HazAT",
+          "avatar": "https://avatars.githubusercontent.com/u/363802?s=40&v=4"
         },
         {
-          "username": "abertelrud",
-          "avatar": "https://avatars.githubusercontent.com/u/18221004?s=40&v=4"
+          "username": "armcknight",
+          "avatar": "https://avatars.githubusercontent.com/u/3241469?s=40&v=4"
         },
         {
-          "username": "neonichu",
-          "avatar": "https://avatars.githubusercontent.com/u/118992?s=40&v=4"
+          "username": "brustolin",
+          "avatar": "https://avatars.githubusercontent.com/u/28265868?s=40&v=4"
         },
         {
-          "username": "tomerd",
-          "avatar": "https://avatars.githubusercontent.com/u/147247?s=40&v=4"
+          "username": "philprime",
+          "avatar": "https://avatars.githubusercontent.com/u/30923007?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 16,
+      "author": "groue",
+      "repoName": "GRDB.swift",
+      "url": "https://github.com/groue/GRDB.swift",
+      "description": "A toolkit for SQLite databases, with a focus on application development",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 8179,
+      "forks": 846,
+      "currentPeriodStars": 0,
+      "builtBy": [
+        {
+          "username": "groue",
+          "avatar": "https://avatars.githubusercontent.com/u/54219?s=40&v=4"
+        },
+        {
+          "username": "pakko972",
+          "avatar": "https://avatars.githubusercontent.com/u/27460?s=40&v=4"
+        },
+        {
+          "username": "swiftlyfalling",
+          "avatar": "https://avatars.githubusercontent.com/u/18540905?s=40&v=4"
+        },
+        {
+          "username": "sobri909",
+          "avatar": "https://avatars.githubusercontent.com/u/1203835?s=40&v=4"
+        },
+        {
+          "username": "mallman",
+          "avatar": "https://avatars.githubusercontent.com/u/833693?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 17,
+      "author": "home-assistant",
+      "repoName": "iOS",
+      "url": "https://github.com/home-assistant/iOS",
+      "description": "📱 Home Assistant for Apple platforms",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 2097,
+      "forks": 418,
+      "currentPeriodStars": 0,
+      "builtBy": [
+        {
+          "username": "robbiet480",
+          "avatar": "https://avatars.githubusercontent.com/u/18516?s=40&v=4"
+        },
+        {
+          "username": "bgoncal",
+          "avatar": "https://avatars.githubusercontent.com/u/5808343?s=40&v=4"
+        },
+        {
+          "username": "zacwest",
+          "avatar": "https://avatars.githubusercontent.com/u/74188?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        },
+        {
+          "username": "homeassistant",
+          "avatar": "https://avatars.githubusercontent.com/u/23041403?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 18,
+      "author": "facebook",
+      "repoName": "facebook-ios-sdk",
+      "url": "https://github.com/facebook/facebook-ios-sdk",
+      "description": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 8021,
+      "forks": 3689,
+      "currentPeriodStars": 0,
+      "builtBy": [
+        {
+          "username": "joesus",
+          "avatar": "https://avatars.githubusercontent.com/u/4922820?s=40&v=4"
+        },
+        {
+          "username": "jawwad",
+          "avatar": "https://avatars.githubusercontent.com/u/202240?s=40&v=4"
+        },
+        {
+          "username": "samodom",
+          "avatar": "https://avatars.githubusercontent.com/u/3129948?s=40&v=4"
+        },
+        {
+          "username": "KylinChang",
+          "avatar": "https://avatars.githubusercontent.com/u/11663747?s=40&v=4"
+        },
+        {
+          "username": "tianqibt",
+          "avatar": "https://avatars.githubusercontent.com/u/48967250?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 19,
+      "author": "nikitabobko",
+      "repoName": "AeroSpace",
+      "url": "https://github.com/nikitabobko/AeroSpace",
+      "description": "AeroSpace is an i3-like tiling window manager for macOS",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 18862,
+      "forks": 418,
+      "currentPeriodStars": 29,
+      "builtBy": [
+        {
+          "username": "nikitabobko",
+          "avatar": "https://avatars.githubusercontent.com/u/20517828?s=40&v=4"
+        },
+        {
+          "username": "mobile-ar",
+          "avatar": "https://avatars.githubusercontent.com/u/758096?s=40&v=4"
+        },
+        {
+          "username": "jakenvac",
+          "avatar": "https://avatars.githubusercontent.com/u/9119973?s=40&v=4"
+        },
+        {
+          "username": "rickyz",
+          "avatar": "https://avatars.githubusercontent.com/u/616784?s=40&v=4"
+        },
+        {
+          "username": "Henkru",
+          "avatar": "https://avatars.githubusercontent.com/u/4019880?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 20,
+      "author": "argmaxinc",
+      "repoName": "WhisperKit",
+      "url": "https://github.com/argmaxinc/WhisperKit",
+      "description": "On-device Speech Recognition for Apple Silicon",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 5596,
+      "forks": 500,
+      "currentPeriodStars": 2,
+      "builtBy": [
+        {
+          "username": "ZachNagengast",
+          "avatar": "https://avatars.githubusercontent.com/u/1981179?s=40&v=4"
+        },
+        {
+          "username": "finnvoor",
+          "avatar": "https://avatars.githubusercontent.com/u/8284016?s=40&v=4"
+        },
+        {
+          "username": "a2they",
+          "avatar": "https://avatars.githubusercontent.com/u/15901479?s=40&v=4"
+        },
+        {
+          "username": "atiorh",
+          "avatar": "https://avatars.githubusercontent.com/u/64497909?s=40&v=4"
+        },
+        {
+          "username": "chen-argmax",
+          "avatar": "https://avatars.githubusercontent.com/u/209840868?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 21,
+      "author": "ReactiveX",
+      "repoName": "RxSwift",
+      "url": "https://github.com/ReactiveX/RxSwift",
+      "description": "Reactive Programming in Swift",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 24689,
+      "forks": 4174,
+      "currentPeriodStars": 2,
+      "builtBy": [
+        {
+          "username": "kzaher",
+          "avatar": "https://avatars.githubusercontent.com/u/1641148?s=40&v=4"
+        },
+        {
+          "username": "freak4pc",
+          "avatar": "https://avatars.githubusercontent.com/u/605076?s=40&v=4"
+        },
+        {
+          "username": "sergdort",
+          "avatar": "https://avatars.githubusercontent.com/u/4622322?s=40&v=4"
+        },
+        {
+          "username": "yury",
+          "avatar": "https://avatars.githubusercontent.com/u/5250?s=40&v=4"
+        },
+        {
+          "username": "carlosypunto",
+          "avatar": "https://avatars.githubusercontent.com/u/1680094?s=40&v=4"
         }
       ],
       "aiSummary": null
