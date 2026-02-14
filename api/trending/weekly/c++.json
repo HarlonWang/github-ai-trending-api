@@ -1,7 +1,7 @@
 {
   "count": 20,
   "since": "weekly",
-  "captured_at": "2026-02-13 12:19:42",
+  "captured_at": "2026-02-14 00:19:04",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2649,
-      "forks": 207,
-      "currentPeriodStars": 101,
+      "stars": 2661,
+      "forks": 209,
+      "currentPeriodStars": 135,
       "builtBy": [
         {
           "username": "geo-tp",
@@ -42,9 +42,9 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 94953,
-      "forks": 14895,
-      "currentPeriodStars": 544,
+      "stars": 94973,
+      "forks": 14893,
+      "currentPeriodStars": 522,
       "builtBy": [
         {
           "username": "ggerganov",
@@ -77,8 +77,8 @@
       "description": "Behavior Trees Library in C++. Batteries included.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3823,
-      "forks": 804,
+      "stars": 3826,
+      "forks": 803,
       "currentPeriodStars": 24,
       "builtBy": [
         {
@@ -112,9 +112,9 @@
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 193696,
-      "forks": 75235,
-      "currentPeriodStars": 142,
+      "stars": 193693,
+      "forks": 75228,
+      "currentPeriodStars": 137,
       "builtBy": [
         {
           "username": "tensorflower-gardener",
@@ -147,9 +147,9 @@
       "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19614,
+      "stars": 19620,
       "forks": 2111,
-      "currentPeriodStars": 147,
+      "currentPeriodStars": 154,
       "builtBy": [
         {
           "username": "pixelflinger",
@@ -182,9 +182,9 @@
       "description": "Abseil Common Libraries (C++)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 17033,
-      "forks": 2967,
-      "currentPeriodStars": 38,
+      "stars": 17032,
+      "forks": 2966,
+      "currentPeriodStars": 34,
       "builtBy": [
         {
           "username": "derekmauro",
@@ -213,9 +213,9 @@
       "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 6966,
-      "forks": 443,
-      "currentPeriodStars": 36,
+      "stars": 6969,
+      "forks": 442,
+      "currentPeriodStars": 40,
       "builtBy": [
         {
           "username": "dacap",
@@ -248,9 +248,9 @@
       "description": "Bitcoin Core integration/staging tree",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 88091,
+      "stars": 88101,
       "forks": 38900,
-      "currentPeriodStars": 172,
+      "currentPeriodStars": 166,
       "builtBy": [
         {
           "username": "laanwj",
@@ -283,9 +283,9 @@
       "description": "Cross-platform library for building Telegram clients",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8485,
+      "stars": 8486,
       "forks": 1932,
-      "currentPeriodStars": 35,
+      "currentPeriodStars": 31,
       "builtBy": [
         {
           "username": "levlam",
@@ -318,9 +318,9 @@
       "description": "Web-radio based on ESP32-audioI2S library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 979,
+      "stars": 980,
       "forks": 232,
-      "currentPeriodStars": 27,
+      "currentPeriodStars": 28,
       "builtBy": [
         {
           "username": "e2002",
@@ -345,9 +345,9 @@
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19527,
-      "forks": 2482,
-      "currentPeriodStars": 134,
+      "stars": 19531,
+      "forks": 2484,
+      "currentPeriodStars": 149,
       "builtBy": [
         {
           "username": "MistEO",
@@ -380,9 +380,9 @@
       "description": "Mumble is an open-source, low-latency, high quality voice chat software.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7659,
-      "forks": 1274,
-      "currentPeriodStars": 86,
+      "stars": 7670,
+      "forks": 1277,
+      "currentPeriodStars": 93,
       "builtBy": [
         {
           "username": "thorvald",
@@ -415,9 +415,9 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29817,
-      "forks": 6263,
-      "currentPeriodStars": 91,
+      "stars": 29822,
+      "forks": 6267,
+      "currentPeriodStars": 89,
       "builtBy": [
         {
           "username": "john-preston",
@@ -450,9 +450,9 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9969,
-      "forks": 701,
-      "currentPeriodStars": 107,
+      "stars": 9978,
+      "forks": 699,
+      "currentPeriodStars": 108,
       "builtBy": [
         {
           "username": "pokamest",
@@ -485,9 +485,9 @@
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 71313,
-      "forks": 11540,
-      "currentPeriodStars": 164,
+      "stars": 71322,
+      "forks": 11537,
+      "currentPeriodStars": 163,
       "builtBy": [
         {
           "username": "ocornut",
@@ -520,9 +520,9 @@
       "description": "Production ready toolkit to run AI locally",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7255,
-      "forks": 224,
-      "currentPeriodStars": 1035,
+      "stars": 7367,
+      "forks": 222,
+      "currentPeriodStars": 1108,
       "builtBy": [
         {
           "username": "sanchitmonga22",
@@ -555,9 +555,9 @@
       "description": "UPX - the Ultimate Packer for eXecutables",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 17133,
-      "forks": 1492,
-      "currentPeriodStars": 36,
+      "stars": 17132,
+      "forks": 1491,
+      "currentPeriodStars": 34,
       "builtBy": [
         {
           "username": "markus-oberhumer",
@@ -590,9 +590,9 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 38223,
-      "forks": 10691,
-      "currentPeriodStars": 44,
+      "stars": 38224,
+      "forks": 10688,
+      "currentPeriodStars": 47,
       "builtBy": [
         {
           "username": "gennadiycivil",
@@ -621,9 +621,9 @@
       "description": "Windows Subsystem for Linux",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 31080,
-      "forks": 1613,
-      "currentPeriodStars": 82,
+      "stars": 31084,
+      "forks": 1611,
+      "currentPeriodStars": 74,
       "builtBy": [
         {
           "username": "OneBlue",
@@ -657,8 +657,8 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 77120,
-      "forks": 8323,
-      "currentPeriodStars": 74,
+      "forks": 8317,
+      "currentPeriodStars": 60,
       "builtBy": [
         {
           "username": "manyoso",

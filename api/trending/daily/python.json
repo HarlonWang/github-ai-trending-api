@@ -1,7 +1,7 @@
 {
   "count": 16,
   "since": "daily",
-  "captured_at": "2026-02-13 12:18:16",
+  "captured_at": "2026-02-14 00:17:46",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10314,
-      "forks": 1000,
-      "currentPeriodStars": 1012,
+      "stars": 10622,
+      "forks": 1034,
+      "currentPeriodStars": 392,
       "builtBy": [
         {
           "username": "cheahjs",
@@ -49,8 +49,8 @@
       "description": "slime is an LLM post-training framework for RL Scaling.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3989,
-      "forks": 523,
+      "stars": 4073,
+      "forks": 528,
       "currentPeriodStars": 85,
       "builtBy": [
         {
@@ -87,9 +87,9 @@
       "description": "The best ChatGPT that $100 can buy.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 43168,
-      "forks": 5601,
-      "currentPeriodStars": 176,
+      "stars": 43211,
+      "forks": 5609,
+      "currentPeriodStars": 165,
       "builtBy": [
         {
           "username": "karpathy",
@@ -122,9 +122,9 @@
       "description": "A set of ready to use scientific skills for Claude",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8606,
-      "forks": 1022,
-      "currentPeriodStars": 119,
+      "stars": 8642,
+      "forks": 1020,
+      "currentPeriodStars": 112,
       "builtBy": [
         {
           "username": "TKassis",
@@ -157,9 +157,9 @@
       "description": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 12440,
-      "forks": 2618,
-      "currentPeriodStars": 33,
+      "stars": 12446,
+      "forks": 2612,
+      "currentPeriodStars": 22,
       "builtBy": [
         {
           "username": "coleam00",
@@ -180,8 +180,8 @@
       "description": "AIOS: AI Agent Operating System",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 5076,
-      "forks": 686,
+      "stars": 5081,
+      "forks": 687,
       "currentPeriodStars": 15,
       "builtBy": [
         {
@@ -215,9 +215,9 @@
       "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 53080,
+      "stars": 53125,
       "forks": 8986,
-      "currentPeriodStars": 127,
+      "currentPeriodStars": 120,
       "builtBy": [
         {
           "username": "karpathy",
@@ -250,9 +250,9 @@
       "description": "M3U Playlist for free TV channels",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 13769,
-      "forks": 2006,
-      "currentPeriodStars": 434,
+      "stars": 13790,
+      "forks": 2005,
+      "currentPeriodStars": 95,
       "builtBy": [
         {
           "username": "KAMI911",
@@ -285,9 +285,9 @@
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 69448,
+      "stars": 69541,
       "forks": 6006,
-      "currentPeriodStars": 256,
+      "currentPeriodStars": 246,
       "builtBy": [
         {
           "username": "localden",
@@ -320,8 +320,8 @@
       "description": "The authentication glue you need.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 20101,
-      "forks": 1472,
+      "stars": 20114,
+      "forks": 1473,
       "currentPeriodStars": 20,
       "builtBy": [
         {
@@ -355,9 +355,9 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 86992,
-      "forks": 5063,
-      "currentPeriodStars": 89,
+      "stars": 87019,
+      "forks": 5055,
+      "currentPeriodStars": 79,
       "builtBy": [
         {
           "username": "afourney",
@@ -390,9 +390,9 @@
       "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 81048,
-      "forks": 18579,
-      "currentPeriodStars": 57,
+      "stars": 81063,
+      "forks": 18581,
+      "currentPeriodStars": 52,
       "builtBy": [
         {
           "username": "surister",
@@ -425,9 +425,9 @@
       "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 60037,
-      "forks": 6123,
-      "currentPeriodStars": 102,
+      "stars": 60053,
+      "forks": 6117,
+      "currentPeriodStars": 96,
       "builtBy": [
         {
           "username": "unclecode",
@@ -460,9 +460,9 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 31773,
-      "forks": 2115,
-      "currentPeriodStars": 1122,
+      "stars": 31993,
+      "forks": 2131,
+      "currentPeriodStars": 855,
       "builtBy": [
         {
           "username": "aksg87",
@@ -498,9 +498,9 @@
       "description": "Synapse: Matrix homeserver written in Python/Twisted + Rust",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3575,
-      "forks": 461,
-      "currentPeriodStars": 23,
+      "stars": 3585,
+      "forks": 462,
+      "currentPeriodStars": 21,
       "builtBy": [
         {
           "username": "erikjohnston",
@@ -533,9 +533,9 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2386,
-      "forks": 694,
-      "currentPeriodStars": 16,
+      "stars": 2389,
+      "forks": 695,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "jamwithai",

@@ -1,7 +1,7 @@
 {
   "count": 23,
   "since": "weekly",
-  "captured_at": "2026-02-13 12:19:25",
+  "captured_at": "2026-02-14 00:18:50",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2105,
-      "forks": 148,
-      "currentPeriodStars": 1594,
+      "stars": 2178,
+      "forks": 155,
+      "currentPeriodStars": 1750,
       "builtBy": [
         {
           "username": "apps/copilot-swe-agent",
@@ -49,9 +49,9 @@
       "description": "🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making it easy to manage OpenClaw agents, local LLMs, websites, databases, containers, files, and scheduled tasks.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 33378,
-      "forks": 2958,
-      "currentPeriodStars": 197,
+      "stars": 33381,
+      "forks": 2957,
+      "currentPeriodStars": 190,
       "builtBy": [
         {
           "username": "ssongliu",
@@ -84,9 +84,9 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 31893,
-      "forks": 2948,
-      "currentPeriodStars": 606,
+      "stars": 31902,
+      "forks": 2947,
+      "currentPeriodStars": 467,
       "builtBy": [
         {
           "username": "knqyf263",
@@ -119,9 +119,9 @@
       "description": "Container runtimes on macOS (and Linux) with minimal setup",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26892,
+      "stars": 26900,
       "forks": 530,
-      "currentPeriodStars": 209,
+      "currentPeriodStars": 213,
       "builtBy": [
         {
           "username": "abiosoft",
@@ -154,9 +154,9 @@
       "description": "simple terminal UI for git commands",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 72267,
-      "forks": 2504,
-      "currentPeriodStars": 541,
+      "stars": 72290,
+      "forks": 2503,
+      "currentPeriodStars": 523,
       "builtBy": [
         {
           "username": "jesseduffield",
@@ -189,9 +189,9 @@
       "description": "Prometheus Alertmanager",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8349,
+      "stars": 8351,
       "forks": 2403,
-      "currentPeriodStars": 14,
+      "currentPeriodStars": 16,
       "builtBy": [
         {
           "username": "fabxc",
@@ -224,9 +224,9 @@
       "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7436,
+      "stars": 7443,
       "forks": 1182,
-      "currentPeriodStars": 144,
+      "currentPeriodStars": 152,
       "builtBy": [
         {
           "username": "alireza0",
@@ -259,9 +259,9 @@
       "description": "The Cloud Native Application Proxy",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 61611,
-      "forks": 5827,
-      "currentPeriodStars": 166,
+      "stars": 61624,
+      "forks": 5826,
+      "currentPeriodStars": 165,
       "builtBy": [
         {
           "username": "ldez",
@@ -294,9 +294,9 @@
       "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 162497,
+      "stars": 162543,
       "forks": 14572,
-      "currentPeriodStars": 756,
+      "currentPeriodStars": 701,
       "builtBy": [
         {
           "username": "mxyng",
@@ -329,9 +329,9 @@
       "description": "An open source, self-hosted implementation of the Tailscale control server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35305,
+      "stars": 35318,
       "forks": 1899,
-      "currentPeriodStars": 361,
+      "currentPeriodStars": 390,
       "builtBy": [
         {
           "username": "kradalby",
@@ -360,9 +360,9 @@
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8565,
-      "forks": 722,
-      "currentPeriodStars": 151,
+      "stars": 8572,
+      "forks": 720,
+      "currentPeriodStars": 160,
       "builtBy": [
         {
           "username": "majd",
@@ -395,9 +395,9 @@
       "description": "Open Source Continuous File Synchronization",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 79866,
-      "forks": 4930,
-      "currentPeriodStars": 213,
+      "stars": 79879,
+      "forks": 4926,
+      "currentPeriodStars": 212,
       "builtBy": [
         {
           "username": "calmh",
@@ -430,9 +430,9 @@
       "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 87979,
-      "forks": 8558,
-      "currentPeriodStars": 98,
+      "stars": 87980,
+      "forks": 8557,
+      "currentPeriodStars": 104,
       "builtBy": [
         {
           "username": "manucorporat",
@@ -467,7 +467,7 @@
       "languageColor": "#00ADD8",
       "stars": 2820,
       "forks": 179,
-      "currentPeriodStars": 207,
+      "currentPeriodStars": 210,
       "builtBy": [
         {
           "username": "5rahim",
@@ -500,9 +500,9 @@
       "description": "Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12157,
-      "forks": 656,
-      "currentPeriodStars": 89,
+      "stars": 12158,
+      "forks": 657,
+      "currentPeriodStars": 88,
       "builtBy": [
         {
           "username": "aliscott",
@@ -535,9 +535,9 @@
       "description": "An open-source, cross-platform terminal for seamless workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 17332,
-      "forks": 775,
-      "currentPeriodStars": 327,
+      "stars": 17339,
+      "forks": 773,
+      "currentPeriodStars": 325,
       "builtBy": [
         {
           "username": "sawka",
@@ -570,9 +570,9 @@
       "description": "Find secrets with Gitleaks 🔑",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24892,
-      "forks": 1913,
-      "currentPeriodStars": 102,
+      "stars": 24903,
+      "forks": 1912,
+      "currentPeriodStars": 108,
       "builtBy": [
         {
           "username": "zricethezav",
@@ -605,9 +605,9 @@
       "description": "Fast, secure, efficient backup program",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 32208,
+      "stars": 32216,
       "forks": 1716,
-      "currentPeriodStars": 122,
+      "currentPeriodStars": 120,
       "builtBy": [
         {
           "username": "fd0",
@@ -640,9 +640,9 @@
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 47657,
-      "forks": 10213,
-      "currentPeriodStars": 66,
+      "stars": 47660,
+      "forks": 10215,
+      "currentPeriodStars": 68,
       "builtBy": [
         {
           "username": "jbardin",
@@ -675,9 +675,9 @@
       "description": "⚡️ Express inspired web framework written in Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 39202,
+      "stars": 39203,
       "forks": 1956,
-      "currentPeriodStars": 103,
+      "currentPeriodStars": 102,
       "builtBy": [
         {
           "username": "Fenny",
@@ -710,9 +710,9 @@
       "description": "Customization of kubernetes YAML configurations",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 11935,
+      "stars": 11936,
       "forks": 2364,
-      "currentPeriodStars": 19,
+      "currentPeriodStars": 18,
       "builtBy": [
         {
           "username": "monopole",
@@ -745,9 +745,9 @@
       "description": "The most customisable and low-latency cross platform/shell prompt renderer",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 21515,
-      "forks": 2690,
-      "currentPeriodStars": 87,
+      "stars": 21518,
+      "forks": 2692,
+      "currentPeriodStars": 89,
       "builtBy": [
         {
           "username": "JanDeDobbeleer",
@@ -780,9 +780,9 @@
       "description": "Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4443,
+      "stars": 4491,
       "forks": 188,
-      "currentPeriodStars": 340,
+      "currentPeriodStars": 359,
       "builtBy": [
         {
           "username": "rcourtman",

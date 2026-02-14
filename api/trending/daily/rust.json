@@ -1,7 +1,7 @@
 {
   "count": 20,
   "since": "daily",
-  "captured_at": "2026-02-13 12:18:32",
+  "captured_at": "2026-02-14 00:18:07",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19495,
+      "stars": 19499,
       "forks": 1956,
-      "currentPeriodStars": 41,
+      "currentPeriodStars": 12,
       "builtBy": [
         {
           "username": "paveltiunov",
@@ -46,9 +46,9 @@
       "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32694,
-      "forks": 1204,
-      "currentPeriodStars": 63,
+      "stars": 32720,
+      "forks": 1203,
+      "currentPeriodStars": 58,
       "builtBy": [
         {
           "username": "GyulyVGC",
@@ -81,9 +81,9 @@
       "description": "High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5205,
+      "stars": 5207,
       "forks": 400,
-      "currentPeriodStars": 6,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "jaychia",
@@ -116,9 +116,9 @@
       "description": "NVIDIA Bare Metal Manager - Hardware Lifecycle Management and multitenant networking",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 21,
-      "forks": 25,
-      "currentPeriodStars": 3,
+      "stars": 28,
+      "forks": 27,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "Matthias247",
@@ -151,9 +151,9 @@
       "description": "A Datacenter Scale Distributed Inference Serving Framework",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6092,
-      "forks": 857,
-      "currentPeriodStars": 13,
+      "stars": 6094,
+      "forks": 856,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "grahamking",
@@ -186,9 +186,9 @@
       "description": "Main repository for the Linera protocol",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32088,
+      "stars": 32099,
       "forks": 2286,
-      "currentPeriodStars": 21,
+      "currentPeriodStars": 22,
       "builtBy": [
         {
           "username": "ma2bd",
@@ -221,9 +221,9 @@
       "description": "A fast type checker and language server for Python",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5316,
+      "stars": 5325,
       "forks": 270,
-      "currentPeriodStars": 12,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
           "username": "ndmitchell",
@@ -256,9 +256,9 @@
       "description": "Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6092,
-      "forks": 451,
-      "currentPeriodStars": 8,
+      "stars": 6090,
+      "forks": 448,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "badmonster0",
@@ -291,8 +291,8 @@
       "description": "Empowering everyone to build reliable and efficient software.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 110243,
-      "forks": 14488,
+      "stars": 110254,
+      "forks": 14486,
       "currentPeriodStars": 33,
       "builtBy": [
         {
@@ -326,9 +326,9 @@
       "description": "✨ Magical shell history",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 28252,
-      "forks": 775,
-      "currentPeriodStars": 30,
+      "stars": 28266,
+      "forks": 777,
+      "currentPeriodStars": 22,
       "builtBy": [
         {
           "username": "ellie",
@@ -361,7 +361,7 @@
       "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31058,
+      "stars": 31060,
       "forks": 1122,
       "currentPeriodStars": 14,
       "builtBy": [
@@ -396,9 +396,9 @@
       "description": "A Rust compiler front-end for IDEs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16046,
+      "stars": 16048,
       "forks": 1947,
-      "currentPeriodStars": 5,
+      "currentPeriodStars": 11,
       "builtBy": [
         {
           "username": "apps/bors",
@@ -431,9 +431,9 @@
       "description": "A simple, decentralized mesh VPN with WireGuard support.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9964,
-      "forks": 939,
-      "currentPeriodStars": 89,
+      "stars": 9968,
+      "forks": 941,
+      "currentPeriodStars": 45,
       "builtBy": [
         {
           "username": "KKRainbow",
@@ -466,7 +466,7 @@
       "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 14779,
+      "stars": 14783,
       "forks": 5525,
       "currentPeriodStars": 8,
       "builtBy": [
@@ -501,9 +501,9 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2021,
-      "forks": 74,
-      "currentPeriodStars": 29,
+      "stars": 2045,
+      "forks": 73,
+      "currentPeriodStars": 31,
       "builtBy": [
         {
           "username": "max-sixty",
@@ -536,9 +536,9 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60219,
-      "forks": 7922,
-      "currentPeriodStars": 175,
+      "stars": 60278,
+      "forks": 7937,
+      "currentPeriodStars": 171,
       "builtBy": [
         {
           "username": "bolinfest",
@@ -571,9 +571,9 @@
       "description": "An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2707,
+      "stars": 2709,
       "forks": 132,
-      "currentPeriodStars": 4,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "robert3005",
@@ -607,8 +607,8 @@
       "language": "Rust",
       "languageColor": "#dea584",
       "stars": 7605,
-      "forks": 11716,
-      "currentPeriodStars": 0,
+      "forks": 11713,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "lxfind",
@@ -641,9 +641,9 @@
       "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 17922,
-      "forks": 1129,
-      "currentPeriodStars": 215,
+      "stars": 17984,
+      "forks": 1131,
+      "currentPeriodStars": 210,
       "builtBy": [
         {
           "username": "farion1231",
@@ -676,9 +676,9 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 107401,
-      "forks": 15966,
-      "currentPeriodStars": 68,
+      "stars": 107424,
+      "forks": 15964,
+      "currentPeriodStars": 67,
       "builtBy": [
         {
           "username": "rustdesk",

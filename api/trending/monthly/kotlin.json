@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "monthly",
-  "captured_at": "2026-02-13 12:20:54",
+  "captured_at": "2026-02-14 00:20:11",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6638,
-      "forks": 251,
-      "currentPeriodStars": 3115,
+      "stars": 6650,
+      "forks": 252,
+      "currentPeriodStars": 3089,
       "builtBy": [
         {
           "username": "rainxchzed",
@@ -46,9 +46,9 @@
       "description": "An alternative frontend for YouTube, for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 11383,
-      "forks": 578,
-      "currentPeriodStars": 336,
+      "stars": 11379,
+      "forks": 575,
+      "currentPeriodStars": 337,
       "builtBy": [
         {
           "username": "Bnyro",
@@ -81,9 +81,9 @@
       "description": "Bringing Astrid Tasks back from the dead",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 4910,
+      "stars": 4915,
       "forks": 600,
-      "currentPeriodStars": 160,
+      "currentPeriodStars": 159,
       "builtBy": [
         {
           "username": "abaker",
@@ -116,9 +116,9 @@
       "description": "Painless E2E Automation for Mobile and Web",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 10704,
-      "forks": 612,
-      "currentPeriodStars": 692,
+      "stars": 10710,
+      "forks": 610,
+      "currentPeriodStars": 704,
       "builtBy": [
         {
           "username": "dmitry-zaitsev",
@@ -151,9 +151,9 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 50944,
-      "forks": 6927,
-      "currentPeriodStars": 1633,
+      "stars": 50952,
+      "forks": 6926,
+      "currentPeriodStars": 1622,
       "builtBy": [
         {
           "username": "2dust",
@@ -186,9 +186,9 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 4716,
-      "forks": 674,
-      "currentPeriodStars": 419,
+      "stars": 4717,
+      "forks": 673,
+      "currentPeriodStars": 412,
       "builtBy": [
         {
           "username": "callebtc",
@@ -221,8 +221,8 @@
       "description": "📱 Nextcloud Android app",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 5133,
-      "forks": 1920,
+      "stars": 5135,
+      "forks": 1919,
       "currentPeriodStars": 78,
       "builtBy": [
         {
@@ -256,9 +256,9 @@
       "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 24560,
-      "forks": 1054,
-      "currentPeriodStars": 747,
+      "stars": 24573,
+      "forks": 1055,
+      "currentPeriodStars": 756,
       "builtBy": [
         {
           "username": "JunkFood02",
@@ -291,9 +291,9 @@
       "description": "An open-source keyboard for Android which respects your privacy. Currently in beta.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 8039,
-      "forks": 593,
-      "currentPeriodStars": 174,
+      "stars": 8038,
+      "forks": 594,
+      "currentPeriodStars": 176,
       "builtBy": [
         {
           "username": "patrickgold",
@@ -326,7 +326,7 @@
       "description": "原生、纯净、可扩展 —— 重新定义你的 B 站体验",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1375,
+      "stars": 1379,
       "forks": 49,
       "currentPeriodStars": 642,
       "builtBy": [
@@ -349,8 +349,8 @@
       "description": "Official ProtonVPN Android app",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3312,
-      "forks": 438,
+      "stars": 3313,
+      "forks": 439,
       "currentPeriodStars": 102,
       "builtBy": [
         {
@@ -384,9 +384,9 @@
       "description": "Lightweight unofficial Steam client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2570,
-      "forks": 100,
-      "currentPeriodStars": 524,
+      "stars": 2583,
+      "forks": 99,
+      "currentPeriodStars": 545,
       "builtBy": [
         {
           "username": "utkarshdalal",
@@ -419,9 +419,9 @@
       "description": "More Expressive InstallerX !",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3616,
-      "forks": 136,
-      "currentPeriodStars": 492,
+      "stars": 3626,
+      "forks": 135,
+      "currentPeriodStars": 496,
       "builtBy": [
         {
           "username": "wxxsfxyzm",
@@ -454,9 +454,9 @@
       "description": "The cutest Material 3 Expressive music streaming client for Android, built for performance and extensibility.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 624,
+      "stars": 633,
       "forks": 20,
-      "currentPeriodStars": 269,
+      "currentPeriodStars": 283,
       "builtBy": [
         {
           "username": "koiverse",
@@ -489,9 +489,9 @@
       "description": "A Minecraft: Java Edition Launcher for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 761,
-      "forks": 69,
-      "currentPeriodStars": 258,
+      "stars": 764,
+      "forks": 70,
+      "currentPeriodStars": 247,
       "builtBy": [
         {
           "username": "MovTery",
@@ -524,9 +524,9 @@
       "description": "Android TV Client for Jellyfin",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 4071,
+      "stars": 4070,
       "forks": 766,
-      "currentPeriodStars": 100,
+      "currentPeriodStars": 99,
       "builtBy": [
         {
           "username": "nielsvanvelzen",
@@ -559,9 +559,9 @@
       "description": "安卓电视直播APK：IPTV/網頁視頻支持X5，可自定義源(支持webview://格式)，IPTV支持畫中畫和熄屏播放。 Android TV Live APK: IPTV/web video supports X5, customizable sources (support webview:// format), IPTV supports picture-in-picture and off-screen playback.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1092,
-      "forks": 131,
-      "currentPeriodStars": 217,
+      "stars": 1094,
+      "forks": 130,
+      "currentPeriodStars": 209,
       "builtBy": [
         {
           "username": "horsemail",
@@ -594,9 +594,9 @@
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 21822,
-      "forks": 2006,
-      "currentPeriodStars": 1242,
+      "stars": 21835,
+      "forks": 2010,
+      "currentPeriodStars": 1246,
       "builtBy": [
         {
           "username": "RikkaW",
@@ -631,7 +631,7 @@
       "languageColor": "#A97BFF",
       "stars": 301,
       "forks": 55,
-      "currentPeriodStars": 73,
+      "currentPeriodStars": 71,
       "builtBy": [
         {
           "username": "tiann",

@@ -1,7 +1,7 @@
 {
   "count": 14,
   "since": "daily",
-  "captured_at": "2026-02-13 12:19:01",
+  "captured_at": "2026-02-14 00:18:30",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Painless E2E Automation for Mobile and Web",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 10704,
-      "forks": 612,
-      "currentPeriodStars": 26,
+      "stars": 10710,
+      "forks": 610,
+      "currentPeriodStars": 25,
       "builtBy": [
         {
           "username": "dmitry-zaitsev",
@@ -46,9 +46,9 @@
       "description": "AirPods liberated from Apple's ecosystem.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 25346,
-      "forks": 1352,
-      "currentPeriodStars": 29,
+      "stars": 25355,
+      "forks": 1351,
+      "currentPeriodStars": 26,
       "builtBy": [
         {
           "username": "kavishdevar",
@@ -81,9 +81,9 @@
       "description": "App to bypass censorship on Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 5027,
+      "stars": 5028,
       "forks": 246,
-      "currentPeriodStars": 11,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "dovecoteescapee",
@@ -116,9 +116,9 @@
       "description": "Read-only mirror of Grayjay repo for issue tracking",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1581,
+      "stars": 1584,
       "forks": 90,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "Kelvin-FUTO",
@@ -151,9 +151,9 @@
       "description": "Enhanced and security-focused fork of Signal.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3056,
-      "forks": 156,
-      "currentPeriodStars": 6,
+      "stars": 3054,
+      "forks": 155,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "greyson-signal",
@@ -187,8 +187,8 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": 3317,
-      "forks": 250,
-      "currentPeriodStars": 12,
+      "forks": 249,
+      "currentPeriodStars": 9,
       "builtBy": [
         {
           "username": "AAswordman",
@@ -223,7 +223,7 @@
       "languageColor": "#A97BFF",
       "stars": 2892,
       "forks": 63,
-      "currentPeriodStars": 5,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "bartekpacia",
@@ -256,9 +256,9 @@
       "description": "More Expressive InstallerX !",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3616,
-      "forks": 136,
-      "currentPeriodStars": 18,
+      "stars": 3626,
+      "forks": 135,
+      "currentPeriodStars": 22,
       "builtBy": [
         {
           "username": "wxxsfxyzm",
@@ -291,9 +291,9 @@
       "description": "📱 Nextcloud Android app",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 5133,
-      "forks": 1920,
-      "currentPeriodStars": 0,
+      "stars": 5135,
+      "forks": 1919,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "AndyScherzinger",
@@ -326,7 +326,7 @@
       "description": "Home Assistant Companion for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3374,
+      "stars": 3373,
       "forks": 891,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -361,9 +361,9 @@
       "description": "A feature-rich weather app with good visualizations and more than 50 sources.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 9284,
-      "forks": 311,
-      "currentPeriodStars": 14,
+      "stars": 9290,
+      "forks": 310,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
           "username": "papjul",
@@ -433,7 +433,7 @@
       "languageColor": "#A97BFF",
       "stars": 3372,
       "forks": 372,
-      "currentPeriodStars": 3,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "ting-yuan",
@@ -466,9 +466,9 @@
       "description": "[Deprecated] Thanks for your support!",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3132,
+      "stars": 3131,
       "forks": 302,
-      "currentPeriodStars": 3,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "YenalyLiew",

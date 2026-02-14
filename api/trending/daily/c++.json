@@ -1,7 +1,7 @@
 {
   "count": 22,
   "since": "daily",
-  "captured_at": "2026-02-13 12:18:43",
+  "captured_at": "2026-02-14 00:18:15",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2649,
-      "forks": 207,
-      "currentPeriodStars": 41,
+      "stars": 2661,
+      "forks": 209,
+      "currentPeriodStars": 39,
       "builtBy": [
         {
           "username": "geo-tp",
@@ -42,9 +42,9 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 811,
-      "forks": 41,
-      "currentPeriodStars": 109,
+      "stars": 899,
+      "forks": 49,
+      "currentPeriodStars": 198,
       "builtBy": [
         {
           "username": "iaojnh",
@@ -77,9 +77,9 @@
       "description": "🦊 Anti-detect browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5314,
-      "forks": 490,
-      "currentPeriodStars": 56,
+      "stars": 5333,
+      "forks": 489,
+      "currentPeriodStars": 64,
       "builtBy": [
         {
           "username": "daijro",
@@ -112,9 +112,9 @@
       "description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5537,
-      "forks": 692,
-      "currentPeriodStars": 12,
+      "stars": 5539,
+      "forks": 694,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "LalitMaganti",
@@ -147,9 +147,9 @@
       "description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3629,
-      "forks": 368,
-      "currentPeriodStars": 10,
+      "stars": 3637,
+      "forks": 371,
+      "currentPeriodStars": 9,
       "builtBy": [
         {
           "username": "andyfengHKU",
@@ -182,9 +182,9 @@
       "description": "The MongoDB Database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28060,
-      "forks": 5754,
-      "currentPeriodStars": 6,
+      "stars": 28067,
+      "forks": 5753,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "erh",
@@ -217,7 +217,7 @@
       "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 16501,
+      "stars": 16506,
       "forks": 4014,
       "currentPeriodStars": 5,
       "builtBy": [
@@ -254,7 +254,7 @@
       "languageColor": "#f34b7d",
       "stars": 3604,
       "forks": 839,
-      "currentPeriodStars": 6,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "iree-github-actions-bot",
@@ -287,7 +287,7 @@
       "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1348,
+      "stars": 1349,
       "forks": 344,
       "currentPeriodStars": 2,
       "builtBy": [
@@ -322,9 +322,9 @@
       "description": "Tesseract Open Source OCR Engine (main repository)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 72374,
-      "forks": 10500,
-      "currentPeriodStars": 20,
+      "stars": 72383,
+      "forks": 10501,
+      "currentPeriodStars": 17,
       "builtBy": [
         {
           "username": "stweil",
@@ -357,9 +357,9 @@
       "description": "DuckDB is an analytical in-process SQL database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 36065,
-      "forks": 2929,
-      "currentPeriodStars": 30,
+      "stars": 36073,
+      "forks": 2927,
+      "currentPeriodStars": 26,
       "builtBy": [
         {
           "username": "Mytherin",
@@ -392,9 +392,9 @@
       "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10300,
+      "stars": 10306,
       "forks": 1158,
-      "currentPeriodStars": 17,
+      "currentPeriodStars": 15,
       "builtBy": [
         {
           "username": "csukuangfj",
@@ -427,9 +427,9 @@
       "description": "JSON for Modern C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 48872,
-      "forks": 7311,
-      "currentPeriodStars": 18,
+      "stars": 48879,
+      "forks": 7310,
+      "currentPeriodStars": 11,
       "builtBy": [
         {
           "username": "nlohmann",
@@ -462,9 +462,9 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9969,
-      "forks": 701,
-      "currentPeriodStars": 19,
+      "stars": 9978,
+      "forks": 699,
+      "currentPeriodStars": 17,
       "builtBy": [
         {
           "username": "pokamest",
@@ -497,9 +497,9 @@
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19527,
-      "forks": 2482,
-      "currentPeriodStars": 19,
+      "stars": 19531,
+      "forks": 2484,
+      "currentPeriodStars": 28,
       "builtBy": [
         {
           "username": "MistEO",
@@ -532,8 +532,8 @@
       "description": "Private, fast, and honest web browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 11225,
-      "forks": 229,
+      "stars": 11249,
+      "forks": 227,
       "currentPeriodStars": 29,
       "builtBy": [
         {
@@ -568,8 +568,8 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 10550,
-      "forks": 5019,
-      "currentPeriodStars": 6,
+      "forks": 5018,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "jesserockz",
@@ -602,9 +602,9 @@
       "description": "The Time Series Visualization Tool that you deserve.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5700,
-      "forks": 756,
-      "currentPeriodStars": 5,
+      "stars": 5702,
+      "forks": 757,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "facontidavide",
@@ -637,9 +637,9 @@
       "description": "Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 6789,
+      "stars": 6791,
       "forks": 233,
-      "currentPeriodStars": 4,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "Alex313031",
@@ -672,9 +672,9 @@
       "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 120081,
-      "forks": 16992,
-      "currentPeriodStars": 25,
+      "stars": 120086,
+      "forks": 16985,
+      "currentPeriodStars": 24,
       "builtBy": [
         {
           "username": "zcbenz",
@@ -707,9 +707,9 @@
       "description": "A framework for building native applications using React",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 125341,
-      "forks": 25084,
-      "currentPeriodStars": 11,
+      "stars": 125344,
+      "forks": 25085,
+      "currentPeriodStars": 12,
       "builtBy": [
         {
           "username": "reactjs-bot",
@@ -742,9 +742,9 @@
       "description": "A high-performance inference engine for LLMs, optimized for diverse AI accelerators.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1052,
+      "stars": 1055,
       "forks": 140,
-      "currentPeriodStars": 5,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "yq33victor",

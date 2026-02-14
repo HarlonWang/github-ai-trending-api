@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "monthly",
-  "captured_at": "2026-02-13 12:20:44",
+  "captured_at": "2026-02-14 00:20:01",
   "data": [
     {
       "rank": 1,
@@ -13,7 +13,7 @@
       "languageColor": "#555555",
       "stars": 1126,
       "forks": 75,
-      "currentPeriodStars": 1078,
+      "currentPeriodStars": 843,
       "builtBy": [
         {
           "username": "kaansenol5",
@@ -46,9 +46,9 @@
       "description": "WiFi security auditing tools suite",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6925,
-      "forks": 1233,
-      "currentPeriodStars": 173,
+      "stars": 6926,
+      "forks": 1235,
+      "currentPeriodStars": 177,
       "builtBy": [
         {
           "username": "Mister-X-",
@@ -81,9 +81,9 @@
       "description": "tmux source code",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 41719,
+      "stars": 41732,
       "forks": 2408,
-      "currentPeriodStars": 1025,
+      "currentPeriodStars": 1040,
       "builtBy": [
         {
           "username": "nicm",
@@ -116,9 +116,9 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5804,
-      "forks": 994,
-      "currentPeriodStars": 216,
+      "stars": 5877,
+      "forks": 996,
+      "currentPeriodStars": 278,
       "builtBy": [
         {
           "username": "levlam",
@@ -154,9 +154,9 @@
       "description": "The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2274,
+      "stars": 2277,
       "forks": 323,
-      "currentPeriodStars": 156,
+      "currentPeriodStars": 157,
       "builtBy": [
         {
           "username": "doegox",
@@ -189,9 +189,9 @@
       "description": "Source code for Oracle VirtualBox",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 997,
+      "stars": 1000,
       "forks": 121,
-      "currentPeriodStars": 94,
+      "currentPeriodStars": 96,
       "builtBy": [
         {
           "username": "AlexanderEichner",
@@ -226,7 +226,7 @@
       "languageColor": "#555555",
       "stars": 4447,
       "forks": 648,
-      "currentPeriodStars": 132,
+      "currentPeriodStars": 130,
       "builtBy": [
         {
           "username": "briaguya0",
@@ -259,9 +259,9 @@
       "description": "Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6817,
+      "stars": 6818,
       "forks": 313,
-      "currentPeriodStars": 184,
+      "currentPeriodStars": 187,
       "builtBy": [
         {
           "username": "Mr-Wiseguy",
@@ -295,8 +295,8 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 3125,
-      "forks": 244,
-      "currentPeriodStars": 1178,
+      "forks": 243,
+      "currentPeriodStars": 1168,
       "builtBy": [
         {
           "username": "DavidXanatos",
@@ -329,9 +329,9 @@
       "description": "Sandboxie Plus & Classic",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17520,
-      "forks": 1907,
-      "currentPeriodStars": 766,
+      "stars": 17522,
+      "forks": 1904,
+      "currentPeriodStars": 722,
       "builtBy": [
         {
           "username": "DavidXanatos",
@@ -365,8 +365,8 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 920,
-      "forks": 1726,
-      "currentPeriodStars": 14,
+      "forks": 1728,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
           "username": "mssonicbld",
@@ -399,9 +399,9 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14460,
-      "forks": 8653,
-      "currentPeriodStars": 323,
+      "stars": 14464,
+      "forks": 8654,
+      "currentPeriodStars": 322,
       "builtBy": [
         {
           "username": "nashif",
@@ -434,9 +434,9 @@
       "description": "A simple and easy-to-use library to enjoy videogames programming",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 30928,
-      "forks": 2926,
-      "currentPeriodStars": 727,
+      "stars": 30940,
+      "forks": 2924,
+      "currentPeriodStars": 717,
       "builtBy": [
         {
           "username": "raysan5",
@@ -469,8 +469,8 @@
       "description": "TLS/SSL and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 29552,
-      "forks": 11051,
+      "stars": 29554,
+      "forks": 11049,
       "currentPeriodStars": 233,
       "builtBy": [
         {
@@ -504,9 +504,9 @@
       "description": "low cost software radio platform",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7728,
+      "stars": 7730,
       "forks": 1669,
-      "currentPeriodStars": 93,
+      "currentPeriodStars": 90,
       "builtBy": [
         {
           "username": "mossmann",
@@ -539,9 +539,9 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 40682,
-      "forks": 7058,
-      "currentPeriodStars": 382,
+      "stars": 40683,
+      "forks": 7056,
+      "currentPeriodStars": 384,
       "builtBy": [
         {
           "username": "bagder",
@@ -574,9 +574,9 @@
       "description": "A tiling window manager for macOS based on binary space partitioning",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 28155,
+      "stars": 28154,
       "forks": 693,
-      "currentPeriodStars": 303,
+      "currentPeriodStars": 297,
       "builtBy": [
         {
           "username": "asmvik",
@@ -609,9 +609,9 @@
       "description": "ehviewer，用爱发电，快乐前行",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 22378,
+      "stars": 22385,
       "forks": 593,
-      "currentPeriodStars": 619,
+      "currentPeriodStars": 623,
       "builtBy": [
         {
           "username": "xiaojieonly",
@@ -644,9 +644,9 @@
       "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13612,
-      "forks": 1617,
-      "currentPeriodStars": 257,
+      "stars": 13615,
+      "forks": 1615,
+      "currentPeriodStars": 266,
       "builtBy": [
         {
           "username": "dmex",

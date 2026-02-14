@@ -1,7 +1,7 @@
 {
   "count": 20,
   "since": "daily",
-  "captured_at": "2026-02-13 12:18:24",
+  "captured_at": "2026-02-14 00:17:57",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "a fast, scalable, multi-language and extensible build system",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25115,
-      "forks": 4407,
-      "currentPeriodStars": 5,
+      "stars": 25117,
+      "forks": 4406,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "lberki",
@@ -42,9 +42,9 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22032,
-      "forks": 13083,
-      "currentPeriodStars": 44,
+      "stars": 22039,
+      "forks": 13086,
+      "currentPeriodStars": 26,
       "builtBy": [
         {
           "username": "kunal-kushwaha",
@@ -77,9 +77,9 @@
       "description": "Apache Cassandra®",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9623,
-      "forks": 3838,
-      "currentPeriodStars": 6,
+      "stars": 9625,
+      "forks": 3839,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "jbellis",
@@ -112,9 +112,9 @@
       "description": "Spring Framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 59611,
-      "forks": 38914,
-      "currentPeriodStars": 11,
+      "stars": 59613,
+      "forks": 38916,
+      "currentPeriodStars": 9,
       "builtBy": [
         {
           "username": "jhoeller",
@@ -147,9 +147,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 64324,
-      "forks": 7137,
-      "currentPeriodStars": 39,
+      "stars": 64340,
+      "forks": 7134,
+      "currentPeriodStars": 31,
       "builtBy": [
         {
           "username": "ryanmkurtz",
@@ -182,9 +182,9 @@
       "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 26385,
+      "stars": 26389,
       "forks": 2491,
-      "currentPeriodStars": 8,
+      "currentPeriodStars": 10,
       "builtBy": [
         {
           "username": "tchiotludo",
@@ -217,9 +217,9 @@
       "description": "The automation tower defense RTS",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 26553,
+      "stars": 26564,
       "forks": 3346,
-      "currentPeriodStars": 13,
+      "currentPeriodStars": 14,
       "builtBy": [
         {
           "username": "Anuken",
@@ -252,9 +252,9 @@
       "description": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25128,
+      "stars": 25132,
       "forks": 2732,
-      "currentPeriodStars": 45,
+      "currentPeriodStars": 17,
       "builtBy": [
         {
           "username": "shanhexi",
@@ -287,9 +287,9 @@
       "description": "收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5718,
+      "stars": 5720,
       "forks": 547,
-      "currentPeriodStars": 15,
+      "currentPeriodStars": 10,
       "builtBy": [
         {
           "username": "Archmage83",
@@ -314,9 +314,9 @@
       "description": "An open source and lightweight music client for Subsonic, designed and built natively for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 643,
+      "stars": 645,
       "forks": 56,
-      "currentPeriodStars": 11,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "CappielloAntonio",
@@ -384,9 +384,9 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 30038,
-      "forks": 6837,
-      "currentPeriodStars": 184,
+      "stars": 30158,
+      "forks": 6848,
+      "currentPeriodStars": 257,
       "builtBy": [
         {
           "username": "ashishps1",
@@ -415,9 +415,9 @@
       "description": "Design patterns implemented in Java",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 93732,
-      "forks": 27395,
-      "currentPeriodStars": 17,
+      "stars": 93733,
+      "forks": 27394,
+      "currentPeriodStars": 9,
       "builtBy": [
         {
           "username": "iluwatar",
@@ -450,9 +450,9 @@
       "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25805,
-      "forks": 7385,
-      "currentPeriodStars": 8,
+      "stars": 25809,
+      "forks": 7384,
+      "currentPeriodStars": 9,
       "builtBy": [
         {
           "username": "wing328",
@@ -485,9 +485,9 @@
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 76052,
+      "stars": 76056,
       "forks": 25797,
-      "currentPeriodStars": 9,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "kimchy",
@@ -520,9 +520,9 @@
       "description": "LSPosed Framework resuscitated",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9574,
-      "forks": 599,
-      "currentPeriodStars": 14,
+      "stars": 9578,
+      "forks": 598,
+      "currentPeriodStars": 15,
       "builtBy": [
         {
           "username": "yujincheng08",
@@ -556,8 +556,8 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 5961,
-      "forks": 2927,
-      "currentPeriodStars": 5,
+      "forks": 2928,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "markap14",
@@ -591,8 +591,8 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 28527,
-      "forks": 9279,
-      "currentPeriodStars": 20,
+      "forks": 9278,
+      "currentPeriodStars": 15,
       "builtBy": [
         {
           "username": "xaxtix",
@@ -625,9 +625,9 @@
       "description": "Free universal database tool and SQL client",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 48661,
-      "forks": 4039,
-      "currentPeriodStars": 15,
+      "stars": 48668,
+      "forks": 4037,
+      "currentPeriodStars": 17,
       "builtBy": [
         {
           "username": "serge-rider",
@@ -660,9 +660,9 @@
       "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 79907,
-      "forks": 41866,
-      "currentPeriodStars": 13,
+      "stars": 79910,
+      "forks": 41863,
+      "currentPeriodStars": 10,
       "builtBy": [
         {
           "username": "wilkinsona",

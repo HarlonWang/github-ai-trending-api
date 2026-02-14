@@ -1,7 +1,7 @@
 {
   "count": 22,
   "since": "weekly",
-  "captured_at": "2026-02-13 12:19:19",
+  "captured_at": "2026-02-14 00:18:46",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "MCP Server for Ghidra",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 7556,
+      "stars": 7559,
       "forks": 646,
-      "currentPeriodStars": 275,
+      "currentPeriodStars": 264,
       "builtBy": [
         {
           "username": "LaurieWired",
@@ -46,9 +46,9 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22072,
-      "forks": 5406,
-      "currentPeriodStars": 385,
+      "stars": 22079,
+      "forks": 5410,
+      "currentPeriodStars": 379,
       "builtBy": [
         {
           "username": "ashishps1",
@@ -81,9 +81,9 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 30038,
-      "forks": 6837,
-      "currentPeriodStars": 302,
+      "stars": 30158,
+      "forks": 6848,
+      "currentPeriodStars": 526,
       "builtBy": [
         {
           "username": "ashishps1",
@@ -112,9 +112,9 @@
       "description": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25128,
+      "stars": 25132,
       "forks": 2732,
-      "currentPeriodStars": 78,
+      "currentPeriodStars": 90,
       "builtBy": [
         {
           "username": "shanhexi",
@@ -147,9 +147,9 @@
       "description": "LSPosed Framework resuscitated",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9574,
-      "forks": 599,
-      "currentPeriodStars": 130,
+      "stars": 9578,
+      "forks": 598,
+      "currentPeriodStars": 119,
       "builtBy": [
         {
           "username": "yujincheng08",
@@ -182,9 +182,9 @@
       "description": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 11920,
-      "forks": 3261,
-      "currentPeriodStars": 29,
+      "stars": 11921,
+      "forks": 3265,
+      "currentPeriodStars": 32,
       "builtBy": [
         {
           "username": "Machine-Maker",
@@ -217,9 +217,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 64324,
-      "forks": 7137,
-      "currentPeriodStars": 238,
+      "stars": 64340,
+      "forks": 7134,
+      "currentPeriodStars": 234,
       "builtBy": [
         {
           "username": "ryanmkurtz",
@@ -253,8 +253,8 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 28527,
-      "forks": 9279,
-      "currentPeriodStars": 109,
+      "forks": 9278,
+      "currentPeriodStars": 107,
       "builtBy": [
         {
           "username": "xaxtix",
@@ -287,9 +287,9 @@
       "description": "收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5718,
+      "stars": 5720,
       "forks": 547,
-      "currentPeriodStars": 105,
+      "currentPeriodStars": 110,
       "builtBy": [
         {
           "username": "Archmage83",
@@ -314,9 +314,9 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22032,
-      "forks": 13083,
-      "currentPeriodStars": 183,
+      "stars": 22039,
+      "forks": 13086,
+      "currentPeriodStars": 194,
       "builtBy": [
         {
           "username": "kunal-kushwaha",
@@ -349,9 +349,9 @@
       "description": "google maps for block game",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8641,
-      "forks": 1775,
-      "currentPeriodStars": 35,
+      "stars": 8645,
+      "forks": 1776,
+      "currentPeriodStars": 36,
       "builtBy": [
         {
           "username": "leijurv",
@@ -384,9 +384,9 @@
       "description": "Sketchware Pro's sources in Java. Now anyone can contribute to Sketchware Pro.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 1450,
-      "forks": 561,
-      "currentPeriodStars": 24,
+      "stars": 1452,
+      "forks": 560,
+      "currentPeriodStars": 26,
       "builtBy": [
         {
           "username": "j-px",
@@ -419,9 +419,9 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32807,
-      "forks": 8048,
-      "currentPeriodStars": 154,
+      "stars": 32823,
+      "forks": 8052,
+      "currentPeriodStars": 147,
       "builtBy": [
         {
           "username": "stianst",
@@ -454,7 +454,7 @@
       "description": "The automation tower defense RTS",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 26553,
+      "stars": 26564,
       "forks": 3346,
       "currentPeriodStars": 99,
       "builtBy": [
@@ -489,9 +489,9 @@
       "description": "Mirror of Apache Kafka",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 31880,
-      "forks": 14957,
-      "currentPeriodStars": 51,
+      "stars": 31884,
+      "forks": 14956,
+      "currentPeriodStars": 48,
       "builtBy": [
         {
           "username": "ijuma",
@@ -525,8 +525,8 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 2120,
-      "forks": 1234,
-      "currentPeriodStars": 18,
+      "forks": 1235,
+      "currentPeriodStars": 19,
       "builtBy": [
         {
           "username": "modmuss50",
@@ -559,9 +559,9 @@
       "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12207,
-      "forks": 2555,
-      "currentPeriodStars": 79,
+      "stars": 12213,
+      "forks": 2556,
+      "currentPeriodStars": 87,
       "builtBy": [
         {
           "username": "mar-v-in",
@@ -594,9 +594,9 @@
       "description": "All Algorithms implemented in Java",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 65037,
-      "forks": 20970,
-      "currentPeriodStars": 107,
+      "stars": 65035,
+      "forks": 20968,
+      "currentPeriodStars": 104,
       "builtBy": [
         {
           "username": "alxkm",
@@ -629,9 +629,9 @@
       "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8837,
+      "stars": 8840,
       "forks": 828,
-      "currentPeriodStars": 48,
+      "currentPeriodStars": 46,
       "builtBy": [
         {
           "username": "huanghongxun",
@@ -664,9 +664,9 @@
       "description": "LSPosed Framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22776,
+      "stars": 22782,
       "forks": 3466,
-      "currentPeriodStars": 73,
+      "currentPeriodStars": 75,
       "builtBy": [
         {
           "username": "yujincheng08",
@@ -699,9 +699,9 @@
       "description": "Apache Cassandra®",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9623,
-      "forks": 3838,
-      "currentPeriodStars": 18,
+      "stars": 9625,
+      "forks": 3839,
+      "currentPeriodStars": 19,
       "builtBy": [
         {
           "username": "jbellis",
@@ -734,8 +734,8 @@
       "description": "A tool for reverse engineering Android apk files",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 23874,
-      "forks": 3893,
+      "stars": 23877,
+      "forks": 3894,
       "currentPeriodStars": 61,
       "builtBy": [
         {

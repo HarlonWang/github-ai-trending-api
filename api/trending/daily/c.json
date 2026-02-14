@@ -1,7 +1,7 @@
 {
   "count": 17,
   "since": "daily",
-  "captured_at": "2026-02-13 12:18:48",
+  "captured_at": "2026-02-14 00:18:20",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5803,
-      "forks": 994,
-      "currentPeriodStars": 48,
+      "stars": 5877,
+      "forks": 996,
+      "currentPeriodStars": 35,
       "builtBy": [
         {
           "username": "levlam",
@@ -50,8 +50,8 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 31529,
-      "forks": 1283,
-      "currentPeriodStars": 20,
+      "forks": 1280,
+      "currentPeriodStars": 22,
       "builtBy": [
         {
           "username": "valinet",
@@ -84,9 +84,9 @@
       "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 72916,
-      "forks": 24490,
-      "currentPeriodStars": 26,
+      "stars": 72918,
+      "forks": 24488,
+      "currentPeriodStars": 18,
       "builtBy": [
         {
           "username": "antirez",
@@ -119,9 +119,9 @@
       "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14715,
-      "forks": 2158,
-      "currentPeriodStars": 18,
+      "stars": 14717,
+      "forks": 2156,
+      "currentPeriodStars": 10,
       "builtBy": [
         {
           "username": "vikman90",
@@ -154,9 +154,9 @@
       "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 19994,
-      "forks": 683,
-      "currentPeriodStars": 21,
+      "stars": 20013,
+      "forks": 682,
+      "currentPeriodStars": 26,
       "builtBy": [
         {
           "username": "CarterLi",
@@ -189,8 +189,8 @@
       "description": "Official HDF5® Library Repository",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 887,
-      "forks": 333,
+      "stars": 888,
+      "forks": 334,
       "currentPeriodStars": 0,
       "builtBy": [
         {
@@ -224,9 +224,9 @@
       "description": "An open source cross-platform USB stack for embedded system",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6511,
+      "stars": 6509,
       "forks": 1357,
-      "currentPeriodStars": 7,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "hathach",
@@ -259,9 +259,9 @@
       "description": "coturn TURN server project",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13590,
+      "stars": 13593,
       "forks": 2204,
-      "currentPeriodStars": 4,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "misi",
@@ -294,9 +294,9 @@
       "description": "Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV softw…",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 11011,
+      "stars": 11017,
       "forks": 2512,
-      "currentPeriodStars": 11,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "screetsec",
@@ -325,9 +325,9 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 25519,
-      "forks": 12030,
-      "currentPeriodStars": 15,
+      "stars": 25527,
+      "forks": 12031,
+      "currentPeriodStars": 14,
       "builtBy": [
         {
           "username": "juhosg",
@@ -360,9 +360,9 @@
       "description": "Data Plane Development Kit",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4103,
-      "forks": 1422,
-      "currentPeriodStars": 3,
+      "stars": 4102,
+      "forks": 1423,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "bruce-richardson",
@@ -430,9 +430,9 @@
       "description": "Sandboxie Plus & Classic",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17520,
-      "forks": 1907,
-      "currentPeriodStars": 19,
+      "stars": 17522,
+      "forks": 1904,
+      "currentPeriodStars": 15,
       "builtBy": [
         {
           "username": "DavidXanatos",
@@ -465,9 +465,9 @@
       "description": "Eclipse Mosquitto - An open source MQTT broker",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 10619,
-      "forks": 2584,
-      "currentPeriodStars": 6,
+      "stars": 10620,
+      "forks": 2585,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "ralight",
@@ -500,9 +500,9 @@
       "description": "DPI bypass multi platform",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14342,
-      "forks": 986,
-      "currentPeriodStars": 16,
+      "stars": 14349,
+      "forks": 988,
+      "currentPeriodStars": 14,
       "builtBy": [
         {
           "username": "bol-van",
@@ -535,7 +535,7 @@
       "description": "7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6642,
+      "stars": 6645,
       "forks": 359,
       "currentPeriodStars": 9,
       "builtBy": [
@@ -571,7 +571,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 920,
-      "forks": 1726,
+      "forks": 1728,
       "currentPeriodStars": 0,
       "builtBy": [
         {

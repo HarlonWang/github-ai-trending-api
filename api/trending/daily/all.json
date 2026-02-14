@@ -1,7 +1,7 @@
 {
   "count": 10,
   "since": "daily",
-  "captured_at": "2026-02-13 12:17:20",
+  "captured_at": "2026-02-14 00:17:15",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 295,
-      "forks": 174,
-      "currentPeriodStars": 105,
+      "stars": 412,
+      "forks": 209,
+      "currentPeriodStars": 106,
       "builtBy": [
         {
           "username": "claude",
@@ -49,9 +49,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24555,
-      "forks": 1461,
-      "currentPeriodStars": 436,
+      "stars": 24714,
+      "forks": 1462,
+      "currentPeriodStars": 363,
       "builtBy": [
         {
           "username": "OrKoN",
@@ -87,9 +87,9 @@
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 7793,
-      "forks": 1109,
-      "currentPeriodStars": 351,
+      "stars": 8025,
+      "forks": 1133,
+      "currentPeriodStars": 595,
       "builtBy": [
         {
           "username": "danielmiessler",
@@ -125,9 +125,9 @@
       "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 29004,
-      "forks": 4732,
-      "currentPeriodStars": 386,
+      "stars": 29290,
+      "forks": 4749,
+      "currentPeriodStars": 84,
       "builtBy": [
         {
           "username": "patchy631",
@@ -163,9 +163,9 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5802,
-      "forks": 994,
-      "currentPeriodStars": 48,
+      "stars": 5877,
+      "forks": 996,
+      "currentPeriodStars": 35,
       "builtBy": [
         {
           "username": "levlam",
@@ -201,9 +201,9 @@
       "description": "",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": 271,
-      "forks": 21,
-      "currentPeriodStars": 81,
+      "stars": 367,
+      "forks": 26,
+      "currentPeriodStars": 49,
       "builtBy": [
         {
           "username": "ychervonyi",
@@ -235,9 +235,9 @@
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10314,
-      "forks": 1000,
-      "currentPeriodStars": 1012,
+      "stars": 10622,
+      "forks": 1034,
+      "currentPeriodStars": 392,
       "builtBy": [
         {
           "username": "cheahjs",
@@ -273,9 +273,9 @@
       "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 21054,
-      "forks": 4983,
-      "currentPeriodStars": 361,
+      "stars": 21151,
+      "forks": 4994,
+      "currentPeriodStars": 329,
       "builtBy": [
         {
           "username": "MaartenGr",
@@ -311,8 +311,8 @@
       "description": "slime is an LLM post-training framework for RL Scaling.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3989,
-      "forks": 523,
+      "stars": 4073,
+      "forks": 528,
       "currentPeriodStars": 85,
       "builtBy": [
         {
@@ -349,9 +349,9 @@
       "description": "A toolkit to make debugging iOS applications easier 🚀",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1273,
-      "forks": 119,
-      "currentPeriodStars": 50,
+      "stars": 1422,
+      "forks": 125,
+      "currentPeriodStars": 52,
       "builtBy": [
         {
           "username": "MaatheusGois",

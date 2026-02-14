@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "monthly",
-  "captured_at": "2026-02-13 12:20:22",
+  "captured_at": "2026-02-14 00:19:42",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 162497,
+      "stars": 162543,
       "forks": 14572,
-      "currentPeriodStars": 3672,
+      "currentPeriodStars": 3676,
       "builtBy": [
         {
           "username": "mxyng",
@@ -46,9 +46,9 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16135,
-      "forks": 953,
-      "currentPeriodStars": 6405,
+      "stars": 16186,
+      "forks": 960,
+      "currentPeriodStars": 6340,
       "builtBy": [
         {
           "username": "steveyegge",
@@ -81,9 +81,9 @@
       "description": "A tool for secrets management, encryption as a service, and privileged access management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35019,
-      "forks": 4598,
-      "currentPeriodStars": 1269,
+      "stars": 35022,
+      "forks": 4595,
+      "currentPeriodStars": 1270,
       "builtBy": [
         {
           "username": "jefferai",
@@ -116,9 +116,9 @@
       "description": "Ultimate camera streaming application",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12268,
-      "forks": 945,
-      "currentPeriodStars": 1113,
+      "stars": 12285,
+      "forks": 949,
+      "currentPeriodStars": 1123,
       "builtBy": [
         {
           "username": "AlexxIT",
@@ -151,9 +151,9 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1689,
-      "forks": 170,
-      "currentPeriodStars": 1270,
+      "stars": 1711,
+      "forks": 169,
+      "currentPeriodStars": 1282,
       "builtBy": [
         {
           "username": "steipete",
@@ -186,9 +186,9 @@
       "description": "Glamourous agentic coding for all 💘",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19827,
-      "forks": 1226,
-      "currentPeriodStars": 2255,
+      "stars": 19864,
+      "forks": 1224,
+      "currentPeriodStars": 2191,
       "builtBy": [
         {
           "username": "kujtimiihoxha",
@@ -221,9 +221,9 @@
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15183,
-      "forks": 1884,
-      "currentPeriodStars": 1962,
+      "stars": 15188,
+      "forks": 1882,
+      "currentPeriodStars": 1956,
       "builtBy": [
         {
           "username": "putyy",
@@ -253,7 +253,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": 10743,
-      "forks": 9957,
+      "forks": 9960,
       "currentPeriodStars": 74,
       "builtBy": [
         {
@@ -287,9 +287,9 @@
       "description": "Cloud Native Policy Management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7391,
-      "forks": 1232,
-      "currentPeriodStars": 120,
+      "stars": 7392,
+      "forks": 1231,
+      "currentPeriodStars": 121,
       "builtBy": [
         {
           "username": "realshuting",
@@ -322,9 +322,9 @@
       "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22396,
-      "forks": 1096,
-      "currentPeriodStars": 1467,
+      "stars": 22427,
+      "forks": 1097,
+      "currentPeriodStars": 1473,
       "builtBy": [
         {
           "username": "mlsmaycon",
@@ -357,9 +357,9 @@
       "description": "The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1350,
-      "forks": 237,
-      "currentPeriodStars": 252,
+      "stars": 1351,
+      "forks": 235,
+      "currentPeriodStars": 253,
       "builtBy": [
         {
           "username": "korotovsky",
@@ -392,9 +392,9 @@
       "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 13208,
+      "stars": 13212,
       "forks": 1161,
-      "currentPeriodStars": 558,
+      "currentPeriodStars": 544,
       "builtBy": [
         {
           "username": "davies",
@@ -427,9 +427,9 @@
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28237,
-      "forks": 2280,
-      "currentPeriodStars": 1118,
+      "stars": 28255,
+      "forks": 2281,
+      "currentPeriodStars": 1121,
       "builtBy": [
         {
           "username": "bradfitz",
@@ -462,9 +462,9 @@
       "description": "The to-do app to organize your life.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3322,
-      "forks": 306,
-      "currentPeriodStars": 302,
+      "stars": 3328,
+      "forks": 307,
+      "currentPeriodStars": 305,
       "builtBy": [
         {
           "username": "kolaente",
@@ -497,9 +497,9 @@
       "description": "GitHub's official MCP Server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26888,
-      "forks": 3576,
-      "currentPeriodStars": 1117,
+      "stars": 26902,
+      "forks": 3577,
+      "currentPeriodStars": 1123,
       "builtBy": [
         {
           "username": "SamMorrowDrums",
@@ -532,9 +532,9 @@
       "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4444,
-      "forks": 739,
-      "currentPeriodStars": 723,
+      "stars": 4446,
+      "forks": 738,
+      "currentPeriodStars": 724,
       "builtBy": [
         {
           "username": "ArvinLovegood",
@@ -567,9 +567,9 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 42440,
-      "forks": 7925,
-      "currentPeriodStars": 528,
+      "stars": 42447,
+      "forks": 7928,
+      "currentPeriodStars": 534,
       "builtBy": [
         {
           "username": "mislav",
@@ -602,8 +602,8 @@
       "description": "eBPF-based Networking, Security, and Observability",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 23677,
-      "forks": 3607,
+      "stars": 23679,
+      "forks": 3608,
       "currentPeriodStars": 446,
       "builtBy": [
         {
@@ -637,9 +637,9 @@
       "description": "WhatsApp MCP server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5313,
-      "forks": 882,
-      "currentPeriodStars": 128,
+      "stars": 5314,
+      "forks": 880,
+      "currentPeriodStars": 126,
       "builtBy": [
         {
           "username": "lharries",

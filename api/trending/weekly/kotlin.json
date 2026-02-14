@@ -1,7 +1,7 @@
 {
   "count": 18,
   "since": "weekly",
-  "captured_at": "2026-02-13 12:19:57",
+  "captured_at": "2026-02-14 00:19:18",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 18696,
+      "stars": 18703,
       "forks": 1483,
-      "currentPeriodStars": 157,
+      "currentPeriodStars": 162,
       "builtBy": [
         {
           "username": "arm64v8a",
@@ -46,9 +46,9 @@
       "description": "Software simulation for Android hardware-backed key pairs with key attestation",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 791,
+      "stars": 796,
       "forks": 76,
-      "currentPeriodStars": 125,
+      "currentPeriodStars": 133,
       "builtBy": [
         {
           "username": "JingMatrix",
@@ -81,9 +81,9 @@
       "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 35934,
+      "stars": 35939,
       "forks": 1748,
-      "currentPeriodStars": 202,
+      "currentPeriodStars": 220,
       "builtBy": [
         {
           "username": "lisonge",
@@ -116,9 +116,9 @@
       "description": "A Download Manager that speeds up your downloads",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 13377,
-      "forks": 693,
-      "currentPeriodStars": 168,
+      "stars": 13379,
+      "forks": 691,
+      "currentPeriodStars": 165,
       "builtBy": [
         {
           "username": "amir1376",
@@ -151,9 +151,9 @@
       "description": "A Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 14995,
-      "forks": 3111,
-      "currentPeriodStars": 94,
+      "stars": 14996,
+      "forks": 3112,
+      "currentPeriodStars": 93,
       "builtBy": [
         {
           "username": "tiann",
@@ -186,8 +186,8 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 50944,
-      "forks": 6927,
+      "stars": 50952,
+      "forks": 6926,
       "currentPeriodStars": 349,
       "builtBy": [
         {
@@ -221,9 +221,9 @@
       "description": "A cross-platform music app using YouTube Music for backend",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 7769,
-      "forks": 349,
-      "currentPeriodStars": 183,
+      "stars": 7781,
+      "forks": 350,
+      "currentPeriodStars": 178,
       "builtBy": [
         {
           "username": "maxrave-dev",
@@ -256,9 +256,9 @@
       "description": "Bitwarden mobile apps (Password Manager and Authenticator) for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 8416,
+      "stars": 8419,
       "forks": 938,
-      "currentPeriodStars": 43,
+      "currentPeriodStars": 45,
       "builtBy": [
         {
           "username": "david-livefront",
@@ -291,9 +291,9 @@
       "description": "An advanced Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3150,
+      "stars": 3154,
       "forks": 776,
-      "currentPeriodStars": 46,
+      "currentPeriodStars": 42,
       "builtBy": [
         {
           "username": "tiann",
@@ -326,9 +326,9 @@
       "description": "Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3280,
+      "stars": 3279,
       "forks": 387,
-      "currentPeriodStars": 35,
+      "currentPeriodStars": 33,
       "builtBy": [
         {
           "username": "tanujnotes",
@@ -361,9 +361,9 @@
       "description": "[Deprecated] Thanks for your support!",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3132,
+      "stars": 3131,
       "forks": 302,
-      "currentPeriodStars": 23,
+      "currentPeriodStars": 21,
       "builtBy": [
         {
           "username": "YenalyLiew",
@@ -388,9 +388,9 @@
       "description": "Android app for streaming and downloading media.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 8869,
-      "forks": 776,
-      "currentPeriodStars": 77,
+      "stars": 8878,
+      "forks": 775,
+      "currentPeriodStars": 80,
       "builtBy": [
         {
           "username": "LagradOst",
@@ -423,9 +423,9 @@
       "description": "Lightweight unofficial Steam client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2570,
-      "forks": 100,
-      "currentPeriodStars": 254,
+      "stars": 2583,
+      "forks": 99,
+      "currentPeriodStars": 272,
       "builtBy": [
         {
           "username": "utkarshdalal",
@@ -458,9 +458,9 @@
       "description": "Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1845,
-      "forks": 402,
-      "currentPeriodStars": 28,
+      "stars": 1849,
+      "forks": 404,
+      "currentPeriodStars": 25,
       "builtBy": [
         {
           "username": "bmarty",
@@ -493,9 +493,9 @@
       "description": "Browse your memories without any interruptions with this photo and video gallery",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3057,
+      "stars": 3058,
       "forks": 168,
-      "currentPeriodStars": 29,
+      "currentPeriodStars": 25,
       "builtBy": [
         {
           "username": "tibbi",
@@ -528,7 +528,7 @@
       "description": "Bringing Astrid Tasks back from the dead",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 4910,
+      "stars": 4915,
       "forks": 600,
       "currentPeriodStars": 40,
       "builtBy": [
@@ -563,7 +563,7 @@
       "description": "App to bypass censorship on Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 5027,
+      "stars": 5028,
       "forks": 246,
       "currentPeriodStars": 33,
       "builtBy": [
@@ -598,9 +598,9 @@
       "description": "Share your VPN connection over hotspot or repeater! (root required)",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 5322,
+      "stars": 5324,
       "forks": 475,
-      "currentPeriodStars": 55,
+      "currentPeriodStars": 46,
       "builtBy": [
         {
           "username": "Mygod",

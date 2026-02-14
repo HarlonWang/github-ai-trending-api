@@ -1,7 +1,7 @@
 {
   "count": 15,
   "since": "daily",
-  "captured_at": "2026-02-13 12:18:37",
+  "captured_at": "2026-02-14 00:18:11",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24555,
-      "forks": 1461,
-      "currentPeriodStars": 436,
+      "stars": 24714,
+      "forks": 1462,
+      "currentPeriodStars": 363,
       "builtBy": [
         {
           "username": "OrKoN",
@@ -49,9 +49,9 @@
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 7793,
-      "forks": 1109,
-      "currentPeriodStars": 351,
+      "stars": 8025,
+      "forks": 1133,
+      "currentPeriodStars": 595,
       "builtBy": [
         {
           "username": "danielmiessler",
@@ -87,9 +87,9 @@
       "description": "A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4933,
-      "forks": 162,
-      "currentPeriodStars": 102,
+      "stars": 4981,
+      "forks": 164,
+      "currentPeriodStars": 86,
       "builtBy": [
         {
           "username": "CyberTimon",
@@ -122,9 +122,9 @@
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 5386,
-      "forks": 427,
-      "currentPeriodStars": 191,
+      "stars": 5496,
+      "forks": 437,
+      "currentPeriodStars": 467,
       "builtBy": [
         {
           "username": "ramnique",
@@ -160,9 +160,9 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8735,
-      "forks": 679,
-      "currentPeriodStars": 127,
+      "stars": 8790,
+      "forks": 682,
+      "currentPeriodStars": 128,
       "builtBy": [
         {
           "username": "kieranklaassen",
@@ -195,7 +195,7 @@
       "description": "Set up your GitHub Actions workflow with a specific version of node.js",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4635,
+      "stars": 4636,
       "forks": 1627,
       "currentPeriodStars": 2,
       "builtBy": [
@@ -230,9 +230,9 @@
       "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 27773,
-      "forks": 2155,
-      "currentPeriodStars": 72,
+      "stars": 27802,
+      "forks": 2152,
+      "currentPeriodStars": 75,
       "builtBy": [
         {
           "username": "musistudio",
@@ -266,8 +266,8 @@
       "language": "TypeScript",
       "languageColor": "#3178c6",
       "stars": 99824,
-      "forks": 27062,
-      "currentPeriodStars": 12,
+      "forks": 27058,
+      "currentPeriodStars": 14,
       "builtBy": [
         {
           "username": "gkalpak",
@@ -300,9 +300,9 @@
       "description": "The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1262,
-      "forks": 403,
-      "currentPeriodStars": 4,
+      "stars": 1266,
+      "forks": 405,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "danhellem",
@@ -335,9 +335,9 @@
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9305,
-      "forks": 451,
-      "currentPeriodStars": 300,
+      "stars": 9390,
+      "forks": 452,
+      "currentPeriodStars": 544,
       "builtBy": [
         {
           "username": "apps/dependabot",
@@ -373,9 +373,9 @@
       "description": "✨ The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes ✨",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14811,
-      "forks": 1194,
-      "currentPeriodStars": 192,
+      "stars": 14858,
+      "forks": 1197,
+      "currentPeriodStars": 170,
       "builtBy": [
         {
           "username": "amhsirak",
@@ -408,9 +408,9 @@
       "description": "Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 20813,
-      "forks": 2933,
-      "currentPeriodStars": 10,
+      "stars": 20817,
+      "forks": 2937,
+      "currentPeriodStars": 8,
       "builtBy": [
         {
           "username": "apps/renovate",
@@ -443,9 +443,9 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 190548,
-      "forks": 32394,
-      "currentPeriodStars": 3209,
+      "stars": 191878,
+      "forks": 32803,
+      "currentPeriodStars": 3176,
       "builtBy": [
         {
           "username": "steipete",
@@ -478,9 +478,9 @@
       "description": "Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1967,
-      "forks": 276,
-      "currentPeriodStars": 43,
+      "stars": 1975,
+      "forks": 278,
+      "currentPeriodStars": 37,
       "builtBy": [
         {
           "username": "samuelscheit",
@@ -513,9 +513,9 @@
       "description": "Yet another matrix client",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 2945,
-      "forks": 398,
-      "currentPeriodStars": 38,
+      "stars": 2963,
+      "forks": 404,
+      "currentPeriodStars": 153,
       "builtBy": [
         {
           "username": "ajbura",

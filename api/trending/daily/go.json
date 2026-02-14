@@ -1,7 +1,7 @@
 {
   "count": 17,
   "since": "daily",
-  "captured_at": "2026-02-13 12:18:29",
+  "captured_at": "2026-02-14 00:18:01",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "MCP server for Grafana",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2282,
+      "stars": 2292,
       "forks": 259,
       "currentPeriodStars": 6,
       "builtBy": [
@@ -47,8 +47,8 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": 10743,
-      "forks": 9957,
-      "currentPeriodStars": 2,
+      "forks": 9960,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "ewbankkit",
@@ -82,8 +82,8 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": 71469,
-      "forks": 18907,
-      "currentPeriodStars": 6,
+      "forks": 18906,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "thaJeztah",
@@ -116,8 +116,8 @@
       "description": "GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3484,
-      "forks": 813,
+      "stars": 3494,
+      "forks": 810,
       "currentPeriodStars": 7,
       "builtBy": [
         {
@@ -151,9 +151,9 @@
       "description": "Kubernetes controller for GitHub Actions self-hosted runners",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6018,
+      "stars": 6019,
       "forks": 1381,
-      "currentPeriodStars": 5,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "mumoshu",
@@ -186,9 +186,9 @@
       "description": "OpenTelemetry Collector",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6601,
-      "forks": 1871,
-      "currentPeriodStars": 4,
+      "stars": 6604,
+      "forks": 1872,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "bogdandrutu",
@@ -221,9 +221,9 @@
       "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 27836,
+      "stars": 27844,
       "forks": 1157,
-      "currentPeriodStars": 14,
+      "currentPeriodStars": 18,
       "builtBy": [
         {
           "username": "apparentlymart",
@@ -256,9 +256,9 @@
       "description": "The Cloud Native Application Proxy",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 61611,
-      "forks": 5827,
-      "currentPeriodStars": 24,
+      "stars": 61624,
+      "forks": 5826,
+      "currentPeriodStars": 20,
       "builtBy": [
         {
           "username": "ldez",
@@ -291,9 +291,9 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2105,
-      "forks": 148,
-      "currentPeriodStars": 405,
+      "stars": 2178,
+      "forks": 155,
+      "currentPeriodStars": 179,
       "builtBy": [
         {
           "username": "apps/copilot-swe-agent",
@@ -329,9 +329,9 @@
       "description": "Glamourous agentic coding for all 💘",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19827,
-      "forks": 1226,
-      "currentPeriodStars": 74,
+      "stars": 19863,
+      "forks": 1224,
+      "currentPeriodStars": 60,
       "builtBy": [
         {
           "username": "kujtimiihoxha",
@@ -365,8 +365,8 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": 60218,
-      "forks": 6978,
-      "currentPeriodStars": 31,
+      "forks": 6997,
+      "currentPeriodStars": 44,
       "builtBy": [
         {
           "username": "harshavardhana",
@@ -399,9 +399,9 @@
       "description": "Fast linters runner for Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 18486,
+      "stars": 18491,
       "forks": 1544,
-      "currentPeriodStars": 10,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
           "username": "ldez",
@@ -434,9 +434,9 @@
       "description": "MCP for xiaohongshu.com",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8740,
-      "forks": 1379,
-      "currentPeriodStars": 35,
+      "stars": 8745,
+      "forks": 1380,
+      "currentPeriodStars": 34,
       "builtBy": [
         {
           "username": "xpzouying",
@@ -469,9 +469,9 @@
       "description": "Ultimate camera streaming application",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12268,
-      "forks": 945,
-      "currentPeriodStars": 19,
+      "stars": 12285,
+      "forks": 949,
+      "currentPeriodStars": 21,
       "builtBy": [
         {
           "username": "AlexxIT",
@@ -504,8 +504,8 @@
       "description": "Open device management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6020,
-      "forks": 781,
+      "stars": 6026,
+      "forks": 780,
       "currentPeriodStars": 3,
       "builtBy": [
         {
@@ -539,9 +539,9 @@
       "description": "Progressive Delivery for Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3385,
+      "stars": 3387,
       "forks": 1087,
-      "currentPeriodStars": 3,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "zachaller",
@@ -574,9 +574,9 @@
       "description": "A private Certificate Authority for internal (lab) use, based on the open source ACME Automated Certificate Management Environment implementation from Let's Encrypt (tm).",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 699,
+      "stars": 701,
       "forks": 53,
-      "currentPeriodStars": 52,
+      "currentPeriodStars": 35,
       "builtBy": [
         {
           "username": "hakwerk",

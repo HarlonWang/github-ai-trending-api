@@ -1,7 +1,7 @@
 {
   "count": 11,
   "since": "daily",
-  "captured_at": "2026-02-13 12:18:20",
+  "captured_at": "2026-02-14 00:17:51",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 295,
-      "forks": 174,
-      "currentPeriodStars": 105,
+      "stars": 412,
+      "forks": 209,
+      "currentPeriodStars": 106,
       "builtBy": [
         {
           "username": "claude",
@@ -49,9 +49,9 @@
       "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 9534,
-      "forks": 18055,
-      "currentPeriodStars": 6,
+      "stars": 9538,
+      "forks": 18053,
+      "currentPeriodStars": 8,
       "builtBy": [
         {
           "username": "wdhdev",
@@ -84,9 +84,9 @@
       "description": "",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 848,
-      "forks": 79,
-      "currentPeriodStars": 43,
+      "stars": 863,
+      "forks": 82,
+      "currentPeriodStars": 41,
       "builtBy": [
         {
           "username": "yctimlin",
@@ -119,9 +119,9 @@
       "description": "The open source server management software for SSH, VNC & RDP",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 3927,
-      "forks": 207,
-      "currentPeriodStars": 60,
+      "stars": 3939,
+      "forks": 208,
+      "currentPeriodStars": 37,
       "builtBy": [
         {
           "username": "gnmyt",
@@ -154,9 +154,9 @@
       "description": "Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 2433,
+      "stars": 2435,
       "forks": 386,
-      "currentPeriodStars": 4,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "ScriptedAlchemy",
@@ -189,8 +189,8 @@
       "description": "Desktop App for downloading Videos and Audios from hundreds of sites",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 8112,
-      "forks": 689,
+      "stars": 8118,
+      "forks": 688,
       "currentPeriodStars": 31,
       "builtBy": [
         {
@@ -224,9 +224,9 @@
       "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 97798,
-      "forks": 32764,
-      "currentPeriodStars": 9,
+      "stars": 97799,
+      "forks": 32763,
+      "currentPeriodStars": 17,
       "builtBy": [
         {
           "username": "oliviertassinari",
@@ -259,9 +259,9 @@
       "description": "The React Framework",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 137641,
-      "forks": 30454,
-      "currentPeriodStars": 33,
+      "stars": 137653,
+      "forks": 30455,
+      "currentPeriodStars": 35,
       "builtBy": [
         {
           "username": "ijjk",
@@ -294,8 +294,8 @@
       "description": "Connect APIs, remarkably fast. Free for developers.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 11085,
-      "forks": 5584,
+      "stars": 11086,
+      "forks": 5578,
       "currentPeriodStars": 3,
       "builtBy": [
         {
@@ -330,8 +330,8 @@
       "language": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": 37423,
-      "forks": 4944,
-      "currentPeriodStars": 7,
+      "forks": 4942,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "Navaneeth-pk",
@@ -364,9 +364,9 @@
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 115699,
-      "forks": 34714,
-      "currentPeriodStars": 16,
+      "stars": 115700,
+      "forks": 34727,
+      "currentPeriodStars": 19,
       "builtBy": [
         {
           "username": "Trott",
