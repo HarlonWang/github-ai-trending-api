@@ -1,7 +1,7 @@
 {
   "count": 18,
   "since": "weekly",
-  "captured_at": "2026-02-14 12:19:43",
+  "captured_at": "2026-02-14 16:04:59",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "Software simulation for Android hardware-backed key pairs with key attestation",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 799,
+      "stars": 800,
       "forks": 77,
       "currentPeriodStars": 133,
       "builtBy": [
@@ -46,7 +46,7 @@
       "description": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 18714,
+      "stars": 18715,
       "forks": 1485,
       "currentPeriodStars": 162,
       "builtBy": [
@@ -81,7 +81,7 @@
       "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 35959,
+      "stars": 35964,
       "forks": 1749,
       "currentPeriodStars": 220,
       "builtBy": [
@@ -116,7 +116,7 @@
       "description": "A Download Manager that speeds up your downloads",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 13387,
+      "stars": 13392,
       "forks": 691,
       "currentPeriodStars": 165,
       "builtBy": [
@@ -151,8 +151,8 @@
       "description": "SD Maid 2/SE is Android's most thorough cleaning tool.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6143,
-      "forks": 776,
+      "stars": 6146,
+      "forks": 777,
       "currentPeriodStars": 68,
       "builtBy": [
         {
@@ -186,8 +186,8 @@
       "description": "A Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 15000,
-      "forks": 3114,
+      "stars": 15001,
+      "forks": 3115,
       "currentPeriodStars": 93,
       "builtBy": [
         {
@@ -221,7 +221,7 @@
       "description": "A shadowsocks client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 36658,
+      "stars": 36660,
       "forks": 11541,
       "currentPeriodStars": 34,
       "builtBy": [
@@ -291,8 +291,8 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 50963,
-      "forks": 6929,
+      "stars": 50976,
+      "forks": 6930,
       "currentPeriodStars": 349,
       "builtBy": [
         {
@@ -361,7 +361,7 @@
       "description": "A feature-rich weather app with good visualizations and more than 50 sources.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 9297,
+      "stars": 9299,
       "forks": 310,
       "currentPeriodStars": 95,
       "builtBy": [
@@ -396,7 +396,7 @@
       "description": "App to bypass censorship on Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 5029,
+      "stars": 5030,
       "forks": 246,
       "currentPeriodStars": 33,
       "builtBy": [
@@ -431,8 +431,8 @@
       "description": "Android app for streaming and downloading media.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 8882,
-      "forks": 775,
+      "stars": 8883,
+      "forks": 776,
       "currentPeriodStars": 80,
       "builtBy": [
         {
@@ -466,7 +466,7 @@
       "description": "Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1851,
+      "stars": 1852,
       "forks": 404,
       "currentPeriodStars": 25,
       "builtBy": [
@@ -536,7 +536,7 @@
       "description": "Lightweight unofficial Steam client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2594,
+      "stars": 2595,
       "forks": 100,
       "currentPeriodStars": 272,
       "builtBy": [
@@ -606,7 +606,7 @@
       "description": "More Expressive InstallerX !",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3630,
+      "stars": 3633,
       "forks": 135,
       "currentPeriodStars": 113,
       "builtBy": [

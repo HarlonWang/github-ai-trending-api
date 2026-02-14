@@ -1,7 +1,7 @@
 {
   "count": 11,
   "since": "daily",
-  "captured_at": "2026-02-14 12:17:20",
+  "captured_at": "2026-02-14 16:03:14",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9418,
-      "forks": 457,
-      "currentPeriodStars": 544,
+      "stars": 9481,
+      "forks": 461,
+      "currentPeriodStars": 137,
       "builtBy": [
         {
           "username": "apps/dependabot",
@@ -37,7 +37,7 @@
         }
       ],
       "aiSummary": {
-        "content": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，解决了手动处理流式输出与状态同步的复杂度，提升了开发效率。",
+        "zh": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，解决了手动处理流式输出与状态同步的复杂度，提升了开发效率。",
         "source": "deepseek"
       }
     },
@@ -49,8 +49,8 @@
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 507,
-      "forks": 225,
+      "stars": 546,
+      "forks": 227,
       "currentPeriodStars": 223,
       "builtBy": [
         {
@@ -62,12 +62,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/124090200?s=40&v=4"
         },
         {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
           "username": "oalanicolas",
           "avatar": "https://avatars.githubusercontent.com/u/895889?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         },
         {
           "username": "semantic-release-bot",
@@ -75,7 +75,7 @@
         }
       ],
       "aiSummary": {
-        "content": "Synkra AIOS Core 是一个基于 JavaScript 的 AI 编排系统核心框架，旨在通过 AI 智能体协同工作，自动化处理全栈开发中的复杂任务流程，从而显著提升开发效率并降低人工编排成本。",
+        "zh": "Synkra AIOS Core 是一个基于 JavaScript 的 AI 编排系统核心框架，旨在通过 AI 智能体协同工作，自动化处理全栈开发中的复杂任务流程，从而显著提升开发效率并降低人工编排成本。",
         "source": "deepseek"
       }
     },
@@ -87,9 +87,9 @@
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 5591,
-      "forks": 445,
-      "currentPeriodStars": 467,
+      "stars": 5680,
+      "forks": 451,
+      "currentPeriodStars": 226,
       "builtBy": [
         {
           "username": "ramnique",
@@ -113,7 +113,7 @@
         }
       ],
       "aiSummary": {
-        "content": "Rowboat 是一个开源的 AI 协作者，基于 TypeScript 开发。其核心在于为 AI 助手配备了长期记忆能力，解决了传统 AI 对话中上下文信息易丢失的痛点，能持续记忆用户偏好与历史交互，从而实现更连贯、个性化的协作体验。",
+        "zh": "Rowboat 是一个开源的 AI 协作者，基于 TypeScript 开发。其核心在于为 AI 助手配备了长期记忆能力，解决了传统 AI 对话中上下文信息易丢失的痛点，能持续记忆用户偏好与历史交互，从而实现更连贯、个性化的协作体验。",
         "source": "deepseek"
       }
     },
@@ -125,9 +125,9 @@
       "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 60223,
-      "forks": 7002,
-      "currentPeriodStars": 44,
+      "stars": 60242,
+      "forks": 7004,
+      "currentPeriodStars": 37,
       "builtBy": [
         {
           "username": "harshavardhana",
@@ -151,7 +151,7 @@
         }
       ],
       "aiSummary": {
-        "content": "MinIO 是一款基于 Go 语言开发的高性能对象存储系统，完全兼容 Amazon S3 API。它解决了企业构建私有云存储时对高性能、可扩展且与主流生态兼容的存储服务的需求，适用于大规模数据湖、备份和云原生应用场景。",
+        "zh": "MinIO 是一款基于 Go 语言开发的高性能对象存储系统，完全兼容 Amazon S3 API。它解决了企业构建私有云存储时对高性能、可扩展且与主流生态兼容的存储服务的需求，适用于大规模数据湖、备份和云原生应用场景。",
         "source": "deepseek"
       }
     },
@@ -163,8 +163,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24878,
-      "forks": 1473,
+      "stars": 24966,
+      "forks": 1474,
       "currentPeriodStars": 326,
       "builtBy": [
         {
@@ -189,7 +189,7 @@
         }
       ],
       "aiSummary": {
-        "content": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。",
+        "zh": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。",
         "source": "deepseek"
       }
     },
@@ -201,9 +201,9 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 971,
-      "forks": 56,
-      "currentPeriodStars": 198,
+      "stars": 1033,
+      "forks": 58,
+      "currentPeriodStars": 186,
       "builtBy": [
         {
           "username": "iaojnh",
@@ -227,7 +227,7 @@
         }
       ],
       "aiSummary": {
-        "content": "zvec 是阿里巴巴开源的轻量级、极速进程内向量数据库。它专为需要高性能向量相似性搜索的场景设计，通过消除网络开销和复杂部署，实现了低延迟、高吞吐量的近似最近邻检索。",
+        "zh": "zvec 是阿里巴巴开源的轻量级、极速进程内向量数据库。它专为需要高性能向量相似性搜索的场景设计，通过消除网络开销和复杂部署，实现了低延迟、高吞吐量的近似最近邻检索。",
         "source": "deepseek"
       }
     },
@@ -239,8 +239,8 @@
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 5958,
-      "forks": 544,
+      "stars": 6027,
+      "forks": 545,
       "currentPeriodStars": 83,
       "builtBy": [
         {
@@ -253,7 +253,7 @@
         }
       ],
       "aiSummary": {
-        "content": "Ruvnet/Wifi-DensePose 实现了 InvisPose 系统，利用普通家用网状路由器发出的 WiFi 信号，实现了穿墙的实时密集人体姿态估计。该系统解决了传统视觉方法在遮挡或无光环境下失效的痛点，无需穿戴设备即可进行全身动作追踪。",
+        "zh": "Ruvnet/Wifi-DensePose 实现了 InvisPose 系统，利用普通家用网状路由器发出的 WiFi 信号，实现了穿墙的实时密集人体姿态估计。该系统解决了传统视觉方法在遮挡或无光环境下失效的痛点，无需穿戴设备即可进行全身动作追踪。",
         "source": "deepseek"
       }
     },
@@ -265,8 +265,8 @@
       "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6163,
-      "forks": 588,
+      "stars": 6209,
+      "forks": 591,
       "currentPeriodStars": 24,
       "builtBy": [
         {
@@ -291,7 +291,7 @@
         }
       ],
       "aiSummary": {
-        "content": "Zipstack/unstract 是一个基于 Python 的无代码 LLM 平台，旨在解决非结构化文档处理难题。其核心功能是让用户无需编程即可快速部署 API 和 ETL 流水线，从而自动化提取并结构化文档中的关键信息。",
+        "zh": "Zipstack/unstract 是一个基于 Python 的无代码 LLM 平台，旨在解决非结构化文档处理难题。其核心功能是让用户无需编程即可快速部署 API 和 ETL 流水线，从而自动化提取并结构化文档中的关键信息。",
         "source": "deepseek"
       }
     },
@@ -303,7 +303,7 @@
       "description": "The memory-first coding agent",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1085,
+      "stars": 1129,
       "forks": 133,
       "currentPeriodStars": 30,
       "builtBy": [
@@ -329,7 +329,7 @@
         }
       ],
       "aiSummary": {
-        "content": "Letta-Code 是一个基于记忆优先理念的 TypeScript 编码智能体。它通过持久化记忆上下文，有效解决了传统AI编码助手在多轮复杂对话中遗忘历史、上下文丢失的核心痛点，从而能更连贯、精准地理解和执行长期开发任务。",
+        "zh": "Letta-Code 是一个基于记忆优先理念的 TypeScript 编码智能体。它通过持久化记忆上下文，有效解决了传统AI编码助手在多轮复杂对话中遗忘历史、上下文丢失的核心痛点，从而能更连贯、精准地理解和执行长期开发任务。",
         "source": "deepseek"
       }
     },
@@ -341,7 +341,7 @@
       "description": "The Ruby Programming Language",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 23315,
+      "stars": 23336,
       "forks": 5562,
       "currentPeriodStars": 6,
       "builtBy": [
@@ -367,7 +367,7 @@
         }
       ],
       "aiSummary": {
-        "content": "Ruby 编程语言的核心实现，提供了动态、面向对象的脚本语言环境。其核心价值在于通过简洁优雅的语法和强大的元编程能力，显著提升了开发者的生产力和代码可读性，尤其适用于快速原型开发和Web应用构建。",
+        "zh": "Ruby 编程语言的核心实现，提供了动态、面向对象的脚本语言环境。其核心价值在于通过简洁优雅的语法和强大的元编程能力，显著提升了开发者的生产力和代码可读性，尤其适用于快速原型开发和Web应用构建。",
         "source": "deepseek"
       }
     },
@@ -379,9 +379,9 @@
       "description": "Yet another matrix client",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 2980,
-      "forks": 406,
-      "currentPeriodStars": 153,
+      "stars": 3004,
+      "forks": 409,
+      "currentPeriodStars": 46,
       "builtBy": [
         {
           "username": "ajbura",
@@ -405,7 +405,7 @@
         }
       ],
       "aiSummary": {
-        "content": "Cinny 是一款基于 Matrix 协议的轻量级即时通讯客户端，采用 TypeScript 开发。它专注于提供快速、简洁的用户体验，解决了官方 Element 客户端较为臃肿、性能开销大的痛点，尤其适合在浏览器和移动端高效使用去中心化通信网络。",
+        "zh": "Cinny 是一款基于 Matrix 协议的轻量级即时通讯客户端，采用 TypeScript 开发。它专注于提供快速、简洁的用户体验，解决了官方 Element 客户端较为臃肿、性能开销大的痛点，尤其适合在浏览器和移动端高效使用去中心化通信网络。",
         "source": "deepseek"
       }
     }

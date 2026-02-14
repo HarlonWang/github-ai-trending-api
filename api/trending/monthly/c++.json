@@ -1,7 +1,7 @@
 {
   "count": 23,
   "since": "monthly",
-  "captured_at": "2026-02-14 12:20:16",
+  "captured_at": "2026-02-14 16:05:42",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12486,
+      "stars": 12487,
       "forks": 984,
       "currentPeriodStars": 541,
       "builtBy": [
@@ -46,7 +46,7 @@
       "description": "MLX: An array framework for Apple silicon",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 23925,
+      "stars": 23928,
       "forks": 1512,
       "currentPeriodStars": 509,
       "builtBy": [
@@ -81,7 +81,7 @@
       "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18675,
+      "stars": 18678,
       "forks": 1651,
       "currentPeriodStars": 1835,
       "builtBy": [
@@ -116,7 +116,7 @@
       "description": "PC Software for BambuLab and other 3D printers",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4013,
+      "stars": 4014,
       "forks": 622,
       "currentPeriodStars": 358,
       "builtBy": [
@@ -186,7 +186,7 @@
       "description": "Notepad++ official repository",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 27139,
+      "stars": 27141,
       "forks": 5105,
       "currentPeriodStars": 495,
       "builtBy": [
@@ -256,8 +256,8 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 106649,
-      "forks": 24320,
+      "stars": 106656,
+      "forks": 24324,
       "currentPeriodStars": 1505,
       "builtBy": [
         {
@@ -291,7 +291,7 @@
       "description": "DuckDB is an analytical in-process SQL database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 36087,
+      "stars": 36093,
       "forks": 2927,
       "currentPeriodStars": 766,
       "builtBy": [
@@ -326,7 +326,7 @@
       "description": "A cross-platform, reimplementation of Notepad++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 13429,
+      "stars": 13431,
       "forks": 810,
       "currentPeriodStars": 377,
       "builtBy": [
@@ -396,7 +396,7 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 95011,
+      "stars": 95020,
       "forks": 14898,
       "currentPeriodStars": 2376,
       "builtBy": [
@@ -466,7 +466,7 @@
       "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29301,
+      "stars": 29302,
       "forks": 1854,
       "currentPeriodStars": 706,
       "builtBy": [
@@ -501,8 +501,8 @@
       "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 77122,
-      "forks": 8317,
+      "stars": 77123,
+      "forks": 8316,
       "currentPeriodStars": 259,
       "builtBy": [
         {
@@ -536,7 +536,7 @@
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 101812,
+      "stars": 101813,
       "forks": 9072,
       "currentPeriodStars": 611,
       "builtBy": [
@@ -572,7 +572,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 1781,
-      "forks": 469,
+      "forks": 470,
       "currentPeriodStars": 90,
       "builtBy": [
         {
@@ -606,7 +606,7 @@
       "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19625,
+      "stars": 19626,
       "forks": 2112,
       "currentPeriodStars": 294,
       "builtBy": [
@@ -642,7 +642,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 14505,
-      "forks": 20245,
+      "forks": 20243,
       "currentPeriodStars": 192,
       "builtBy": [
         {
@@ -676,8 +676,8 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29834,
-      "forks": 6267,
+      "stars": 29836,
+      "forks": 6266,
       "currentPeriodStars": 341,
       "builtBy": [
         {
@@ -711,7 +711,7 @@
       "description": "Tool to statically recompile N64 games into native executables",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7676,
+      "stars": 7677,
       "forks": 415,
       "currentPeriodStars": 235,
       "builtBy": [
@@ -746,8 +746,8 @@
       "description": "Production ready toolkit to run AI locally",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7592,
-      "forks": 230,
+      "stars": 7632,
+      "forks": 233,
       "currentPeriodStars": 3724,
       "builtBy": [
         {
@@ -781,8 +781,8 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9986,
-      "forks": 701,
+      "stars": 9994,
+      "forks": 702,
       "currentPeriodStars": 452,
       "builtBy": [
         {

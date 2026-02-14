@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "weekly",
-  "captured_at": "2026-02-14 12:19:30",
+  "captured_at": "2026-02-14 16:04:48",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5939,
+      "stars": 5943,
       "forks": 1001,
       "currentPeriodStars": 203,
       "builtBy": [
@@ -37,7 +37,7 @@
         }
       ],
       "aiSummary": {
-        "content": "MTProxy是Telegram官方推出的轻量级代理工具，使用C语言编写。它通过伪装流量和快速中继，帮助用户在受限网络环境中稳定访问Telegram服务，有效绕过网络封锁。",
+        "zh": "MTProxy是Telegram官方推出的轻量级代理工具，使用C语言编写。它通过伪装流量和快速中继，帮助用户在受限网络环境中稳定访问Telegram服务，有效绕过网络封锁。",
         "source": "deepseek"
       }
     },
@@ -49,7 +49,7 @@
       "description": "anti-dpi software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1618,
+      "stars": 1623,
       "forks": 50,
       "currentPeriodStars": 156,
       "builtBy": [
@@ -107,7 +107,7 @@
       "description": "This project aims to enhance the working environment on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 31542,
+      "stars": 31550,
       "forks": 1281,
       "currentPeriodStars": 105,
       "builtBy": [
@@ -142,7 +142,7 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14466,
+      "stars": 14467,
       "forks": 8654,
       "currentPeriodStars": 69,
       "builtBy": [
@@ -212,8 +212,8 @@
       "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 59095,
-      "forks": 27501,
+      "stars": 59092,
+      "forks": 27500,
       "currentPeriodStars": 165,
       "builtBy": [
         {
@@ -247,7 +247,7 @@
       "description": "Inference Llama 2 in one file of pure C",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 19171,
+      "stars": 19170,
       "forks": 2446,
       "currentPeriodStars": 25,
       "builtBy": [
@@ -282,7 +282,7 @@
       "description": "Share your terminal over the web",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 10944,
+      "stars": 10945,
       "forks": 1069,
       "currentPeriodStars": 68,
       "builtBy": [
@@ -352,7 +352,7 @@
       "description": "A vector search SQLite extension that runs anywhere!",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6896,
+      "stars": 6897,
       "forks": 277,
       "currentPeriodStars": 63,
       "builtBy": [
@@ -387,8 +387,8 @@
       "description": "DPI bypass multi platform",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14350,
-      "forks": 988,
+      "stars": 14356,
+      "forks": 990,
       "currentPeriodStars": 91,
       "builtBy": [
         {
@@ -422,7 +422,7 @@
       "description": "darktable is an open source photography workflow application and raw developer",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12004,
+      "stars": 12005,
       "forks": 1273,
       "currentPeriodStars": 44,
       "builtBy": [
@@ -457,7 +457,7 @@
       "description": "Display and control your Android device",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 135629,
+      "stars": 135638,
       "forks": 12643,
       "currentPeriodStars": 374,
       "builtBy": [
@@ -492,8 +492,8 @@
       "description": "Decompilation of Pokémon Emerald",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2936,
-      "forks": 3765,
+      "stars": 2937,
+      "forks": 3766,
       "currentPeriodStars": 12,
       "builtBy": [
         {
@@ -527,7 +527,7 @@
       "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14718,
+      "stars": 14719,
       "forks": 2157,
       "currentPeriodStars": 79,
       "builtBy": [
@@ -562,7 +562,7 @@
       "description": "minimal cross-platform standalone C headers",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 9595,
+      "stars": 9596,
       "forks": 615,
       "currentPeriodStars": 41,
       "builtBy": [
@@ -597,7 +597,7 @@
       "description": "ehviewer，用爱发电，快乐前行",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 22392,
+      "stars": 22394,
       "forks": 593,
       "currentPeriodStars": 157,
       "builtBy": [
@@ -632,7 +632,7 @@
       "description": "John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12718,
+      "stars": 12720,
       "forks": 2449,
       "currentPeriodStars": 52,
       "builtBy": [
@@ -702,7 +702,7 @@
       "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 72924,
+      "stars": 72926,
       "forks": 24487,
       "currentPeriodStars": 151,
       "builtBy": [

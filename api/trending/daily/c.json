@@ -1,7 +1,7 @@
 {
   "count": 18,
   "since": "daily",
-  "captured_at": "2026-02-14 12:18:39",
+  "captured_at": "2026-02-14 16:03:52",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5938,
+      "stars": 5943,
       "forks": 1001,
       "currentPeriodStars": 142,
       "builtBy": [
@@ -37,7 +37,7 @@
         }
       ],
       "aiSummary": {
-        "content": "MTProxy是Telegram官方推出的轻量级代理工具，使用C语言编写。它通过伪装流量和快速中继，帮助用户在受限网络环境中稳定访问Telegram服务，有效绕过网络封锁。",
+        "zh": "MTProxy是Telegram官方推出的轻量级代理工具，使用C语言编写。它通过伪装流量和快速中继，帮助用户在受限网络环境中稳定访问Telegram服务，有效绕过网络封锁。",
         "source": "deepseek"
       }
     },
@@ -154,7 +154,7 @@
       "description": "7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6646,
+      "stars": 6650,
       "forks": 359,
       "currentPeriodStars": 9,
       "builtBy": [
@@ -189,8 +189,8 @@
       "description": "A free Windows-compatible Operating System",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17070,
-      "forks": 2036,
+      "stars": 17071,
+      "forks": 2037,
       "currentPeriodStars": 6,
       "builtBy": [
         {
@@ -224,7 +224,7 @@
       "description": "An open and affordable mini quadruped robot based on ESP32.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 836,
+      "stars": 841,
       "forks": 118,
       "currentPeriodStars": 18,
       "builtBy": [
@@ -290,7 +290,7 @@
       "description": "OpenVPN is an open source VPN daemon",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13233,
+      "stars": 13234,
       "forks": 3263,
       "currentPeriodStars": 9,
       "builtBy": [
@@ -325,7 +325,7 @@
       "description": "The official NGINX Open Source repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 29342,
+      "stars": 29344,
       "forks": 7762,
       "currentPeriodStars": 11,
       "builtBy": [
@@ -360,7 +360,7 @@
       "description": "This project aims to enhance the working environment on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 31542,
+      "stars": 31550,
       "forks": 1281,
       "currentPeriodStars": 22,
       "builtBy": [
@@ -395,7 +395,7 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14466,
+      "stars": 14467,
       "forks": 8654,
       "currentPeriodStars": 10,
       "builtBy": [
@@ -465,7 +465,7 @@
       "description": "New App Store for GNOME",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1396,
+      "stars": 1397,
       "forks": 112,
       "currentPeriodStars": 7,
       "builtBy": [
@@ -500,7 +500,7 @@
       "description": "EDK II",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5774,
+      "stars": 5776,
       "forks": 3037,
       "currentPeriodStars": 2,
       "builtBy": [
@@ -535,8 +535,8 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 25531,
-      "forks": 12030,
+      "stars": 25532,
+      "forks": 12031,
       "currentPeriodStars": 14,
       "builtBy": [
         {
@@ -570,7 +570,7 @@
       "description": "hekate - A GUI based Nintendo Switch Bootloader",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 8051,
+      "stars": 8052,
       "forks": 636,
       "currentPeriodStars": 0,
       "builtBy": [

@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "monthly",
-  "captured_at": "2026-02-14 12:20:21",
+  "captured_at": "2026-02-14 16:05:46",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5939,
+      "stars": 5943,
       "forks": 1001,
       "currentPeriodStars": 278,
       "builtBy": [
@@ -37,7 +37,7 @@
         }
       ],
       "aiSummary": {
-        "content": "MTProxy是Telegram官方推出的轻量级代理工具，使用C语言编写。它通过伪装流量和快速中继，帮助用户在受限网络环境中稳定访问Telegram服务，有效绕过网络封锁。",
+        "zh": "MTProxy是Telegram官方推出的轻量级代理工具，使用C语言编写。它通过伪装流量和快速中继，帮助用户在受限网络环境中稳定访问Telegram服务，有效绕过网络封锁。",
         "source": "deepseek"
       }
     },
@@ -49,7 +49,7 @@
       "description": "WiFi security auditing tools suite",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6928,
+      "stars": 6929,
       "forks": 1236,
       "currentPeriodStars": 177,
       "builtBy": [
@@ -84,7 +84,7 @@
       "description": "tmux source code",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 41752,
+      "stars": 41758,
       "forks": 2409,
       "currentPeriodStars": 1040,
       "builtBy": [
@@ -119,7 +119,7 @@
       "description": "A completely vibecoded operating system targeting Aarch64",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1126,
+      "stars": 1125,
       "forks": 75,
       "currentPeriodStars": 843,
       "builtBy": [
@@ -189,8 +189,8 @@
       "description": "The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2279,
-      "forks": 323,
+      "stars": 2280,
+      "forks": 324,
       "currentPeriodStars": 157,
       "builtBy": [
         {
@@ -224,7 +224,7 @@
       "description": "Sandboxie Plus & Classic",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17524,
+      "stars": 17525,
       "forks": 1906,
       "currentPeriodStars": 722,
       "builtBy": [
@@ -259,7 +259,7 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14466,
+      "stars": 14467,
       "forks": 8654,
       "currentPeriodStars": 322,
       "builtBy": [
@@ -329,7 +329,7 @@
       "description": "Power full Task Manager",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3125,
+      "stars": 3126,
       "forks": 243,
       "currentPeriodStars": 1168,
       "builtBy": [
@@ -364,7 +364,7 @@
       "description": "TLS/SSL and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 29556,
+      "stars": 29557,
       "forks": 11050,
       "currentPeriodStars": 233,
       "builtBy": [
@@ -399,7 +399,7 @@
       "description": "ehviewer，用爱发电，快乐前行",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 22392,
+      "stars": 22394,
       "forks": 593,
       "currentPeriodStars": 623,
       "builtBy": [
@@ -434,7 +434,7 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 40696,
+      "stars": 40698,
       "forks": 7057,
       "currentPeriodStars": 384,
       "builtBy": [
@@ -469,7 +469,7 @@
       "description": "A simple and easy-to-use library to enjoy videogames programming",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 30945,
+      "stars": 30947,
       "forks": 2925,
       "currentPeriodStars": 717,
       "builtBy": [
@@ -539,8 +539,8 @@
       "description": "A free Windows-compatible Operating System",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17070,
-      "forks": 2036,
+      "stars": 17071,
+      "forks": 2037,
       "currentPeriodStars": 278,
       "builtBy": [
         {
@@ -575,7 +575,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 7731,
-      "forks": 1669,
+      "forks": 1670,
       "currentPeriodStars": 90,
       "builtBy": [
         {
@@ -609,8 +609,8 @@
       "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3695,
-      "forks": 1484,
+      "stars": 3696,
+      "forks": 1485,
       "currentPeriodStars": 75,
       "builtBy": [
         {
@@ -644,7 +644,7 @@
       "description": "anti-dpi software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1618,
+      "stars": 1623,
       "forks": 50,
       "currentPeriodStars": 543,
       "builtBy": [

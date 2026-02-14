@@ -1,7 +1,7 @@
 {
   "count": 18,
   "since": "monthly",
-  "captured_at": "2026-02-14 12:19:57",
+  "captured_at": "2026-02-14 16:05:19",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 37148,
+      "stars": 37150,
       "forks": 3461,
       "currentPeriodStars": 975,
       "builtBy": [
@@ -46,8 +46,8 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22088,
-      "forks": 5412,
+      "stars": 22094,
+      "forks": 5415,
       "currentPeriodStars": 1179,
       "builtBy": [
         {
@@ -81,7 +81,7 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 30183,
+      "stars": 30195,
       "forks": 6849,
       "currentPeriodStars": 1162,
       "builtBy": [
@@ -112,8 +112,8 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22043,
-      "forks": 13089,
+      "stars": 22048,
+      "forks": 13091,
       "currentPeriodStars": 511,
       "builtBy": [
         {
@@ -147,8 +147,8 @@
       "description": "All Algorithms implemented in Java",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 65039,
-      "forks": 20971,
+      "stars": 65040,
+      "forks": 20972,
       "currentPeriodStars": 403,
       "builtBy": [
         {
@@ -182,8 +182,8 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 50600,
-      "forks": 6011,
+      "stars": 50608,
+      "forks": 6012,
       "currentPeriodStars": 1892,
       "builtBy": [
         {
@@ -217,7 +217,7 @@
       "description": "signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4158,
+      "stars": 4159,
       "forks": 371,
       "currentPeriodStars": 193,
       "builtBy": [
@@ -252,7 +252,7 @@
       "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12220,
+      "stars": 12221,
       "forks": 2559,
       "currentPeriodStars": 359,
       "builtBy": [
@@ -287,7 +287,7 @@
       "description": "NewPipe's core library for extracting data from streaming sites",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 1749,
+      "stars": 1750,
       "forks": 523,
       "currentPeriodStars": 63,
       "builtBy": [
@@ -322,7 +322,7 @@
       "description": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 10370,
+      "stars": 10371,
       "forks": 2424,
       "currentPeriodStars": 99,
       "builtBy": [
@@ -357,7 +357,7 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32829,
+      "stars": 32835,
       "forks": 8053,
       "currentPeriodStars": 675,
       "builtBy": [
@@ -392,7 +392,7 @@
       "description": "Generate diagrams from textual description",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12652,
+      "stars": 12653,
       "forks": 1139,
       "currentPeriodStars": 152,
       "builtBy": [
@@ -427,8 +427,8 @@
       "description": "Free universal database tool and SQL client",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 48676,
-      "forks": 4038,
+      "stars": 48678,
+      "forks": 4037,
       "currentPeriodStars": 519,
       "builtBy": [
         {
@@ -485,8 +485,8 @@
       "description": "LSPosed Framework resuscitated",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9584,
-      "forks": 600,
+      "stars": 9586,
+      "forks": 602,
       "currentPeriodStars": 447,
       "builtBy": [
         {
@@ -520,7 +520,7 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 64352,
+      "stars": 64356,
       "forks": 7135,
       "currentPeriodStars": 952,
       "builtBy": [
@@ -556,7 +556,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 8688,
-      "forks": 1843,
+      "forks": 1842,
       "currentPeriodStars": 97,
       "builtBy": [
         {
@@ -587,7 +587,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 5251,
-      "forks": 927,
+      "forks": 928,
       "currentPeriodStars": 178,
       "builtBy": [
         {

@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "daily",
-  "captured_at": "2026-02-14 12:18:44",
+  "captured_at": "2026-02-14 16:03:57",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "A toolkit to make debugging iOS applications easier 🚀",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1555,
+      "stars": 1560,
       "forks": 134,
       "currentPeriodStars": 302,
       "builtBy": [
@@ -37,7 +37,7 @@
         }
       ],
       "aiSummary": {
-        "content": "DebugSwift 是一款专为 iOS 应用设计的调试工具包，旨在简化开发者的调试流程。它通过集成视图层级检查、性能监控、网络请求追踪等核心功能，解决了传统调试方式繁琐、信息分散的痛点，显著提升了问题定位与诊断的效率。",
+        "zh": "DebugSwift 是一款专为 iOS 应用设计的调试工具包，旨在简化开发者的调试流程。它通过集成视图层级检查、性能监控、网络请求追踪等核心功能，解决了传统调试方式繁琐、信息分散的痛点，显著提升了问题定位与诊断的效率。",
         "source": "deepseek"
       }
     },
@@ -49,9 +49,9 @@
       "description": "Windows alt-tab on macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14741,
+      "stars": 14747,
       "forks": 484,
-      "currentPeriodStars": 32,
+      "currentPeriodStars": 24,
       "builtBy": [
         {
           "username": "lwouis",
@@ -119,9 +119,9 @@
       "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 7051,
+      "stars": 7058,
       "forks": 497,
-      "currentPeriodStars": 52,
+      "currentPeriodStars": 30,
       "builtBy": [
         {
           "username": "Alexander5015",
@@ -189,8 +189,8 @@
       "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 32402,
-      "forks": 928,
+      "stars": 32409,
+      "forks": 929,
       "currentPeriodStars": 20,
       "builtBy": [
         {
@@ -224,8 +224,8 @@
       "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3738,
-      "forks": 476,
+      "stars": 3742,
+      "forks": 477,
       "currentPeriodStars": 23,
       "builtBy": [
         {
@@ -259,9 +259,9 @@
       "description": "Commonly used data structures for Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 4341,
+      "stars": 4342,
       "forks": 361,
-      "currentPeriodStars": 4,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "lorentey",
@@ -294,7 +294,7 @@
       "description": "AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3476,
+      "stars": 3478,
       "forks": 140,
       "currentPeriodStars": 33,
       "builtBy": [
@@ -366,7 +366,7 @@
       "languageColor": "#F05138",
       "stars": 4143,
       "forks": 652,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "stephencelis",
@@ -399,9 +399,9 @@
       "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8409,
+      "stars": 8410,
       "forks": 728,
-      "currentPeriodStars": 0,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "weissi",
@@ -434,9 +434,9 @@
       "description": "Async Algorithms for Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3595,
+      "stars": 3596,
       "forks": 201,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "phausler",
@@ -470,8 +470,8 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": 14341,
-      "forks": 1635,
-      "currentPeriodStars": 5,
+      "forks": 1636,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "stephencelis",
@@ -539,7 +539,7 @@
       "description": "A toolkit for SQLite databases, with a focus on application development",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8179,
+      "stars": 8180,
       "forks": 846,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -609,7 +609,7 @@
       "description": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8021,
+      "stars": 8022,
       "forks": 3689,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -644,9 +644,9 @@
       "description": "AeroSpace is an i3-like tiling window manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 18862,
+      "stars": 18861,
       "forks": 418,
-      "currentPeriodStars": 29,
+      "currentPeriodStars": 15,
       "builtBy": [
         {
           "username": "nikitabobko",

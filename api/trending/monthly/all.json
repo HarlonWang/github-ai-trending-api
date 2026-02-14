@@ -1,7 +1,7 @@
 {
-  "count": 16,
+  "count": 17,
   "since": "monthly",
-  "captured_at": "2026-02-14 12:19:47",
+  "captured_at": "2026-02-14 16:05:03",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 193294,
-      "forks": 33193,
+      "stars": 193724,
+      "forks": 33318,
       "currentPeriodStars": 187490,
       "builtBy": [
         {
@@ -46,8 +46,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11842,
-      "forks": 1183,
+      "stars": 11941,
+      "forks": 1192,
       "currentPeriodStars": 9936,
       "builtBy": [
         {
@@ -81,8 +81,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15771,
-      "forks": 1182,
+      "stars": 15808,
+      "forks": 1189,
       "currentPeriodStars": 12270,
       "builtBy": [
         {
@@ -107,7 +107,7 @@
         }
       ],
       "aiSummary": {
-        "content": "AionUi 是一款免费、本地化、开源的 AI 协作工具，支持 Gemini CLI、Claude Code 等多种主流 AI 模型。其核心解决了用户需频繁切换不同 AI 工具界面的痛点，通过统一界面提供 24/7 不间断的集成化编程与对话协作体验。",
+        "zh": "AionUi 是一款免费、本地化、开源的 AI 协作工具，支持 Gemini CLI、Claude Code 等多种主流 AI 模型。其核心解决了用户需频繁切换不同 AI 工具界面的痛点，通过统一界面提供 24/7 不间断的集成化编程与对话协作体验。",
         "source": "deepseek"
       }
     },
@@ -119,8 +119,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21818,
-      "forks": 2193,
+      "stars": 21878,
+      "forks": 2200,
       "currentPeriodStars": 17889,
       "builtBy": [
         {
@@ -154,8 +154,8 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 15060,
-      "forks": 1091,
+      "stars": 15076,
+      "forks": 1092,
       "currentPeriodStars": 9753,
       "builtBy": [
         {
@@ -181,7 +181,7 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 36523,
+      "stars": 36552,
       "forks": 2222,
       "currentPeriodStars": 11282,
       "builtBy": [
@@ -216,8 +216,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 51295,
-      "forks": 3870,
+      "stars": 51399,
+      "forks": 3879,
       "currentPeriodStars": 31445,
       "builtBy": [
         {
@@ -245,14 +245,49 @@
     },
     {
       "rank": 8,
+      "author": "gsd-build",
+      "repoName": "get-shit-done",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 13914,
+      "forks": 1320,
+      "currentPeriodStars": 11446,
+      "builtBy": [
+        {
+          "username": "glittercowboy",
+          "avatar": "https://avatars.githubusercontent.com/u/186001655?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "jjshanks",
+          "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
+        },
+        {
+          "username": "davesienkowski",
+          "avatar": "https://avatars.githubusercontent.com/u/3037759?s=40&v=4"
+        },
+        {
+          "username": "dbachelder",
+          "avatar": "https://avatars.githubusercontent.com/u/325706?s=40&v=4"
+        }
+      ],
+      "aiSummary": null
+    },
+    {
+      "rank": 9,
       "author": "asgeirtj",
       "repoName": "system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 31434,
-      "forks": 5027,
+      "stars": 31453,
+      "forks": 5029,
       "currentPeriodStars": 6420,
       "builtBy": [
         {
@@ -279,15 +314,15 @@
       "aiSummary": null
     },
     {
-      "rank": 9,
+      "rank": 10,
       "author": "tobi",
       "repoName": "qmd",
       "url": "https://github.com/tobi/qmd",
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8381,
-      "forks": 444,
+      "stars": 8408,
+      "forks": 446,
       "currentPeriodStars": 6722,
       "builtBy": [
         {
@@ -314,15 +349,15 @@
       "aiSummary": null
     },
     {
-      "rank": 10,
+      "rank": 11,
       "author": "anthropics",
       "repoName": "skills",
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 69645,
-      "forks": 7029,
+      "stars": 69741,
+      "forks": 7043,
       "currentPeriodStars": 30297,
       "builtBy": [
         {
@@ -349,15 +384,15 @@
       "aiSummary": null
     },
     {
-      "rank": 11,
+      "rank": 12,
       "author": "openai",
       "repoName": "skills",
       "url": "https://github.com/openai/skills",
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8444,
-      "forks": 472,
+      "stars": 8466,
+      "forks": 473,
       "currentPeriodStars": 6847,
       "builtBy": [
         {
@@ -384,15 +419,15 @@
       "aiSummary": null
     },
     {
-      "rank": 12,
+      "rank": 13,
       "author": "vercel-labs",
       "repoName": "agent-skills",
       "url": "https://github.com/vercel-labs/agent-skills",
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 20282,
-      "forks": 1842,
+      "stars": 20310,
+      "forks": 1844,
       "currentPeriodStars": 20183,
       "builtBy": [
         {
@@ -419,15 +454,15 @@
       "aiSummary": null
     },
     {
-      "rank": 13,
+      "rank": 14,
       "author": "anomalyco",
       "repoName": "opencode",
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 104339,
-      "forks": 10126,
+      "stars": 104448,
+      "forks": 10142,
       "currentPeriodStars": 38300,
       "builtBy": [
         {
@@ -454,15 +489,15 @@
       "aiSummary": null
     },
     {
-      "rank": 14,
+      "rank": 15,
       "author": "thedotmack",
       "repoName": "claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 28080,
-      "forks": 1877,
+      "stars": 28125,
+      "forks": 1881,
       "currentPeriodStars": 14497,
       "builtBy": [
         {
@@ -489,14 +524,14 @@
       "aiSummary": null
     },
     {
-      "rank": 15,
+      "rank": 16,
       "author": "ThePrimeagen",
       "repoName": "99",
       "url": "https://github.com/ThePrimeagen/99",
       "description": "Neovim AI agent done right",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 3770,
+      "stars": 3774,
       "forks": 180,
       "currentPeriodStars": 2776,
       "builtBy": [
@@ -524,15 +559,15 @@
       "aiSummary": null
     },
     {
-      "rank": 16,
+      "rank": 17,
       "author": "virattt",
       "repoName": "dexter",
       "url": "https://github.com/virattt/dexter",
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15072,
-      "forks": 1806,
+      "stars": 15098,
+      "forks": 1808,
       "currentPeriodStars": 8119,
       "builtBy": [
         {

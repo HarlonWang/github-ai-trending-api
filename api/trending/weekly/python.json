@@ -1,7 +1,7 @@
 {
   "count": 13,
   "since": "weekly",
-  "captured_at": "2026-02-14 12:18:58",
+  "captured_at": "2026-02-14 16:04:11",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32138,
-      "forks": 2144,
+      "stars": 32183,
+      "forks": 2146,
       "currentPeriodStars": 7832,
       "builtBy": [
         {
@@ -37,7 +37,7 @@
         }
       ],
       "aiSummary": {
-        "content": "Google开发的Langextract是一个Python库，利用大语言模型从非结构化文本中提取结构化信息。其核心在于提供精确的溯源能力，确保输出结果可追踪至原文片段，并支持交互式可视化以辅助理解和验证。",
+        "zh": "Google开发的Langextract是一个Python库，利用大语言模型从非结构化文本中提取结构化信息。其核心在于提供精确的溯源能力，确保输出结果可追踪至原文片段，并支持交互式可视化以辅助理解和验证。",
         "source": "deepseek"
       }
     },
@@ -49,8 +49,8 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2347,
-      "forks": 155,
+      "stars": 2404,
+      "forks": 159,
       "currentPeriodStars": 1711,
       "builtBy": [
         {
@@ -75,7 +75,7 @@
         }
       ],
       "aiSummary": {
-        "content": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。",
+        "zh": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。",
         "source": "deepseek"
       }
     },
@@ -87,8 +87,8 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8444,
-      "forks": 472,
+      "stars": 8465,
+      "forks": 473,
       "currentPeriodStars": 3747,
       "builtBy": [
         {
@@ -122,8 +122,8 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17241,
-      "forks": 3710,
+      "stars": 17256,
+      "forks": 3711,
       "currentPeriodStars": 1568,
       "builtBy": [
         {
@@ -157,8 +157,8 @@
       "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 23763,
-      "forks": 1825,
+      "stars": 23770,
+      "forks": 1827,
       "currentPeriodStars": 731,
       "builtBy": [
         {
@@ -192,8 +192,8 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 94899,
-      "forks": 13746,
+      "stars": 94943,
+      "forks": 13753,
       "currentPeriodStars": 2326,
       "builtBy": [
         {
@@ -218,7 +218,7 @@
         }
       ],
       "aiSummary": {
-        "content": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。",
+        "zh": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。",
         "source": "deepseek"
       }
     },
@@ -230,8 +230,8 @@
       "description": "基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1416,
-      "forks": 457,
+      "stars": 1421,
+      "forks": 460,
       "currentPeriodStars": 323,
       "builtBy": [
         {
@@ -265,8 +265,8 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 398329,
-      "forks": 42612,
+      "stars": 398359,
+      "forks": 42615,
       "currentPeriodStars": 2877,
       "builtBy": [
         {
@@ -335,7 +335,7 @@
       "description": "Synapse: Matrix homeserver written in Python/Twisted + Rust",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3590,
+      "stars": 3592,
       "forks": 464,
       "currentPeriodStars": 120,
       "builtBy": [
@@ -370,8 +370,8 @@
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10886,
-      "forks": 1055,
+      "stars": 10939,
+      "forks": 1066,
       "currentPeriodStars": 2310,
       "builtBy": [
         {
@@ -396,7 +396,7 @@
         }
       ],
       "aiSummary": {
-        "content": "该项目汇总了多个可免费调用的LLM推理API资源，解决了开发者因商业API成本高昂或访问受限而难以测试和集成大语言模型的痛点，为实验和小规模应用提供了便捷入口。",
+        "zh": "该项目汇总了多个可免费调用的LLM推理API资源，解决了开发者因商业API成本高昂或访问受限而难以测试和集成大语言模型的痛点，为实验和小规模应用提供了便捷入口。",
         "source": "deepseek"
       }
     },
@@ -408,7 +408,7 @@
       "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 18135,
+      "stars": 18138,
       "forks": 1474,
       "currentPeriodStars": 736,
       "builtBy": [
@@ -443,7 +443,7 @@
       "description": "Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4113,
+      "stars": 4118,
       "forks": 505,
       "currentPeriodStars": 164,
       "builtBy": [

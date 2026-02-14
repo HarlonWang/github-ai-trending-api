@@ -1,7 +1,7 @@
 {
   "count": 18,
   "since": "weekly",
-  "captured_at": "2026-02-14 12:19:15",
+  "captured_at": "2026-02-14 16:04:32",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "A minimal, secure Python interpreter written in Rust for use by AI",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5202,
-      "forks": 185,
+      "stars": 5207,
+      "forks": 187,
       "currentPeriodStars": 3539,
       "builtBy": [
         {
@@ -46,7 +46,7 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19288,
+      "stars": 19289,
       "forks": 839,
       "currentPeriodStars": 1644,
       "builtBy": [
@@ -81,7 +81,7 @@
       "description": "A security-focused library OS supporting kernel- and user-mode execution",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2080,
+      "stars": 2096,
       "forks": 89,
       "currentPeriodStars": 1668,
       "builtBy": [
@@ -116,7 +116,7 @@
       "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8327,
+      "stars": 8330,
       "forks": 576,
       "currentPeriodStars": 541,
       "builtBy": [
@@ -151,8 +151,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60320,
-      "forks": 7948,
+      "stars": 60332,
+      "forks": 7949,
       "currentPeriodStars": 1102,
       "builtBy": [
         {
@@ -186,8 +186,8 @@
       "description": "Build fast web applications with Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 20039,
-      "forks": 838,
+      "stars": 20044,
+      "forks": 839,
       "currentPeriodStars": 142,
       "builtBy": [
         {
@@ -221,7 +221,7 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 54975,
+      "stars": 54982,
       "forks": 2553,
       "currentPeriodStars": 399,
       "builtBy": [
@@ -256,7 +256,7 @@
       "description": "A new type of shell",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 38310,
+      "stars": 38311,
       "forks": 2045,
       "currentPeriodStars": 172,
       "builtBy": [
@@ -291,7 +291,7 @@
       "description": "We all edit.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 13508,
+      "stars": 13509,
       "forks": 632,
       "currentPeriodStars": 117,
       "builtBy": [
@@ -361,8 +361,8 @@
       "description": "A simple, decentralized mesh VPN with WireGuard support.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9982,
-      "forks": 942,
+      "stars": 9984,
+      "forks": 943,
       "currentPeriodStars": 269,
       "builtBy": [
         {
@@ -396,8 +396,8 @@
       "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32738,
-      "forks": 1203,
+      "stars": 32740,
+      "forks": 1204,
       "currentPeriodStars": 151,
       "builtBy": [
         {
@@ -431,7 +431,7 @@
       "description": "The Magic Mask for Android",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 58689,
+      "stars": 58694,
       "forks": 16732,
       "currentPeriodStars": 163,
       "builtBy": [
@@ -466,7 +466,7 @@
       "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 18108,
+      "stars": 18157,
       "forks": 1138,
       "currentPeriodStars": 1479,
       "builtBy": [
@@ -501,8 +501,8 @@
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5833,
-      "forks": 236,
+      "stars": 5836,
+      "forks": 238,
       "currentPeriodStars": 83,
       "builtBy": [
         {
@@ -536,8 +536,8 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 75320,
-      "forks": 6940,
+      "stars": 75334,
+      "forks": 6944,
       "currentPeriodStars": 473,
       "builtBy": [
         {
@@ -571,7 +571,7 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9819,
+      "stars": 9822,
       "forks": 880,
       "currentPeriodStars": 152,
       "builtBy": [

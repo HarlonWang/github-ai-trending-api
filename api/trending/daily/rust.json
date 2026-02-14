@@ -1,7 +1,7 @@
 {
   "count": 15,
   "since": "daily",
-  "captured_at": "2026-02-14 12:18:24",
+  "captured_at": "2026-02-14 16:03:38",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 21454,
+      "stars": 21478,
       "forks": 928,
       "currentPeriodStars": 144,
       "builtBy": [
@@ -46,8 +46,8 @@
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 45745,
-      "forks": 1768,
+      "stars": 45749,
+      "forks": 1769,
       "currentPeriodStars": 18,
       "builtBy": [
         {
@@ -81,8 +81,8 @@
       "description": "The official Rust SDK for the Model Context Protocol",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3000,
-      "forks": 460,
+      "stars": 3002,
+      "forks": 459,
       "currentPeriodStars": 7,
       "builtBy": [
         {
@@ -116,8 +116,8 @@
       "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32738,
-      "forks": 1203,
+      "stars": 32740,
+      "forks": 1204,
       "currentPeriodStars": 48,
       "builtBy": [
         {
@@ -151,9 +151,9 @@
       "description": "A fast type checker and language server for Python",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5331,
+      "stars": 5340,
       "forks": 270,
-      "currentPeriodStars": 13,
+      "currentPeriodStars": 21,
       "builtBy": [
         {
           "username": "ndmitchell",
@@ -186,7 +186,7 @@
       "description": "Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 7567,
+      "stars": 7573,
       "forks": 564,
       "currentPeriodStars": 9,
       "builtBy": [
@@ -221,7 +221,7 @@
       "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 55903,
+      "stars": 55906,
       "forks": 2372,
       "currentPeriodStars": 24,
       "builtBy": [
@@ -258,7 +258,7 @@
       "languageColor": "#dea584",
       "stars": 2712,
       "forks": 132,
-      "currentPeriodStars": 5,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "robert3005",
@@ -291,7 +291,7 @@
       "description": "Kani Rust Verifier",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2918,
+      "stars": 2920,
       "forks": 141,
       "currentPeriodStars": 12,
       "builtBy": [
@@ -361,7 +361,7 @@
       "description": "Use your tablet as graphic tablet/touch screen on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8829,
+      "stars": 8832,
       "forks": 358,
       "currentPeriodStars": 8,
       "builtBy": [
@@ -396,7 +396,7 @@
       "description": "(Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2739,
+      "stars": 2745,
       "forks": 109,
       "currentPeriodStars": 34,
       "builtBy": [
@@ -431,7 +431,7 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 54975,
+      "stars": 54982,
       "forks": 2553,
       "currentPeriodStars": 49,
       "builtBy": [
@@ -468,7 +468,7 @@
       "languageColor": "#dea584",
       "stars": 14783,
       "forks": 5525,
-      "currentPeriodStars": 8,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "mvines",
@@ -501,7 +501,7 @@
       "description": "A cross-platform, safe, pure-Rust graphics API.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16364,
+      "stars": 16365,
       "forks": 1212,
       "currentPeriodStars": 24,
       "builtBy": [

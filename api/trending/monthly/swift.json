@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "monthly",
-  "captured_at": "2026-02-14 12:20:25",
+  "captured_at": "2026-02-14 16:05:52",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 5717,
-      "forks": 370,
+      "stars": 5750,
+      "forks": 371,
       "currentPeriodStars": 3578,
       "builtBy": [
         {
@@ -46,8 +46,8 @@
       "description": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2077,
-      "forks": 128,
+      "stars": 2085,
+      "forks": 129,
       "currentPeriodStars": 963,
       "builtBy": [
         {
@@ -81,7 +81,7 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 25064,
+      "stars": 25066,
       "forks": 2340,
       "currentPeriodStars": 1252,
       "builtBy": [
@@ -116,7 +116,7 @@
       "description": "CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 634,
+      "stars": 635,
       "forks": 69,
       "currentPeriodStars": 438,
       "builtBy": [
@@ -151,7 +151,7 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 24437,
+      "stars": 24445,
       "forks": 643,
       "currentPeriodStars": 1245,
       "builtBy": [
@@ -221,8 +221,8 @@
       "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3738,
-      "forks": 476,
+      "stars": 3742,
+      "forks": 477,
       "currentPeriodStars": 590,
       "builtBy": [
         {
@@ -291,7 +291,7 @@
       "description": "Windows alt-tab on macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14741,
+      "stars": 14747,
       "forks": 484,
       "currentPeriodStars": 495,
       "builtBy": [
@@ -361,7 +361,7 @@
       "description": "macOS system monitor in your menu bar",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 36447,
+      "stars": 36450,
       "forks": 1179,
       "currentPeriodStars": 768,
       "builtBy": [
@@ -466,7 +466,7 @@
       "description": "Community fork of PlayCover",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 10844,
+      "stars": 10845,
       "forks": 890,
       "currentPeriodStars": 277,
       "builtBy": [
@@ -501,7 +501,7 @@
       "description": "Virtual machines for iOS and macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 32809,
+      "stars": 32810,
       "forks": 1646,
       "currentPeriodStars": 634,
       "builtBy": [
@@ -571,7 +571,7 @@
       "description": "Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 970,
+      "stars": 972,
       "forks": 55,
       "currentPeriodStars": 376,
       "builtBy": [
@@ -606,7 +606,7 @@
       "description": "Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1109,
+      "stars": 1108,
       "forks": 50,
       "currentPeriodStars": 852,
       "builtBy": [
@@ -641,7 +641,7 @@
       "description": "The modern video player for macOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 43796,
+      "stars": 43798,
       "forks": 2743,
       "currentPeriodStars": 510,
       "builtBy": [
@@ -711,7 +711,7 @@
       "description": "A toolkit for SQLite databases, with a focus on application development",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8179,
+      "stars": 8180,
       "forks": 846,
       "currentPeriodStars": 95,
       "builtBy": [

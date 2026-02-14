@@ -1,7 +1,7 @@
 {
-  "count": 12,
+  "count": 11,
   "since": "weekly",
-  "captured_at": "2026-02-14 12:19:02",
+  "captured_at": "2026-02-14 16:04:17",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 881,
+      "stars": 886,
       "forks": 83,
       "currentPeriodStars": 146,
       "builtBy": [
@@ -46,7 +46,7 @@
       "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 3360,
+      "stars": 3428,
       "forks": 131,
       "currentPeriodStars": 869,
       "builtBy": [
@@ -116,7 +116,7 @@
       "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 8032,
+      "stars": 8039,
       "forks": 2992,
       "currentPeriodStars": 186,
       "builtBy": [
@@ -145,41 +145,6 @@
     },
     {
       "rank": 5,
-      "author": "justlovemaki",
-      "repoName": "AIClient-2-API",
-      "url": "https://github.com/justlovemaki/AIClient-2-API",
-      "description": "Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 4028,
-      "forks": 632,
-      "currentPeriodStars": 406,
-      "builtBy": [
-        {
-          "username": "justlikemaki",
-          "avatar": "https://avatars.githubusercontent.com/u/12859173?s=40&v=4"
-        },
-        {
-          "username": "justlovemaki",
-          "avatar": "https://avatars.githubusercontent.com/u/22851716?s=40&v=4"
-        },
-        {
-          "username": "leonaii",
-          "avatar": "https://avatars.githubusercontent.com/u/7904076?s=40&v=4"
-        },
-        {
-          "username": "MicoMiOvO",
-          "avatar": "https://avatars.githubusercontent.com/u/119792728?s=40&v=4"
-        },
-        {
-          "username": "tickernelz",
-          "avatar": "https://avatars.githubusercontent.com/u/10543415?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 6,
       "author": "drawdb-io",
       "repoName": "drawdb",
       "url": "https://github.com/drawdb-io/drawdb",
@@ -214,15 +179,15 @@
       "aiSummary": null
     },
     {
-      "rank": 7,
+      "rank": 6,
       "author": "anuraghazra",
       "repoName": "github-readme-stats",
       "url": "https://github.com/anuraghazra/github-readme-stats",
       "description": "⚡ Dynamically generated stats for your github readmes",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 78352,
-      "forks": 30457,
+      "stars": 78355,
+      "forks": 30461,
       "currentPeriodStars": 145,
       "builtBy": [
         {
@@ -249,7 +214,7 @@
       "aiSummary": null
     },
     {
-      "rank": 8,
+      "rank": 7,
       "author": "GitSquared",
       "repoName": "edex-ui",
       "url": "https://github.com/GitSquared/edex-ui",
@@ -284,14 +249,14 @@
       "aiSummary": null
     },
     {
-      "rank": 9,
+      "rank": 8,
       "author": "BrasilAPI",
       "repoName": "BrasilAPI",
       "url": "https://github.com/BrasilAPI/BrasilAPI",
       "description": "Vamos transformar o Brasil em uma API?",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 10193,
+      "stars": 10194,
       "forks": 694,
       "currentPeriodStars": 81,
       "builtBy": [
@@ -319,15 +284,15 @@
       "aiSummary": null
     },
     {
-      "rank": 10,
+      "rank": 9,
       "author": "tangly1024",
       "repoName": "NotionNext",
       "url": "https://github.com/tangly1024/NotionNext",
       "description": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 11100,
-      "forks": 14415,
+      "stars": 11101,
+      "forks": 14416,
       "currentPeriodStars": 69,
       "builtBy": [
         {
@@ -354,14 +319,14 @@
       "aiSummary": null
     },
     {
-      "rank": 11,
+      "rank": 10,
       "author": "harvard-edge",
       "repoName": "cs249r_book",
       "url": "https://github.com/harvard-edge/cs249r_book",
       "description": "Introduction to Machine Learning Systems",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 18185,
+      "stars": 18187,
       "forks": 2126,
       "currentPeriodStars": 362,
       "builtBy": [
@@ -389,7 +354,7 @@
       "aiSummary": null
     },
     {
-      "rank": 12,
+      "rank": 11,
       "author": "maxandrews",
       "repoName": "Epstein-doc-explorer",
       "url": "https://github.com/maxandrews/Epstein-doc-explorer",

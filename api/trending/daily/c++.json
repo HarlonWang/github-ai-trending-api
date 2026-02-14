@@ -1,7 +1,7 @@
 {
   "count": 20,
   "since": "daily",
-  "captured_at": "2026-02-14 12:18:35",
+  "captured_at": "2026-02-14 16:03:48",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 971,
-      "forks": 56,
-      "currentPeriodStars": 198,
+      "stars": 1033,
+      "forks": 58,
+      "currentPeriodStars": 186,
       "builtBy": [
         {
           "username": "iaojnh",
@@ -37,7 +37,7 @@
         }
       ],
       "aiSummary": {
-        "content": "zvec 是阿里巴巴开源的轻量级、极速进程内向量数据库。它专为需要高性能向量相似性搜索的场景设计，通过消除网络开销和复杂部署，实现了低延迟、高吞吐量的近似最近邻检索。",
+        "zh": "zvec 是阿里巴巴开源的轻量级、极速进程内向量数据库。它专为需要高性能向量相似性搜索的场景设计，通过消除网络开销和复杂部署，实现了低延迟、高吞吐量的近似最近邻检索。",
         "source": "deepseek"
       }
     },
@@ -49,8 +49,8 @@
       "description": "Android real-time display control software",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28133,
-      "forks": 3425,
+      "stars": 28137,
+      "forks": 3427,
       "currentPeriodStars": 39,
       "builtBy": [
         {
@@ -84,7 +84,7 @@
       "description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3639,
+      "stars": 3641,
       "forks": 374,
       "currentPeriodStars": 12,
       "builtBy": [
@@ -119,9 +119,9 @@
       "description": "🦊 Anti-detect browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5344,
+      "stars": 5345,
       "forks": 491,
-      "currentPeriodStars": 64,
+      "currentPeriodStars": 25,
       "builtBy": [
         {
           "username": "daijro",
@@ -154,7 +154,7 @@
       "description": "Webots Robot Simulator",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4126,
+      "stars": 4128,
       "forks": 1976,
       "currentPeriodStars": 34,
       "builtBy": [
@@ -224,8 +224,8 @@
       "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4755,
-      "forks": 557,
+      "stars": 4757,
+      "forks": 559,
       "currentPeriodStars": 12,
       "builtBy": [
         {
@@ -325,9 +325,9 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2669,
+      "stars": 2673,
       "forks": 212,
-      "currentPeriodStars": 39,
+      "currentPeriodStars": 21,
       "builtBy": [
         {
           "username": "geo-tp",
@@ -356,7 +356,7 @@
       "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28577,
+      "stars": 28580,
       "forks": 5164,
       "currentPeriodStars": 21,
       "builtBy": [
@@ -391,8 +391,8 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 38226,
-      "forks": 10687,
+      "stars": 38227,
+      "forks": 10688,
       "currentPeriodStars": 7,
       "builtBy": [
         {
@@ -492,7 +492,7 @@
       "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 70681,
+      "stars": 70682,
       "forks": 16028,
       "currentPeriodStars": 6,
       "builtBy": [
@@ -527,8 +527,8 @@
       "description": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12723,
-      "forks": 3143,
+      "stars": 12724,
+      "forks": 3144,
       "currentPeriodStars": 2,
       "builtBy": [
         {
@@ -562,7 +562,7 @@
       "description": "Arduino core for the ESP32",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 16277,
+      "stars": 16279,
       "forks": 7806,
       "currentPeriodStars": 11,
       "builtBy": [
@@ -597,7 +597,7 @@
       "description": "Super Repository for Coding Interview Preperation",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3747,
+      "stars": 3748,
       "forks": 1731,
       "currentPeriodStars": 7,
       "builtBy": [
@@ -620,7 +620,7 @@
       "description": "Making it easier to work with shaders",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5012,
+      "stars": 5013,
       "forks": 414,
       "currentPeriodStars": 3,
       "builtBy": [
@@ -655,9 +655,9 @@
       "description": "Private, fast, and honest web browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 11262,
+      "stars": 11270,
       "forks": 228,
-      "currentPeriodStars": 29,
+      "currentPeriodStars": 40,
       "builtBy": [
         {
           "username": "wukko",

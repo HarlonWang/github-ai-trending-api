@@ -1,17 +1,17 @@
 {
   "count": 16,
   "since": "daily",
-  "captured_at": "2026-02-14 12:18:48",
+  "captured_at": "2026-02-14 16:04:02",
   "data": [
     {
       "rank": 1,
       "author": "theovilardo",
       "repoName": "PixelPlayer",
       "url": "https://github.com/theovilardo/PixelPlayer",
-      "description": "",
+      "description": "privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2790,
+      "stars": 2796,
       "forks": 192,
       "currentPeriodStars": 23,
       "builtBy": [
@@ -46,7 +46,7 @@
       "description": "Free and open source manga reader for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 18570,
+      "stars": 18575,
       "forks": 947,
       "currentPeriodStars": 21,
       "builtBy": [
@@ -116,7 +116,7 @@
       "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 35959,
+      "stars": 35964,
       "forks": 1749,
       "currentPeriodStars": 30,
       "builtBy": [
@@ -151,7 +151,7 @@
       "description": "An OSS Android TV client for Jellyfin",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1209,
+      "stars": 1210,
       "forks": 38,
       "currentPeriodStars": 19,
       "builtBy": [
@@ -186,7 +186,7 @@
       "description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 45560,
+      "stars": 45561,
       "forks": 11856,
       "currentPeriodStars": 3,
       "builtBy": [
@@ -257,7 +257,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": 7688,
-      "forks": 318,
+      "forks": 319,
       "currentPeriodStars": 9,
       "builtBy": [
         {
@@ -287,8 +287,8 @@
       "description": "SD Maid 2/SE is Android's most thorough cleaning tool.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6143,
-      "forks": 776,
+      "stars": 6146,
+      "forks": 777,
       "currentPeriodStars": 11,
       "builtBy": [
         {
@@ -357,7 +357,7 @@
       "description": "Clutterfree F-Droid client",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6374,
+      "stars": 6376,
       "forks": 169,
       "currentPeriodStars": 11,
       "builtBy": [
@@ -388,7 +388,7 @@
       "description": "A feature-rich weather app with good visualizations and more than 50 sources.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 9297,
+      "stars": 9299,
       "forks": 310,
       "currentPeriodStars": 13,
       "builtBy": [
@@ -423,8 +423,8 @@
       "description": "A Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 15000,
-      "forks": 3114,
+      "stars": 15001,
+      "forks": 3115,
       "currentPeriodStars": 14,
       "builtBy": [
         {
@@ -458,7 +458,7 @@
       "description": "Bitwarden mobile apps (Password Manager and Authenticator) for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 8424,
+      "stars": 8426,
       "forks": 938,
       "currentPeriodStars": 10,
       "builtBy": [
@@ -493,7 +493,7 @@
       "description": "安卓电视直播APK：IPTV/網頁視頻支持X5，可自定義源(支持webview://格式)，IPTV支持畫中畫和熄屏播放。 Android TV Live APK: IPTV/web video supports X5, customizable sources (support webview:// format), IPTV supports picture-in-picture and off-screen playback.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1096,
+      "stars": 1099,
       "forks": 130,
       "currentPeriodStars": 6,
       "builtBy": [
@@ -528,7 +528,7 @@
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 21852,
+      "stars": 21861,
       "forks": 2010,
       "currentPeriodStars": 36,
       "builtBy": [

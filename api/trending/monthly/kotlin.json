@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "monthly",
-  "captured_at": "2026-02-14 12:20:30",
+  "captured_at": "2026-02-14 16:05:57",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6660,
+      "stars": 6666,
       "forks": 253,
       "currentPeriodStars": 3089,
       "builtBy": [
@@ -46,8 +46,8 @@
       "description": "An alternative frontend for YouTube, for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 11385,
-      "forks": 576,
+      "stars": 11386,
+      "forks": 577,
       "currentPeriodStars": 337,
       "builtBy": [
         {
@@ -116,7 +116,7 @@
       "description": "Painless E2E Automation for Mobile and Web",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 10716,
+      "stars": 10718,
       "forks": 609,
       "currentPeriodStars": 704,
       "builtBy": [
@@ -151,8 +151,8 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 50964,
-      "forks": 6929,
+      "stars": 50976,
+      "forks": 6930,
       "currentPeriodStars": 1622,
       "builtBy": [
         {
@@ -186,7 +186,7 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 4717,
+      "stars": 4718,
       "forks": 673,
       "currentPeriodStars": 412,
       "builtBy": [
@@ -256,7 +256,7 @@
       "description": "More Expressive InstallerX !",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3630,
+      "stars": 3633,
       "forks": 135,
       "currentPeriodStars": 496,
       "builtBy": [
@@ -361,7 +361,7 @@
       "description": "Software simulation for Android hardware-backed key pairs with key attestation",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 799,
+      "stars": 800,
       "forks": 77,
       "currentPeriodStars": 258,
       "builtBy": [
@@ -396,8 +396,8 @@
       "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 24581,
-      "forks": 1056,
+      "stars": 24586,
+      "forks": 1057,
       "currentPeriodStars": 756,
       "builtBy": [
         {
@@ -431,7 +431,7 @@
       "description": "Lightweight unofficial Steam client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2594,
+      "stars": 2595,
       "forks": 100,
       "currentPeriodStars": 545,
       "builtBy": [
@@ -466,7 +466,7 @@
       "description": "原生、纯净、可扩展 —— 重新定义你的 B 站体验",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1389,
+      "stars": 1390,
       "forks": 50,
       "currentPeriodStars": 642,
       "builtBy": [
@@ -560,7 +560,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": 767,
-      "forks": 70,
+      "forks": 71,
       "currentPeriodStars": 247,
       "builtBy": [
         {
@@ -595,7 +595,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": 4074,
-      "forks": 767,
+      "forks": 768,
       "currentPeriodStars": 99,
       "builtBy": [
         {
@@ -629,7 +629,7 @@
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 21852,
+      "stars": 21861,
       "forks": 2010,
       "currentPeriodStars": 1246,
       "builtBy": [

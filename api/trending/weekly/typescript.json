@@ -1,7 +1,7 @@
 {
   "count": 15,
   "since": "weekly",
-  "captured_at": "2026-02-14 12:19:20",
+  "captured_at": "2026-02-14 16:04:38",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21818,
-      "forks": 2193,
+      "stars": 21878,
+      "forks": 2200,
       "currentPeriodStars": 16589,
       "builtBy": [
         {
@@ -46,8 +46,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15072,
-      "forks": 1806,
+      "stars": 15098,
+      "forks": 1808,
       "currentPeriodStars": 4352,
       "builtBy": [
         {
@@ -81,8 +81,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11842,
-      "forks": 1183,
+      "stars": 11941,
+      "forks": 1192,
       "currentPeriodStars": 4044,
       "builtBy": [
         {
@@ -116,8 +116,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 28080,
-      "forks": 1877,
+      "stars": 28125,
+      "forks": 1881,
       "currentPeriodStars": 3745,
       "builtBy": [
         {
@@ -151,8 +151,8 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8825,
-      "forks": 684,
+      "stars": 8833,
+      "forks": 686,
       "currentPeriodStars": 1457,
       "builtBy": [
         {
@@ -186,8 +186,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24879,
-      "forks": 1473,
+      "stars": 24966,
+      "forks": 1474,
       "currentPeriodStars": 1240,
       "builtBy": [
         {
@@ -212,7 +212,7 @@
         }
       ],
       "aiSummary": {
-        "content": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。",
+        "zh": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。",
         "source": "deepseek"
       }
     },
@@ -224,8 +224,8 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8381,
-      "forks": 444,
+      "stars": 8408,
+      "forks": 446,
       "currentPeriodStars": 1539,
       "builtBy": [
         {
@@ -259,7 +259,7 @@
       "description": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 462,
+      "stars": 463,
       "forks": 36,
       "currentPeriodStars": 178,
       "builtBy": [
@@ -282,7 +282,7 @@
       "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 2646,
+      "stars": 2651,
       "forks": 173,
       "currentPeriodStars": 941,
       "builtBy": [
@@ -317,8 +317,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15771,
-      "forks": 1182,
+      "stars": 15808,
+      "forks": 1189,
       "currentPeriodStars": 3322,
       "builtBy": [
         {
@@ -343,7 +343,7 @@
         }
       ],
       "aiSummary": {
-        "content": "AionUi 是一款免费、本地化、开源的 AI 协作工具，支持 Gemini CLI、Claude Code 等多种主流 AI 模型。其核心解决了用户需频繁切换不同 AI 工具界面的痛点，通过统一界面提供 24/7 不间断的集成化编程与对话协作体验。",
+        "zh": "AionUi 是一款免费、本地化、开源的 AI 协作工具，支持 Gemini CLI、Claude Code 等多种主流 AI 模型。其核心解决了用户需频繁切换不同 AI 工具界面的痛点，通过统一界面提供 24/7 不间断的集成化编程与对话协作体验。",
         "source": "deepseek"
       }
     },
@@ -355,8 +355,8 @@
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8290,
-      "forks": 1149,
+      "stars": 8307,
+      "forks": 1150,
       "currentPeriodStars": 1671,
       "builtBy": [
         {
@@ -381,7 +381,7 @@
         }
       ],
       "aiSummary": {
-        "content": "danielmiessler/Personal_AI_Infrastructure 是一个基于 TypeScript 的智能体化 AI 基础设施项目。其核心目标是构建一个能扩展和增强人类能力的自动化代理系统，通过编排多个 AI 智能体协同工作，解决个人在信息处理、任务执行与决策支持等方面的效率瓶颈，实现人机能力的深度融合与放大。",
+        "zh": "danielmiessler/Personal_AI_Infrastructure 是一个基于 TypeScript 的智能体化 AI 基础设施项目。其核心目标是构建一个能扩展和增强人类能力的自动化代理系统，通过编排多个 AI 智能体协同工作，解决个人在信息处理、任务执行与决策支持等方面的效率瓶颈，实现人机能力的深度融合与放大。",
         "source": "deepseek"
       }
     },
@@ -393,7 +393,7 @@
       "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24566,
+      "stars": 24567,
       "forks": 2337,
       "currentPeriodStars": 258,
       "builtBy": [
@@ -428,8 +428,8 @@
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9419,
-      "forks": 457,
+      "stars": 9481,
+      "forks": 461,
       "currentPeriodStars": 1530,
       "builtBy": [
         {
@@ -454,7 +454,7 @@
         }
       ],
       "aiSummary": {
-        "content": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，解决了手动处理流式输出与状态同步的复杂度，提升了开发效率。",
+        "zh": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，解决了手动处理流式输出与状态同步的复杂度，提升了开发效率。",
         "source": "deepseek"
       }
     },
@@ -466,8 +466,8 @@
       "description": "一款提示词优化器，助力于编写高质量的提示词",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21079,
-      "forks": 2558,
+      "stars": 21113,
+      "forks": 2561,
       "currentPeriodStars": 1329,
       "builtBy": [
         {
@@ -501,7 +501,7 @@
       "description": "A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4278,
+      "stars": 4281,
       "forks": 199,
       "currentPeriodStars": 149,
       "builtBy": [

@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "monthly",
-  "captured_at": "2026-02-14 12:20:02",
+  "captured_at": "2026-02-14 16:05:25",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 162576,
+      "stars": 162595,
       "forks": 14576,
       "currentPeriodStars": 3676,
       "builtBy": [
@@ -46,7 +46,7 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16243,
+      "stars": 16254,
       "forks": 965,
       "currentPeriodStars": 6340,
       "builtBy": [
@@ -81,8 +81,8 @@
       "description": "A tool for secrets management, encryption as a service, and privileged access management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35028,
-      "forks": 4596,
+      "stars": 35030,
+      "forks": 4597,
       "currentPeriodStars": 1270,
       "builtBy": [
         {
@@ -116,7 +116,7 @@
       "description": "Ultimate camera streaming application",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12292,
+      "stars": 12298,
       "forks": 950,
       "currentPeriodStars": 1123,
       "builtBy": [
@@ -151,8 +151,8 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2014,
-      "forks": 192,
+      "stars": 2201,
+      "forks": 209,
       "currentPeriodStars": 1282,
       "builtBy": [
         {
@@ -186,8 +186,8 @@
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15196,
-      "forks": 1885,
+      "stars": 15200,
+      "forks": 1886,
       "currentPeriodStars": 1956,
       "builtBy": [
         {
@@ -217,8 +217,8 @@
       "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22452,
-      "forks": 1097,
+      "stars": 22458,
+      "forks": 1099,
       "currentPeriodStars": 1473,
       "builtBy": [
         {
@@ -252,8 +252,8 @@
       "description": "The AWS Provider enables Terraform to manage AWS resources.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 10744,
-      "forks": 9959,
+      "stars": 10745,
+      "forks": 9958,
       "currentPeriodStars": 74,
       "builtBy": [
         {
@@ -322,7 +322,7 @@
       "description": "Cloud Native Policy Management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7394,
+      "stars": 7395,
       "forks": 1232,
       "currentPeriodStars": 121,
       "builtBy": [
@@ -427,8 +427,8 @@
       "description": "GitHub's official MCP Server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26913,
-      "forks": 3578,
+      "stars": 26920,
+      "forks": 3580,
       "currentPeriodStars": 1123,
       "builtBy": [
         {
@@ -462,8 +462,8 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 42456,
-      "forks": 7931,
+      "stars": 42461,
+      "forks": 7932,
       "currentPeriodStars": 534,
       "builtBy": [
         {
@@ -497,8 +497,8 @@
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28268,
-      "forks": 2284,
+      "stars": 28275,
+      "forks": 2285,
       "currentPeriodStars": 1121,
       "builtBy": [
         {
@@ -532,8 +532,8 @@
       "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4458,
-      "forks": 738,
+      "stars": 4459,
+      "forks": 739,
       "currentPeriodStars": 724,
       "builtBy": [
         {
@@ -567,8 +567,8 @@
       "description": "An open source, self-hosted implementation of the Tailscale control server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35339,
-      "forks": 1899,
+      "stars": 35347,
+      "forks": 1900,
       "currentPeriodStars": 1146,
       "builtBy": [
         {
@@ -598,7 +598,7 @@
       "description": "Container runtimes on macOS (and Linux) with minimal setup",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26910,
+      "stars": 26914,
       "forks": 530,
       "currentPeriodStars": 670,
       "builtBy": [
@@ -633,8 +633,8 @@
       "description": "Glamourous agentic coding for all 💘",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19921,
-      "forks": 1228,
+      "stars": 19935,
+      "forks": 1231,
       "currentPeriodStars": 2191,
       "builtBy": [
         {

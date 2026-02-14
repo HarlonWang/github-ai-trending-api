@@ -1,7 +1,7 @@
 {
   "count": 15,
   "since": "weekly",
-  "captured_at": "2026-02-14 12:18:52",
+  "captured_at": "2026-02-14 16:04:08",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21818,
-      "forks": 2193,
+      "stars": 21878,
+      "forks": 2200,
       "currentPeriodStars": 16589,
       "builtBy": [
         {
@@ -46,8 +46,8 @@
       "description": "A minimal, secure Python interpreter written in Rust for use by AI",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5202,
-      "forks": 185,
+      "stars": 5207,
+      "forks": 187,
       "currentPeriodStars": 3539,
       "builtBy": [
         {
@@ -81,8 +81,8 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32138,
-      "forks": 2144,
+      "stars": 32183,
+      "forks": 2146,
       "currentPeriodStars": 7832,
       "builtBy": [
         {
@@ -107,7 +107,7 @@
         }
       ],
       "aiSummary": {
-        "content": "Google开发的Langextract是一个Python库，利用大语言模型从非结构化文本中提取结构化信息。其核心在于提供精确的溯源能力，确保输出结果可追踪至原文片段，并支持交互式可视化以辅助理解和验证。",
+        "zh": "Google开发的Langextract是一个Python库，利用大语言模型从非结构化文本中提取结构化信息。其核心在于提供精确的溯源能力，确保输出结果可追踪至原文片段，并支持交互式可视化以辅助理解和验证。",
         "source": "deepseek"
       }
     },
@@ -119,8 +119,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2279,
-      "forks": 167,
+      "stars": 2316,
+      "forks": 174,
       "currentPeriodStars": 1750,
       "builtBy": [
         {
@@ -145,7 +145,7 @@
         }
       ],
       "aiSummary": {
-        "content": "gh-aw 是 GitHub 推出的基于 Go 语言开发的智能体工作流框架。它旨在通过可编程的自动化代理来编排复杂的开发任务，解决传统 CI/CD 流程在灵活性与智能决策方面的不足，提升软件交付的自动化与智能化水平。",
+        "zh": "gh-aw 是 GitHub 推出的基于 Go 语言开发的智能体工作流框架。它旨在通过可编程的自动化代理来编排复杂的开发任务，解决传统 CI/CD 流程在灵活性与智能决策方面的不足，提升软件交付的自动化与智能化水平。",
         "source": "deepseek"
       }
     },
@@ -157,8 +157,8 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2347,
-      "forks": 155,
+      "stars": 2404,
+      "forks": 159,
       "currentPeriodStars": 1711,
       "builtBy": [
         {
@@ -183,7 +183,7 @@
         }
       ],
       "aiSummary": {
-        "content": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。",
+        "zh": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。",
         "source": "deepseek"
       }
     },
@@ -195,8 +195,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15072,
-      "forks": 1806,
+      "stars": 15098,
+      "forks": 1808,
       "currentPeriodStars": 4352,
       "builtBy": [
         {
@@ -230,8 +230,8 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8444,
-      "forks": 472,
+      "stars": 8465,
+      "forks": 473,
       "currentPeriodStars": 3747,
       "builtBy": [
         {
@@ -265,8 +265,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11842,
-      "forks": 1183,
+      "stars": 11941,
+      "forks": 1192,
       "currentPeriodStars": 4044,
       "builtBy": [
         {
@@ -300,8 +300,8 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17241,
-      "forks": 3710,
+      "stars": 17256,
+      "forks": 3711,
       "currentPeriodStars": 1568,
       "builtBy": [
         {
@@ -335,8 +335,8 @@
       "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 23763,
-      "forks": 1825,
+      "stars": 23770,
+      "forks": 1827,
       "currentPeriodStars": 731,
       "builtBy": [
         {
@@ -370,8 +370,8 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 94899,
-      "forks": 13746,
+      "stars": 94943,
+      "forks": 13753,
       "currentPeriodStars": 2326,
       "builtBy": [
         {
@@ -396,7 +396,7 @@
         }
       ],
       "aiSummary": {
-        "content": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。",
+        "zh": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。",
         "source": "deepseek"
       }
     },
@@ -408,8 +408,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 28079,
-      "forks": 1877,
+      "stars": 28126,
+      "forks": 1881,
       "currentPeriodStars": 3745,
       "builtBy": [
         {
@@ -443,8 +443,8 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8824,
-      "forks": 684,
+      "stars": 8833,
+      "forks": 686,
       "currentPeriodStars": 1457,
       "builtBy": [
         {
@@ -478,8 +478,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24878,
-      "forks": 1473,
+      "stars": 24966,
+      "forks": 1474,
       "currentPeriodStars": 1240,
       "builtBy": [
         {
@@ -504,7 +504,7 @@
         }
       ],
       "aiSummary": {
-        "content": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。",
+        "zh": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。",
         "source": "deepseek"
       }
     },
@@ -516,8 +516,8 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8380,
-      "forks": 444,
+      "stars": 8408,
+      "forks": 446,
       "currentPeriodStars": 1539,
       "builtBy": [
         {

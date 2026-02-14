@@ -1,7 +1,7 @@
 {
   "count": 23,
   "since": "weekly",
-  "captured_at": "2026-02-14 12:19:11",
+  "captured_at": "2026-02-14 16:04:29",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2279,
-      "forks": 167,
+      "stars": 2316,
+      "forks": 174,
       "currentPeriodStars": 1750,
       "builtBy": [
         {
@@ -37,7 +37,7 @@
         }
       ],
       "aiSummary": {
-        "content": "gh-aw 是 GitHub 推出的基于 Go 语言开发的智能体工作流框架。它旨在通过可编程的自动化代理来编排复杂的开发任务，解决传统 CI/CD 流程在灵活性与智能决策方面的不足，提升软件交付的自动化与智能化水平。",
+        "zh": "gh-aw 是 GitHub 推出的基于 Go 语言开发的智能体工作流框架。它旨在通过可编程的自动化代理来编排复杂的开发任务，解决传统 CI/CD 流程在灵活性与智能决策方面的不足，提升软件交付的自动化与智能化水平。",
         "source": "deepseek"
       }
     },
@@ -49,7 +49,7 @@
       "description": "Container runtimes on macOS (and Linux) with minimal setup",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26910,
+      "stars": 26914,
       "forks": 530,
       "currentPeriodStars": 213,
       "builtBy": [
@@ -84,7 +84,7 @@
       "description": "Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4516,
+      "stars": 4523,
       "forks": 189,
       "currentPeriodStars": 359,
       "builtBy": [
@@ -154,7 +154,7 @@
       "description": "Podman: A tool for managing OCI containers and pods.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 30686,
+      "stars": 30687,
       "forks": 2976,
       "currentPeriodStars": 100,
       "builtBy": [
@@ -189,7 +189,7 @@
       "description": "Find secrets with Gitleaks 🔑",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24903,
+      "stars": 24905,
       "forks": 1913,
       "currentPeriodStars": 108,
       "builtBy": [
@@ -224,8 +224,8 @@
       "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7454,
-      "forks": 1184,
+      "stars": 7458,
+      "forks": 1186,
       "currentPeriodStars": 152,
       "builtBy": [
         {
@@ -259,7 +259,7 @@
       "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3843,
+      "stars": 3844,
       "forks": 352,
       "currentPeriodStars": 65,
       "builtBy": [
@@ -329,8 +329,8 @@
       "description": "simple terminal UI for git commands",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 72310,
-      "forks": 2502,
+      "stars": 72319,
+      "forks": 2504,
       "currentPeriodStars": 523,
       "builtBy": [
         {
@@ -434,8 +434,8 @@
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 47664,
-      "forks": 10219,
+      "stars": 47668,
+      "forks": 10218,
       "currentPeriodStars": 68,
       "builtBy": [
         {
@@ -504,8 +504,8 @@
       "description": "An open source, self-hosted implementation of the Tailscale control server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35339,
-      "forks": 1899,
+      "stars": 35347,
+      "forks": 1900,
       "currentPeriodStars": 390,
       "builtBy": [
         {
@@ -535,7 +535,7 @@
       "description": "Open-source media server with a web interface and desktop app for anime and manga.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2825,
+      "stars": 2830,
       "forks": 179,
       "currentPeriodStars": 210,
       "builtBy": [
@@ -570,7 +570,7 @@
       "description": "The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4827,
+      "stars": 4829,
       "forks": 251,
       "currentPeriodStars": 62,
       "builtBy": [
@@ -605,8 +605,8 @@
       "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 60223,
-      "forks": 7002,
+      "stars": 60242,
+      "forks": 7004,
       "currentPeriodStars": 150,
       "builtBy": [
         {
@@ -631,7 +631,7 @@
         }
       ],
       "aiSummary": {
-        "content": "MinIO 是一款基于 Go 语言开发的高性能对象存储系统，完全兼容 Amazon S3 API。它解决了企业构建私有云存储时对高性能、可扩展且与主流生态兼容的存储服务的需求，适用于大规模数据湖、备份和云原生应用场景。",
+        "zh": "MinIO 是一款基于 Go 语言开发的高性能对象存储系统，完全兼容 Amazon S3 API。它解决了企业构建私有云存储时对高性能、可扩展且与主流生态兼容的存储服务的需求，适用于大规模数据湖、备份和云原生应用场景。",
         "source": "deepseek"
       }
     },
@@ -643,8 +643,8 @@
       "description": "MCP server for Grafana",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2298,
-      "forks": 259,
+      "stars": 2299,
+      "forks": 260,
       "currentPeriodStars": 55,
       "builtBy": [
         {
@@ -678,7 +678,7 @@
       "description": "⚡️ Express inspired web framework written in Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 39204,
+      "stars": 39205,
       "forks": 1957,
       "currentPeriodStars": 102,
       "builtBy": [
@@ -713,7 +713,7 @@
       "description": "Weighs the soul of incoming HTTP requests to stop AI crawlers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16920,
+      "stars": 16925,
       "forks": 496,
       "currentPeriodStars": 215,
       "builtBy": [
@@ -783,7 +783,7 @@
       "description": "Customization of kubernetes YAML configurations",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 11935,
+      "stars": 11936,
       "forks": 2364,
       "currentPeriodStars": 18,
       "builtBy": [
