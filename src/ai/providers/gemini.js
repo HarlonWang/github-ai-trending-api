@@ -16,7 +16,7 @@ export async function generateSummary(prompt, config) {
   // 调用生成接口
   const response = await ai.models.generateContent({
     model: config.model,
-    contents: prompt, // 新 SDK 支持直接传入字符串
+    contents: prompt,
   });
 
   return response.text;

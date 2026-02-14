@@ -24,7 +24,6 @@ export async function exportToJson(since = 'daily', language = '', capturedAt) {
   const langFileName = language ? language.toLowerCase() : 'all';
 
   // 1. 从数据库查询最新数据并格式化
-  // 这样做可以确保 JSON 中的数据是经过数据库整理（如包含 AI 总结）后的统一版本
   const latestData = getLatestTrending(since, langKey);
   
   if (!latestData || latestData.length === 0) {
@@ -35,24 +34,37 @@ export async function exportToJson(since = 'daily', language = '', capturedAt) {
   const output = {
     count: latestData.length,
     since: since,
-    captured_at: capturedAt, // 使用主流程传入的时间点，确保 JSON 与 DB 记录同步
-    data: latestData.map(item => ({
-      rank: item.rank,
-      author: item.author,
-      repoName: item.repoName,
-      url: item.url,
-      description: item.description,
-      language: item.language,
-      languageColor: item.languageColor,
-      stars: item.stars,
-      forks: item.forks,
-      currentPeriodStars: item.currentPeriodStars,
-      builtBy: item.builtBy ? JSON.parse(item.builtBy) : [],
-      aiSummary: item.aiSummaryContent ? {
-        content: item.aiSummaryContent,
-        source: item.aiSummaryProvider
-      } : null
-    }))
+    captured_at: capturedAt,
+    data: latestData.map(item => {
+      // 解析 AI 总结 (如果是 JSON 字符串)
+      let aiSummary = null;
+      if (item.aiSummary) {
+        try {
+          const content = JSON.parse(item.aiSummary);
+          aiSummary = {
+            ...content, // 展开 { zh: "...", en: "..." }
+            source: item.aiSummaryProvider
+          };
+        } catch (e) {
+          console.warn(`[Export] Failed to parse summary for ${item.repoName}`);
+        }
+      }
+
+      return {
+        rank: item.rank,
+        author: item.author,
+        repoName: item.repoName,
+        url: item.url,
+        description: item.description,
+        language: item.language,
+        languageColor: item.languageColor,
+        stars: item.stars,
+        forks: item.forks,
+        currentPeriodStars: item.currentPeriodStars,
+        builtBy: item.builtBy ? JSON.parse(item.builtBy) : [],
+        aiSummary: aiSummary
+      };
+    })
   };
 
   const jsonContent = JSON.stringify(output, null, 2);

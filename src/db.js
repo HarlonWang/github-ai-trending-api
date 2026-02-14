@@ -29,10 +29,10 @@ export function initDB() {
         language_color TEXT
     );
 
-    -- AI 总结缓存表
+    -- AI 总结缓存表 (新结构)
     CREATE TABLE IF NOT EXISTS ai_summaries (
         full_name TEXT PRIMARY KEY,
-        content TEXT,
+        summary TEXT, -- 存储完整 JSON 字符串
         provider TEXT,
         FOREIGN KEY (full_name) REFERENCES repos (full_name)
     );
@@ -62,18 +62,18 @@ export function initDB() {
  * 获取缓存的 AI 总结
  */
 export function getCachedAISummary(fullName) {
-    return db.prepare(/* language=SQLite */ 'SELECT content, provider FROM ai_summaries WHERE full_name = ?')
+    return db.prepare(/* language=SQLite */ 'SELECT summary, provider FROM ai_summaries WHERE full_name = ?')
         .get(fullName);
 }
 
 /**
  * 保存 AI 总结到缓存
  */
-export function saveAISummary(fullName, content, provider) {
+export function saveAISummary(fullName, summary, provider) {
     db.prepare(/* language=SQLite */ `
-    INSERT OR REPLACE INTO ai_summaries (full_name, content, provider)
+    INSERT OR REPLACE INTO ai_summaries (full_name, summary, provider)
     VALUES (?, ?, ?)
-  `).run(fullName, content, provider);
+  `).run(fullName, summary, provider);
 }
 
 /**
@@ -144,7 +144,7 @@ export function getLatestTrending(since, languageScope) {
       s.rank, r.author, r.repo_name as repoName, r.url, r.description, 
       r.language, r.language_color as languageColor, s.stars, s.forks, 
       s.current_period_stars as currentPeriodStars, s.built_by as builtBy,
-      ai.content as aiSummaryContent, ai.provider as aiSummaryProvider
+      ai.summary as aiSummary, ai.provider as aiSummaryProvider
     FROM snapshots s
     JOIN repos r ON s.full_name = r.full_name
     LEFT JOIN ai_summaries ai ON r.full_name = ai.full_name

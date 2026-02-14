@@ -27,6 +27,22 @@ async function callProvider(providerName, prompt) {
 }
 
 /**
+ * 验证并解析 AI 返回的 JSON
+ */
+function parseAIResponse(content, repoName) {
+  try {
+    // 即使开启了 Native JSON，某些情况下模型仍可能返回带 Markdown 代码块的内容
+    // 简单的去除 Markdown 标记以提高解析成功率
+    const cleanContent = content.replace(/```json/g, '').replace(/```/g, '').trim();
+    return JSON.parse(cleanContent);
+  } catch (e) {
+    console.error(`[AI] JSON Parse Error for ${repoName}: ${e.message}`);
+    console.error(`[AI] Raw content: ${content}`);
+    return null;
+  }
+}
+
+/**
  * 为单个仓库生成总结（支持多级兜底）
  */
 async function getSummaryWithFallback(repo) {
@@ -34,10 +50,10 @@ async function getSummaryWithFallback(repo) {
 
   // 1. 检查缓存
   const cached = getCachedAISummary(fullName);
-  if (cached) {
+  if (cached && cached.summary) {
     console.log(`[AI] Cache Hit: ${fullName}`);
     return {
-      content: cached.content,
+      summary: cached.summary, // 已经是 JSON 字符串
       source: `cache(${cached.provider})`
     };
   }
@@ -47,7 +63,7 @@ async function getSummaryWithFallback(repo) {
     .replace('{{lang}}', repo.language || 'Unknown')
     .replace('{{desc}}', repo.description || 'No description');
 
-  // 构建调用链：[主Provider, ...兜底Providers]
+  // 构建调用链
   const providerChain = [
     AI_CONFIG.provider,
     ...(AI_CONFIG.fallbacks || [])
@@ -55,20 +71,23 @@ async function getSummaryWithFallback(repo) {
 
   for (const providerName of providerChain) {
     try {
-      const content = await callProvider(providerName, prompt);
-      if (content) {
-        const trimmedContent = content.trim();
-        // 2. 存入缓存
-        saveAISummary(fullName, trimmedContent, providerName);
+      const rawContent = await callProvider(providerName, prompt);
+      if (rawContent) {
+        const parsedObj = parseAIResponse(rawContent, repo.repoName);
         
-        return {
-          content: trimmedContent,
-          source: providerName
-        };
+        if (parsedObj) {
+          // 2. 存入缓存 (序列化存储)
+          const jsonString = JSON.stringify(parsedObj);
+          saveAISummary(fullName, jsonString, providerName);
+          
+          return {
+            summary: jsonString,
+            source: providerName
+          };
+        }
       }
     } catch (error) {
       console.warn(`[AI] ${providerName} failed for ${repo.repoName}: ${error.message}`);
-      // 失败后立即切换到下一个 provider
     }
   }
 
@@ -78,9 +97,6 @@ async function getSummaryWithFallback(repo) {
 
 /**
  * 批量为仓库注入 AI 总结
- * @param {Array} repos 
- * @param {string} language 
- * @param {string} since 
  */
 export async function injectAISummaries(repos, language, since) {
   const isEnabled = AI_CONFIG.enabled;
@@ -88,9 +104,6 @@ export async function injectAISummaries(repos, language, since) {
   const periodMatch = AI_CONFIG.filters.periods.includes(since);
 
   if (!isEnabled || !langMatch || !periodMatch) {
-    if (isEnabled && language === '' && since === 'daily') {
-       // 如果是 all daily 却没匹配上（理论上不会，除非配置改了），可以记录日志
-    }
     return repos;
   }
 
@@ -98,7 +111,11 @@ export async function injectAISummaries(repos, language, since) {
   
   for (let i = 0; i < repos.length; i++) {
     const repo = repos[i];
-    repo.aiSummary = await getSummaryWithFallback(repo);
+    const result = await getSummaryWithFallback(repo);
+    
+    if (result) {
+      repo.aiSummary = result; // { summary: string, source: string }
+    }
     
     if (i < repos.length - 1) {
       await new Promise(resolve => setTimeout(resolve, AI_CONFIG.delay));
