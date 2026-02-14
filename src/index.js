@@ -1,8 +1,8 @@
 import dayjs from 'dayjs';
-import { LANGUAGES, PERIODS } from './consts.js';
+import { LANGUAGES, PERIODS, AI_CONFIG } from './consts.js';
 import { fetchTrending } from './scraper.js';
 import { exportToJson } from './exporter.js';
-import { injectAISummaries } from './ai/index.js';
+import { generateAISummaries } from './ai/index.js';
 import { initDB, upsertRepo, insertSnapshot, runTransaction } from './db.js';
 
 async function main() {
@@ -33,10 +33,16 @@ async function main() {
                     });
 
                     // 3. AI 摘要总结
-                    try {
-                        await injectAISummaries(repos, lang, since);
-                    } catch (aiError) {
-                        console.error(`[AI] Error processing summaries for ${lang || 'All'}:`, aiError.message);
+                    const shouldRunAI = AI_CONFIG.enabled &&
+                                       AI_CONFIG.filters.languages.includes(lang) &&
+                                       AI_CONFIG.filters.periods.includes(since);
+
+                    if (shouldRunAI) {
+                        try {
+                            await generateAISummaries(repos);
+                        } catch (aiError) {
+                            console.error(`[AI] Error processing summaries for ${lang || 'All'}:`, aiError.message);
+                        }
                     }
 
                     // 4. 记录快照 (Record Snapshots)

@@ -27,37 +27,10 @@ async function callProvider(providerName, prompt) {
 }
 
 /**
- * 验证并解析 AI 返回的 JSON
+ * 通过 AI Provider 获取总结并保存到数据库（支持多级兜底）
  */
-function parseAIResponse(content, repoName) {
-  try {
-    // 即使开启了 Native JSON，某些情况下模型仍可能返回带 Markdown 代码块的内容
-    // 简单的去除 Markdown 标记以提高解析成功率
-    const cleanContent = content.replace(/```json/g, '').replace(/```/g, '').trim();
-    return JSON.parse(cleanContent);
-  } catch (e) {
-    console.error(`[AI] JSON Parse Error for ${repoName}: ${e.message}`);
-    console.error(`[AI] Raw content: ${content}`);
-    return null;
-  }
-}
-
-/**
- * 为单个仓库生成总结（支持多级兜底）
- */
-async function getSummaryWithFallback(repo) {
+async function fetchAndSaveAISummary(repo) {
   const fullName = `${repo.author}/${repo.repoName}`;
-
-  // 1. 检查缓存
-  const cached = getCachedAISummary(fullName);
-  if (cached && cached.summary) {
-    console.log(`[AI] Cache Hit: ${fullName}`);
-    return {
-      summary: cached.summary, // 已经是 JSON 字符串
-      source: `cache(${cached.provider})`
-    };
-  }
-
   const prompt = AI_CONFIG.promptTemplate
     .replace('{{name}}', fullName)
     .replace('{{lang}}', repo.language || 'Unknown')
@@ -73,17 +46,19 @@ async function getSummaryWithFallback(repo) {
     try {
       const rawContent = await callProvider(providerName, prompt);
       if (rawContent) {
-        const parsedObj = parseAIResponse(rawContent, repo.repoName);
-        
+        let parsedObj = null;
+        try {
+          parsedObj = JSON.parse(rawContent.trim());
+        } catch (e) {
+          console.error(`[AI] JSON Parse Error for ${repo.repoName}: ${e.message}`);
+          console.error(`[AI] Raw content: ${rawContent}`);
+        }
+
         if (parsedObj) {
-          // 2. 存入缓存 (序列化存储)
+          // 存入缓存 (序列化存储)
           const jsonString = JSON.stringify(parsedObj);
           saveAISummary(fullName, jsonString, providerName);
-          
-          return {
-            summary: jsonString,
-            source: providerName
-          };
+          return; // 成功后立即退出
         }
       }
     } catch (error) {
@@ -92,35 +67,31 @@ async function getSummaryWithFallback(repo) {
   }
 
   console.error(`[AI] All providers failed for ${repo.repoName}`);
-  return null;
 }
 
 /**
- * 批量为仓库注入 AI 总结
+ * 批量确保仓库有 AI 总结（如果缓存没有则生成并保存到 DB）
  */
-export async function injectAISummaries(repos, language, since) {
-  const isEnabled = AI_CONFIG.enabled;
-  const langMatch = AI_CONFIG.filters.languages.includes(language);
-  const periodMatch = AI_CONFIG.filters.periods.includes(since);
+export async function generateAISummaries(repos) {
+  console.log(`[AI] Processing ${repos.length} repositories...`);
 
-  if (!isEnabled || !langMatch || !periodMatch) {
-    return repos;
-  }
-
-  console.log(`[AI] Summarizing ${repos.length} repositories for ${language || 'All Languages'} (${since})...`);
-  
   for (let i = 0; i < repos.length; i++) {
     const repo = repos[i];
-    const result = await getSummaryWithFallback(repo);
-    
-    if (result) {
-      repo.aiSummary = result; // { summary: string, source: string }
+    const fullName = `${repo.author}/${repo.repoName}`;
+
+    // 检查缓存
+    const cached = getCachedAISummary(fullName);
+    if (cached && cached.summary) {
+      console.log(`[AI] Skip (Cache Hit): ${fullName}`);
+      continue;
     }
-    
+
+    // 缓存未命中，调用 AI 生成并保存
+    await fetchAndSaveAISummary(repo);
+
+    // 只有在真正请求了 AI 后才进行延迟
     if (i < repos.length - 1) {
       await new Promise(resolve => setTimeout(resolve, AI_CONFIG.delay));
     }
   }
-
-  return repos;
 }
