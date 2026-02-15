@@ -1,7 +1,7 @@
 {
   "count": 17,
   "since": "monthly",
-  "captured_at": "2026-02-15 06:06:51",
+  "captured_at": "2026-02-15 08:23:34",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 194940,
-      "forks": 33673,
+      "stars": 195165,
+      "forks": 33742,
       "currentPeriodStars": 189974,
       "builtBy": [
         {
@@ -46,8 +46,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12153,
-      "forks": 1216,
+      "stars": 12174,
+      "forks": 1220,
       "currentPeriodStars": 10225,
       "builtBy": [
         {
@@ -81,8 +81,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15877,
-      "forks": 1198,
+      "stars": 15886,
+      "forks": 1199,
       "currentPeriodStars": 12330,
       "builtBy": [
         {
@@ -121,8 +121,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 22105,
-      "forks": 2222,
+      "stars": 22150,
+      "forks": 2225,
       "currentPeriodStars": 18284,
       "builtBy": [
         {
@@ -156,8 +156,8 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 15124,
-      "forks": 1093,
+      "stars": 15138,
+      "forks": 1094,
       "currentPeriodStars": 9775,
       "builtBy": [
         {
@@ -183,8 +183,8 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 36623,
-      "forks": 2228,
+      "stars": 36628,
+      "forks": 2229,
       "currentPeriodStars": 11382,
       "builtBy": [
         {
@@ -218,8 +218,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 51694,
-      "forks": 3906,
+      "stars": 51750,
+      "forks": 3911,
       "currentPeriodStars": 30073,
       "builtBy": [
         {
@@ -253,8 +253,8 @@
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 14125,
-      "forks": 1340,
+      "stars": 14156,
+      "forks": 1343,
       "currentPeriodStars": 11444,
       "builtBy": [
         {
@@ -288,8 +288,8 @@
       "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 31509,
-      "forks": 5037,
+      "stars": 31513,
+      "forks": 5039,
       "currentPeriodStars": 6487,
       "builtBy": [
         {
@@ -323,7 +323,7 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8490,
+      "stars": 8500,
       "forks": 452,
       "currentPeriodStars": 6822,
       "builtBy": [
@@ -358,8 +358,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 69939,
-      "forks": 7081,
+      "stars": 69987,
+      "forks": 7090,
       "currentPeriodStars": 29735,
       "builtBy": [
         {
@@ -393,7 +393,7 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8530,
+      "stars": 8538,
       "forks": 476,
       "currentPeriodStars": 6965,
       "builtBy": [
@@ -428,7 +428,7 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 20382,
+      "stars": 20395,
       "forks": 1848,
       "currentPeriodStars": 20179,
       "builtBy": [
@@ -463,8 +463,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 104705,
-      "forks": 10177,
+      "stars": 104748,
+      "forks": 10189,
       "currentPeriodStars": 36517,
       "builtBy": [
         {
@@ -498,8 +498,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 28245,
-      "forks": 1891,
+      "stars": 28268,
+      "forks": 1892,
       "currentPeriodStars": 14718,
       "builtBy": [
         {
@@ -533,7 +533,7 @@
       "description": "Neovim AI agent done right",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 3785,
+      "stars": 3786,
       "forks": 181,
       "currentPeriodStars": 2785,
       "builtBy": [
@@ -568,8 +568,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15201,
-      "forks": 1821,
+      "stars": 15217,
+      "forks": 1823,
       "currentPeriodStars": 8192,
       "builtBy": [
         {

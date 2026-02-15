@@ -1,7 +1,7 @@
 {
   "count": 22,
   "since": "monthly",
-  "captured_at": "2026-02-15 06:07:15",
+  "captured_at": "2026-02-15 08:23:57",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19301,
+      "stars": 19304,
       "forks": 840,
       "currentPeriodStars": 1883,
       "builtBy": [
@@ -46,8 +46,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60359,
-      "forks": 7956,
+      "stars": 60370,
+      "forks": 7957,
       "currentPeriodStars": 4606,
       "builtBy": [
         {
@@ -81,7 +81,7 @@
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 23363,
+      "stars": 23367,
       "forks": 2639,
       "currentPeriodStars": 10429,
       "builtBy": [
@@ -116,8 +116,8 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30454,
-      "forks": 2750,
+      "stars": 30456,
+      "forks": 2753,
       "currentPeriodStars": 4673,
       "builtBy": [
         {
@@ -151,7 +151,7 @@
       "description": "An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1791,
+      "stars": 1793,
       "forks": 180,
       "currentPeriodStars": 1191,
       "builtBy": [
@@ -186,7 +186,7 @@
       "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 18238,
+      "stars": 18265,
       "forks": 1139,
       "currentPeriodStars": 7045,
       "builtBy": [
@@ -221,8 +221,8 @@
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6912,
-      "forks": 431,
+      "stars": 6913,
+      "forks": 432,
       "currentPeriodStars": 529,
       "builtBy": [
         {
@@ -256,8 +256,8 @@
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 18997,
-      "forks": 2272,
+      "stars": 19004,
+      "forks": 2273,
       "currentPeriodStars": 1805,
       "builtBy": [
         {
@@ -291,7 +291,7 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2081,
+      "stars": 2082,
       "forks": 76,
       "currentPeriodStars": 964,
       "builtBy": [
@@ -361,8 +361,8 @@
       "description": "Open-source search and retrieval database for AI applications.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 26126,
-      "forks": 2056,
+      "stars": 26125,
+      "forks": 2057,
       "currentPeriodStars": 728,
       "builtBy": [
         {
@@ -396,8 +396,8 @@
       "description": "screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16860,
-      "forks": 1395,
+      "stars": 16863,
+      "forks": 1396,
       "currentPeriodStars": 493,
       "builtBy": [
         {
@@ -431,7 +431,7 @@
       "description": "dev tools, env vars, task runner",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 24564,
+      "stars": 24567,
       "forks": 882,
       "currentPeriodStars": 1597,
       "builtBy": [
@@ -466,7 +466,7 @@
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 102705,
+      "stars": 102707,
       "forks": 3386,
       "currentPeriodStars": 1610,
       "builtBy": [
@@ -501,7 +501,7 @@
       "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 24145,
+      "stars": 24147,
       "forks": 1197,
       "currentPeriodStars": 778,
       "builtBy": [
@@ -536,7 +536,7 @@
       "description": "A terminal workspace with batteries included",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29042,
+      "stars": 29044,
       "forks": 962,
       "currentPeriodStars": 934,
       "builtBy": [
@@ -571,7 +571,7 @@
       "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29800,
+      "stars": 29799,
       "forks": 2251,
       "currentPeriodStars": 330,
       "builtBy": [
@@ -606,7 +606,7 @@
       "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29223,
+      "stars": 29226,
       "forks": 961,
       "currentPeriodStars": 1201,
       "builtBy": [
@@ -641,7 +641,7 @@
       "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 26417,
+      "stars": 26419,
       "forks": 2809,
       "currentPeriodStars": 730,
       "builtBy": [
@@ -676,8 +676,8 @@
       "description": "The user-friendly command line shell.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32555,
-      "forks": 2224,
+      "stars": 32558,
+      "forks": 2225,
       "currentPeriodStars": 533,
       "builtBy": [
         {
@@ -746,8 +746,8 @@
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9832,
-      "forks": 275,
+      "stars": 9834,
+      "forks": 276,
       "currentPeriodStars": 859,
       "builtBy": [
         {

@@ -1,7 +1,7 @@
 {
   "count": 11,
   "since": "daily",
-  "captured_at": "2026-02-15 06:05:39",
+  "captured_at": "2026-02-15 08:22:16",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9776,
-      "forks": 472,
+      "stars": 9847,
+      "forks": 477,
       "currentPeriodStars": 127,
       "builtBy": [
         {
@@ -38,6 +38,11 @@
       ],
       "aiSummaries": [
         {
+          "provider": "chatgpt",
+          "zh": "tambo 是基于 TypeScript 的 React 生成式 UI SDK，通过将自然语言与组件配置结合，简化界面构建与动态布局生成。它帮助团队快速迭代产品原型，降低手写样板代码成本，并提升复杂交互界面的开发效率与可维护性。",
+          "en": "tambo is a TypeScript-based generative UI SDK for React that turns natural language and structured config into dynamic interfaces. It reduces boilerplate, accelerates prototyping, and improves development efficiency for complex, interactive UIs."
+        },
+        {
           "provider": "deepseek",
           "zh": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，解决了手动处理流式输出与状态同步的复杂度，提升了开发效率。"
         }
@@ -51,8 +56,8 @@
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 6236,
-      "forks": 520,
+      "stars": 6297,
+      "forks": 528,
       "currentPeriodStars": 217,
       "builtBy": [
         {
@@ -78,6 +83,11 @@
       ],
       "aiSummaries": [
         {
+          "provider": "chatgpt",
+          "zh": "rowboat 是一款开源的 AI 协作助手，通过持久化记忆与上下文管理，帮助团队在日常开发与知识工作中减少重复沟通和信息查找成本，实现更连续、更智能的协同工作流程。",
+          "en": "rowboat is an open-source AI coworker that uses persistent memory and context management to reduce repetitive communication and information lookup, enabling more continuous and intelligent collaboration in everyday development and knowledge work."
+        },
+        {
           "provider": "deepseek",
           "zh": "Rowboat 是一个开源的 AI 协作者，基于 TypeScript 开发。其核心在于为 AI 助手配备了长期记忆能力，解决了传统 AI 对话中上下文信息易丢失的痛点，能持续记忆用户偏好与历史交互，从而实现更连贯、个性化的协作体验。"
         }
@@ -91,8 +101,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 25153,
-      "forks": 1480,
+      "stars": 25180,
+      "forks": 1484,
       "currentPeriodStars": 331,
       "builtBy": [
         {
@@ -118,6 +128,11 @@
       ],
       "aiSummaries": [
         {
+          "provider": "chatgpt",
+          "zh": "chrome-devtools-mcp 利用 TypeScript 将 Chrome DevTools 能力以 MCP 接口暴露给编码智能体，使其可自动化调试、性能分析与页面检查。项目解决了代理难以直接操控浏览器调试工具的痛点，提升自动化诊断与前端问题定位效率。",
+          "en": "chrome-devtools-mcp exposes Chrome DevTools via the MCP protocol for coding agents, enabling automated debugging, profiling, and page inspection. It solves the difficulty of programmatically using DevTools, improving automated diagnosis and front-end issue resolution."
+        },
+        {
           "provider": "deepseek",
           "zh": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。"
         }
@@ -131,8 +146,8 @@
       "description": "The memory-first coding agent",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1265,
-      "forks": 139,
+      "stars": 1283,
+      "forks": 141,
       "currentPeriodStars": 55,
       "builtBy": [
         {
@@ -158,6 +173,11 @@
       ],
       "aiSummaries": [
         {
+          "provider": "chatgpt",
+          "zh": "letta-code 是一个以记忆为核心的 TypeScript 智能编码代理，通过持续积累与检索上下文记忆，理解大型代码库的演化与依赖关系，从而在复杂开发场景中提供更精准的代码生成、重构与协作支持，降低认知负担并提升开发效率。",
+          "en": "letta-code is a memory-first TypeScript coding agent that persistently builds and retrieves rich project context, enabling more accurate code generation, refactoring, and navigation in large, evolving codebases, thereby reducing cognitive load and improving developer productivity."
+        },
+        {
           "provider": "deepseek",
           "zh": "Letta-Code 是一个基于记忆优先理念的 TypeScript 编码智能体。它通过持久化记忆上下文，有效解决了传统AI编码助手在多轮复杂对话中遗忘历史、上下文丢失的核心痛点，从而能更连贯、精准地理解和执行长期开发任务。"
         }
@@ -171,7 +191,7 @@
       "description": "Yet another matrix client",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 3062,
+      "stars": 3068,
       "forks": 411,
       "currentPeriodStars": 41,
       "builtBy": [
@@ -198,6 +218,11 @@
       ],
       "aiSummaries": [
         {
+          "provider": "chatgpt",
+          "zh": "Cinny 是基于 Matrix 协议的现代化 Web 客户端，以 TypeScript 构建，专注提供轻量、直观且响应迅速的即时通讯体验。它简化房间与消息管理，优化多端协作与隐私控制，为用户提供比传统 Matrix 客户端更易用的替代方案。",
+          "en": "Cinny is a modern, TypeScript-based Matrix web client focused on a lightweight, intuitive, and responsive messaging experience. It streamlines room and message management, improves cross-device collaboration and privacy controls, and serves as a more user-friendly alternative to traditional Matrix clients."
+        },
+        {
           "provider": "deepseek",
           "zh": "Cinny 是一款基于 Matrix 协议的轻量级即时通讯客户端，采用 TypeScript 开发。它专注于提供快速、简洁的用户体验，解决了官方 Element 客户端较为臃肿、性能开销大的痛点，尤其适合在浏览器和移动端高效使用去中心化通信网络。"
         }
@@ -211,8 +236,8 @@
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8352,
-      "forks": 1157,
+      "stars": 8357,
+      "forks": 1158,
       "currentPeriodStars": 406,
       "builtBy": [
         {
@@ -251,7 +276,7 @@
       "description": "Database diagrams editor that allows you to visualize and design your DB with a single query.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21230,
+      "stars": 21232,
       "forks": 1259,
       "currentPeriodStars": 61,
       "builtBy": [
@@ -286,8 +311,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 194939,
-      "forks": 33672,
+      "stars": 195160,
+      "forks": 33742,
       "currentPeriodStars": 2758,
       "builtBy": [
         {
@@ -321,8 +346,8 @@
       "description": "✨ The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes ✨",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14899,
-      "forks": 1199,
+      "stars": 14904,
+      "forks": 1200,
       "currentPeriodStars": 51,
       "builtBy": [
         {
@@ -356,8 +381,8 @@
       "description": "Backstage is an open framework for building developer portals",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 32600,
-      "forks": 7091,
+      "stars": 32601,
+      "forks": 7090,
       "currentPeriodStars": 6,
       "builtBy": [
         {
@@ -391,7 +416,7 @@
       "description": "🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11354,
+      "stars": 11361,
       "forks": 581,
       "currentPeriodStars": 57,
       "builtBy": [

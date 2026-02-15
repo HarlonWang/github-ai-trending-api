@@ -1,7 +1,7 @@
 {
   "count": 17,
   "since": "daily",
-  "captured_at": "2026-02-15 06:05:31",
+  "captured_at": "2026-02-15 08:22:07",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 60291,
-      "forks": 7019,
+      "stars": 60297,
+      "forks": 7022,
       "currentPeriodStars": 29,
       "builtBy": [
         {
@@ -38,6 +38,11 @@
       ],
       "aiSummaries": [
         {
+          "provider": "chatgpt",
+          "zh": "MinIO 是基于 Go 的高性能对象存储系统，兼容 Amazon S3 API，适用于私有云与多云环境。它提供弹性扩展、分布式部署和高可用能力，帮助企业以开源方式构建大规模、可靠的非结构化数据存储基础设施。",
+          "en": "MinIO is a high-performance, Go-based object storage that is fully S3 compatible, enabling scalable, distributed and highly available storage for unstructured data in private, public and hybrid cloud environments under an open-source AGPLv3 license."
+        },
+        {
           "provider": "deepseek",
           "zh": "MinIO 是一款基于 Go 语言开发的高性能对象存储系统，完全兼容 Amazon S3 API。它解决了企业构建私有云存储时对高性能、可扩展且与主流生态兼容的存储服务的需求，适用于大规模数据湖、备份和云原生应用场景。"
         }
@@ -51,8 +56,8 @@
       "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22482,
-      "forks": 1098,
+      "stars": 22485,
+      "forks": 1099,
       "currentPeriodStars": 53,
       "builtBy": [
         {
@@ -86,8 +91,8 @@
       "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2342,
-      "forks": 241,
+      "stars": 2343,
+      "forks": 242,
       "currentPeriodStars": 19,
       "builtBy": [
         {
@@ -121,8 +126,8 @@
       "description": "Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4545,
-      "forks": 189,
+      "stars": 4552,
+      "forks": 190,
       "currentPeriodStars": 65,
       "builtBy": [
         {
@@ -156,7 +161,7 @@
       "description": "Curated list of Go design patterns, recipes and idioms",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 27703,
+      "stars": 27706,
       "forks": 2335,
       "currentPeriodStars": 61,
       "builtBy": [
@@ -191,7 +196,7 @@
       "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12977,
+      "stars": 12979,
       "forks": 1194,
       "currentPeriodStars": 53,
       "builtBy": [
@@ -226,8 +231,8 @@
       "description": "OpenTelemetry Collector",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6605,
-      "forks": 1873,
+      "stars": 6607,
+      "forks": 1874,
       "currentPeriodStars": 3,
       "builtBy": [
         {
@@ -331,7 +336,7 @@
       "description": "🧟 The modern PHP app server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 10768,
+      "stars": 10769,
       "forks": 429,
       "currentPeriodStars": 10,
       "builtBy": [
@@ -401,8 +406,8 @@
       "description": "Ultimate camera streaming application",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12310,
-      "forks": 949,
+      "stars": 12314,
+      "forks": 950,
       "currentPeriodStars": 22,
       "builtBy": [
         {
@@ -471,7 +476,7 @@
       "description": "Fast linters runner for Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 18493,
+      "stars": 18495,
       "forks": 1546,
       "currentPeriodStars": 7,
       "builtBy": [
@@ -506,7 +511,7 @@
       "description": "Application Kernel for Containers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 17718,
+      "stars": 17719,
       "forks": 1511,
       "currentPeriodStars": 10,
       "builtBy": [
@@ -576,7 +581,7 @@
       "description": "Network-wide ads & trackers blocking DNS server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 32566,
+      "stars": 32567,
       "forks": 2243,
       "currentPeriodStars": 20,
       "builtBy": [

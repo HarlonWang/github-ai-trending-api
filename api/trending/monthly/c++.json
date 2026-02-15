@@ -1,7 +1,7 @@
 {
   "count": 23,
   "since": "monthly",
-  "captured_at": "2026-02-15 06:07:27",
+  "captured_at": "2026-02-15 08:24:06",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12487,
-      "forks": 984,
+      "stars": 12486,
+      "forks": 985,
       "currentPeriodStars": 541,
       "builtBy": [
         {
@@ -46,7 +46,7 @@
       "description": "MLX: An array framework for Apple silicon",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 23934,
+      "stars": 23935,
       "forks": 1515,
       "currentPeriodStars": 513,
       "builtBy": [
@@ -81,8 +81,8 @@
       "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18682,
-      "forks": 1651,
+      "stars": 18687,
+      "forks": 1652,
       "currentPeriodStars": 1827,
       "builtBy": [
         {
@@ -116,7 +116,7 @@
       "description": "PC Software for BambuLab and other 3D printers",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4015,
+      "stars": 4014,
       "forks": 620,
       "currentPeriodStars": 363,
       "builtBy": [
@@ -186,7 +186,7 @@
       "description": "Notepad++ official repository",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 27143,
+      "stars": 27145,
       "forks": 5107,
       "currentPeriodStars": 491,
       "builtBy": [
@@ -256,7 +256,7 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 106668,
+      "stars": 106670,
       "forks": 24323,
       "currentPeriodStars": 1494,
       "builtBy": [
@@ -291,7 +291,7 @@
       "description": "DuckDB is an analytical in-process SQL database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 36098,
+      "stars": 36097,
       "forks": 2925,
       "currentPeriodStars": 773,
       "builtBy": [
@@ -361,7 +361,7 @@
       "description": "PlayStation 3 emulator and debugger",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18164,
+      "stars": 18165,
       "forks": 2219,
       "currentPeriodStars": 218,
       "builtBy": [
@@ -397,7 +397,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 95048,
-      "forks": 14902,
+      "forks": 14905,
       "currentPeriodStars": 2368,
       "builtBy": [
         {
@@ -466,7 +466,7 @@
       "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29304,
+      "stars": 29302,
       "forks": 1854,
       "currentPeriodStars": 706,
       "builtBy": [
@@ -502,7 +502,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 77127,
-      "forks": 8316,
+      "forks": 8317,
       "currentPeriodStars": 258,
       "builtBy": [
         {
@@ -536,8 +536,8 @@
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 101812,
-      "forks": 9071,
+      "stars": 101813,
+      "forks": 9072,
       "currentPeriodStars": 603,
       "builtBy": [
         {
@@ -642,7 +642,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 14506,
-      "forks": 20245,
+      "forks": 20246,
       "currentPeriodStars": 190,
       "builtBy": [
         {
@@ -677,7 +677,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 29842,
-      "forks": 6264,
+      "forks": 6267,
       "currentPeriodStars": 341,
       "builtBy": [
         {
@@ -746,8 +746,8 @@
       "description": "Production ready toolkit to run AI locally",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7707,
-      "forks": 235,
+      "stars": 7743,
+      "forks": 236,
       "currentPeriodStars": 4018,
       "builtBy": [
         {
@@ -782,7 +782,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 10001,
-      "forks": 702,
+      "forks": 703,
       "currentPeriodStars": 464,
       "builtBy": [
         {

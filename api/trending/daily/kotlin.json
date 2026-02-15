@@ -1,7 +1,7 @@
 {
   "count": 17,
   "since": "daily",
-  "captured_at": "2026-02-15 06:05:58",
+  "captured_at": "2026-02-15 08:22:35",
   "data": [
     {
       "rank": 1,
@@ -81,7 +81,7 @@
       "description": "哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3748,
+      "stars": 3749,
       "forks": 464,
       "currentPeriodStars": 7,
       "builtBy": [
@@ -116,7 +116,7 @@
       "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 35981,
+      "stars": 35979,
       "forks": 1748,
       "currentPeriodStars": 29,
       "builtBy": [
@@ -187,7 +187,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": 45563,
-      "forks": 11856,
+      "forks": 11857,
       "currentPeriodStars": 3,
       "builtBy": [
         {
@@ -221,7 +221,7 @@
       "description": "🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 11674,
+      "stars": 11675,
       "forks": 508,
       "currentPeriodStars": 9,
       "builtBy": [
@@ -256,7 +256,7 @@
       "description": "Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3722,
+      "stars": 3723,
       "forks": 321,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -291,7 +291,7 @@
       "description": "Full-featured audio/video downloader for Android using yt-dlp",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 7693,
+      "stars": 7694,
       "forks": 319,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -392,7 +392,7 @@
       "description": "Clutterfree F-Droid client",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6383,
+      "stars": 6387,
       "forks": 169,
       "currentPeriodStars": 10,
       "builtBy": [
@@ -423,7 +423,7 @@
       "description": "A feature-rich weather app with good visualizations and more than 50 sources.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 9303,
+      "stars": 9306,
       "forks": 309,
       "currentPeriodStars": 13,
       "builtBy": [
@@ -528,7 +528,7 @@
       "description": "安卓电视直播APK：IPTV/網頁視頻支持X5，可自定義源(支持webview://格式)，IPTV支持畫中畫和熄屏播放。 Android TV Live APK: IPTV/web video supports X5, customizable sources (support webview:// format), IPTV supports picture-in-picture and off-screen playback.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1103,
+      "stars": 1104,
       "forks": 131,
       "currentPeriodStars": 8,
       "builtBy": [
@@ -563,7 +563,7 @@
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 21878,
+      "stars": 21885,
       "forks": 2010,
       "currentPeriodStars": 37,
       "builtBy": [

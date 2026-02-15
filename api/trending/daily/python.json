@@ -1,7 +1,7 @@
 {
   "count": 15,
   "since": "daily",
-  "captured_at": "2026-02-15 06:05:17",
+  "captured_at": "2026-02-15 08:21:54",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6231,
-      "forks": 555,
+      "stars": 6266,
+      "forks": 559,
       "currentPeriodStars": 98,
       "builtBy": [
         {
@@ -25,6 +25,11 @@
         }
       ],
       "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "wifi-densepose 提供 InvisPose 的生产级实现，仅依赖普通 WiFi Mesh 路由器即可穿墙实时获取人体全身致密姿态。它解决了传统视觉方案对摄像头、光照和视线无遮挡的依赖，为隐私友好的人体追踪与交互应用奠定基础。",
+          "en": "wifi-densepose is a production-ready implementation of InvisPose, enabling real-time, through-wall dense human pose estimation using commodity WiFi mesh routers, removing reliance on cameras and lighting for full-body tracking."
+        },
         {
           "provider": "deepseek",
           "zh": "Ruvnet/Wifi-DensePose 实现了 InvisPose 系统，利用普通家用网状路由器发出的 WiFi 信号，实现了穿墙的实时密集人体姿态估计。该系统解决了传统视觉方法在遮挡或无光环境下失效的痛点，无需穿戴设备即可进行全身动作追踪。"
@@ -39,8 +44,8 @@
       "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6353,
-      "forks": 602,
+      "stars": 6368,
+      "forks": 604,
       "currentPeriodStars": 40,
       "builtBy": [
         {
@@ -66,6 +71,11 @@
       ],
       "aiSummaries": [
         {
+          "provider": "chatgpt",
+          "zh": "Zipstack/unstract 是基于 Python 的无代码 LLM 平台，专注将非结构化文档自动转化为可用数据。通过可视化配置即可构建 API 与 ETL 流水线，降低处理复杂文档、集成多数据源和落地智能文档解析的技术门槛。",
+          "en": "Zipstack/unstract is a Python-based no-code LLM platform that converts unstructured documents into structured data, enabling visual creation of APIs and ETL pipelines to simplify complex document processing and data integration."
+        },
+        {
           "provider": "deepseek",
           "zh": "Zipstack/unstract 是一个基于 Python 的无代码 LLM 平台，旨在解决非结构化文档处理难题。其核心功能是让用户无需编程即可快速部署 API 和 ETL 流水线，从而自动化提取并结构化文档中的关键信息。"
         }
@@ -79,7 +89,7 @@
       "description": "Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 5805,
+      "stars": 5815,
       "forks": 462,
       "currentPeriodStars": 272,
       "builtBy": [
@@ -114,8 +124,8 @@
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 123955,
-      "forks": 17506,
+      "stars": 123956,
+      "forks": 17507,
       "currentPeriodStars": 122,
       "builtBy": [
         {
@@ -184,8 +194,8 @@
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14017,
-      "forks": 2357,
+      "stars": 14020,
+      "forks": 2358,
       "currentPeriodStars": 40,
       "builtBy": [
         {
@@ -219,8 +229,8 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 95046,
-      "forks": 13767,
+      "stars": 95061,
+      "forks": 13772,
       "currentPeriodStars": 358,
       "builtBy": [
         {
@@ -259,8 +269,8 @@
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11064,
-      "forks": 1081,
+      "stars": 11084,
+      "forks": 1083,
       "currentPeriodStars": 547,
       "builtBy": [
         {
@@ -299,8 +309,8 @@
       "description": "The absolute trainer to light up AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14740,
-      "forks": 1250,
+      "stars": 14742,
+      "forks": 1251,
       "currentPeriodStars": 61,
       "builtBy": [
         {
@@ -334,7 +344,7 @@
       "description": "Get your documents ready for gen AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 53066,
+      "stars": 53076,
       "forks": 3601,
       "currentPeriodStars": 87,
       "builtBy": [
@@ -369,8 +379,8 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2562,
-      "forks": 165,
+      "stars": 2574,
+      "forks": 166,
       "currentPeriodStars": 358,
       "builtBy": [
         {
@@ -409,8 +419,8 @@
       "description": "The best ChatGPT that $100 can buy.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 43320,
-      "forks": 5628,
+      "stars": 43327,
+      "forks": 5634,
       "currentPeriodStars": 81,
       "builtBy": [
         {
@@ -479,8 +489,8 @@
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 13296,
-      "forks": 1597,
+      "stars": 13306,
+      "forks": 1598,
       "currentPeriodStars": 183,
       "builtBy": [
         {

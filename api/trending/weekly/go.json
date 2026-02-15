@@ -1,7 +1,7 @@
 {
   "count": 23,
   "since": "weekly",
-  "captured_at": "2026-02-15 06:06:22",
+  "captured_at": "2026-02-15 08:22:59",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2439,
+      "stars": 2455,
       "forks": 181,
       "currentPeriodStars": 1927,
       "builtBy": [
@@ -51,7 +51,7 @@
       "description": "Container runtimes on macOS (and Linux) with minimal setup",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26928,
+      "stars": 26929,
       "forks": 530,
       "currentPeriodStars": 225,
       "builtBy": [
@@ -86,8 +86,8 @@
       "description": "Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4545,
-      "forks": 189,
+      "stars": 4552,
+      "forks": 190,
       "currentPeriodStars": 354,
       "builtBy": [
         {
@@ -156,7 +156,7 @@
       "description": "Podman: A tool for managing OCI containers and pods.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 30691,
+      "stars": 30693,
       "forks": 2977,
       "currentPeriodStars": 98,
       "builtBy": [
@@ -191,7 +191,7 @@
       "description": "Find secrets with Gitleaks 🔑",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24911,
+      "stars": 24912,
       "forks": 1912,
       "currentPeriodStars": 108,
       "builtBy": [
@@ -226,8 +226,8 @@
       "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7458,
-      "forks": 1188,
+      "stars": 7460,
+      "forks": 1187,
       "currentPeriodStars": 161,
       "builtBy": [
         {
@@ -331,7 +331,7 @@
       "description": "simple terminal UI for git commands",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 72337,
+      "stars": 72338,
       "forks": 2505,
       "currentPeriodStars": 495,
       "builtBy": [
@@ -401,7 +401,7 @@
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8577,
+      "stars": 8579,
       "forks": 720,
       "currentPeriodStars": 166,
       "builtBy": [
@@ -436,8 +436,8 @@
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 47671,
-      "forks": 10216,
+      "stars": 47672,
+      "forks": 10215,
       "currentPeriodStars": 69,
       "builtBy": [
         {
@@ -506,7 +506,7 @@
       "description": "An open source, self-hosted implementation of the Tailscale control server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35369,
+      "stars": 35374,
       "forks": 1898,
       "currentPeriodStars": 398,
       "builtBy": [
@@ -572,7 +572,7 @@
       "description": "The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4836,
+      "stars": 4837,
       "forks": 251,
       "currentPeriodStars": 61,
       "builtBy": [
@@ -607,8 +607,8 @@
       "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 60291,
-      "forks": 7019,
+      "stars": 60297,
+      "forks": 7022,
       "currentPeriodStars": 180,
       "builtBy": [
         {
@@ -634,6 +634,11 @@
       ],
       "aiSummaries": [
         {
+          "provider": "chatgpt",
+          "zh": "MinIO 是基于 Go 的高性能对象存储系统，兼容 Amazon S3 API，适用于私有云与多云环境。它提供弹性扩展、分布式部署和高可用能力，帮助企业以开源方式构建大规模、可靠的非结构化数据存储基础设施。",
+          "en": "MinIO is a high-performance, Go-based object storage that is fully S3 compatible, enabling scalable, distributed and highly available storage for unstructured data in private, public and hybrid cloud environments under an open-source AGPLv3 license."
+        },
+        {
           "provider": "deepseek",
           "zh": "MinIO 是一款基于 Go 语言开发的高性能对象存储系统，完全兼容 Amazon S3 API。它解决了企业构建私有云存储时对高性能、可扩展且与主流生态兼容的存储服务的需求，适用于大规模数据湖、备份和云原生应用场景。"
         }
@@ -647,7 +652,7 @@
       "description": "MCP server for Grafana",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2305,
+      "stars": 2306,
       "forks": 260,
       "currentPeriodStars": 57,
       "builtBy": [
@@ -717,7 +722,7 @@
       "description": "Weighs the soul of incoming HTTP requests to stop AI crawlers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16935,
+      "stars": 16938,
       "forks": 496,
       "currentPeriodStars": 219,
       "builtBy": [
@@ -787,7 +792,7 @@
       "description": "Customization of kubernetes YAML configurations",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 11936,
+      "stars": 11937,
       "forks": 2364,
       "currentPeriodStars": 19,
       "builtBy": [

@@ -1,7 +1,7 @@
 {
   "count": 20,
   "since": "daily",
-  "captured_at": "2026-02-15 06:05:44",
+  "captured_at": "2026-02-15 08:22:22",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1419,
-      "forks": 70,
+      "stars": 1522,
+      "forks": 77,
       "currentPeriodStars": 172,
       "builtBy": [
         {
@@ -38,6 +38,11 @@
       ],
       "aiSummaries": [
         {
+          "provider": "chatgpt",
+          "zh": "zvec 是阿里巴巴开源的轻量级 C++ 向量数据库，专注进程内高性能向量检索与相似度搜索。它以极低延迟和小内存占用解决在线推理、个性化推荐等场景下的嵌入向量高效查询与管理问题。",
+          "en": "zvec is a lightweight C++ in-process vector database delivering ultra-fast similarity search with low memory overhead, targeting efficient embedding retrieval for online inference and recommendation workloads."
+        },
+        {
           "provider": "deepseek",
           "zh": "zvec 是阿里巴巴开源的轻量级、极速进程内向量数据库。它专为需要高性能向量相似性搜索的场景设计，通过消除网络开销和复杂部署，实现了低延迟、高吞吐量的近似最近邻检索。"
         }
@@ -51,7 +56,7 @@
       "description": "Android real-time display control software",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28141,
+      "stars": 28144,
       "forks": 3426,
       "currentPeriodStars": 27,
       "builtBy": [
@@ -121,7 +126,7 @@
       "description": "🦊 Anti-detect browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5353,
+      "stars": 5354,
       "forks": 494,
       "currentPeriodStars": 21,
       "builtBy": [
@@ -156,7 +161,7 @@
       "description": "Webots Robot Simulator",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4138,
+      "stars": 4139,
       "forks": 1978,
       "currentPeriodStars": 20,
       "builtBy": [
@@ -226,7 +231,7 @@
       "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4761,
+      "stars": 4762,
       "forks": 558,
       "currentPeriodStars": 13,
       "builtBy": [
@@ -327,8 +332,8 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2698,
-      "forks": 214,
+      "stars": 2700,
+      "forks": 213,
       "currentPeriodStars": 23,
       "builtBy": [
         {
@@ -358,7 +363,7 @@
       "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28588,
+      "stars": 28590,
       "forks": 5166,
       "currentPeriodStars": 18,
       "builtBy": [
@@ -564,7 +569,7 @@
       "description": "Arduino core for the ESP32",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 16283,
+      "stars": 16284,
       "forks": 7807,
       "currentPeriodStars": 7,
       "builtBy": [
@@ -599,7 +604,7 @@
       "description": "Super Repository for Coding Interview Preperation",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3749,
+      "stars": 3751,
       "forks": 1731,
       "currentPeriodStars": 3,
       "builtBy": [

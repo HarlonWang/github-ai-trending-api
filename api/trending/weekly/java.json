@@ -1,7 +1,7 @@
 {
   "count": 23,
   "since": "weekly",
-  "captured_at": "2026-02-15 06:06:16",
+  "captured_at": "2026-02-15 08:22:56",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 30276,
-      "forks": 6864,
+      "stars": 30422,
+      "forks": 6896,
       "currentPeriodStars": 513,
       "builtBy": [
         {
@@ -42,7 +42,7 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22103,
+      "stars": 22105,
       "forks": 5418,
       "currentPeriodStars": 370,
       "builtBy": [
@@ -77,7 +77,7 @@
       "description": "MCP Server for Ghidra",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 7569,
+      "stars": 7571,
       "forks": 648,
       "currentPeriodStars": 127,
       "builtBy": [
@@ -147,8 +147,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 64366,
-      "forks": 7137,
+      "stars": 64372,
+      "forks": 7138,
       "currentPeriodStars": 228,
       "builtBy": [
         {
@@ -218,7 +218,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 9589,
-      "forks": 603,
+      "forks": 602,
       "currentPeriodStars": 118,
       "builtBy": [
         {
@@ -252,7 +252,7 @@
       "description": "收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5731,
+      "stars": 5732,
       "forks": 548,
       "currentPeriodStars": 116,
       "builtBy": [
@@ -279,7 +279,7 @@
       "description": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25136,
+      "stars": 25137,
       "forks": 2733,
       "currentPeriodStars": 95,
       "builtBy": [
@@ -314,8 +314,8 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22052,
-      "forks": 13090,
+      "stars": 22053,
+      "forks": 13092,
       "currentPeriodStars": 196,
       "builtBy": [
         {
@@ -349,7 +349,7 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32842,
+      "stars": 32843,
       "forks": 8052,
       "currentPeriodStars": 154,
       "builtBy": [
@@ -384,7 +384,7 @@
       "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8689,
+      "stars": 8690,
       "forks": 1843,
       "currentPeriodStars": 22,
       "builtBy": [
@@ -419,7 +419,7 @@
       "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12225,
+      "stars": 12226,
       "forks": 2561,
       "currentPeriodStars": 91,
       "builtBy": [
@@ -489,7 +489,7 @@
       "description": "The automation tower defense RTS",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 26574,
+      "stars": 26576,
       "forks": 3348,
       "currentPeriodStars": 105,
       "builtBy": [
@@ -629,8 +629,8 @@
       "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5254,
-      "forks": 928,
+      "stars": 5255,
+      "forks": 929,
       "currentPeriodStars": 43,
       "builtBy": [
         {
@@ -734,8 +734,8 @@
       "description": "Mirror of Apache Kafka",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 31898,
-      "forks": 14959,
+      "stars": 31899,
+      "forks": 14961,
       "currentPeriodStars": 52,
       "builtBy": [
         {
@@ -770,7 +770,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 22789,
-      "forks": 3469,
+      "forks": 3470,
       "currentPeriodStars": 73,
       "builtBy": [
         {

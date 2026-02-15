@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "weekly",
-  "captured_at": "2026-02-15 06:06:40",
+  "captured_at": "2026-02-15 08:23:19",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5953,
+      "stars": 5958,
       "forks": 1001,
       "currentPeriodStars": 307,
       "builtBy": [
@@ -51,7 +51,7 @@
       "description": "anti-dpi software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1633,
+      "stars": 1635,
       "forks": 52,
       "currentPeriodStars": 160,
       "builtBy": [
@@ -214,8 +214,8 @@
       "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 59098,
-      "forks": 27503,
+      "stars": 59103,
+      "forks": 27504,
       "currentPeriodStars": 152,
       "builtBy": [
         {
@@ -284,7 +284,7 @@
       "description": "Share your terminal over the web",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 10953,
+      "stars": 10956,
       "forks": 1069,
       "currentPeriodStars": 66,
       "builtBy": [
@@ -389,7 +389,7 @@
       "description": "DPI bypass multi platform",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14366,
+      "stars": 14368,
       "forks": 991,
       "currentPeriodStars": 102,
       "builtBy": [
@@ -459,8 +459,8 @@
       "description": "Display and control your Android device",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 135665,
-      "forks": 12647,
+      "stars": 135668,
+      "forks": 12648,
       "currentPeriodStars": 375,
       "builtBy": [
         {
@@ -495,7 +495,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 2937,
-      "forks": 3766,
+      "forks": 3767,
       "currentPeriodStars": 13,
       "builtBy": [
         {
@@ -529,7 +529,7 @@
       "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14728,
+      "stars": 14729,
       "forks": 2156,
       "currentPeriodStars": 82,
       "builtBy": [
@@ -704,8 +704,8 @@
       "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 72931,
-      "forks": 24487,
+      "stars": 72933,
+      "forks": 24488,
       "currentPeriodStars": 139,
       "builtBy": [
         {

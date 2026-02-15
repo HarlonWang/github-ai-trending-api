@@ -1,7 +1,7 @@
 {
   "count": 18,
   "since": "monthly",
-  "captured_at": "2026-02-15 06:07:05",
+  "captured_at": "2026-02-15 08:23:47",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 37171,
+      "stars": 37175,
       "forks": 3462,
       "currentPeriodStars": 973,
       "builtBy": [
@@ -46,7 +46,7 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22103,
+      "stars": 22105,
       "forks": 5418,
       "currentPeriodStars": 1169,
       "builtBy": [
@@ -81,8 +81,8 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 30277,
-      "forks": 6864,
+      "stars": 30424,
+      "forks": 6896,
       "currentPeriodStars": 1215,
       "builtBy": [
         {
@@ -112,8 +112,8 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22052,
-      "forks": 13090,
+      "stars": 22053,
+      "forks": 13092,
       "currentPeriodStars": 515,
       "builtBy": [
         {
@@ -182,8 +182,8 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 50626,
-      "forks": 6014,
+      "stars": 50630,
+      "forks": 6016,
       "currentPeriodStars": 1902,
       "builtBy": [
         {
@@ -217,7 +217,7 @@
       "description": "signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4162,
+      "stars": 4164,
       "forks": 371,
       "currentPeriodStars": 191,
       "builtBy": [
@@ -252,7 +252,7 @@
       "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12225,
+      "stars": 12226,
       "forks": 2561,
       "currentPeriodStars": 358,
       "builtBy": [
@@ -288,7 +288,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 1751,
-      "forks": 523,
+      "forks": 524,
       "currentPeriodStars": 65,
       "builtBy": [
         {
@@ -357,7 +357,7 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32842,
+      "stars": 32843,
       "forks": 8052,
       "currentPeriodStars": 674,
       "builtBy": [
@@ -392,7 +392,7 @@
       "description": "Generate diagrams from textual description",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12654,
+      "stars": 12656,
       "forks": 1140,
       "currentPeriodStars": 152,
       "builtBy": [
@@ -427,7 +427,7 @@
       "description": "Free universal database tool and SQL client",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 48678,
+      "stars": 48681,
       "forks": 4035,
       "currentPeriodStars": 517,
       "builtBy": [
@@ -486,7 +486,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 9589,
-      "forks": 603,
+      "forks": 602,
       "currentPeriodStars": 453,
       "builtBy": [
         {
@@ -520,8 +520,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 64366,
-      "forks": 7137,
+      "stars": 64372,
+      "forks": 7138,
       "currentPeriodStars": 949,
       "builtBy": [
         {
@@ -555,7 +555,7 @@
       "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8689,
+      "stars": 8690,
       "forks": 1843,
       "currentPeriodStars": 96,
       "builtBy": [
@@ -590,8 +590,8 @@
       "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5254,
-      "forks": 928,
+      "stars": 5255,
+      "forks": 929,
       "currentPeriodStars": 178,
       "builtBy": [
         {

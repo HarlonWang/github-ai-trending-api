@@ -1,7 +1,7 @@
 {
   "count": 18,
   "since": "daily",
-  "captured_at": "2026-02-15 06:05:49",
+  "captured_at": "2026-02-15 08:22:26",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5953,
+      "stars": 5958,
       "forks": 1001,
       "currentPeriodStars": 104,
       "builtBy": [
@@ -51,7 +51,7 @@
       "description": "The PHP Interpreter",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 39848,
+      "stars": 39850,
       "forks": 8003,
       "currentPeriodStars": 3,
       "builtBy": [
@@ -87,7 +87,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 12799,
-      "forks": 15253,
+      "forks": 15254,
       "currentPeriodStars": 8,
       "builtBy": [
         {
@@ -121,7 +121,7 @@
       "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 77745,
+      "stars": 77746,
       "forks": 6334,
       "currentPeriodStars": 15,
       "builtBy": [
@@ -226,7 +226,7 @@
       "description": "An open and affordable mini quadruped robot based on ESP32.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 851,
+      "stars": 852,
       "forks": 119,
       "currentPeriodStars": 21,
       "builtBy": [
@@ -292,8 +292,8 @@
       "description": "OpenVPN is an open source VPN daemon",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13235,
-      "forks": 3263,
+      "stars": 13237,
+      "forks": 3264,
       "currentPeriodStars": 6,
       "builtBy": [
         {
@@ -432,7 +432,7 @@
       "description": "The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 8819,
+      "stars": 8820,
       "forks": 3192,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -537,8 +537,8 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 25541,
-      "forks": 12032,
+      "stars": 25542,
+      "forks": 12033,
       "currentPeriodStars": 10,
       "builtBy": [
         {

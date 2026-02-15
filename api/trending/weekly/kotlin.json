@@ -1,7 +1,7 @@
 {
   "count": 18,
   "since": "weekly",
-  "captured_at": "2026-02-15 06:06:47",
+  "captured_at": "2026-02-15 08:23:30",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "Software simulation for Android hardware-backed key pairs with key attestation",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 809,
+      "stars": 811,
       "forks": 81,
       "currentPeriodStars": 128,
       "builtBy": [
@@ -46,7 +46,7 @@
       "description": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 18723,
+      "stars": 18727,
       "forks": 1485,
       "currentPeriodStars": 164,
       "builtBy": [
@@ -81,7 +81,7 @@
       "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 35981,
+      "stars": 35979,
       "forks": 1748,
       "currentPeriodStars": 214,
       "builtBy": [
@@ -116,7 +116,7 @@
       "description": "A Download Manager that speeds up your downloads",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 13399,
+      "stars": 13401,
       "forks": 690,
       "currentPeriodStars": 156,
       "builtBy": [
@@ -221,7 +221,7 @@
       "description": "A shadowsocks client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 36661,
+      "stars": 36660,
       "forks": 11541,
       "currentPeriodStars": 34,
       "builtBy": [
@@ -291,7 +291,7 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 50990,
+      "stars": 50992,
       "forks": 6931,
       "currentPeriodStars": 326,
       "builtBy": [
@@ -327,7 +327,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": 3280,
-      "forks": 386,
+      "forks": 387,
       "currentPeriodStars": 32,
       "builtBy": [
         {
@@ -361,7 +361,7 @@
       "description": "A feature-rich weather app with good visualizations and more than 50 sources.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 9303,
+      "stars": 9306,
       "forks": 309,
       "currentPeriodStars": 93,
       "builtBy": [
@@ -396,7 +396,7 @@
       "description": "App to bypass censorship on Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 5031,
+      "stars": 5032,
       "forks": 246,
       "currentPeriodStars": 34,
       "builtBy": [
@@ -432,7 +432,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": 8889,
-      "forks": 776,
+      "forks": 777,
       "currentPeriodStars": 78,
       "builtBy": [
         {
@@ -537,7 +537,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": 2598,
-      "forks": 102,
+      "forks": 103,
       "currentPeriodStars": 226,
       "builtBy": [
         {
@@ -571,7 +571,7 @@
       "description": "Pixel IMS: Rootless replacement for Tensor Pixel VoLTE patch",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2585,
+      "stars": 2586,
       "forks": 185,
       "currentPeriodStars": 25,
       "builtBy": [

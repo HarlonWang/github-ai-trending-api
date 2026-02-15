@@ -1,7 +1,7 @@
 {
   "count": 23,
   "since": "daily",
-  "captured_at": "2026-02-15 06:05:25",
+  "captured_at": "2026-02-15 08:22:03",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 30276,
-      "forks": 6864,
+      "stars": 30420,
+      "forks": 6896,
       "currentPeriodStars": 86,
       "builtBy": [
         {
@@ -77,7 +77,7 @@
       "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8860,
+      "stars": 8859,
       "forks": 3992,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -112,7 +112,7 @@
       "description": "🔎 Open source distributed and RESTful search engine.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12382,
+      "stars": 12383,
       "forks": 2409,
       "currentPeriodStars": 6,
       "builtBy": [
@@ -419,7 +419,7 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32842,
+      "stars": 32843,
       "forks": 8052,
       "currentPeriodStars": 26,
       "builtBy": [
@@ -594,7 +594,7 @@
       "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12225,
+      "stars": 12226,
       "forks": 2561,
       "currentPeriodStars": 13,
       "builtBy": [
@@ -629,8 +629,8 @@
       "description": "Mirror of Apache Kafka",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 31898,
-      "forks": 14959,
+      "stars": 31899,
+      "forks": 14961,
       "currentPeriodStars": 12,
       "builtBy": [
         {
@@ -770,7 +770,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 9835,
-      "forks": 1132,
+      "forks": 1133,
       "currentPeriodStars": 4,
       "builtBy": [
         {
