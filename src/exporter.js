@@ -36,17 +36,18 @@ export async function exportToJson(since = 'daily', language = '', capturedAt) {
     since: since,
     captured_at: capturedAt,
     data: latestData.map(item => {
-      // 解析 AI 总结 (如果是 JSON 字符串)
-      let aiSummary = null;
-      if (item.aiSummary) {
+      // 解析 AI 总结 (数据库已使用 json_group_array 聚合成数组)
+      let aiSummaries = [];
+      if (item.aiSummaries) {
         try {
-          const content = JSON.parse(item.aiSummary);
-          aiSummary = {
-            ...content, // 展开 { zh: "...", en: "..." }
-            source: item.aiSummaryProvider
-          };
+          const rawSummaries = JSON.parse(item.aiSummaries);
+          // rawSummaries 是 [{ provider: '...', translations: { zh: '...', en: '...' } }, ...]
+          aiSummaries = rawSummaries.map(s => ({
+            provider: s.provider,
+            ...s.translations
+          }));
         } catch (e) {
-          console.warn(`[Export] Failed to parse summary for ${item.repoName}`);
+          console.warn(`[Export] Failed to parse summaries for ${item.repoName}`);
         }
       }
 
@@ -62,7 +63,7 @@ export async function exportToJson(since = 'daily', language = '', capturedAt) {
         forks: item.forks,
         currentPeriodStars: item.currentPeriodStars,
         builtBy: item.builtBy ? JSON.parse(item.builtBy) : [],
-        aiSummary: aiSummary
+        aiSummaries: aiSummaries.length > 0 ? aiSummaries : null
       };
     })
   };

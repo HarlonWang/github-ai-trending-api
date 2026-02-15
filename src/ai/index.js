@@ -1,15 +1,18 @@
 import { AI_CONFIG } from '../consts.js';
-import * as gemini from './providers/gemini.js';
-import * as deepseek from './providers/deepseek.js';
-import { getCachedAISummary, saveAISummary } from '../db.js';
-
-const providers = { gemini, deepseek };
+import { getCachedAISummaries, saveAISummary } from '../db.js';
 
 /**
  * 核心调用逻辑：针对特定 provider 进行单次调用
  */
 async function callProvider(providerName, prompt) {
-  const provider = providers[providerName];
+  // 动态导入 Provider 模块
+  let provider;
+  try {
+    provider = await import(`./providers/${providerName}.js`);
+  } catch (e) {
+    throw new Error(`AI Provider "${providerName}" 加载失败: ${e.message}`);
+  }
+
   const config = AI_CONFIG.providerConfig[providerName];
 
   if (!provider) {
@@ -27,67 +30,63 @@ async function callProvider(providerName, prompt) {
 }
 
 /**
- * 通过 AI Provider 获取总结并保存到数据库（支持多级兜底）
+ * 针对指定 provider 获取总结并保存
  */
-async function fetchAndSaveAISummary(repo) {
-  const fullName = `${repo.author}/${repo.repoName}`;
-  const prompt = AI_CONFIG.promptTemplate
-    .replace('{{name}}', fullName)
-    .replace('{{lang}}', repo.language || 'Unknown')
-    .replace('{{desc}}', repo.description || 'No description');
+async function fetchAndSaveSingleAISummary(repo, providerName, prompt) {
+  try {
+    const rawContent = await callProvider(providerName, prompt);
+    if (!rawContent) return;
 
-  // 构建调用链
-  const providerChain = [
-    AI_CONFIG.provider,
-    ...(AI_CONFIG.fallbacks || [])
-  ];
-
-  for (const providerName of providerChain) {
+    let parsedObj = null;
     try {
-      const rawContent = await callProvider(providerName, prompt);
-      if (rawContent) {
-        let parsedObj = null;
-        try {
-          parsedObj = JSON.parse(rawContent.trim());
-        } catch (e) {
-          console.error(`[AI] JSON Parse Error for ${repo.repoName}: ${e.message}`);
-          console.error(`[AI] Raw content: ${rawContent}`);
-        }
-
-        if (parsedObj) {
-          // 存入缓存 (序列化存储)
-          const jsonString = JSON.stringify(parsedObj);
-          saveAISummary(fullName, jsonString, providerName);
-          return; // 成功后立即退出
-        }
-      }
-    } catch (error) {
-      console.warn(`[AI] ${providerName} failed for ${repo.repoName}: ${error.message}`);
+      parsedObj = JSON.parse(rawContent.trim());
+    } catch (e) {
+      console.error(`[AI] JSON Parse Error for ${repo.repoName} via ${providerName}: ${e.message}`);
+      return;
     }
-  }
 
-  console.error(`[AI] All providers failed for ${repo.repoName}`);
+    if (parsedObj) {
+      const fullName = `${repo.author}/${repo.repoName}`;
+      saveAISummary(fullName, JSON.stringify(parsedObj), providerName);
+      console.log(`[AI] Successfully generated summary via ${providerName} for ${repo.repoName}`);
+    }
+  } catch (error) {
+    console.warn(`[AI] ${providerName} failed for ${repo.repoName}: ${error.message}`);
+  }
 }
 
 /**
- * 批量确保仓库有 AI 总结（如果缓存没有则生成并保存到 DB）
+ * 批量确保仓库有所有配置的 AI 总结（增量补齐）
  */
 export async function generateAISummaries(repos) {
-  console.log(`[AI] Processing ${repos.length} repositories...`);
+  console.log(`[AI] Processing ${repos.length} repositories for multiple providers...`);
 
   for (let i = 0; i < repos.length; i++) {
     const repo = repos[i];
     const fullName = `${repo.author}/${repo.repoName}`;
+    const prompt = AI_CONFIG.promptTemplate
+      .replace('{{name}}', fullName)
+      .replace('{{lang}}', repo.language || 'Unknown')
+      .replace('{{desc}}', repo.description || 'No description');
 
-    // 检查缓存
-    const cached = getCachedAISummary(fullName);
-    if (cached && cached.summary) {
-      console.log(`[AI] Skip (Cache Hit): ${fullName}`);
+    // 1. 检查已有的总结
+    const existingSummaries = getCachedAISummaries(fullName);
+    const existingProviders = existingSummaries.map(s => s.provider);
+
+    // 2. 找出缺失的提供商
+    const missingProviders = AI_CONFIG.providers.filter(p => !existingProviders.includes(p));
+
+    if (missingProviders.length === 0) {
+      console.log(`[AI] Skip (All Done): ${fullName}`);
       continue;
     }
 
-    // 缓存未命中，调用 AI 生成并保存
-    await fetchAndSaveAISummary(repo);
+    console.log(`[AI] ${fullName} missing summaries from: ${missingProviders.join(', ')}`);
+
+    // 3. 并行调用缺失的提供商 (尽力而为)
+    await Promise.allSettled(
+      missingProviders.map(p => fetchAndSaveSingleAISummary(repo, p, prompt))
+    );
 
     // 只有在真正请求了 AI 后才进行延迟
     if (i < repos.length - 1) {
