@@ -1,7 +1,7 @@
 {
   "count": 11,
   "since": "daily",
-  "captured_at": "2026-02-14 16:03:44",
+  "captured_at": "2026-02-15 00:17:50",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9481,
-      "forks": 461,
-      "currentPeriodStars": 137,
+      "stars": 9605,
+      "forks": 464,
+      "currentPeriodStars": 127,
       "builtBy": [
         {
           "username": "apps/dependabot",
@@ -49,9 +49,9 @@
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 5681,
-      "forks": 451,
-      "currentPeriodStars": 226,
+      "stars": 6022,
+      "forks": 495,
+      "currentPeriodStars": 217,
       "builtBy": [
         {
           "username": "ramnique",
@@ -87,9 +87,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24966,
-      "forks": 1474,
-      "currentPeriodStars": 326,
+      "stars": 25087,
+      "forks": 1479,
+      "currentPeriodStars": 331,
       "builtBy": [
         {
           "username": "OrKoN",
@@ -125,9 +125,9 @@
       "description": "The memory-first coding agent",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1129,
-      "forks": 133,
-      "currentPeriodStars": 30,
+      "stars": 1204,
+      "forks": 135,
+      "currentPeriodStars": 55,
       "builtBy": [
         {
           "username": "cpacker",
@@ -163,9 +163,9 @@
       "description": "Yet another matrix client",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 3004,
-      "forks": 409,
-      "currentPeriodStars": 46,
+      "stars": 3045,
+      "forks": 410,
+      "currentPeriodStars": 41,
       "builtBy": [
         {
           "username": "ajbura",
@@ -201,9 +201,9 @@
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8306,
-      "forks": 1150,
-      "currentPeriodStars": 518,
+      "stars": 8332,
+      "forks": 1156,
+      "currentPeriodStars": 406,
       "builtBy": [
         {
           "username": "danielmiessler",
@@ -239,9 +239,9 @@
       "description": "Database diagrams editor that allows you to visualize and design your DB with a single query.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21221,
-      "forks": 1259,
-      "currentPeriodStars": 78,
+      "stars": 21224,
+      "forks": 1258,
+      "currentPeriodStars": 61,
       "builtBy": [
         {
           "username": "guyb1",
@@ -274,9 +274,9 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 193722,
-      "forks": 33319,
-      "currentPeriodStars": 2806,
+      "stars": 194382,
+      "forks": 33512,
+      "currentPeriodStars": 2758,
       "builtBy": [
         {
           "username": "steipete",
@@ -309,9 +309,9 @@
       "description": "✨ The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes ✨",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14883,
+      "stars": 14889,
       "forks": 1197,
-      "currentPeriodStars": 57,
+      "currentPeriodStars": 51,
       "builtBy": [
         {
           "username": "amhsirak",
@@ -344,9 +344,9 @@
       "description": "Backstage is an open framework for building developer portals",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 32595,
-      "forks": 7091,
-      "currentPeriodStars": 5,
+      "stars": 32599,
+      "forks": 7090,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "Rugvip",
@@ -379,9 +379,9 @@
       "description": "🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11325,
+      "stars": 11343,
       "forks": 580,
-      "currentPeriodStars": 91,
+      "currentPeriodStars": 57,
       "builtBy": [
         {
           "username": "goldflag",

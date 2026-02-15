@@ -1,7 +1,7 @@
 {
   "count": 18,
   "since": "weekly",
-  "captured_at": "2026-02-14 16:04:59",
+  "captured_at": "2026-02-15 00:18:53",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Software simulation for Android hardware-backed key pairs with key attestation",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 800,
-      "forks": 77,
-      "currentPeriodStars": 133,
+      "stars": 805,
+      "forks": 79,
+      "currentPeriodStars": 128,
       "builtBy": [
         {
           "username": "JingMatrix",
@@ -46,9 +46,9 @@
       "description": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 18715,
+      "stars": 18720,
       "forks": 1485,
-      "currentPeriodStars": 162,
+      "currentPeriodStars": 164,
       "builtBy": [
         {
           "username": "arm64v8a",
@@ -81,9 +81,9 @@
       "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 35964,
+      "stars": 35968,
       "forks": 1749,
-      "currentPeriodStars": 220,
+      "currentPeriodStars": 214,
       "builtBy": [
         {
           "username": "lisonge",
@@ -116,9 +116,9 @@
       "description": "A Download Manager that speeds up your downloads",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 13392,
-      "forks": 691,
-      "currentPeriodStars": 165,
+      "stars": 13397,
+      "forks": 690,
+      "currentPeriodStars": 156,
       "builtBy": [
         {
           "username": "amir1376",
@@ -151,9 +151,9 @@
       "description": "SD Maid 2/SE is Android's most thorough cleaning tool.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6146,
+      "stars": 6148,
       "forks": 777,
-      "currentPeriodStars": 68,
+      "currentPeriodStars": 67,
       "builtBy": [
         {
           "username": "d4rken",
@@ -186,9 +186,9 @@
       "description": "A Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 15001,
+      "stars": 15004,
       "forks": 3115,
-      "currentPeriodStars": 93,
+      "currentPeriodStars": 88,
       "builtBy": [
         {
           "username": "tiann",
@@ -256,9 +256,9 @@
       "description": "A app for managing, sharing, and exploring Magisk modules across repositories",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1850,
+      "stars": 1853,
       "forks": 186,
-      "currentPeriodStars": 17,
+      "currentPeriodStars": 16,
       "builtBy": [
         {
           "username": "DerGoogler",
@@ -291,9 +291,9 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 50976,
+      "stars": 50983,
       "forks": 6930,
-      "currentPeriodStars": 349,
+      "currentPeriodStars": 326,
       "builtBy": [
         {
           "username": "2dust",
@@ -328,7 +328,7 @@
       "languageColor": "#A97BFF",
       "stars": 3280,
       "forks": 387,
-      "currentPeriodStars": 33,
+      "currentPeriodStars": 32,
       "builtBy": [
         {
           "username": "tanujnotes",
@@ -361,9 +361,9 @@
       "description": "A feature-rich weather app with good visualizations and more than 50 sources.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 9299,
-      "forks": 310,
-      "currentPeriodStars": 95,
+      "stars": 9302,
+      "forks": 309,
+      "currentPeriodStars": 93,
       "builtBy": [
         {
           "username": "papjul",
@@ -396,9 +396,9 @@
       "description": "App to bypass censorship on Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 5030,
+      "stars": 5031,
       "forks": 246,
-      "currentPeriodStars": 33,
+      "currentPeriodStars": 34,
       "builtBy": [
         {
           "username": "dovecoteescapee",
@@ -431,9 +431,9 @@
       "description": "Android app for streaming and downloading media.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 8883,
+      "stars": 8886,
       "forks": 776,
-      "currentPeriodStars": 80,
+      "currentPeriodStars": 78,
       "builtBy": [
         {
           "username": "LagradOst",
@@ -466,9 +466,9 @@
       "description": "Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1852,
-      "forks": 404,
-      "currentPeriodStars": 25,
+      "stars": 1857,
+      "forks": 403,
+      "currentPeriodStars": 33,
       "builtBy": [
         {
           "username": "bmarty",
@@ -503,7 +503,7 @@
       "languageColor": "#A97BFF",
       "stars": 3156,
       "forks": 776,
-      "currentPeriodStars": 42,
+      "currentPeriodStars": 38,
       "builtBy": [
         {
           "username": "tiann",
@@ -536,9 +536,9 @@
       "description": "Lightweight unofficial Steam client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2595,
-      "forks": 100,
-      "currentPeriodStars": 272,
+      "stars": 2598,
+      "forks": 101,
+      "currentPeriodStars": 226,
       "builtBy": [
         {
           "username": "utkarshdalal",
@@ -573,7 +573,7 @@
       "languageColor": "#A97BFF",
       "stars": 2585,
       "forks": 185,
-      "currentPeriodStars": 27,
+      "currentPeriodStars": 25,
       "builtBy": [
         {
           "username": "kyujin-cho",
@@ -606,9 +606,9 @@
       "description": "More Expressive InstallerX !",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3633,
+      "stars": 3638,
       "forks": 135,
-      "currentPeriodStars": 113,
+      "currentPeriodStars": 109,
       "builtBy": [
         {
           "username": "wxxsfxyzm",

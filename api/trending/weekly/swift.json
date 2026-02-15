@@ -1,7 +1,7 @@
 {
   "count": 22,
   "since": "weekly",
-  "captured_at": "2026-02-14 16:04:54",
+  "captured_at": "2026-02-15 00:18:47",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 24445,
-      "forks": 643,
-      "currentPeriodStars": 347,
+      "stars": 24457,
+      "forks": 642,
+      "currentPeriodStars": 352,
       "builtBy": [
         {
           "username": "jglogan",
@@ -46,9 +46,9 @@
       "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3742,
+      "stars": 3747,
       "forks": 477,
-      "currentPeriodStars": 131,
+      "currentPeriodStars": 135,
       "builtBy": [
         {
           "username": "Beingpax",
@@ -81,9 +81,9 @@
       "description": "RSS reader for macOS and iOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 9675,
-      "forks": 644,
-      "currentPeriodStars": 94,
+      "stars": 9679,
+      "forks": 646,
+      "currentPeriodStars": 93,
       "builtBy": [
         {
           "username": "brentsimmons",
@@ -116,9 +116,9 @@
       "description": "A Swift command line tool for generating your Xcode project",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8119,
+      "stars": 8121,
       "forks": 871,
-      "currentPeriodStars": 60,
+      "currentPeriodStars": 28,
       "builtBy": [
         {
           "username": "yonaskolb",
@@ -151,9 +151,9 @@
       "description": "AeroSpace is an i3-like tiling window manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 18861,
-      "forks": 418,
-      "currentPeriodStars": 170,
+      "stars": 18868,
+      "forks": 419,
+      "currentPeriodStars": 168,
       "builtBy": [
         {
           "username": "nikitabobko",
@@ -186,9 +186,9 @@
       "description": "macOS system monitor in your menu bar",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 36450,
+      "stars": 36457,
       "forks": 1179,
-      "currentPeriodStars": 207,
+      "currentPeriodStars": 187,
       "builtBy": [
         {
           "username": "exelban",
@@ -223,7 +223,7 @@
       "languageColor": "#F05138",
       "stars": 14341,
       "forks": 1636,
-      "currentPeriodStars": 32,
+      "currentPeriodStars": 30,
       "builtBy": [
         {
           "username": "stephencelis",
@@ -256,9 +256,9 @@
       "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 7058,
-      "forks": 497,
-      "currentPeriodStars": 183,
+      "stars": 7077,
+      "forks": 498,
+      "currentPeriodStars": 187,
       "builtBy": [
         {
           "username": "Alexander5015",
@@ -291,9 +291,9 @@
       "description": "AltStore is an alternative app store for non-jailbroken iOS devices.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 13512,
+      "stars": 13514,
       "forks": 1226,
-      "currentPeriodStars": 52,
+      "currentPeriodStars": 46,
       "builtBy": [
         {
           "username": "rileytestut",
@@ -326,9 +326,9 @@
       "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 32409,
+      "stars": 32416,
       "forks": 929,
-      "currentPeriodStars": 81,
+      "currentPeriodStars": 87,
       "builtBy": [
         {
           "username": "waydabber",
@@ -361,9 +361,9 @@
       "description": "A modular Swift SDK for audio processing with MLX on Apple Silicon",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 203,
+      "stars": 204,
       "forks": 24,
-      "currentPeriodStars": 116,
+      "currentPeriodStars": 118,
       "builtBy": [
         {
           "username": "Blaizzy",
@@ -397,8 +397,8 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": 42350,
-      "forks": 7670,
-      "currentPeriodStars": 24,
+      "forks": 7669,
+      "currentPeriodStars": 22,
       "builtBy": [
         {
           "username": "cnoon",
@@ -431,9 +431,9 @@
       "description": "Free and open source manga reader for iOS and iPadOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3928,
+      "stars": 3927,
       "forks": 218,
-      "currentPeriodStars": 27,
+      "currentPeriodStars": 31,
       "builtBy": [
         {
           "username": "Skittyblock",
@@ -466,9 +466,9 @@
       "description": "Telegram-iOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8002,
-      "forks": 2408,
-      "currentPeriodStars": 25,
+      "stars": 8004,
+      "forks": 2407,
+      "currentPeriodStars": 26,
       "builtBy": [
         {
           "username": "laktyushin",
@@ -501,9 +501,9 @@
       "description": "A tool to enforce Swift style and conventions.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 19451,
+      "stars": 19452,
       "forks": 2280,
-      "currentPeriodStars": 20,
+      "currentPeriodStars": 22,
       "builtBy": [
         {
           "username": "jpsim",
@@ -537,8 +537,8 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": 14895,
-      "forks": 470,
-      "currentPeriodStars": 28,
+      "forks": 471,
+      "currentPeriodStars": 29,
       "builtBy": [
         {
           "username": "IsaacMarovitz",
@@ -573,7 +573,7 @@
       "languageColor": "#F05138",
       "stars": 8022,
       "forks": 3689,
-      "currentPeriodStars": 4,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "joesus",
@@ -606,9 +606,9 @@
       "description": "Commonly used data structures for Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 4342,
+      "stars": 4344,
       "forks": 361,
-      "currentPeriodStars": 17,
+      "currentPeriodStars": 19,
       "builtBy": [
         {
           "username": "lorentey",
@@ -641,9 +641,9 @@
       "description": "A toolkit to make debugging iOS applications easier 🚀",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1560,
+      "stars": 1564,
       "forks": 134,
-      "currentPeriodStars": 342,
+      "currentPeriodStars": 450,
       "builtBy": [
         {
           "username": "MaatheusGois",
@@ -679,9 +679,9 @@
       "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8410,
+      "stars": 8412,
       "forks": 728,
-      "currentPeriodStars": 7,
+      "currentPeriodStars": 8,
       "builtBy": [
         {
           "username": "weissi",
@@ -714,9 +714,9 @@
       "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1086,
+      "stars": 1090,
       "forks": 59,
-      "currentPeriodStars": 90,
+      "currentPeriodStars": 88,
       "builtBy": [
         {
           "username": "altic-dev",
@@ -749,7 +749,7 @@
       "description": "Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 12675,
+      "stars": 12677,
       "forks": 631,
       "currentPeriodStars": 53,
       "builtBy": [

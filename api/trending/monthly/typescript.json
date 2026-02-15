@@ -1,7 +1,7 @@
 {
   "count": 16,
   "since": "monthly",
-  "captured_at": "2026-02-14 16:05:36",
+  "captured_at": "2026-02-15 00:19:26",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 193725,
-      "forks": 33318,
-      "currentPeriodStars": 187490,
+      "stars": 194386,
+      "forks": 33512,
+      "currentPeriodStars": 189974,
       "builtBy": [
         {
           "username": "steipete",
@@ -46,9 +46,9 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11942,
-      "forks": 1192,
-      "currentPeriodStars": 9936,
+      "stars": 12062,
+      "forks": 1203,
+      "currentPeriodStars": 10225,
       "builtBy": [
         {
           "username": "badlogic",
@@ -81,9 +81,9 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15808,
-      "forks": 1189,
-      "currentPeriodStars": 12270,
+      "stars": 15847,
+      "forks": 1193,
+      "currentPeriodStars": 12330,
       "builtBy": [
         {
           "username": "kuishou68",
@@ -119,9 +119,9 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21878,
-      "forks": 2200,
-      "currentPeriodStars": 17889,
+      "stars": 22019,
+      "forks": 2211,
+      "currentPeriodStars": 18284,
       "builtBy": [
         {
           "username": "ajmallesh",
@@ -154,9 +154,9 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 36552,
-      "forks": 2222,
-      "currentPeriodStars": 11282,
+      "stars": 36594,
+      "forks": 2225,
+      "currentPeriodStars": 11382,
       "builtBy": [
         {
           "username": "JonnyBurger",
@@ -189,9 +189,9 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8408,
-      "forks": 446,
-      "currentPeriodStars": 6722,
+      "stars": 8449,
+      "forks": 451,
+      "currentPeriodStars": 6822,
       "builtBy": [
         {
           "username": "tobi",
@@ -224,9 +224,9 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 104448,
-      "forks": 10142,
-      "currentPeriodStars": 38300,
+      "stars": 104608,
+      "forks": 10166,
+      "currentPeriodStars": 36517,
       "builtBy": [
         {
           "username": "thdxr",
@@ -259,9 +259,9 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 28125,
-      "forks": 1881,
-      "currentPeriodStars": 14497,
+      "stars": 28201,
+      "forks": 1885,
+      "currentPeriodStars": 14718,
       "builtBy": [
         {
           "username": "thedotmack",
@@ -294,9 +294,9 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15098,
-      "forks": 1808,
-      "currentPeriodStars": 8119,
+      "stars": 15136,
+      "forks": 1813,
+      "currentPeriodStars": 8192,
       "builtBy": [
         {
           "username": "virattt",
@@ -329,9 +329,9 @@
       "description": "Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8359,
-      "forks": 560,
-      "currentPeriodStars": 5740,
+      "stars": 8369,
+      "forks": 561,
+      "currentPeriodStars": 5531,
       "builtBy": [
         {
           "username": "NoeFabris",
@@ -364,9 +364,9 @@
       "description": "the best agent harness",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 31401,
-      "forks": 2339,
-      "currentPeriodStars": 15620,
+      "stars": 31439,
+      "forks": 2345,
+      "currentPeriodStars": 15155,
       "builtBy": [
         {
           "username": "code-yeongyu",
@@ -399,9 +399,9 @@
       "description": "A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents. 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4447,
-      "forks": 1130,
-      "currentPeriodStars": 2792,
+      "stars": 4450,
+      "forks": 1131,
+      "currentPeriodStars": 2701,
       "builtBy": [
         {
           "username": "hellodigua",
@@ -434,9 +434,9 @@
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 16419,
+      "stars": 16427,
       "forks": 1643,
-      "currentPeriodStars": 2350,
+      "currentPeriodStars": 2359,
       "builtBy": [
         {
           "username": "Dhravya",
@@ -469,9 +469,9 @@
       "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1488,
+      "stars": 1489,
       "forks": 173,
-      "currentPeriodStars": 1132,
+      "currentPeriodStars": 1137,
       "builtBy": [
         {
           "username": "ochafik",
@@ -504,9 +504,9 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8833,
-      "forks": 686,
-      "currentPeriodStars": 4205,
+      "stars": 8861,
+      "forks": 690,
+      "currentPeriodStars": 4208,
       "builtBy": [
         {
           "username": "kieranklaassen",
@@ -539,9 +539,9 @@
       "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 45718,
-      "forks": 2184,
-      "currentPeriodStars": 4022,
+      "stars": 45746,
+      "forks": 2182,
+      "currentPeriodStars": 3953,
       "builtBy": [
         {
           "username": "enesgules",

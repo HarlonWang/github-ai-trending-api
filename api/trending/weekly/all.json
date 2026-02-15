@@ -1,7 +1,7 @@
 {
   "count": 15,
   "since": "weekly",
-  "captured_at": "2026-02-14 16:04:08",
+  "captured_at": "2026-02-15 00:18:09",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21878,
-      "forks": 2200,
-      "currentPeriodStars": 16589,
+      "stars": 22017,
+      "forks": 2211,
+      "currentPeriodStars": 13576,
       "builtBy": [
         {
           "username": "ajmallesh",
@@ -46,9 +46,9 @@
       "description": "A minimal, secure Python interpreter written in Rust for use by AI",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5207,
-      "forks": 187,
-      "currentPeriodStars": 3539,
+      "stars": 5229,
+      "forks": 189,
+      "currentPeriodStars": 3428,
       "builtBy": [
         {
           "username": "samuelcolvin",
@@ -81,9 +81,9 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32183,
-      "forks": 2146,
-      "currentPeriodStars": 7832,
+      "stars": 32278,
+      "forks": 2152,
+      "currentPeriodStars": 8146,
       "builtBy": [
         {
           "username": "aksg87",
@@ -119,9 +119,9 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2316,
-      "forks": 174,
-      "currentPeriodStars": 1750,
+      "stars": 2409,
+      "forks": 180,
+      "currentPeriodStars": 1927,
       "builtBy": [
         {
           "username": "apps/copilot-swe-agent",
@@ -157,9 +157,9 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2404,
-      "forks": 159,
-      "currentPeriodStars": 1711,
+      "stars": 2490,
+      "forks": 162,
+      "currentPeriodStars": 2065,
       "builtBy": [
         {
           "username": "Jeffallan",
@@ -195,9 +195,9 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15098,
-      "forks": 1808,
-      "currentPeriodStars": 4352,
+      "stars": 15136,
+      "forks": 1813,
+      "currentPeriodStars": 4002,
       "builtBy": [
         {
           "username": "virattt",
@@ -230,9 +230,9 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8465,
+      "stars": 8502,
       "forks": 473,
-      "currentPeriodStars": 3747,
+      "currentPeriodStars": 3126,
       "builtBy": [
         {
           "username": "gverma-openai",
@@ -265,9 +265,9 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11941,
-      "forks": 1192,
-      "currentPeriodStars": 4044,
+      "stars": 12061,
+      "forks": 1203,
+      "currentPeriodStars": 4131,
       "builtBy": [
         {
           "username": "badlogic",
@@ -300,9 +300,9 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17256,
-      "forks": 3711,
-      "currentPeriodStars": 1568,
+      "stars": 17268,
+      "forks": 3714,
+      "currentPeriodStars": 1615,
       "builtBy": [
         {
           "username": "hsliuping",
@@ -335,9 +335,9 @@
       "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 23770,
-      "forks": 1827,
-      "currentPeriodStars": 731,
+      "stars": 23779,
+      "forks": 1828,
+      "currentPeriodStars": 703,
       "builtBy": [
         {
           "username": "yiranyyu",
@@ -370,9 +370,9 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 94943,
-      "forks": 13753,
-      "currentPeriodStars": 2326,
+      "stars": 95016,
+      "forks": 13762,
+      "currentPeriodStars": 2539,
       "builtBy": [
         {
           "username": "Shubhamsaboo",
@@ -408,9 +408,9 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 28126,
-      "forks": 1881,
-      "currentPeriodStars": 3745,
+      "stars": 28201,
+      "forks": 1885,
+      "currentPeriodStars": 3712,
       "builtBy": [
         {
           "username": "thedotmack",
@@ -443,9 +443,9 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8833,
-      "forks": 686,
-      "currentPeriodStars": 1457,
+      "stars": 8861,
+      "forks": 690,
+      "currentPeriodStars": 1472,
       "builtBy": [
         {
           "username": "kieranklaassen",
@@ -478,9 +478,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24966,
-      "forks": 1474,
-      "currentPeriodStars": 1240,
+      "stars": 25087,
+      "forks": 1479,
+      "currentPeriodStars": 1513,
       "builtBy": [
         {
           "username": "OrKoN",
@@ -516,9 +516,9 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8408,
-      "forks": 446,
-      "currentPeriodStars": 1539,
+      "stars": 8448,
+      "forks": 451,
+      "currentPeriodStars": 1421,
       "builtBy": [
         {
           "username": "tobi",

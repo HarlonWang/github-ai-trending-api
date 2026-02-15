@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "monthly",
-  "captured_at": "2026-02-14 16:05:46",
+  "captured_at": "2026-02-15 00:19:35",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5943,
+      "stars": 5951,
       "forks": 1001,
-      "currentPeriodStars": 278,
+      "currentPeriodStars": 365,
       "builtBy": [
         {
           "username": "levlam",
@@ -49,9 +49,9 @@
       "description": "WiFi security auditing tools suite",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6929,
+      "stars": 6928,
       "forks": 1236,
-      "currentPeriodStars": 177,
+      "currentPeriodStars": 173,
       "builtBy": [
         {
           "username": "Mister-X-",
@@ -84,9 +84,9 @@
       "description": "tmux source code",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 41758,
+      "stars": 41763,
       "forks": 2409,
-      "currentPeriodStars": 1040,
+      "currentPeriodStars": 1048,
       "builtBy": [
         {
           "username": "nicm",
@@ -121,7 +121,7 @@
       "languageColor": "#555555",
       "stars": 1125,
       "forks": 75,
-      "currentPeriodStars": 843,
+      "currentPeriodStars": 703,
       "builtBy": [
         {
           "username": "kaansenol5",
@@ -156,7 +156,7 @@
       "languageColor": "#555555",
       "stars": 4448,
       "forks": 648,
-      "currentPeriodStars": 130,
+      "currentPeriodStars": 131,
       "builtBy": [
         {
           "username": "briaguya0",
@@ -189,9 +189,9 @@
       "description": "The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2280,
-      "forks": 324,
-      "currentPeriodStars": 157,
+      "stars": 2281,
+      "forks": 325,
+      "currentPeriodStars": 160,
       "builtBy": [
         {
           "username": "doegox",
@@ -224,9 +224,9 @@
       "description": "Sandboxie Plus & Classic",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17525,
+      "stars": 17527,
       "forks": 1906,
-      "currentPeriodStars": 722,
+      "currentPeriodStars": 715,
       "builtBy": [
         {
           "username": "DavidXanatos",
@@ -259,9 +259,9 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14467,
-      "forks": 8654,
-      "currentPeriodStars": 322,
+      "stars": 14470,
+      "forks": 8653,
+      "currentPeriodStars": 324,
       "builtBy": [
         {
           "username": "nashif",
@@ -294,7 +294,7 @@
       "description": "Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6819,
+      "stars": 6818,
       "forks": 313,
       "currentPeriodStars": 187,
       "builtBy": [
@@ -329,9 +329,9 @@
       "description": "Power full Task Manager",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3126,
+      "stars": 3127,
       "forks": 243,
-      "currentPeriodStars": 1168,
+      "currentPeriodStars": 1159,
       "builtBy": [
         {
           "username": "DavidXanatos",
@@ -364,9 +364,9 @@
       "description": "TLS/SSL and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 29557,
-      "forks": 11050,
-      "currentPeriodStars": 233,
+      "stars": 29558,
+      "forks": 11049,
+      "currentPeriodStars": 228,
       "builtBy": [
         {
           "username": "levitte",
@@ -399,9 +399,9 @@
       "description": "ehviewer，用爱发电，快乐前行",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 22394,
+      "stars": 22398,
       "forks": 593,
-      "currentPeriodStars": 623,
+      "currentPeriodStars": 621,
       "builtBy": [
         {
           "username": "xiaojieonly",
@@ -434,9 +434,9 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 40698,
+      "stars": 40700,
       "forks": 7057,
-      "currentPeriodStars": 384,
+      "currentPeriodStars": 390,
       "builtBy": [
         {
           "username": "bagder",
@@ -469,9 +469,9 @@
       "description": "A simple and easy-to-use library to enjoy videogames programming",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 30947,
+      "stars": 30952,
       "forks": 2925,
-      "currentPeriodStars": 717,
+      "currentPeriodStars": 708,
       "builtBy": [
         {
           "username": "raysan5",
@@ -504,9 +504,9 @@
       "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13616,
-      "forks": 1615,
-      "currentPeriodStars": 266,
+      "stars": 13618,
+      "forks": 1616,
+      "currentPeriodStars": 268,
       "builtBy": [
         {
           "username": "dmex",
@@ -540,8 +540,8 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 17071,
-      "forks": 2037,
-      "currentPeriodStars": 278,
+      "forks": 2036,
+      "currentPeriodStars": 276,
       "builtBy": [
         {
           "username": "AmineKhaldi",
@@ -576,7 +576,7 @@
       "languageColor": "#555555",
       "stars": 7731,
       "forks": 1670,
-      "currentPeriodStars": 90,
+      "currentPeriodStars": 92,
       "builtBy": [
         {
           "username": "mossmann",
@@ -609,9 +609,9 @@
       "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3696,
-      "forks": 1485,
-      "currentPeriodStars": 75,
+      "stars": 3697,
+      "forks": 1484,
+      "currentPeriodStars": 76,
       "builtBy": [
         {
           "username": "gregory-nutt",
@@ -644,8 +644,8 @@
       "description": "anti-dpi software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1623,
-      "forks": 50,
+      "stars": 1631,
+      "forks": 52,
       "currentPeriodStars": 543,
       "builtBy": [
         {

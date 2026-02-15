@@ -1,7 +1,7 @@
 {
   "count": 23,
   "since": "daily",
-  "captured_at": "2026-02-14 16:03:31",
+  "captured_at": "2026-02-15 00:17:33",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 30195,
+      "stars": 30204,
       "forks": 6849,
-      "currentPeriodStars": 257,
+      "currentPeriodStars": 86,
       "builtBy": [
         {
           "username": "ashishps1",
@@ -42,9 +42,9 @@
       "description": "Spring Framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 59614,
+      "stars": 59616,
       "forks": 38915,
-      "currentPeriodStars": 9,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "jhoeller",
@@ -77,7 +77,7 @@
       "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8858,
+      "stars": 8860,
       "forks": 3992,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -112,9 +112,9 @@
       "description": "🔎 Open source distributed and RESTful search engine.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12379,
+      "stars": 12381,
       "forks": 2409,
-      "currentPeriodStars": 5,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "apps/dependabot",
@@ -149,7 +149,7 @@
       "languageColor": "#b07219",
       "stars": 5702,
       "forks": 1445,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "scholzj",
@@ -184,7 +184,7 @@
       "languageColor": "#b07219",
       "stars": 13937,
       "forks": 3776,
-      "currentPeriodStars": 0,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "gianm",
@@ -217,9 +217,9 @@
       "description": "An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5702,
+      "stars": 5707,
       "forks": 980,
-      "currentPeriodStars": 36,
+      "currentPeriodStars": 29,
       "builtBy": [
         {
           "username": "ikarus23",
@@ -252,7 +252,7 @@
       "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 26392,
+      "stars": 26393,
       "forks": 2491,
       "currentPeriodStars": 10,
       "builtBy": [
@@ -287,9 +287,9 @@
       "description": "Open-source third-party Telegram client with not many but useful modifications.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 3312,
-      "forks": 139,
-      "currentPeriodStars": 54,
+      "stars": 3313,
+      "forks": 140,
+      "currentPeriodStars": 49,
       "builtBy": [
         {
           "username": "tehcneko",
@@ -324,7 +324,7 @@
       "languageColor": "#b07219",
       "stars": 2839,
       "forks": 286,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "Eanya-Tonic",
@@ -349,9 +349,9 @@
       "description": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 10371,
+      "stars": 10372,
       "forks": 2424,
-      "currentPeriodStars": 3,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "jon-signal",
@@ -384,7 +384,7 @@
       "description": "Process Orchestration Framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4009,
+      "stars": 4010,
       "forks": 745,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -419,9 +419,9 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32835,
-      "forks": 8053,
-      "currentPeriodStars": 23,
+      "stars": 32841,
+      "forks": 8052,
+      "currentPeriodStars": 26,
       "builtBy": [
         {
           "username": "stianst",
@@ -491,7 +491,7 @@
       "languageColor": "#b07219",
       "stars": 34008,
       "forks": 8644,
-      "currentPeriodStars": 5,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "shs96c",
@@ -525,7 +525,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 12554,
-      "forks": 3485,
+      "forks": 3486,
       "currentPeriodStars": 9,
       "builtBy": [
         {
@@ -561,7 +561,7 @@
       "languageColor": "#b07219",
       "stars": 5586,
       "forks": 338,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "timotheeguerin",
@@ -594,9 +594,9 @@
       "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12221,
+      "stars": 12223,
       "forks": 2559,
-      "currentPeriodStars": 17,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
           "username": "mar-v-in",
@@ -629,9 +629,9 @@
       "description": "Mirror of Apache Kafka",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 31894,
+      "stars": 31897,
       "forks": 14959,
-      "currentPeriodStars": 10,
+      "currentPeriodStars": 12,
       "builtBy": [
         {
           "username": "ijuma",
@@ -664,9 +664,9 @@
       "description": "Netty project - an event-driven asynchronous network application framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 34795,
+      "stars": 34797,
       "forks": 16285,
-      "currentPeriodStars": 5,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "normanmaurer",
@@ -699,7 +699,7 @@
       "description": "The official AWS SDK for Java - Version 2",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 2542,
+      "stars": 2543,
       "forks": 977,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -735,8 +735,8 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 9628,
-      "forks": 3839,
-      "currentPeriodStars": 7,
+      "forks": 3838,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "jbellis",
@@ -769,7 +769,7 @@
       "description": "一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9832,
+      "stars": 9833,
       "forks": 1132,
       "currentPeriodStars": 4,
       "builtBy": [

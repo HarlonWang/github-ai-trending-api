@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "daily",
-  "captured_at": "2026-02-14 16:03:57",
+  "captured_at": "2026-02-15 00:18:02",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A toolkit to make debugging iOS applications easier 🚀",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1560,
+      "stars": 1564,
       "forks": 134,
-      "currentPeriodStars": 302,
+      "currentPeriodStars": 197,
       "builtBy": [
         {
           "username": "MaatheusGois",
@@ -49,9 +49,9 @@
       "description": "Windows alt-tab on macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14747,
+      "stars": 14756,
       "forks": 484,
-      "currentPeriodStars": 24,
+      "currentPeriodStars": 28,
       "builtBy": [
         {
           "username": "lwouis",
@@ -85,8 +85,8 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": 42350,
-      "forks": 7670,
-      "currentPeriodStars": 0,
+      "forks": 7669,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "cnoon",
@@ -119,9 +119,9 @@
       "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 7058,
-      "forks": 497,
-      "currentPeriodStars": 30,
+      "stars": 7077,
+      "forks": 498,
+      "currentPeriodStars": 34,
       "builtBy": [
         {
           "username": "Alexander5015",
@@ -156,7 +156,7 @@
       "languageColor": "#F05138",
       "stars": 11849,
       "forks": 3352,
-      "currentPeriodStars": 5,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "charlesmchen-signal",
@@ -189,9 +189,9 @@
       "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 32409,
+      "stars": 32416,
       "forks": 929,
-      "currentPeriodStars": 20,
+      "currentPeriodStars": 22,
       "builtBy": [
         {
           "username": "waydabber",
@@ -224,9 +224,9 @@
       "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3742,
+      "stars": 3747,
       "forks": 477,
-      "currentPeriodStars": 23,
+      "currentPeriodStars": 21,
       "builtBy": [
         {
           "username": "Beingpax",
@@ -259,7 +259,7 @@
       "description": "Commonly used data structures for Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 4342,
+      "stars": 4344,
       "forks": 361,
       "currentPeriodStars": 6,
       "builtBy": [
@@ -294,9 +294,9 @@
       "description": "AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3478,
+      "stars": 3481,
       "forks": 140,
-      "currentPeriodStars": 33,
+      "currentPeriodStars": 15,
       "builtBy": [
         {
           "username": "tpae",
@@ -331,7 +331,7 @@
       "languageColor": "#F05138",
       "stars": 5521,
       "forks": 693,
-      "currentPeriodStars": 5,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "fortmarek",
@@ -364,7 +364,7 @@
       "description": "📸 Delightful Swift snapshot testing.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 4143,
+      "stars": 4144,
       "forks": 652,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -399,9 +399,9 @@
       "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8410,
+      "stars": 8412,
       "forks": 728,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "weissi",
@@ -434,9 +434,9 @@
       "description": "Async Algorithms for Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3596,
+      "stars": 3598,
       "forks": 201,
-      "currentPeriodStars": 5,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "phausler",
@@ -471,7 +471,7 @@
       "languageColor": "#F05138",
       "stars": 14341,
       "forks": 1636,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "stephencelis",
@@ -504,9 +504,9 @@
       "description": "The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1022,
+      "stars": 1024,
       "forks": 378,
-      "currentPeriodStars": 0,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "philipphofmann",
@@ -540,8 +540,8 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": 8180,
-      "forks": 846,
-      "currentPeriodStars": 0,
+      "forks": 845,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "groue",
@@ -574,9 +574,9 @@
       "description": "📱 Home Assistant for Apple platforms",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2097,
+      "stars": 2098,
       "forks": 418,
-      "currentPeriodStars": 0,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "robbiet480",
@@ -644,8 +644,8 @@
       "description": "AeroSpace is an i3-like tiling window manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 18861,
-      "forks": 418,
+      "stars": 18867,
+      "forks": 419,
       "currentPeriodStars": 15,
       "builtBy": [
         {
@@ -679,9 +679,9 @@
       "description": "On-device Speech Recognition for Apple Silicon",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 5596,
+      "stars": 5600,
       "forks": 500,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "ZachNagengast",

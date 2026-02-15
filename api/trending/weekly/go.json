@@ -1,7 +1,7 @@
 {
   "count": 23,
   "since": "weekly",
-  "captured_at": "2026-02-14 16:04:29",
+  "captured_at": "2026-02-15 00:18:29",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2316,
-      "forks": 174,
-      "currentPeriodStars": 1750,
+      "stars": 2409,
+      "forks": 180,
+      "currentPeriodStars": 1927,
       "builtBy": [
         {
           "username": "apps/copilot-swe-agent",
@@ -49,9 +49,9 @@
       "description": "Container runtimes on macOS (and Linux) with minimal setup",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26914,
+      "stars": 26923,
       "forks": 530,
-      "currentPeriodStars": 213,
+      "currentPeriodStars": 225,
       "builtBy": [
         {
           "username": "abiosoft",
@@ -84,9 +84,9 @@
       "description": "Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4523,
+      "stars": 4536,
       "forks": 189,
-      "currentPeriodStars": 359,
+      "currentPeriodStars": 354,
       "builtBy": [
         {
           "username": "rcourtman",
@@ -119,9 +119,9 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 31904,
-      "forks": 2947,
-      "currentPeriodStars": 467,
+      "stars": 31908,
+      "forks": 2946,
+      "currentPeriodStars": 321,
       "builtBy": [
         {
           "username": "knqyf263",
@@ -154,9 +154,9 @@
       "description": "Podman: A tool for managing OCI containers and pods.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 30687,
+      "stars": 30688,
       "forks": 2976,
-      "currentPeriodStars": 100,
+      "currentPeriodStars": 98,
       "builtBy": [
         {
           "username": "openshift-merge-robot",
@@ -190,7 +190,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": 24905,
-      "forks": 1913,
+      "forks": 1912,
       "currentPeriodStars": 108,
       "builtBy": [
         {
@@ -225,8 +225,8 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": 7458,
-      "forks": 1186,
-      "currentPeriodStars": 152,
+      "forks": 1187,
+      "currentPeriodStars": 161,
       "builtBy": [
         {
           "username": "alireza0",
@@ -259,7 +259,7 @@
       "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3844,
+      "stars": 3846,
       "forks": 352,
       "currentPeriodStars": 65,
       "builtBy": [
@@ -294,8 +294,8 @@
       "description": "Prometheus Alertmanager",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8352,
-      "forks": 2403,
+      "stars": 8353,
+      "forks": 2402,
       "currentPeriodStars": 16,
       "builtBy": [
         {
@@ -329,9 +329,9 @@
       "description": "simple terminal UI for git commands",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 72319,
+      "stars": 72325,
       "forks": 2504,
-      "currentPeriodStars": 523,
+      "currentPeriodStars": 495,
       "builtBy": [
         {
           "username": "jesseduffield",
@@ -364,9 +364,9 @@
       "description": "Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12160,
+      "stars": 12161,
       "forks": 657,
-      "currentPeriodStars": 88,
+      "currentPeriodStars": 79,
       "builtBy": [
         {
           "username": "aliscott",
@@ -401,7 +401,7 @@
       "languageColor": "#00ADD8",
       "stars": 8577,
       "forks": 720,
-      "currentPeriodStars": 160,
+      "currentPeriodStars": 166,
       "builtBy": [
         {
           "username": "majd",
@@ -435,8 +435,8 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": 47668,
-      "forks": 10218,
-      "currentPeriodStars": 68,
+      "forks": 10216,
+      "currentPeriodStars": 69,
       "builtBy": [
         {
           "username": "jbardin",
@@ -471,7 +471,7 @@
       "languageColor": "#00ADD8",
       "stars": 3464,
       "forks": 753,
-      "currentPeriodStars": 17,
+      "currentPeriodStars": 19,
       "builtBy": [
         {
           "username": "jasdel",
@@ -504,9 +504,9 @@
       "description": "An open source, self-hosted implementation of the Tailscale control server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35347,
-      "forks": 1900,
-      "currentPeriodStars": 390,
+      "stars": 35363,
+      "forks": 1898,
+      "currentPeriodStars": 398,
       "builtBy": [
         {
           "username": "kradalby",
@@ -535,9 +535,9 @@
       "description": "Open-source media server with a web interface and desktop app for anime and manga.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2830,
-      "forks": 179,
-      "currentPeriodStars": 210,
+      "stars": 2834,
+      "forks": 180,
+      "currentPeriodStars": 211,
       "builtBy": [
         {
           "username": "5rahim",
@@ -570,9 +570,9 @@
       "description": "The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4829,
+      "stars": 4833,
       "forks": 251,
-      "currentPeriodStars": 62,
+      "currentPeriodStars": 61,
       "builtBy": [
         {
           "username": "tonyhb",
@@ -605,9 +605,9 @@
       "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 60242,
-      "forks": 7004,
-      "currentPeriodStars": 150,
+      "stars": 60275,
+      "forks": 7008,
+      "currentPeriodStars": 180,
       "builtBy": [
         {
           "username": "harshavardhana",
@@ -643,9 +643,9 @@
       "description": "MCP server for Grafana",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2299,
+      "stars": 2303,
       "forks": 260,
-      "currentPeriodStars": 55,
+      "currentPeriodStars": 57,
       "builtBy": [
         {
           "username": "sd2k",
@@ -678,9 +678,9 @@
       "description": "⚡️ Express inspired web framework written in Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 39205,
-      "forks": 1957,
-      "currentPeriodStars": 102,
+      "stars": 39207,
+      "forks": 1956,
+      "currentPeriodStars": 83,
       "builtBy": [
         {
           "username": "Fenny",
@@ -713,9 +713,9 @@
       "description": "Weighs the soul of incoming HTTP requests to stop AI crawlers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16925,
+      "stars": 16930,
       "forks": 496,
-      "currentPeriodStars": 215,
+      "currentPeriodStars": 219,
       "builtBy": [
         {
           "username": "Xe",
@@ -748,9 +748,9 @@
       "description": "The to-do app to organize your life.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3332,
-      "forks": 306,
-      "currentPeriodStars": 94,
+      "stars": 3331,
+      "forks": 305,
+      "currentPeriodStars": 91,
       "builtBy": [
         {
           "username": "kolaente",
@@ -785,7 +785,7 @@
       "languageColor": "#00ADD8",
       "stars": 11936,
       "forks": 2364,
-      "currentPeriodStars": 18,
+      "currentPeriodStars": 19,
       "builtBy": [
         {
           "username": "monopole",

@@ -1,7 +1,7 @@
 {
   "count": 8,
   "since": "daily",
-  "captured_at": "2026-02-14 16:03:25",
+  "captured_at": "2026-02-15 00:17:28",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 546,
-      "forks": 227,
-      "currentPeriodStars": 223,
+      "stars": 604,
+      "forks": 238,
+      "currentPeriodStars": 209,
       "builtBy": [
         {
           "username": "claude",
@@ -49,9 +49,9 @@
       "description": "",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 886,
+      "stars": 892,
       "forks": 83,
-      "currentPeriodStars": 35,
+      "currentPeriodStars": 32,
       "builtBy": [
         {
           "username": "yctimlin",
@@ -84,9 +84,9 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 82794,
-      "forks": 7394,
-      "currentPeriodStars": 34,
+      "stars": 82807,
+      "forks": 7393,
+      "currentPeriodStars": 32,
       "builtBy": [
         {
           "username": "louislam",
@@ -119,7 +119,7 @@
       "description": "A design system built by IBM",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 8765,
+      "stars": 8769,
       "forks": 2096,
       "currentPeriodStars": 7,
       "builtBy": [
@@ -154,9 +154,9 @@
       "description": "web development for the rest of us",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 85753,
+      "stars": 85758,
       "forks": 4769,
-      "currentPeriodStars": 9,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "Rich-Harris",
@@ -189,9 +189,9 @@
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 13913,
-      "forks": 1320,
-      "currentPeriodStars": 261,
+      "stars": 14050,
+      "forks": 1333,
+      "currentPeriodStars": 271,
       "builtBy": [
         {
           "username": "glittercowboy",
@@ -224,9 +224,9 @@
       "description": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 4851,
-      "forks": 576,
-      "currentPeriodStars": 109,
+      "stars": 4958,
+      "forks": 577,
+      "currentPeriodStars": 175,
       "builtBy": [
         {
           "username": "pshenok",
@@ -259,9 +259,9 @@
       "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 21197,
-      "forks": 2419,
-      "currentPeriodStars": 93,
+      "stars": 21216,
+      "forks": 2427,
+      "currentPeriodStars": 77,
       "builtBy": [
         {
           "username": "aaronpowell",

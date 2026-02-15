@@ -1,7 +1,7 @@
 {
   "count": 11,
   "since": "daily",
-  "captured_at": "2026-02-14 16:03:14",
+  "captured_at": "2026-02-15 00:17:20",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9481,
-      "forks": 461,
-      "currentPeriodStars": 137,
+      "stars": 9605,
+      "forks": 464,
+      "currentPeriodStars": 127,
       "builtBy": [
         {
           "username": "apps/dependabot",
@@ -49,9 +49,9 @@
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 546,
-      "forks": 227,
-      "currentPeriodStars": 223,
+      "stars": 604,
+      "forks": 238,
+      "currentPeriodStars": 209,
       "builtBy": [
         {
           "username": "claude",
@@ -87,9 +87,9 @@
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 5680,
-      "forks": 451,
-      "currentPeriodStars": 226,
+      "stars": 6022,
+      "forks": 495,
+      "currentPeriodStars": 217,
       "builtBy": [
         {
           "username": "ramnique",
@@ -125,9 +125,9 @@
       "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 60242,
-      "forks": 7004,
-      "currentPeriodStars": 37,
+      "stars": 60275,
+      "forks": 7008,
+      "currentPeriodStars": 29,
       "builtBy": [
         {
           "username": "harshavardhana",
@@ -163,9 +163,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24966,
-      "forks": 1474,
-      "currentPeriodStars": 326,
+      "stars": 25087,
+      "forks": 1479,
+      "currentPeriodStars": 331,
       "builtBy": [
         {
           "username": "OrKoN",
@@ -201,9 +201,9 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1033,
-      "forks": 58,
-      "currentPeriodStars": 186,
+      "stars": 1217,
+      "forks": 67,
+      "currentPeriodStars": 172,
       "builtBy": [
         {
           "username": "iaojnh",
@@ -239,9 +239,9 @@
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6027,
-      "forks": 545,
-      "currentPeriodStars": 83,
+      "stars": 6149,
+      "forks": 551,
+      "currentPeriodStars": 98,
       "builtBy": [
         {
           "username": "ruvnet",
@@ -265,9 +265,9 @@
       "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6209,
-      "forks": 591,
-      "currentPeriodStars": 24,
+      "stars": 6307,
+      "forks": 600,
+      "currentPeriodStars": 40,
       "builtBy": [
         {
           "username": "chandrasekharan-zipstack",
@@ -303,9 +303,9 @@
       "description": "The memory-first coding agent",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1129,
-      "forks": 133,
-      "currentPeriodStars": 30,
+      "stars": 1204,
+      "forks": 135,
+      "currentPeriodStars": 55,
       "builtBy": [
         {
           "username": "cpacker",
@@ -341,9 +341,9 @@
       "description": "The Ruby Programming Language",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 23336,
-      "forks": 5562,
-      "currentPeriodStars": 6,
+      "stars": 23368,
+      "forks": 5563,
+      "currentPeriodStars": 15,
       "builtBy": [
         {
           "username": "nobu",
@@ -379,9 +379,9 @@
       "description": "Yet another matrix client",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 3004,
-      "forks": 409,
-      "currentPeriodStars": 46,
+      "stars": 3045,
+      "forks": 410,
+      "currentPeriodStars": 41,
       "builtBy": [
         {
           "username": "ajbura",

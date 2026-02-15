@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "monthly",
-  "captured_at": "2026-02-14 16:05:57",
+  "captured_at": "2026-02-15 00:19:47",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6666,
+      "stars": 6674,
       "forks": 253,
-      "currentPeriodStars": 3089,
+      "currentPeriodStars": 3059,
       "builtBy": [
         {
           "username": "rainxchzed",
@@ -46,9 +46,9 @@
       "description": "An alternative frontend for YouTube, for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 11386,
+      "stars": 11387,
       "forks": 577,
-      "currentPeriodStars": 337,
+      "currentPeriodStars": 340,
       "builtBy": [
         {
           "username": "Bnyro",
@@ -81,9 +81,9 @@
       "description": "Bringing Astrid Tasks back from the dead",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 4917,
-      "forks": 601,
-      "currentPeriodStars": 159,
+      "stars": 4919,
+      "forks": 600,
+      "currentPeriodStars": 163,
       "builtBy": [
         {
           "username": "abaker",
@@ -116,9 +116,9 @@
       "description": "Painless E2E Automation for Mobile and Web",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 10718,
+      "stars": 10722,
       "forks": 609,
-      "currentPeriodStars": 704,
+      "currentPeriodStars": 705,
       "builtBy": [
         {
           "username": "dmitry-zaitsev",
@@ -151,9 +151,9 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 50976,
+      "stars": 50983,
       "forks": 6930,
-      "currentPeriodStars": 1622,
+      "currentPeriodStars": 1613,
       "builtBy": [
         {
           "username": "2dust",
@@ -187,8 +187,8 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": 4718,
-      "forks": 673,
-      "currentPeriodStars": 412,
+      "forks": 672,
+      "currentPeriodStars": 404,
       "builtBy": [
         {
           "username": "callebtc",
@@ -221,9 +221,9 @@
       "description": "Just a music player.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2869,
-      "forks": 138,
-      "currentPeriodStars": 451,
+      "stars": 2874,
+      "forks": 139,
+      "currentPeriodStars": 453,
       "builtBy": [
         {
           "username": "brahmkshatriya",
@@ -256,9 +256,9 @@
       "description": "More Expressive InstallerX !",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3633,
+      "stars": 3638,
       "forks": 135,
-      "currentPeriodStars": 496,
+      "currentPeriodStars": 501,
       "builtBy": [
         {
           "username": "wxxsfxyzm",
@@ -291,9 +291,9 @@
       "description": "📱 Nextcloud Android app",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 5137,
-      "forks": 1920,
-      "currentPeriodStars": 78,
+      "stars": 5138,
+      "forks": 1919,
+      "currentPeriodStars": 81,
       "builtBy": [
         {
           "username": "AndyScherzinger",
@@ -326,9 +326,9 @@
       "description": "An open-source keyboard for Android which respects your privacy. Currently in beta.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 8041,
+      "stars": 8044,
       "forks": 595,
-      "currentPeriodStars": 176,
+      "currentPeriodStars": 174,
       "builtBy": [
         {
           "username": "patrickgold",
@@ -361,8 +361,8 @@
       "description": "Software simulation for Android hardware-backed key pairs with key attestation",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 800,
-      "forks": 77,
+      "stars": 805,
+      "forks": 79,
       "currentPeriodStars": 258,
       "builtBy": [
         {
@@ -396,7 +396,7 @@
       "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 24586,
+      "stars": 24597,
       "forks": 1057,
       "currentPeriodStars": 756,
       "builtBy": [
@@ -431,9 +431,9 @@
       "description": "Lightweight unofficial Steam client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2595,
-      "forks": 100,
-      "currentPeriodStars": 545,
+      "stars": 2598,
+      "forks": 101,
+      "currentPeriodStars": 558,
       "builtBy": [
         {
           "username": "utkarshdalal",
@@ -466,9 +466,9 @@
       "description": "原生、纯净、可扩展 —— 重新定义你的 B 站体验",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1390,
+      "stars": 1392,
       "forks": 50,
-      "currentPeriodStars": 642,
+      "currentPeriodStars": 645,
       "builtBy": [
         {
           "username": "jay3-yy",
@@ -489,9 +489,9 @@
       "description": "Official ProtonVPN Android app",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3315,
+      "stars": 3316,
       "forks": 439,
-      "currentPeriodStars": 102,
+      "currentPeriodStars": 101,
       "builtBy": [
         {
           "username": "mateusz-markowicz",
@@ -524,9 +524,9 @@
       "description": "The cutest Material 3 Expressive music streaming client for Android, built for performance and extensibility.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 644,
+      "stars": 647,
       "forks": 21,
-      "currentPeriodStars": 283,
+      "currentPeriodStars": 297,
       "builtBy": [
         {
           "username": "koiverse",
@@ -541,12 +541,12 @@
           "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
         },
         {
-          "username": "GoldenWarriorM",
-          "avatar": "https://avatars.githubusercontent.com/u/69007932?s=40&v=4"
-        },
-        {
           "username": "sang765",
           "avatar": "https://avatars.githubusercontent.com/u/80249864?s=40&v=4"
+        },
+        {
+          "username": "apps/cto-new",
+          "avatar": "https://avatars.githubusercontent.com/in/364074?s=40&v=4"
         }
       ],
       "aiSummary": null
@@ -561,7 +561,7 @@
       "languageColor": "#A97BFF",
       "stars": 767,
       "forks": 71,
-      "currentPeriodStars": 247,
+      "currentPeriodStars": 248,
       "builtBy": [
         {
           "username": "MovTery",
@@ -594,9 +594,9 @@
       "description": "Android TV Client for Jellyfin",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 4074,
-      "forks": 768,
-      "currentPeriodStars": 99,
+      "stars": 4075,
+      "forks": 769,
+      "currentPeriodStars": 101,
       "builtBy": [
         {
           "username": "nielsvanvelzen",
@@ -629,9 +629,9 @@
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 21861,
+      "stars": 21868,
       "forks": 2010,
-      "currentPeriodStars": 1246,
+      "currentPeriodStars": 1248,
       "builtBy": [
         {
           "username": "RikkaW",

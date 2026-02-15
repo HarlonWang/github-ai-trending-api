@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "monthly",
-  "captured_at": "2026-02-14 16:05:52",
+  "captured_at": "2026-02-15 00:19:40",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 5750,
-      "forks": 371,
-      "currentPeriodStars": 3578,
+      "stars": 5781,
+      "forks": 374,
+      "currentPeriodStars": 3672,
       "builtBy": [
         {
           "username": "steipete",
@@ -46,9 +46,9 @@
       "description": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2085,
-      "forks": 129,
-      "currentPeriodStars": 963,
+      "stars": 2090,
+      "forks": 130,
+      "currentPeriodStars": 974,
       "builtBy": [
         {
           "username": "steipete",
@@ -81,9 +81,9 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 25066,
-      "forks": 2340,
-      "currentPeriodStars": 1252,
+      "stars": 25068,
+      "forks": 2341,
+      "currentPeriodStars": 1239,
       "builtBy": [
         {
           "username": "jackjackbits",
@@ -116,9 +116,9 @@
       "description": "CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 635,
+      "stars": 639,
       "forks": 69,
-      "currentPeriodStars": 438,
+      "currentPeriodStars": 445,
       "builtBy": [
         {
           "username": "steipete",
@@ -151,9 +151,9 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 24445,
-      "forks": 643,
-      "currentPeriodStars": 1245,
+      "stars": 24457,
+      "forks": 642,
+      "currentPeriodStars": 1264,
       "builtBy": [
         {
           "username": "jglogan",
@@ -186,9 +186,9 @@
       "description": "RSS reader for macOS and iOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 9675,
-      "forks": 644,
-      "currentPeriodStars": 224,
+      "stars": 9679,
+      "forks": 646,
+      "currentPeriodStars": 227,
       "builtBy": [
         {
           "username": "brentsimmons",
@@ -221,9 +221,9 @@
       "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3742,
+      "stars": 3747,
       "forks": 477,
-      "currentPeriodStars": 590,
+      "currentPeriodStars": 594,
       "builtBy": [
         {
           "username": "Beingpax",
@@ -257,7 +257,7 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": 42350,
-      "forks": 7670,
+      "forks": 7669,
       "currentPeriodStars": 90,
       "builtBy": [
         {
@@ -291,9 +291,9 @@
       "description": "Windows alt-tab on macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14747,
+      "stars": 14756,
       "forks": 484,
-      "currentPeriodStars": 495,
+      "currentPeriodStars": 509,
       "builtBy": [
         {
           "username": "lwouis",
@@ -326,7 +326,7 @@
       "description": "AltStore is an alternative app store for non-jailbroken iOS devices.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 13512,
+      "stars": 13514,
       "forks": 1226,
       "currentPeriodStars": 160,
       "builtBy": [
@@ -361,9 +361,9 @@
       "description": "macOS system monitor in your menu bar",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 36450,
+      "stars": 36457,
       "forks": 1179,
-      "currentPeriodStars": 768,
+      "currentPeriodStars": 755,
       "builtBy": [
         {
           "username": "exelban",
@@ -396,7 +396,7 @@
       "description": "On-device Speech Recognition for Apple Silicon",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 5596,
+      "stars": 5600,
       "forks": 500,
       "currentPeriodStars": 166,
       "builtBy": [
@@ -433,7 +433,7 @@
       "languageColor": "#F05138",
       "stars": 5521,
       "forks": 693,
-      "currentPeriodStars": 80,
+      "currentPeriodStars": 78,
       "builtBy": [
         {
           "username": "fortmarek",
@@ -466,9 +466,9 @@
       "description": "Community fork of PlayCover",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 10845,
+      "stars": 10847,
       "forks": 890,
-      "currentPeriodStars": 277,
+      "currentPeriodStars": 280,
       "builtBy": [
         {
           "username": "IsaacMarovitz",
@@ -501,9 +501,9 @@
       "description": "Virtual machines for iOS and macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 32810,
-      "forks": 1646,
-      "currentPeriodStars": 634,
+      "stars": 32818,
+      "forks": 1647,
+      "currentPeriodStars": 631,
       "builtBy": [
         {
           "username": "osy",
@@ -536,9 +536,9 @@
       "description": "A tool to enforce Swift style and conventions.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 19451,
+      "stars": 19452,
       "forks": 2280,
-      "currentPeriodStars": 82,
+      "currentPeriodStars": 83,
       "builtBy": [
         {
           "username": "jpsim",
@@ -571,7 +571,7 @@
       "description": "Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 972,
+      "stars": 976,
       "forks": 55,
       "currentPeriodStars": 376,
       "builtBy": [
@@ -606,7 +606,7 @@
       "description": "Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1108,
+      "stars": 1115,
       "forks": 50,
       "currentPeriodStars": 852,
       "builtBy": [
@@ -641,9 +641,9 @@
       "description": "The modern video player for macOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 43798,
-      "forks": 2743,
-      "currentPeriodStars": 510,
+      "stars": 43803,
+      "forks": 2742,
+      "currentPeriodStars": 509,
       "builtBy": [
         {
           "username": "lhc70000",
@@ -678,7 +678,7 @@
       "languageColor": "#F05138",
       "stars": 8022,
       "forks": 3689,
-      "currentPeriodStars": 21,
+      "currentPeriodStars": 22,
       "builtBy": [
         {
           "username": "joesus",
@@ -712,7 +712,7 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": 8180,
-      "forks": 846,
+      "forks": 845,
       "currentPeriodStars": 95,
       "builtBy": [
         {

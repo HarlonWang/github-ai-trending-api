@@ -1,7 +1,7 @@
 {
   "count": 18,
   "since": "monthly",
-  "captured_at": "2026-02-14 16:05:19",
+  "captured_at": "2026-02-15 00:19:11",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 37150,
+      "stars": 37154,
       "forks": 3461,
-      "currentPeriodStars": 975,
+      "currentPeriodStars": 973,
       "builtBy": [
         {
           "username": "Stypox",
@@ -46,9 +46,9 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22094,
-      "forks": 5415,
-      "currentPeriodStars": 1179,
+      "stars": 22098,
+      "forks": 5418,
+      "currentPeriodStars": 1169,
       "builtBy": [
         {
           "username": "ashishps1",
@@ -81,9 +81,9 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 30195,
+      "stars": 30204,
       "forks": 6849,
-      "currentPeriodStars": 1162,
+      "currentPeriodStars": 1215,
       "builtBy": [
         {
           "username": "ashishps1",
@@ -112,9 +112,9 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22048,
-      "forks": 13091,
-      "currentPeriodStars": 511,
+      "stars": 22050,
+      "forks": 13090,
+      "currentPeriodStars": 515,
       "builtBy": [
         {
           "username": "kunal-kushwaha",
@@ -147,9 +147,9 @@
       "description": "All Algorithms implemented in Java",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 65040,
-      "forks": 20972,
-      "currentPeriodStars": 403,
+      "stars": 65042,
+      "forks": 20973,
+      "currentPeriodStars": 406,
       "builtBy": [
         {
           "username": "alxkm",
@@ -182,9 +182,9 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 50608,
-      "forks": 6012,
-      "currentPeriodStars": 1892,
+      "stars": 50616,
+      "forks": 6014,
+      "currentPeriodStars": 1902,
       "builtBy": [
         {
           "username": "agnostic-apollo",
@@ -217,9 +217,9 @@
       "description": "signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4159,
+      "stars": 4161,
       "forks": 371,
-      "currentPeriodStars": 193,
+      "currentPeriodStars": 191,
       "builtBy": [
         {
           "username": "AsamK",
@@ -252,9 +252,9 @@
       "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12221,
+      "stars": 12223,
       "forks": 2559,
-      "currentPeriodStars": 359,
+      "currentPeriodStars": 358,
       "builtBy": [
         {
           "username": "mar-v-in",
@@ -287,9 +287,9 @@
       "description": "NewPipe's core library for extracting data from streaming sites",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 1750,
+      "stars": 1751,
       "forks": 523,
-      "currentPeriodStars": 63,
+      "currentPeriodStars": 65,
       "builtBy": [
         {
           "username": "TobiGr",
@@ -322,9 +322,9 @@
       "description": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 10371,
+      "stars": 10372,
       "forks": 2424,
-      "currentPeriodStars": 99,
+      "currentPeriodStars": 100,
       "builtBy": [
         {
           "username": "jon-signal",
@@ -357,9 +357,9 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32835,
-      "forks": 8053,
-      "currentPeriodStars": 675,
+      "stars": 32841,
+      "forks": 8052,
+      "currentPeriodStars": 674,
       "builtBy": [
         {
           "username": "stianst",
@@ -392,7 +392,7 @@
       "description": "Generate diagrams from textual description",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12653,
+      "stars": 12651,
       "forks": 1139,
       "currentPeriodStars": 152,
       "builtBy": [
@@ -428,8 +428,8 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 48678,
-      "forks": 4037,
-      "currentPeriodStars": 519,
+      "forks": 4035,
+      "currentPeriodStars": 517,
       "builtBy": [
         {
           "username": "serge-rider",
@@ -462,8 +462,8 @@
       "description": "All Code of LLD Playlist",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 660,
-      "forks": 459,
+      "stars": 663,
+      "forks": 460,
       "currentPeriodStars": 85,
       "builtBy": [
         {
@@ -485,9 +485,9 @@
       "description": "LSPosed Framework resuscitated",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9586,
-      "forks": 602,
-      "currentPeriodStars": 447,
+      "stars": 9590,
+      "forks": 603,
+      "currentPeriodStars": 453,
       "builtBy": [
         {
           "username": "yujincheng08",
@@ -520,9 +520,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 64356,
-      "forks": 7135,
-      "currentPeriodStars": 952,
+      "stars": 64365,
+      "forks": 7137,
+      "currentPeriodStars": 949,
       "builtBy": [
         {
           "username": "ryanmkurtz",
@@ -556,8 +556,8 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 8688,
-      "forks": 1842,
-      "currentPeriodStars": 97,
+      "forks": 1843,
+      "currentPeriodStars": 96,
       "builtBy": [
         {
           "username": "khanhduytran0",
@@ -574,6 +574,10 @@
         {
           "username": "WesleyVanNeck",
           "avatar": "https://avatars.githubusercontent.com/u/25864932?s=40&v=4"
+        },
+        {
+          "username": "Google61",
+          "avatar": "https://avatars.githubusercontent.com/u/25458773?s=40&v=4"
         }
       ],
       "aiSummary": null
@@ -586,7 +590,7 @@
       "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5251,
+      "stars": 5252,
       "forks": 928,
       "currentPeriodStars": 178,
       "builtBy": [

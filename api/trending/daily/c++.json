@@ -1,7 +1,7 @@
 {
   "count": 20,
   "since": "daily",
-  "captured_at": "2026-02-14 16:03:48",
+  "captured_at": "2026-02-15 00:17:55",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1033,
-      "forks": 58,
-      "currentPeriodStars": 186,
+      "stars": 1217,
+      "forks": 67,
+      "currentPeriodStars": 172,
       "builtBy": [
         {
           "username": "iaojnh",
@@ -49,9 +49,9 @@
       "description": "Android real-time display control software",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28137,
-      "forks": 3427,
-      "currentPeriodStars": 39,
+      "stars": 28139,
+      "forks": 3426,
+      "currentPeriodStars": 27,
       "builtBy": [
         {
           "username": "barry-ran",
@@ -84,9 +84,9 @@
       "description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3641,
+      "stars": 3648,
       "forks": 374,
-      "currentPeriodStars": 12,
+      "currentPeriodStars": 11,
       "builtBy": [
         {
           "username": "andyfengHKU",
@@ -119,9 +119,9 @@
       "description": "🦊 Anti-detect browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5345,
+      "stars": 5350,
       "forks": 491,
-      "currentPeriodStars": 25,
+      "currentPeriodStars": 21,
       "builtBy": [
         {
           "username": "daijro",
@@ -154,9 +154,9 @@
       "description": "Webots Robot Simulator",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4128,
-      "forks": 1976,
-      "currentPeriodStars": 34,
+      "stars": 4137,
+      "forks": 1978,
+      "currentPeriodStars": 20,
       "builtBy": [
         {
           "username": "DavidMansolino",
@@ -189,9 +189,9 @@
       "description": "Complete Open Source and Modular solution for MMO",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7994,
+      "stars": 7997,
       "forks": 3194,
-      "currentPeriodStars": 3,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "apps/github-actions",
@@ -224,9 +224,9 @@
       "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4757,
-      "forks": 559,
-      "currentPeriodStars": 12,
+      "stars": 4759,
+      "forks": 558,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
           "username": "xiaguan",
@@ -261,7 +261,7 @@
       "languageColor": "#f34b7d",
       "stars": 10008,
       "forks": 1738,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "dmah42",
@@ -294,9 +294,9 @@
       "description": "",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1508,
+      "stars": 1509,
       "forks": 849,
-      "currentPeriodStars": 3,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "apps/pre-commit-ci",
@@ -325,9 +325,9 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2673,
-      "forks": 212,
-      "currentPeriodStars": 21,
+      "stars": 2690,
+      "forks": 213,
+      "currentPeriodStars": 23,
       "builtBy": [
         {
           "username": "geo-tp",
@@ -356,9 +356,9 @@
       "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28580,
-      "forks": 5164,
-      "currentPeriodStars": 21,
+      "stars": 28585,
+      "forks": 5165,
+      "currentPeriodStars": 18,
       "builtBy": [
         {
           "username": "wwmayer",
@@ -391,9 +391,9 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 38227,
-      "forks": 10688,
-      "currentPeriodStars": 7,
+      "stars": 38228,
+      "forks": 10689,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "gennadiycivil",
@@ -422,9 +422,9 @@
       "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 16508,
-      "forks": 4014,
-      "currentPeriodStars": 7,
+      "stars": 16509,
+      "forks": 4015,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "kou",
@@ -457,9 +457,9 @@
       "description": "The public CGAL repository, see the README below",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5749,
-      "forks": 1537,
-      "currentPeriodStars": 2,
+      "stars": 5750,
+      "forks": 1536,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "lrineau",
@@ -492,9 +492,9 @@
       "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 70682,
-      "forks": 16028,
-      "currentPeriodStars": 6,
+      "stars": 70685,
+      "forks": 16025,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "protobuf-github-bot",
@@ -527,9 +527,9 @@
       "description": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12724,
+      "stars": 12725,
       "forks": 3144,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "kimkulling",
@@ -562,9 +562,9 @@
       "description": "Arduino core for the ESP32",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 16279,
+      "stars": 16282,
       "forks": 7806,
-      "currentPeriodStars": 11,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "me-no-dev",
@@ -597,9 +597,9 @@
       "description": "Super Repository for Coding Interview Preperation",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3748,
+      "stars": 3749,
       "forks": 1731,
-      "currentPeriodStars": 7,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "MAZHARMIK",
@@ -620,7 +620,7 @@
       "description": "Making it easier to work with shaders",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5013,
+      "stars": 5014,
       "forks": 414,
       "currentPeriodStars": 3,
       "builtBy": [
@@ -655,9 +655,9 @@
       "description": "Private, fast, and honest web browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 11270,
+      "stars": 11277,
       "forks": 228,
-      "currentPeriodStars": 40,
+      "currentPeriodStars": 39,
       "builtBy": [
         {
           "username": "wukko",

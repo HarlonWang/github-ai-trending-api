@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "weekly",
-  "captured_at": "2026-02-14 16:04:44",
+  "captured_at": "2026-02-15 00:18:37",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2673,
-      "forks": 212,
-      "currentPeriodStars": 135,
+      "stars": 2690,
+      "forks": 213,
+      "currentPeriodStars": 147,
       "builtBy": [
         {
           "username": "geo-tp",
@@ -42,9 +42,9 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1033,
-      "forks": 58,
-      "currentPeriodStars": 605,
+      "stars": 1219,
+      "forks": 67,
+      "currentPeriodStars": 722,
       "builtBy": [
         {
           "username": "iaojnh",
@@ -80,9 +80,9 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 95020,
-      "forks": 14898,
-      "currentPeriodStars": 522,
+      "stars": 95042,
+      "forks": 14899,
+      "currentPeriodStars": 528,
       "builtBy": [
         {
           "username": "ggerganov",
@@ -115,9 +115,9 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29836,
-      "forks": 6266,
-      "currentPeriodStars": 89,
+      "stars": 29839,
+      "forks": 6264,
+      "currentPeriodStars": 96,
       "builtBy": [
         {
           "username": "john-preston",
@@ -152,7 +152,7 @@
       "languageColor": "#f34b7d",
       "stars": 3827,
       "forks": 804,
-      "currentPeriodStars": 24,
+      "currentPeriodStars": 21,
       "builtBy": [
         {
           "username": "facontidavide",
@@ -185,9 +185,9 @@
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 193706,
-      "forks": 75229,
-      "currentPeriodStars": 137,
+      "stars": 193714,
+      "forks": 75227,
+      "currentPeriodStars": 140,
       "builtBy": [
         {
           "username": "tensorflower-gardener",
@@ -220,8 +220,8 @@
       "description": "Bitcoin Core integration/staging tree",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 88113,
-      "forks": 38904,
+      "stars": 88116,
+      "forks": 38905,
       "currentPeriodStars": 166,
       "builtBy": [
         {
@@ -255,9 +255,9 @@
       "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19626,
-      "forks": 2112,
-      "currentPeriodStars": 154,
+      "stars": 19627,
+      "forks": 2113,
+      "currentPeriodStars": 153,
       "builtBy": [
         {
           "username": "pixelflinger",
@@ -290,9 +290,9 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 38227,
-      "forks": 10688,
-      "currentPeriodStars": 47,
+      "stars": 38228,
+      "forks": 10689,
+      "currentPeriodStars": 43,
       "builtBy": [
         {
           "username": "gennadiycivil",
@@ -321,9 +321,9 @@
       "description": "Mumble is an open-source, low-latency, high quality voice chat software.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7685,
+      "stars": 7688,
       "forks": 1278,
-      "currentPeriodStars": 93,
+      "currentPeriodStars": 111,
       "builtBy": [
         {
           "username": "thorvald",
@@ -356,9 +356,9 @@
       "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 6976,
+      "stars": 6978,
       "forks": 442,
-      "currentPeriodStars": 40,
+      "currentPeriodStars": 47,
       "builtBy": [
         {
           "username": "dacap",
@@ -391,8 +391,8 @@
       "description": "a small build system with a focus on speed",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12689,
-      "forks": 1774,
+      "stars": 12688,
+      "forks": 1776,
       "currentPeriodStars": 24,
       "builtBy": [
         {
@@ -426,9 +426,9 @@
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19552,
+      "stars": 19555,
       "forks": 2485,
-      "currentPeriodStars": 149,
+      "currentPeriodStars": 165,
       "builtBy": [
         {
           "username": "MistEO",
@@ -461,9 +461,9 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9994,
+      "stars": 9998,
       "forks": 702,
-      "currentPeriodStars": 108,
+      "currentPeriodStars": 119,
       "builtBy": [
         {
           "username": "pokamest",
@@ -496,9 +496,9 @@
       "description": "Self-hosted game stream host for Moonlight.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 34447,
+      "stars": 34451,
       "forks": 1697,
-      "currentPeriodStars": 202,
+      "currentPeriodStars": 204,
       "builtBy": [
         {
           "username": "ReenigneArcher",
@@ -531,9 +531,9 @@
       "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14203,
+      "stars": 14205,
       "forks": 2200,
-      "currentPeriodStars": 117,
+      "currentPeriodStars": 119,
       "builtBy": [
         {
           "username": "MNNTeam",
@@ -566,9 +566,9 @@
       "description": "Production ready toolkit to run AI locally",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7632,
-      "forks": 233,
-      "currentPeriodStars": 1108,
+      "stars": 7676,
+      "forks": 234,
+      "currentPeriodStars": 1290,
       "builtBy": [
         {
           "username": "sanchitmonga22",
@@ -579,16 +579,16 @@
           "avatar": "https://avatars.githubusercontent.com/u/56790284?s=40&v=4"
         },
         {
-          "username": "josuediazflores",
-          "avatar": "https://avatars.githubusercontent.com/u/152042011?s=40&v=4"
-        },
-        {
           "username": "claude",
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "vedantagarwal-web",
-          "avatar": "https://avatars.githubusercontent.com/u/80901591?s=40&v=4"
+          "username": "josuediazflores",
+          "avatar": "https://avatars.githubusercontent.com/u/152042011?s=40&v=4"
+        },
+        {
+          "username": "cursoragent",
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
         }
       ],
       "aiSummary": null
@@ -636,9 +636,9 @@
       "description": "Windows Subsystem for Linux",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 31087,
-      "forks": 1612,
-      "currentPeriodStars": 74,
+      "stars": 31088,
+      "forks": 1611,
+      "currentPeriodStars": 60,
       "builtBy": [
         {
           "username": "OneBlue",

@@ -1,7 +1,7 @@
 {
   "count": 18,
   "since": "weekly",
-  "captured_at": "2026-02-14 16:04:32",
+  "captured_at": "2026-02-15 00:18:32",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A minimal, secure Python interpreter written in Rust for use by AI",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5207,
-      "forks": 187,
-      "currentPeriodStars": 3539,
+      "stars": 5229,
+      "forks": 189,
+      "currentPeriodStars": 3428,
       "builtBy": [
         {
           "username": "samuelcolvin",
@@ -46,9 +46,9 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19289,
-      "forks": 839,
-      "currentPeriodStars": 1644,
+      "stars": 19296,
+      "forks": 840,
+      "currentPeriodStars": 1495,
       "builtBy": [
         {
           "username": "krlvi",
@@ -81,9 +81,9 @@
       "description": "A security-focused library OS supporting kernel- and user-mode execution",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2096,
-      "forks": 89,
-      "currentPeriodStars": 1668,
+      "stars": 2105,
+      "forks": 88,
+      "currentPeriodStars": 1103,
       "builtBy": [
         {
           "username": "jaybosamiya-ms",
@@ -116,8 +116,8 @@
       "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8330,
-      "forks": 576,
+      "stars": 8335,
+      "forks": 575,
       "currentPeriodStars": 541,
       "builtBy": [
         {
@@ -151,9 +151,9 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60332,
+      "stars": 60346,
       "forks": 7949,
-      "currentPeriodStars": 1102,
+      "currentPeriodStars": 1042,
       "builtBy": [
         {
           "username": "bolinfest",
@@ -186,9 +186,9 @@
       "description": "Build fast web applications with Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 20044,
-      "forks": 839,
-      "currentPeriodStars": 142,
+      "stars": 20057,
+      "forks": 838,
+      "currentPeriodStars": 145,
       "builtBy": [
         {
           "username": "gbj",
@@ -221,7 +221,7 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 54982,
+      "stars": 54997,
       "forks": 2553,
       "currentPeriodStars": 399,
       "builtBy": [
@@ -256,9 +256,9 @@
       "description": "A new type of shell",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 38311,
-      "forks": 2045,
-      "currentPeriodStars": 172,
+      "stars": 38318,
+      "forks": 2046,
+      "currentPeriodStars": 163,
       "builtBy": [
         {
           "username": "sophiajt",
@@ -291,9 +291,9 @@
       "description": "We all edit.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 13509,
+      "stars": 13511,
       "forks": 632,
-      "currentPeriodStars": 117,
+      "currentPeriodStars": 88,
       "builtBy": [
         {
           "username": "lhecker",
@@ -326,9 +326,9 @@
       "description": "Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework).",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5085,
+      "stars": 5088,
       "forks": 287,
-      "currentPeriodStars": 128,
+      "currentPeriodStars": 76,
       "builtBy": [
         {
           "username": "adilhafeez",
@@ -361,9 +361,9 @@
       "description": "A simple, decentralized mesh VPN with WireGuard support.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9984,
+      "stars": 9989,
       "forks": 943,
-      "currentPeriodStars": 269,
+      "currentPeriodStars": 259,
       "builtBy": [
         {
           "username": "KKRainbow",
@@ -396,9 +396,9 @@
       "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32740,
+      "stars": 32751,
       "forks": 1204,
-      "currentPeriodStars": 151,
+      "currentPeriodStars": 185,
       "builtBy": [
         {
           "username": "GyulyVGC",
@@ -431,9 +431,9 @@
       "description": "The Magic Mask for Android",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 58694,
-      "forks": 16732,
-      "currentPeriodStars": 163,
+      "stars": 58699,
+      "forks": 16733,
+      "currentPeriodStars": 156,
       "builtBy": [
         {
           "username": "topjohnwu",
@@ -466,9 +466,9 @@
       "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 18157,
+      "stars": 18174,
       "forks": 1138,
-      "currentPeriodStars": 1479,
+      "currentPeriodStars": 1510,
       "builtBy": [
         {
           "username": "farion1231",
@@ -501,9 +501,9 @@
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5836,
+      "stars": 5845,
       "forks": 238,
-      "currentPeriodStars": 83,
+      "currentPeriodStars": 88,
       "builtBy": [
         {
           "username": "AnonymousWP",
@@ -536,9 +536,9 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 75334,
-      "forks": 6944,
-      "currentPeriodStars": 473,
+      "stars": 75354,
+      "forks": 6943,
+      "currentPeriodStars": 475,
       "builtBy": [
         {
           "username": "as-cii",
@@ -571,9 +571,9 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9822,
-      "forks": 880,
-      "currentPeriodStars": 152,
+      "stars": 9823,
+      "forks": 881,
+      "currentPeriodStars": 153,
       "builtBy": [
         {
           "username": "sujithatzackriya",
@@ -606,9 +606,9 @@
       "description": "Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5422,
-      "forks": 669,
-      "currentPeriodStars": 40,
+      "stars": 5424,
+      "forks": 668,
+      "currentPeriodStars": 39,
       "builtBy": [
         {
           "username": "jrose-signal",

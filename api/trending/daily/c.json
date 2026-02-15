@@ -1,7 +1,7 @@
 {
   "count": 18,
   "since": "daily",
-  "captured_at": "2026-02-14 16:03:52",
+  "captured_at": "2026-02-15 00:17:59",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5943,
+      "stars": 5951,
       "forks": 1001,
-      "currentPeriodStars": 142,
+      "currentPeriodStars": 104,
       "builtBy": [
         {
           "username": "levlam",
@@ -49,9 +49,9 @@
       "description": "The PHP Interpreter",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 39849,
+      "stars": 39848,
       "forks": 8004,
-      "currentPeriodStars": 4,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "dstogov",
@@ -84,8 +84,8 @@
       "description": "FreeRDP is a free remote desktop protocol library and clients",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12798,
-      "forks": 15251,
+      "stars": 12799,
+      "forks": 15252,
       "currentPeriodStars": 8,
       "builtBy": [
         {
@@ -119,9 +119,9 @@
       "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 77738,
+      "stars": 77744,
       "forks": 6333,
-      "currentPeriodStars": 18,
+      "currentPeriodStars": 15,
       "builtBy": [
         {
           "username": "ktsaou",
@@ -154,9 +154,9 @@
       "description": "7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6650,
+      "stars": 6652,
       "forks": 359,
-      "currentPeriodStars": 9,
+      "currentPeriodStars": 8,
       "builtBy": [
         {
           "username": "mcmilk",
@@ -190,8 +190,8 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 17071,
-      "forks": 2037,
-      "currentPeriodStars": 6,
+      "forks": 2036,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "AmineKhaldi",
@@ -224,9 +224,9 @@
       "description": "An open and affordable mini quadruped robot based on ESP32.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 841,
-      "forks": 118,
-      "currentPeriodStars": 18,
+      "stars": 850,
+      "forks": 119,
+      "currentPeriodStars": 21,
       "builtBy": [
         {
           "username": "dorianborian",
@@ -255,8 +255,8 @@
       "description": "\"Das U-Boot\" Source Tree",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4933,
-      "forks": 4290,
+      "stars": 4934,
+      "forks": 4291,
       "currentPeriodStars": 3,
       "builtBy": [
         {
@@ -290,9 +290,9 @@
       "description": "OpenVPN is an open source VPN daemon",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13234,
+      "stars": 13235,
       "forks": 3263,
-      "currentPeriodStars": 9,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "schwabe",
@@ -325,9 +325,9 @@
       "description": "The official NGINX Open Source repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 29344,
-      "forks": 7762,
-      "currentPeriodStars": 11,
+      "stars": 29346,
+      "forks": 7761,
+      "currentPeriodStars": 9,
       "builtBy": [
         {
           "username": "mdounin",
@@ -360,9 +360,9 @@
       "description": "This project aims to enhance the working environment on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 31550,
+      "stars": 31551,
       "forks": 1281,
-      "currentPeriodStars": 22,
+      "currentPeriodStars": 23,
       "builtBy": [
         {
           "username": "valinet",
@@ -395,8 +395,8 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14467,
-      "forks": 8654,
+      "stars": 14470,
+      "forks": 8653,
       "currentPeriodStars": 10,
       "builtBy": [
         {
@@ -430,9 +430,9 @@
       "description": "The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 8818,
-      "forks": 3193,
-      "currentPeriodStars": 3,
+      "stars": 8819,
+      "forks": 3192,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "bsdimp",
@@ -465,9 +465,9 @@
       "description": "New App Store for GNOME",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1397,
+      "stars": 1398,
       "forks": 112,
-      "currentPeriodStars": 7,
+      "currentPeriodStars": 9,
       "builtBy": [
         {
           "username": "kolunmi",
@@ -500,9 +500,9 @@
       "description": "EDK II",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5776,
-      "forks": 3037,
-      "currentPeriodStars": 2,
+      "stars": 5778,
+      "forks": 3038,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "niruiyu",
@@ -535,9 +535,9 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 25532,
+      "stars": 25537,
       "forks": 12031,
-      "currentPeriodStars": 14,
+      "currentPeriodStars": 10,
       "builtBy": [
         {
           "username": "juhosg",
@@ -570,7 +570,7 @@
       "description": "hekate - A GUI based Nintendo Switch Bootloader",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 8052,
+      "stars": 8053,
       "forks": 636,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -605,9 +605,9 @@
       "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12524,
+      "stars": 12527,
       "forks": 2880,
-      "currentPeriodStars": 5,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "cpq",
