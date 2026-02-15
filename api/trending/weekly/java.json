@@ -1,7 +1,7 @@
 {
   "count": 23,
   "since": "weekly",
-  "captured_at": "2026-02-15 08:22:56",
+  "captured_at": "2026-02-15 12:18:56",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 30422,
-      "forks": 6896,
+      "stars": 30805,
+      "forks": 6985,
       "currentPeriodStars": 513,
       "builtBy": [
         {
@@ -42,8 +42,8 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22105,
-      "forks": 5418,
+      "stars": 22118,
+      "forks": 5421,
       "currentPeriodStars": 370,
       "builtBy": [
         {
@@ -71,84 +71,14 @@
     },
     {
       "rank": 3,
-      "author": "LaurieWired",
-      "repoName": "GhidraMCP",
-      "url": "https://github.com/LaurieWired/GhidraMCP",
-      "description": "MCP Server for Ghidra",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 7571,
-      "forks": 648,
-      "currentPeriodStars": 127,
-      "builtBy": [
-        {
-          "username": "LaurieWired",
-          "avatar": "https://avatars.githubusercontent.com/u/123765654?s=40&v=4"
-        },
-        {
-          "username": "teal-bauer",
-          "avatar": "https://avatars.githubusercontent.com/u/87190689?s=40&v=4"
-        },
-        {
-          "username": "ian-mad",
-          "avatar": "https://avatars.githubusercontent.com/u/177447559?s=40&v=4"
-        },
-        {
-          "username": "DaCodeChick",
-          "avatar": "https://avatars.githubusercontent.com/u/203158766?s=40&v=4"
-        },
-        {
-          "username": "tuxuser",
-          "avatar": "https://avatars.githubusercontent.com/u/462620?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 4,
-      "author": "DrKLO",
-      "repoName": "Telegram",
-      "url": "https://github.com/DrKLO/Telegram",
-      "description": "Telegram for Android source",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 28539,
-      "forks": 9281,
-      "currentPeriodStars": 97,
-      "builtBy": [
-        {
-          "username": "xaxtix",
-          "avatar": "https://avatars.githubusercontent.com/u/7038595?s=40&v=4"
-        },
-        {
-          "username": "DrKLO",
-          "avatar": "https://avatars.githubusercontent.com/u/69369?s=40&v=4"
-        },
-        {
-          "username": "dkaraush",
-          "avatar": "https://avatars.githubusercontent.com/u/10834227?s=40&v=4"
-        },
-        {
-          "username": "Arseny271",
-          "avatar": "https://avatars.githubusercontent.com/u/56611696?s=40&v=4"
-        },
-        {
-          "username": "jsonchi",
-          "avatar": "https://avatars.githubusercontent.com/u/3435533?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 5,
       "author": "NationalSecurityAgency",
       "repoName": "ghidra",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 64372,
-      "forks": 7138,
+      "stars": 64379,
+      "forks": 7140,
       "currentPeriodStars": 228,
       "builtBy": [
         {
@@ -175,7 +105,7 @@
       "aiSummaries": null
     },
     {
-      "rank": 6,
+      "rank": 4,
       "author": "PaperMC",
       "repoName": "Paper",
       "url": "https://github.com/PaperMC/Paper",
@@ -183,7 +113,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 11926,
-      "forks": 3266,
+      "forks": 3265,
       "currentPeriodStars": 34,
       "builtBy": [
         {
@@ -210,49 +140,14 @@
       "aiSummaries": null
     },
     {
-      "rank": 7,
-      "author": "JingMatrix",
-      "repoName": "LSPosed",
-      "url": "https://github.com/JingMatrix/LSPosed",
-      "description": "LSPosed Framework resuscitated",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 9589,
-      "forks": 602,
-      "currentPeriodStars": 118,
-      "builtBy": [
-        {
-          "username": "yujincheng08",
-          "avatar": "https://avatars.githubusercontent.com/u/5022927?s=40&v=4"
-        },
-        {
-          "username": "vvb2060",
-          "avatar": "https://avatars.githubusercontent.com/u/26996262?s=40&v=4"
-        },
-        {
-          "username": "solohsu",
-          "avatar": "https://avatars.githubusercontent.com/u/3291602?s=40&v=4"
-        },
-        {
-          "username": "Howard20181",
-          "avatar": "https://avatars.githubusercontent.com/u/40033067?s=40&v=4"
-        },
-        {
-          "username": "kotori2",
-          "avatar": "https://avatars.githubusercontent.com/u/17663689?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "author": "Archmage83",
       "repoName": "tvapk",
       "url": "https://github.com/Archmage83/tvapk",
       "description": "收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5732,
+      "stars": 5731,
       "forks": 548,
       "currentPeriodStars": 116,
       "builtBy": [
@@ -272,14 +167,14 @@
       "aiSummaries": null
     },
     {
-      "rank": 9,
+      "rank": 6,
       "author": "CodePhiliaX",
       "repoName": "Chat2DB",
       "url": "https://github.com/CodePhiliaX/Chat2DB",
       "description": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25137,
+      "stars": 25138,
       "forks": 2733,
       "currentPeriodStars": 95,
       "builtBy": [
@@ -307,77 +202,42 @@
       "aiSummaries": null
     },
     {
-      "rank": 10,
-      "author": "kunal-kushwaha",
-      "repoName": "DSA-Bootcamp-Java",
-      "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
-      "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
+      "rank": 7,
+      "author": "microg",
+      "repoName": "GmsCore",
+      "url": "https://github.com/microg/GmsCore",
+      "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22053,
-      "forks": 13092,
-      "currentPeriodStars": 196,
+      "stars": 12227,
+      "forks": 2561,
+      "currentPeriodStars": 91,
       "builtBy": [
         {
-          "username": "kunal-kushwaha",
-          "avatar": "https://avatars.githubusercontent.com/u/42698533?s=40&v=4"
+          "username": "mar-v-in",
+          "avatar": "https://avatars.githubusercontent.com/u/994036?s=40&v=4"
         },
         {
-          "username": "vrukshaliii",
-          "avatar": "https://avatars.githubusercontent.com/u/65615660?s=40&v=4"
+          "username": "DaVinci9196",
+          "avatar": "https://avatars.githubusercontent.com/u/150454414?s=40&v=4"
         },
         {
-          "username": "avijit1999",
-          "avatar": "https://avatars.githubusercontent.com/u/46240269?s=40&v=4"
+          "username": "fynngodau",
+          "avatar": "https://avatars.githubusercontent.com/u/16943720?s=40&v=4"
         },
         {
-          "username": "darecoder",
-          "avatar": "https://avatars.githubusercontent.com/u/42637982?s=40&v=4"
+          "username": "ale5000-git",
+          "avatar": "https://avatars.githubusercontent.com/u/15793015?s=40&v=4"
         },
         {
-          "username": "alokVerma749",
-          "avatar": "https://avatars.githubusercontent.com/u/87599400?s=40&v=4"
+          "username": "emlove",
+          "avatar": "https://avatars.githubusercontent.com/u/1386547?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
-      "rank": 11,
-      "author": "keycloak",
-      "repoName": "keycloak",
-      "url": "https://github.com/keycloak/keycloak",
-      "description": "Open Source Identity and Access Management For Modern Applications and Services",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 32843,
-      "forks": 8052,
-      "currentPeriodStars": 154,
-      "builtBy": [
-        {
-          "username": "stianst",
-          "avatar": "https://avatars.githubusercontent.com/u/2271511?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "patriot1burke",
-          "avatar": "https://avatars.githubusercontent.com/u/704239?s=40&v=4"
-        },
-        {
-          "username": "mposolda",
-          "avatar": "https://avatars.githubusercontent.com/u/1223965?s=40&v=4"
-        },
-        {
-          "username": "edewit",
-          "avatar": "https://avatars.githubusercontent.com/u/51133?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 12,
+      "rank": 8,
       "author": "PojavLauncherTeam",
       "repoName": "PojavLauncher",
       "url": "https://github.com/PojavLauncherTeam/PojavLauncher",
@@ -412,50 +272,155 @@
       "aiSummaries": null
     },
     {
-      "rank": 13,
-      "author": "microg",
-      "repoName": "GmsCore",
-      "url": "https://github.com/microg/GmsCore",
-      "description": "Free implementation of Play Services",
+      "rank": 9,
+      "author": "keycloak",
+      "repoName": "keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12226,
-      "forks": 2561,
-      "currentPeriodStars": 91,
+      "stars": 32845,
+      "forks": 8053,
+      "currentPeriodStars": 154,
       "builtBy": [
         {
-          "username": "mar-v-in",
-          "avatar": "https://avatars.githubusercontent.com/u/994036?s=40&v=4"
+          "username": "stianst",
+          "avatar": "https://avatars.githubusercontent.com/u/2271511?s=40&v=4"
         },
         {
-          "username": "DaVinci9196",
-          "avatar": "https://avatars.githubusercontent.com/u/150454414?s=40&v=4"
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "fynngodau",
-          "avatar": "https://avatars.githubusercontent.com/u/16943720?s=40&v=4"
+          "username": "patriot1burke",
+          "avatar": "https://avatars.githubusercontent.com/u/704239?s=40&v=4"
         },
         {
-          "username": "ale5000-git",
-          "avatar": "https://avatars.githubusercontent.com/u/15793015?s=40&v=4"
+          "username": "mposolda",
+          "avatar": "https://avatars.githubusercontent.com/u/1223965?s=40&v=4"
         },
         {
-          "username": "emlove",
-          "avatar": "https://avatars.githubusercontent.com/u/1386547?s=40&v=4"
+          "username": "edewit",
+          "avatar": "https://avatars.githubusercontent.com/u/51133?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
-      "rank": 14,
+      "rank": 10,
+      "author": "apache",
+      "repoName": "kafka",
+      "url": "https://github.com/apache/kafka",
+      "description": "Mirror of Apache Kafka",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 31899,
+      "forks": 14960,
+      "currentPeriodStars": 52,
+      "builtBy": [
+        {
+          "username": "ijuma",
+          "avatar": "https://avatars.githubusercontent.com/u/24747?s=40&v=4"
+        },
+        {
+          "username": "mjsax",
+          "avatar": "https://avatars.githubusercontent.com/u/8959638?s=40&v=4"
+        },
+        {
+          "username": "hachikuji",
+          "avatar": "https://avatars.githubusercontent.com/u/12502538?s=40&v=4"
+        },
+        {
+          "username": "guozhangwang",
+          "avatar": "https://avatars.githubusercontent.com/u/10729597?s=40&v=4"
+        },
+        {
+          "username": "dajac",
+          "avatar": "https://avatars.githubusercontent.com/u/157182?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 11,
+      "author": "DrKLO",
+      "repoName": "Telegram",
+      "url": "https://github.com/DrKLO/Telegram",
+      "description": "Telegram for Android source",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 28538,
+      "forks": 9282,
+      "currentPeriodStars": 97,
+      "builtBy": [
+        {
+          "username": "xaxtix",
+          "avatar": "https://avatars.githubusercontent.com/u/7038595?s=40&v=4"
+        },
+        {
+          "username": "DrKLO",
+          "avatar": "https://avatars.githubusercontent.com/u/69369?s=40&v=4"
+        },
+        {
+          "username": "dkaraush",
+          "avatar": "https://avatars.githubusercontent.com/u/10834227?s=40&v=4"
+        },
+        {
+          "username": "Arseny271",
+          "avatar": "https://avatars.githubusercontent.com/u/56611696?s=40&v=4"
+        },
+        {
+          "username": "jsonchi",
+          "avatar": "https://avatars.githubusercontent.com/u/3435533?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 12,
+      "author": "kunal-kushwaha",
+      "repoName": "DSA-Bootcamp-Java",
+      "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+      "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 22053,
+      "forks": 13093,
+      "currentPeriodStars": 196,
+      "builtBy": [
+        {
+          "username": "kunal-kushwaha",
+          "avatar": "https://avatars.githubusercontent.com/u/42698533?s=40&v=4"
+        },
+        {
+          "username": "vrukshaliii",
+          "avatar": "https://avatars.githubusercontent.com/u/65615660?s=40&v=4"
+        },
+        {
+          "username": "avijit1999",
+          "avatar": "https://avatars.githubusercontent.com/u/46240269?s=40&v=4"
+        },
+        {
+          "username": "darecoder",
+          "avatar": "https://avatars.githubusercontent.com/u/42637982?s=40&v=4"
+        },
+        {
+          "username": "alokVerma749",
+          "avatar": "https://avatars.githubusercontent.com/u/87599400?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 13,
       "author": "signalapp",
       "repoName": "Signal-Server",
       "url": "https://github.com/signalapp/Signal-Server",
       "description": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 10373,
-      "forks": 2424,
+      "stars": 10375,
+      "forks": 2425,
       "currentPeriodStars": 28,
       "builtBy": [
         {
@@ -482,7 +447,112 @@
       "aiSummaries": null
     },
     {
+      "rank": 14,
+      "author": "kestra-io",
+      "repoName": "kestra",
+      "url": "https://github.com/kestra-io/kestra",
+      "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 26393,
+      "forks": 2492,
+      "currentPeriodStars": 95,
+      "builtBy": [
+        {
+          "username": "tchiotludo",
+          "avatar": "https://avatars.githubusercontent.com/u/2064609?s=40&v=4"
+        },
+        {
+          "username": "loicmathieu",
+          "avatar": "https://avatars.githubusercontent.com/u/1819009?s=40&v=4"
+        },
+        {
+          "username": "MilosPaunovic",
+          "avatar": "https://avatars.githubusercontent.com/u/62475782?s=40&v=4"
+        },
+        {
+          "username": "brian-mulier-p",
+          "avatar": "https://avatars.githubusercontent.com/u/37618489?s=40&v=4"
+        },
+        {
+          "username": "Skraye",
+          "avatar": "https://avatars.githubusercontent.com/u/37600690?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
       "rank": 15,
+      "author": "JingMatrix",
+      "repoName": "LSPosed",
+      "url": "https://github.com/JingMatrix/LSPosed",
+      "description": "LSPosed Framework resuscitated",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 9590,
+      "forks": 602,
+      "currentPeriodStars": 118,
+      "builtBy": [
+        {
+          "username": "yujincheng08",
+          "avatar": "https://avatars.githubusercontent.com/u/5022927?s=40&v=4"
+        },
+        {
+          "username": "vvb2060",
+          "avatar": "https://avatars.githubusercontent.com/u/26996262?s=40&v=4"
+        },
+        {
+          "username": "solohsu",
+          "avatar": "https://avatars.githubusercontent.com/u/3291602?s=40&v=4"
+        },
+        {
+          "username": "Howard20181",
+          "avatar": "https://avatars.githubusercontent.com/u/40033067?s=40&v=4"
+        },
+        {
+          "username": "kotori2",
+          "avatar": "https://avatars.githubusercontent.com/u/17663689?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 16,
+      "author": "Sketchware-Pro",
+      "repoName": "Sketchware-Pro",
+      "url": "https://github.com/Sketchware-Pro/Sketchware-Pro",
+      "description": "Sketchware Pro's sources in Java. Now anyone can contribute to Sketchware Pro.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 1457,
+      "forks": 561,
+      "currentPeriodStars": 28,
+      "builtBy": [
+        {
+          "username": "j-px",
+          "avatar": "https://avatars.githubusercontent.com/u/40118124?s=40&v=4"
+        },
+        {
+          "username": "hasrat-ali",
+          "avatar": "https://avatars.githubusercontent.com/u/42956453?s=40&v=4"
+        },
+        {
+          "username": "aikrq",
+          "avatar": "https://avatars.githubusercontent.com/u/95296093?s=40&v=4"
+        },
+        {
+          "username": "elfilibusterismo",
+          "avatar": "https://avatars.githubusercontent.com/u/113604229?s=40&v=4"
+        },
+        {
+          "username": "ilyassesalama",
+          "avatar": "https://avatars.githubusercontent.com/u/46769766?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 17,
       "author": "Anuken",
       "repoName": "Mindustry",
       "url": "https://github.com/Anuken/Mindustry",
@@ -517,49 +587,14 @@
       "aiSummaries": null
     },
     {
-      "rank": 16,
-      "author": "MuntashirAkon",
-      "repoName": "AppManager",
-      "url": "https://github.com/MuntashirAkon/AppManager",
-      "description": "A full-featured package manager and viewer for Android",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 7390,
-      "forks": 419,
-      "currentPeriodStars": 62,
-      "builtBy": [
-        {
-          "username": "MuntashirAkon",
-          "avatar": "https://avatars.githubusercontent.com/u/8176128?s=40&v=4"
-        },
-        {
-          "username": "RickyM7",
-          "avatar": "https://avatars.githubusercontent.com/u/24703825?s=40&v=4"
-        },
-        {
-          "username": "rex07",
-          "avatar": "https://avatars.githubusercontent.com/u/13156001?s=40&v=4"
-        },
-        {
-          "username": "weblate",
-          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4"
-        },
-        {
-          "username": "gnuhead-chieb",
-          "avatar": "https://avatars.githubusercontent.com/u/41156994?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 17,
+      "rank": 18,
       "author": "Nekogram",
       "repoName": "Nekogram",
       "url": "https://github.com/Nekogram/Nekogram",
       "description": "Open-source third-party Telegram client with not many but useful modifications.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 3316,
+      "stars": 3319,
       "forks": 140,
       "currentPeriodStars": 108,
       "builtBy": [
@@ -587,41 +622,6 @@
       "aiSummaries": null
     },
     {
-      "rank": 18,
-      "author": "apache",
-      "repoName": "cassandra",
-      "url": "https://github.com/apache/cassandra",
-      "description": "Apache Cassandra®",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 9628,
-      "forks": 3838,
-      "currentPeriodStars": 22,
-      "builtBy": [
-        {
-          "username": "jbellis",
-          "avatar": "https://avatars.githubusercontent.com/u/42158?s=40&v=4"
-        },
-        {
-          "username": "driftx",
-          "avatar": "https://avatars.githubusercontent.com/u/44895?s=40&v=4"
-        },
-        {
-          "username": "pcmanus",
-          "avatar": "https://avatars.githubusercontent.com/u/479957?s=40&v=4"
-        },
-        {
-          "username": "iamaleksey",
-          "avatar": "https://avatars.githubusercontent.com/u/10309?s=40&v=4"
-        },
-        {
-          "username": "krummas",
-          "avatar": "https://avatars.githubusercontent.com/u/162997?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
       "rank": 19,
       "author": "TGX-Android",
       "repoName": "Telegram-X",
@@ -629,8 +629,8 @@
       "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5255,
-      "forks": 929,
+      "stars": 5257,
+      "forks": 930,
       "currentPeriodStars": 43,
       "builtBy": [
         {
@@ -664,8 +664,8 @@
       "description": "Netty project - an event-driven asynchronous network application framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 34797,
-      "forks": 16286,
+      "stars": 34798,
+      "forks": 16285,
       "currentPeriodStars": 30,
       "builtBy": [
         {
@@ -728,48 +728,13 @@
     },
     {
       "rank": 22,
-      "author": "apache",
-      "repoName": "kafka",
-      "url": "https://github.com/apache/kafka",
-      "description": "Mirror of Apache Kafka",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 31899,
-      "forks": 14961,
-      "currentPeriodStars": 52,
-      "builtBy": [
-        {
-          "username": "ijuma",
-          "avatar": "https://avatars.githubusercontent.com/u/24747?s=40&v=4"
-        },
-        {
-          "username": "mjsax",
-          "avatar": "https://avatars.githubusercontent.com/u/8959638?s=40&v=4"
-        },
-        {
-          "username": "hachikuji",
-          "avatar": "https://avatars.githubusercontent.com/u/12502538?s=40&v=4"
-        },
-        {
-          "username": "guozhangwang",
-          "avatar": "https://avatars.githubusercontent.com/u/10729597?s=40&v=4"
-        },
-        {
-          "username": "dajac",
-          "avatar": "https://avatars.githubusercontent.com/u/157182?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 23,
       "author": "LSPosed",
       "repoName": "LSPosed",
       "url": "https://github.com/LSPosed/LSPosed",
       "description": "LSPosed Framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22789,
+      "stars": 22790,
       "forks": 3470,
       "currentPeriodStars": 73,
       "builtBy": [
@@ -792,6 +757,41 @@
         {
           "username": "kotori2",
           "avatar": "https://avatars.githubusercontent.com/u/17663689?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 23,
+      "author": "LaurieWired",
+      "repoName": "GhidraMCP",
+      "url": "https://github.com/LaurieWired/GhidraMCP",
+      "description": "MCP Server for Ghidra",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 7575,
+      "forks": 648,
+      "currentPeriodStars": 127,
+      "builtBy": [
+        {
+          "username": "LaurieWired",
+          "avatar": "https://avatars.githubusercontent.com/u/123765654?s=40&v=4"
+        },
+        {
+          "username": "teal-bauer",
+          "avatar": "https://avatars.githubusercontent.com/u/87190689?s=40&v=4"
+        },
+        {
+          "username": "ian-mad",
+          "avatar": "https://avatars.githubusercontent.com/u/177447559?s=40&v=4"
+        },
+        {
+          "username": "DaCodeChick",
+          "avatar": "https://avatars.githubusercontent.com/u/203158766?s=40&v=4"
+        },
+        {
+          "username": "tuxuser",
+          "avatar": "https://avatars.githubusercontent.com/u/462620?s=40&v=4"
         }
       ],
       "aiSummaries": null

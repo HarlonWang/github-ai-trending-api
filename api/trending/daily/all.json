@@ -1,95 +1,97 @@
 {
   "count": 11,
   "since": "daily",
-  "captured_at": "2026-02-15 08:20:36",
+  "captured_at": "2026-02-15 12:17:14",
   "data": [
     {
       "rank": 1,
-      "author": "tambo-ai",
-      "repoName": "tambo",
-      "url": "https://github.com/tambo-ai/tambo",
-      "description": "Generative UI SDK for React",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 9844,
-      "forks": 477,
-      "currentPeriodStars": 127,
+      "author": "nautechsystems",
+      "repoName": "nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 19037,
+      "forks": 2276,
+      "currentPeriodStars": 30,
       "builtBy": [
         {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+          "username": "cjdsellers",
+          "avatar": "https://avatars.githubusercontent.com/u/22510164?s=40&v=4"
         },
         {
-          "username": "alecf",
-          "avatar": "https://avatars.githubusercontent.com/u/135340?s=40&v=4"
+          "username": "limx0",
+          "avatar": "https://avatars.githubusercontent.com/u/4816153?s=40&v=4"
         },
         {
-          "username": "MichaelMilstead",
-          "avatar": "https://avatars.githubusercontent.com/u/8498335?s=40&v=4"
+          "username": "filipmacek",
+          "avatar": "https://avatars.githubusercontent.com/u/16453976?s=40&v=4"
         },
         {
-          "username": "tambo-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/230265268?s=40&v=4"
+          "username": "faysou",
+          "avatar": "https://avatars.githubusercontent.com/u/893862?s=40&v=4"
         },
         {
-          "username": "akhileshrangani4",
-          "avatar": "https://avatars.githubusercontent.com/u/70284178?s=40&v=4"
+          "username": "davidsblom",
+          "avatar": "https://avatars.githubusercontent.com/u/49148?s=40&v=4"
         }
       ],
       "aiSummaries": [
         {
           "provider": "chatgpt",
-          "zh": "tambo 是基于 TypeScript 的 React 生成式 UI SDK，通过将自然语言与组件配置结合，简化界面构建与动态布局生成。它帮助团队快速迭代产品原型，降低手写样板代码成本，并提升复杂交互界面的开发效率与可维护性。",
-          "en": "tambo is a TypeScript-based generative UI SDK for React that turns natural language and structured config into dynamic interfaces. It reduces boilerplate, accelerates prototyping, and improves development efficiency for complex, interactive UIs."
+          "zh": "nautilus_trader 是一个以 Rust 为核心的高性能算法交易平台和事件驱动回测框架，解决传统交易系统在低延迟、大规模订单处理和策略回测方面的性能瓶颈，支持构建可扩展、可复用的量化交易基础设施。",
+          "en": "nautilus_trader is a Rust-centric high-performance algorithmic trading platform and event-driven backtester that tackles latency and scalability limits in traditional systems, enabling robust, reusable quantitative trading infrastructure."
         },
         {
           "provider": "deepseek",
-          "zh": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，解决了手动处理流式输出与状态同步的复杂度，提升了开发效率。"
+          "zh": "Nautilus Trader 是一个用 Rust 编写的高性能算法交易平台和事件驱动回测器。它解决了传统 Python 平台在低延迟和高频交易场景下的性能瓶颈，为交易策略的研发与实盘部署提供了强大且可靠的基础设施。",
+          "en": "Nautilus Trader is a high-performance algorithmic trading platform and event-driven backtester written in Rust. It addresses the performance limitations of traditional Python platforms for low-latency and high-frequency trading, providing a robust infrastructure for strategy development and live deployment."
         }
       ]
     },
     {
       "rank": 2,
-      "author": "SynkraAI",
-      "repoName": "aios-core",
-      "url": "https://github.com/SynkraAI/aios-core",
-      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 653,
-      "forks": 252,
-      "currentPeriodStars": 209,
+      "author": "steipete",
+      "repoName": "gogcli",
+      "url": "https://github.com/steipete/gogcli",
+      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 2607,
+      "forks": 236,
+      "currentPeriodStars": 639,
       "builtBy": [
+        {
+          "username": "steipete",
+          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
+        },
+        {
+          "username": "salmonumbrella",
+          "avatar": "https://avatars.githubusercontent.com/u/182032677?s=40&v=4"
+        },
         {
           "username": "claude",
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "Pedrovaleriolopez",
-          "avatar": "https://avatars.githubusercontent.com/u/124090200?s=40&v=4"
+          "username": "jeanregisser",
+          "avatar": "https://avatars.githubusercontent.com/u/57791?s=40&v=4"
         },
         {
-          "username": "oalanicolas",
-          "avatar": "https://avatars.githubusercontent.com/u/895889?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "semantic-release-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4"
+          "username": "antons",
+          "avatar": "https://avatars.githubusercontent.com/u/129705?s=40&v=4"
         }
       ],
       "aiSummaries": [
         {
           "provider": "chatgpt",
-          "zh": "Synkra AIOS Core 以 JavaScript 提供全栈开发的智能编排框架，通过统一管理代码生成、集成与自动化流程，降低开发复杂度与协作成本，加速从需求到交付的端到端实现。",
-          "en": "Synkra AIOS Core is a JavaScript-based AI-orchestrated framework that unifies code generation, integration, and automation, reducing full-stack development complexity and accelerating end-to-end delivery."
+          "zh": "gogcli 是一个基于 Go 的 Google 套件命令行工具，统一管理 Gmail、日历、云端硬盘与联系人。它通过脚本化与自动化操作，减少频繁切换网页界面的低效流程，适合集成到运维脚本和工作流中。",
+          "en": "gogcli is a Go-based CLI for Google Suite, unifying Gmail, Calendar, Drive, and Contacts management. It streamlines scripted and automated workflows, removing reliance on web UI for routine operations."
         },
         {
           "provider": "deepseek",
-          "zh": "Synkra AIOS Core 是一个基于 JavaScript 的 AI 编排系统核心框架，旨在通过 AI 智能体协同工作，自动化处理全栈开发中的复杂任务流程，从而显著提升开发效率并降低人工编排成本。"
+          "zh": "gogcli 是一个用 Go 编写的 Google 套件命令行工具，集成了 Gmail、日历、网盘和联系人管理。它解决了用户需要通过单一命令行界面高效访问和管理多个 Google 服务的痛点，提升了自动化与脚本操作的效率。",
+          "en": "gogcli is a Go-based CLI tool for Google Suite, integrating Gmail, Calendar, Drive, and Contacts. It addresses the need for efficient access and management of multiple Google services through a unified command-line interface, enhancing automation and scripting capabilities."
         }
       ]
     },
@@ -101,8 +103,8 @@
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 6296,
-      "forks": 528,
+      "stars": 6398,
+      "forks": 537,
       "currentPeriodStars": 217,
       "builtBy": [
         {
@@ -140,46 +142,46 @@
     },
     {
       "rank": 4,
-      "author": "minio",
-      "repoName": "minio",
-      "url": "https://github.com/minio/minio",
-      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+      "author": "github",
+      "repoName": "gh-aw",
+      "url": "https://github.com/github/gh-aw",
+      "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 60297,
-      "forks": 7022,
-      "currentPeriodStars": 29,
+      "stars": 2488,
+      "forks": 182,
+      "currentPeriodStars": 213,
       "builtBy": [
         {
-          "username": "harshavardhana",
-          "avatar": "https://avatars.githubusercontent.com/u/622699?s=40&v=4"
+          "username": "apps/copilot-swe-agent",
+          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
         },
         {
-          "username": "vadmeste",
-          "avatar": "https://avatars.githubusercontent.com/u/283197?s=40&v=4"
+          "username": "pelikhan",
+          "avatar": "https://avatars.githubusercontent.com/u/4175913?s=40&v=4"
         },
         {
-          "username": "klauspost",
-          "avatar": "https://avatars.githubusercontent.com/u/5663952?s=40&v=4"
+          "username": "dsyme",
+          "avatar": "https://avatars.githubusercontent.com/u/7204669?s=40&v=4"
         },
         {
-          "username": "minio-trusted",
-          "avatar": "https://avatars.githubusercontent.com/u/21070888?s=40&v=4"
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         },
         {
-          "username": "poornas",
-          "avatar": "https://avatars.githubusercontent.com/u/791968?s=40&v=4"
+          "username": "mnkiefer",
+          "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&v=4"
         }
       ],
       "aiSummaries": [
         {
           "provider": "chatgpt",
-          "zh": "MinIO 是基于 Go 的高性能对象存储系统，兼容 Amazon S3 API，适用于私有云与多云环境。它提供弹性扩展、分布式部署和高可用能力，帮助企业以开源方式构建大规模、可靠的非结构化数据存储基础设施。",
-          "en": "MinIO is a high-performance, Go-based object storage that is fully S3 compatible, enabling scalable, distributed and highly available storage for unstructured data in private, public and hybrid cloud environments under an open-source AGPLv3 license."
+          "zh": "github/gh-aw 是基于 Go 的 GitHub Agentic Workflows 项目，用于将智能代理与 GitHub 工作流深度集成，自动化处理代码变更、评审与协作任务，降低人工干预成本并提升开发效率与一致性。",
+          "en": "github/gh-aw is a Go-based GitHub Agentic Workflows project that integrates intelligent agents into GitHub workflows to automate code changes, reviews, and collaboration, reducing manual effort and improving development efficiency."
         },
         {
           "provider": "deepseek",
-          "zh": "MinIO 是一款基于 Go 语言开发的高性能对象存储系统，完全兼容 Amazon S3 API。它解决了企业构建私有云存储时对高性能、可扩展且与主流生态兼容的存储服务的需求，适用于大规模数据湖、备份和云原生应用场景。"
+          "zh": "gh-aw 是 GitHub 推出的基于 Go 语言开发的智能体工作流框架。它旨在通过可编程的自动化代理来编排复杂的开发任务，解决传统 CI/CD 流程在灵活性与智能决策方面的不足，提升软件交付的自动化与智能化水平。"
         }
       ]
     },
@@ -191,8 +193,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 25178,
-      "forks": 1484,
+      "stars": 25232,
+      "forks": 1485,
       "currentPeriodStars": 331,
       "builtBy": [
         {
@@ -236,8 +238,8 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1522,
-      "forks": 77,
+      "stars": 1668,
+      "forks": 84,
       "currentPeriodStars": 172,
       "builtBy": [
         {
@@ -275,14 +277,197 @@
     },
     {
       "rank": 7,
+      "author": "openclaw",
+      "repoName": "openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 195575,
+      "forks": 33847,
+      "currentPeriodStars": 2758,
+      "builtBy": [
+        {
+          "username": "steipete",
+          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
+        },
+        {
+          "username": "thewilloftheshadow",
+          "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "vignesh07",
+          "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&v=4"
+        },
+        {
+          "username": "gumadeiras",
+          "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "openclaw 是一款跨平台的本地化 AI 助手框架，基于 TypeScript 构建，专注于在任意操作系统与平台上统一管理对话、插件和模型接入，帮助开发者快速搭建可扩展、可定制的个人智能助理应用。",
+          "en": "openclaw is a TypeScript-based, cross-platform framework for building personal AI assistants, unifying dialogue, plugins, and model integration to help developers rapidly create extensible, customizable assistant applications on any OS or platform."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "OpenClaw 是一个跨平台个人 AI 助手，旨在解决用户在不同操作系统和设备上缺乏统一智能工具的问题。它通过 TypeScript 实现，提供灵活、可定制的 AI 辅助功能，以“龙虾方式”强调其适应性和独特性。",
+          "en": "OpenClaw is a cross-platform personal AI assistant built with TypeScript. It addresses the lack of a unified AI tool across different operating systems and devices, offering flexible and customizable assistance in a unique 'lobster way'."
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "author": "moonshine-ai",
+      "repoName": "moonshine",
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 3568,
+      "forks": 174,
+      "currentPeriodStars": 160,
+      "builtBy": [
+        {
+          "username": "evmaki",
+          "avatar": "https://avatars.githubusercontent.com/u/15764776?s=40&v=4"
+        },
+        {
+          "username": "keveman",
+          "avatar": "https://avatars.githubusercontent.com/u/229914?s=40&v=4"
+        },
+        {
+          "username": "petewarden",
+          "avatar": "https://avatars.githubusercontent.com/u/161459?s=40&v=4"
+        },
+        {
+          "username": "andimarafioti",
+          "avatar": "https://avatars.githubusercontent.com/u/9143109?s=40&v=4"
+        },
+        {
+          "username": "guynich",
+          "avatar": "https://avatars.githubusercontent.com/u/35084975?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "moonshine 是一款以 C 语言实现的轻量级端侧语音识别引擎，专注在资源受限设备上提供高速且高精度的 ASR 能力，降低对云端依赖，适用于实时语音交互与离线语音应用场景。",
+          "en": "moonshine is a C-based lightweight ASR engine delivering fast, accurate speech recognition on resource-constrained edge devices, reducing cloud dependency and enabling real-time and offline voice applications."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "Moonshine 是一个专为边缘设备设计的自动语音识别（ASR）项目，采用 C 语言开发。它解决了在资源受限的嵌入式环境中实现快速、高精度语音识别的核心痛点，旨在提供高效且低延迟的本地语音处理能力。",
+          "en": "Moonshine is an automatic speech recognition (ASR) project written in C, specifically designed for edge devices. It addresses the need for fast and accurate on-device speech recognition with low latency in resource-constrained environments."
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "author": "brave",
+      "repoName": "brave-browser",
+      "url": "https://github.com/brave/brave-browser",
+      "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
+      "language": "Unknown",
+      "languageColor": null,
+      "stars": 21429,
+      "forks": 2967,
+      "currentPeriodStars": 23,
+      "builtBy": [
+        {
+          "username": "brave-browser-releases",
+          "avatar": "https://avatars.githubusercontent.com/u/39539223?s=40&v=4"
+        },
+        {
+          "username": "brave-builds",
+          "avatar": "https://avatars.githubusercontent.com/u/45370463?s=40&v=4"
+        },
+        {
+          "username": "kjozwiak",
+          "avatar": "https://avatars.githubusercontent.com/u/2602313?s=40&v=4"
+        },
+        {
+          "username": "LaurenWags",
+          "avatar": "https://avatars.githubusercontent.com/u/28145373?s=40&v=4"
+        },
+        {
+          "username": "mihaiplesa",
+          "avatar": "https://avatars.githubusercontent.com/u/907672?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "Brave Browser 是一款跨平台浏览器，专注隐私保护与性能优化。通过内置广告与跟踪器拦截、HTTPS 升级及奖励机制，减少资源消耗与隐私泄露风险，为用户提供更安全高效的上网体验。",
+          "en": "Brave Browser is a cross-platform browser focused on privacy and performance. It blocks ads and trackers by default, upgrades connections to HTTPS, and offers a rewards system, delivering a faster and more secure browsing experience."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "Brave 是一款注重隐私和安全的开源浏览器，适用于 Android、iOS、Linux、macOS 和 Windows。其核心功能是默认拦截广告与网站跟踪器，提升浏览速度并保护用户隐私，同时通过其奖励系统为用户提供了一种创新的内容变现方式。",
+          "en": "Brave is a privacy-focused, open-source browser for Android, iOS, Linux, macOS, and Windows. It blocks ads and trackers by default to enhance speed and security, and introduces an innovative rewards system for user-centric monetization."
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "author": "SynkraAI",
+      "repoName": "aios-core",
+      "url": "https://github.com/SynkraAI/aios-core",
+      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 671,
+      "forks": 255,
+      "currentPeriodStars": 209,
+      "builtBy": [
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "Pedrovaleriolopez",
+          "avatar": "https://avatars.githubusercontent.com/u/124090200?s=40&v=4"
+        },
+        {
+          "username": "oalanicolas",
+          "avatar": "https://avatars.githubusercontent.com/u/895889?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        },
+        {
+          "username": "semantic-release-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "Synkra AIOS Core 以 JavaScript 提供全栈开发的智能编排框架，通过统一管理代码生成、集成与自动化流程，降低开发复杂度与协作成本，加速从需求到交付的端到端实现。",
+          "en": "Synkra AIOS Core is a JavaScript-based AI-orchestrated framework that unifies code generation, integration, and automation, reducing full-stack development complexity and accelerating end-to-end delivery."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "Synkra AIOS Core 是一个基于 JavaScript 的 AI 编排系统核心框架，旨在通过 AI 智能体协同工作，自动化处理全栈开发中的复杂任务流程，从而显著提升开发效率并降低人工编排成本。"
+        }
+      ]
+    },
+    {
+      "rank": 11,
       "author": "ruvnet",
       "repoName": "wifi-densepose",
       "url": "https://github.com/ruvnet/wifi-densepose",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6266,
-      "forks": 559,
+      "stars": 6306,
+      "forks": 563,
       "currentPeriodStars": 98,
       "builtBy": [
         {
@@ -303,186 +488,6 @@
         {
           "provider": "deepseek",
           "zh": "Ruvnet/Wifi-DensePose 实现了 InvisPose 系统，利用普通家用网状路由器发出的 WiFi 信号，实现了穿墙的实时密集人体姿态估计。该系统解决了传统视觉方法在遮挡或无光环境下失效的痛点，无需穿戴设备即可进行全身动作追踪。"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "author": "Zipstack",
-      "repoName": "unstract",
-      "url": "https://github.com/Zipstack/unstract",
-      "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 6368,
-      "forks": 604,
-      "currentPeriodStars": 40,
-      "builtBy": [
-        {
-          "username": "chandrasekharan-zipstack",
-          "avatar": "https://avatars.githubusercontent.com/u/117059509?s=40&v=4"
-        },
-        {
-          "username": "muhammad-ali-e",
-          "avatar": "https://avatars.githubusercontent.com/u/117142933?s=40&v=4"
-        },
-        {
-          "username": "Deepak-Kesavan",
-          "avatar": "https://avatars.githubusercontent.com/u/89829542?s=40&v=4"
-        },
-        {
-          "username": "apps/pre-commit-ci",
-          "avatar": "https://avatars.githubusercontent.com/in/68672?s=40&v=4"
-        },
-        {
-          "username": "gaya3-zipstack",
-          "avatar": "https://avatars.githubusercontent.com/u/142381512?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "Zipstack/unstract 是基于 Python 的无代码 LLM 平台，专注将非结构化文档自动转化为可用数据。通过可视化配置即可构建 API 与 ETL 流水线，降低处理复杂文档、集成多数据源和落地智能文档解析的技术门槛。",
-          "en": "Zipstack/unstract is a Python-based no-code LLM platform that converts unstructured documents into structured data, enabling visual creation of APIs and ETL pipelines to simplify complex document processing and data integration."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "Zipstack/unstract 是一个基于 Python 的无代码 LLM 平台，旨在解决非结构化文档处理难题。其核心功能是让用户无需编程即可快速部署 API 和 ETL 流水线，从而自动化提取并结构化文档中的关键信息。"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "author": "letta-ai",
-      "repoName": "letta-code",
-      "url": "https://github.com/letta-ai/letta-code",
-      "description": "The memory-first coding agent",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 1282,
-      "forks": 140,
-      "currentPeriodStars": 55,
-      "builtBy": [
-        {
-          "username": "cpacker",
-          "avatar": "https://avatars.githubusercontent.com/u/5475622?s=40&v=4"
-        },
-        {
-          "username": "letta-code",
-          "avatar": "https://avatars.githubusercontent.com/u/248085862?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "jnjpng",
-          "avatar": "https://avatars.githubusercontent.com/u/13899997?s=40&v=4"
-        },
-        {
-          "username": "kl2806",
-          "avatar": "https://avatars.githubusercontent.com/u/9100255?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "letta-code 是一个以记忆为核心的 TypeScript 智能编码代理，通过持续积累与检索上下文记忆，理解大型代码库的演化与依赖关系，从而在复杂开发场景中提供更精准的代码生成、重构与协作支持，降低认知负担并提升开发效率。",
-          "en": "letta-code is a memory-first TypeScript coding agent that persistently builds and retrieves rich project context, enabling more accurate code generation, refactoring, and navigation in large, evolving codebases, thereby reducing cognitive load and improving developer productivity."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "Letta-Code 是一个基于记忆优先理念的 TypeScript 编码智能体。它通过持久化记忆上下文，有效解决了传统AI编码助手在多轮复杂对话中遗忘历史、上下文丢失的核心痛点，从而能更连贯、精准地理解和执行长期开发任务。"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "author": "ruby",
-      "repoName": "ruby",
-      "url": "https://github.com/ruby/ruby",
-      "description": "The Ruby Programming Language",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 23396,
-      "forks": 5565,
-      "currentPeriodStars": 15,
-      "builtBy": [
-        {
-          "username": "nobu",
-          "avatar": "https://avatars.githubusercontent.com/u/16700?s=40&v=4"
-        },
-        {
-          "username": "matzbot",
-          "avatar": "https://avatars.githubusercontent.com/u/29403229?s=40&v=4"
-        },
-        {
-          "username": "akr",
-          "avatar": "https://avatars.githubusercontent.com/u/10538?s=40&v=4"
-        },
-        {
-          "username": "hsbt",
-          "avatar": "https://avatars.githubusercontent.com/u/12301?s=40&v=4"
-        },
-        {
-          "username": "k0kubun",
-          "avatar": "https://avatars.githubusercontent.com/u/3138447?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "ruby/ruby 是 Ruby 编程语言的官方实现，提供高效的解释器、标准库和运行时环境，专注提升开发者在脚本编写、Web 开发与自动化中的生产力与代码可读性，并持续改进性能与并发能力。",
-          "en": "ruby/ruby is the official implementation of the Ruby language, delivering an efficient interpreter, rich standard library, and runtime that boost developer productivity, readability, and modern performance for scripting, web development, and automation."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "Ruby 编程语言的核心实现，提供了动态、面向对象的脚本语言环境。其核心价值在于通过简洁优雅的语法和强大的元编程能力，显著提升了开发者的生产力和代码可读性，尤其适用于快速原型开发和Web应用构建。"
-        }
-      ]
-    },
-    {
-      "rank": 11,
-      "author": "cinnyapp",
-      "repoName": "cinny",
-      "url": "https://github.com/cinnyapp/cinny",
-      "description": "Yet another matrix client",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 3068,
-      "forks": 411,
-      "currentPeriodStars": 41,
-      "builtBy": [
-        {
-          "username": "ajbura",
-          "avatar": "https://avatars.githubusercontent.com/u/32841439?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "kfiven",
-          "avatar": "https://avatars.githubusercontent.com/u/33421343?s=40&v=4"
-        },
-        {
-          "username": "apps/renovate",
-          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
-        },
-        {
-          "username": "ginnyTheCat",
-          "avatar": "https://avatars.githubusercontent.com/u/35173023?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "Cinny 是基于 Matrix 协议的现代化 Web 客户端，以 TypeScript 构建，专注提供轻量、直观且响应迅速的即时通讯体验。它简化房间与消息管理，优化多端协作与隐私控制，为用户提供比传统 Matrix 客户端更易用的替代方案。",
-          "en": "Cinny is a modern, TypeScript-based Matrix web client focused on a lightweight, intuitive, and responsive messaging experience. It streamlines room and message management, improves cross-device collaboration and privacy controls, and serves as a more user-friendly alternative to traditional Matrix clients."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "Cinny 是一款基于 Matrix 协议的轻量级即时通讯客户端，采用 TypeScript 开发。它专注于提供快速、简洁的用户体验，解决了官方 Element 客户端较为臃肿、性能开销大的痛点，尤其适合在浏览器和移动端高效使用去中心化通信网络。"
         }
       ]
     }

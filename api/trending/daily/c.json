@@ -1,17 +1,269 @@
 {
-  "count": 18,
+  "count": 20,
   "since": "daily",
-  "captured_at": "2026-02-15 08:22:26",
+  "captured_at": "2026-02-15 12:18:28",
   "data": [
     {
       "rank": 1,
+      "author": "moonshine-ai",
+      "repoName": "moonshine",
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 3568,
+      "forks": 174,
+      "currentPeriodStars": 160,
+      "builtBy": [
+        {
+          "username": "evmaki",
+          "avatar": "https://avatars.githubusercontent.com/u/15764776?s=40&v=4"
+        },
+        {
+          "username": "keveman",
+          "avatar": "https://avatars.githubusercontent.com/u/229914?s=40&v=4"
+        },
+        {
+          "username": "petewarden",
+          "avatar": "https://avatars.githubusercontent.com/u/161459?s=40&v=4"
+        },
+        {
+          "username": "andimarafioti",
+          "avatar": "https://avatars.githubusercontent.com/u/9143109?s=40&v=4"
+        },
+        {
+          "username": "guynich",
+          "avatar": "https://avatars.githubusercontent.com/u/35084975?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "moonshine 是一款以 C 语言实现的轻量级端侧语音识别引擎，专注在资源受限设备上提供高速且高精度的 ASR 能力，降低对云端依赖，适用于实时语音交互与离线语音应用场景。",
+          "en": "moonshine is a C-based lightweight ASR engine delivering fast, accurate speech recognition on resource-constrained edge devices, reducing cloud dependency and enabling real-time and offline voice applications."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "Moonshine 是一个专为边缘设备设计的自动语音识别（ASR）项目，采用 C 语言开发。它解决了在资源受限的嵌入式环境中实现快速、高精度语音识别的核心痛点，旨在提供高效且低延迟的本地语音处理能力。",
+          "en": "Moonshine is an automatic speech recognition (ASR) project written in C, specifically designed for edge devices. It addresses the need for fast and accurate on-device speech recognition with low latency in resource-constrained environments."
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "author": "qmk",
+      "repoName": "qmk_firmware",
+      "url": "https://github.com/qmk/qmk_firmware",
+      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 20130,
+      "forks": 43519,
+      "currentPeriodStars": 6,
+      "builtBy": [
+        {
+          "username": "fauxpark",
+          "avatar": "https://avatars.githubusercontent.com/u/4781841?s=40&v=4"
+        },
+        {
+          "username": "qmk-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/26984769?s=40&v=4"
+        },
+        {
+          "username": "drashna",
+          "avatar": "https://avatars.githubusercontent.com/u/2584963?s=40&v=4"
+        },
+        {
+          "username": "noroadsleft",
+          "avatar": "https://avatars.githubusercontent.com/u/18669334?s=40&v=4"
+        },
+        {
+          "username": "zvecr",
+          "avatar": "https://avatars.githubusercontent.com/u/16520359?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 3,
+      "author": "paxx12",
+      "repoName": "SnapmakerU1-Extended-Firmware",
+      "url": "https://github.com/paxx12/SnapmakerU1-Extended-Firmware",
+      "description": "Custom and repackaged Snapmaker U1 firmware",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 332,
+      "forks": 40,
+      "currentPeriodStars": 10,
+      "builtBy": [
+        {
+          "username": "paxx12",
+          "avatar": "https://avatars.githubusercontent.com/u/245230251?s=40&v=4"
+        },
+        {
+          "username": "horzadome",
+          "avatar": "https://avatars.githubusercontent.com/u/953831?s=40&v=4"
+        },
+        {
+          "username": "justinh-rahb",
+          "avatar": "https://avatars.githubusercontent.com/u/52832301?s=40&v=4"
+        },
+        {
+          "username": "QuinnDamerell",
+          "avatar": "https://avatars.githubusercontent.com/u/7854873?s=40&v=4"
+        },
+        {
+          "username": "Argolein",
+          "avatar": "https://avatars.githubusercontent.com/u/52103738?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 4,
+      "author": "floooh",
+      "repoName": "sokol",
+      "url": "https://github.com/floooh/sokol",
+      "description": "minimal cross-platform standalone C headers",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 9601,
+      "forks": 615,
+      "currentPeriodStars": 6,
+      "builtBy": [
+        {
+          "username": "floooh",
+          "avatar": "https://avatars.githubusercontent.com/u/1699414?s=40&v=4"
+        },
+        {
+          "username": "Seb-degraff",
+          "avatar": "https://avatars.githubusercontent.com/u/6556843?s=40&v=4"
+        },
+        {
+          "username": "kassane",
+          "avatar": "https://avatars.githubusercontent.com/u/6756180?s=40&v=4"
+        },
+        {
+          "username": "waywardmonkeys",
+          "avatar": "https://avatars.githubusercontent.com/u/178582?s=40&v=4"
+        },
+        {
+          "username": "jakubtomsu",
+          "avatar": "https://avatars.githubusercontent.com/u/66876057?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 5,
+      "author": "dorianborian",
+      "repoName": "sesame-robot",
+      "url": "https://github.com/dorianborian/sesame-robot",
+      "description": "An open and affordable mini quadruped robot based on ESP32.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 854,
+      "forks": 120,
+      "currentPeriodStars": 21,
+      "builtBy": [
+        {
+          "username": "dorianborian",
+          "avatar": "https://avatars.githubusercontent.com/u/33707294?s=40&v=4"
+        },
+        {
+          "username": "one-for-all",
+          "avatar": "https://avatars.githubusercontent.com/u/466956?s=40&v=4"
+        },
+        {
+          "username": "maximeconnolly",
+          "avatar": "https://avatars.githubusercontent.com/u/7928135?s=40&v=4"
+        },
+        {
+          "username": "jobmos",
+          "avatar": "https://avatars.githubusercontent.com/u/29378298?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 6,
+      "author": "glfw",
+      "repoName": "glfw",
+      "url": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 14691,
+      "forks": 5805,
+      "currentPeriodStars": 3,
+      "builtBy": [
+        {
+          "username": "elmindreda",
+          "avatar": "https://avatars.githubusercontent.com/u/133714?s=40&v=4"
+        },
+        {
+          "username": "linkmauve",
+          "avatar": "https://avatars.githubusercontent.com/u/7755816?s=40&v=4"
+        },
+        {
+          "username": "dougbinks",
+          "avatar": "https://avatars.githubusercontent.com/u/872946?s=40&v=4"
+        },
+        {
+          "username": "adrianbroher",
+          "avatar": "https://avatars.githubusercontent.com/u/84891?s=40&v=4"
+        },
+        {
+          "username": "siavashserver",
+          "avatar": "https://avatars.githubusercontent.com/u/1075690?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 7,
+      "author": "kolunmi",
+      "repoName": "bazaar",
+      "url": "https://github.com/kolunmi/bazaar",
+      "description": "New App Store for GNOME",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 1401,
+      "forks": 112,
+      "currentPeriodStars": 9,
+      "builtBy": [
+        {
+          "username": "kolunmi",
+          "avatar": "https://avatars.githubusercontent.com/u/113054217?s=40&v=4"
+        },
+        {
+          "username": "AlexanderVanhee",
+          "avatar": "https://avatars.githubusercontent.com/u/160625516?s=40&v=4"
+        },
+        {
+          "username": "Lumaeris",
+          "avatar": "https://avatars.githubusercontent.com/u/10499845?s=40&v=4"
+        },
+        {
+          "username": "Saltane",
+          "avatar": "https://avatars.githubusercontent.com/u/101461606?s=40&v=4"
+        },
+        {
+          "username": "renner0e",
+          "avatar": "https://avatars.githubusercontent.com/u/80410025?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 8,
       "author": "TelegramMessenger",
       "repoName": "MTProxy",
       "url": "https://github.com/TelegramMessenger/MTProxy",
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5958,
+      "stars": 5959,
       "forks": 1001,
       "currentPeriodStars": 104,
       "builtBy": [
@@ -44,84 +296,212 @@
       ]
     },
     {
-      "rank": 2,
-      "author": "php",
-      "repoName": "php-src",
-      "url": "https://github.com/php/php-src",
-      "description": "The PHP Interpreter",
+      "rank": 9,
+      "author": "bol-van",
+      "repoName": "zapret2",
+      "url": "https://github.com/bol-van/zapret2",
+      "description": "anti-dpi software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 39850,
-      "forks": 8003,
-      "currentPeriodStars": 3,
+      "stars": 1636,
+      "forks": 52,
+      "currentPeriodStars": 18,
       "builtBy": [
         {
-          "username": "dstogov",
-          "avatar": "https://avatars.githubusercontent.com/u/2510034?s=40&v=4"
+          "username": "bol-van",
+          "avatar": "https://avatars.githubusercontent.com/u/9076680?s=40&v=4"
         },
         {
-          "username": "nikic",
-          "avatar": "https://avatars.githubusercontent.com/u/216080?s=40&v=4"
-        },
-        {
-          "username": "weltling",
-          "avatar": "https://avatars.githubusercontent.com/u/22016?s=40&v=4"
-        },
-        {
-          "username": "cmb69",
-          "avatar": "https://avatars.githubusercontent.com/u/2306138?s=40&v=4"
-        },
-        {
-          "username": "laruence",
-          "avatar": "https://avatars.githubusercontent.com/u/382813?s=40&v=4"
+          "username": "Pavel4e5",
+          "avatar": "https://avatars.githubusercontent.com/u/50713272?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
-      "rank": 3,
-      "author": "FreeRDP",
-      "repoName": "FreeRDP",
-      "url": "https://github.com/FreeRDP/FreeRDP",
-      "description": "FreeRDP is a free remote desktop protocol library and clients",
+      "rank": 10,
+      "author": "facebook",
+      "repoName": "zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12799,
-      "forks": 15254,
-      "currentPeriodStars": 8,
+      "stars": 26616,
+      "forks": 2405,
+      "currentPeriodStars": 10,
       "builtBy": [
         {
-          "username": "akallabeth",
-          "avatar": "https://avatars.githubusercontent.com/u/3472254?s=40&v=4"
+          "username": "Cyan4973",
+          "avatar": "https://avatars.githubusercontent.com/u/750081?s=40&v=4"
         },
         {
-          "username": "awakecoding",
-          "avatar": "https://avatars.githubusercontent.com/u/295841?s=40&v=4"
+          "username": "terrelln",
+          "avatar": "https://avatars.githubusercontent.com/u/6619134?s=40&v=4"
         },
         {
-          "username": "bmiklautz",
-          "avatar": "https://avatars.githubusercontent.com/u/195793?s=40&v=4"
+          "username": "inikep",
+          "avatar": "https://avatars.githubusercontent.com/u/15112322?s=40&v=4"
         },
         {
-          "username": "hardening",
-          "avatar": "https://avatars.githubusercontent.com/u/3237998?s=40&v=4"
+          "username": "felixhandte",
+          "avatar": "https://avatars.githubusercontent.com/u/1154694?s=40&v=4"
         },
         {
-          "username": "mfleisz",
-          "avatar": "https://avatars.githubusercontent.com/u/669070?s=40&v=4"
+          "username": "stellamplau",
+          "avatar": "https://avatars.githubusercontent.com/u/7366343?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
-      "rank": 4,
+      "rank": 11,
+      "author": "bol-van",
+      "repoName": "zapret",
+      "url": "https://github.com/bol-van/zapret",
+      "description": "DPI bypass multi platform",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 14369,
+      "forks": 990,
+      "currentPeriodStars": 19,
+      "builtBy": [
+        {
+          "username": "bol-van",
+          "avatar": "https://avatars.githubusercontent.com/u/9076680?s=40&v=4"
+        },
+        {
+          "username": "maximilionus",
+          "avatar": "https://avatars.githubusercontent.com/u/29492157?s=40&v=4"
+        },
+        {
+          "username": "spvkgn",
+          "avatar": "https://avatars.githubusercontent.com/u/4147135?s=40&v=4"
+        },
+        {
+          "username": "anphsw",
+          "avatar": "https://avatars.githubusercontent.com/u/21102535?s=40&v=4"
+        },
+        {
+          "username": "chymaboy",
+          "avatar": "https://avatars.githubusercontent.com/u/36511477?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 12,
+      "author": "fastfetch-cli",
+      "repoName": "fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 20054,
+      "forks": 684,
+      "currentPeriodStars": 23,
+      "builtBy": [
+        {
+          "username": "CarterLi",
+          "avatar": "https://avatars.githubusercontent.com/u/6134068?s=40&v=4"
+        },
+        {
+          "username": "LinusDierheimer",
+          "avatar": "https://avatars.githubusercontent.com/u/32238675?s=40&v=4"
+        },
+        {
+          "username": "DarNCelsius",
+          "avatar": "https://avatars.githubusercontent.com/u/82701459?s=40&v=4"
+        },
+        {
+          "username": "apocelipes",
+          "avatar": "https://avatars.githubusercontent.com/u/21255940?s=40&v=4"
+        },
+        {
+          "username": "x-zvf",
+          "avatar": "https://avatars.githubusercontent.com/u/37499690?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 13,
+      "author": "zmkfirmware",
+      "repoName": "zmk",
+      "url": "https://github.com/zmkfirmware/zmk",
+      "description": "ZMK Firmware Repository",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 3839,
+      "forks": 3784,
+      "currentPeriodStars": 2,
+      "builtBy": [
+        {
+          "username": "petejohanson",
+          "avatar": "https://avatars.githubusercontent.com/u/202695?s=40&v=4"
+        },
+        {
+          "username": "caksoylar",
+          "avatar": "https://avatars.githubusercontent.com/u/7876996?s=40&v=4"
+        },
+        {
+          "username": "innovaker",
+          "avatar": "https://avatars.githubusercontent.com/u/66737976?s=40&v=4"
+        },
+        {
+          "username": "Nicell",
+          "avatar": "https://avatars.githubusercontent.com/u/9439650?s=40&v=4"
+        },
+        {
+          "username": "joelspadin",
+          "avatar": "https://avatars.githubusercontent.com/u/760836?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 14,
+      "author": "arendst",
+      "repoName": "Tasmota",
+      "url": "https://github.com/arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 24133,
+      "forks": 5052,
+      "currentPeriodStars": 4,
+      "builtBy": [
+        {
+          "username": "arendst",
+          "avatar": "https://avatars.githubusercontent.com/u/11044339?s=40&v=4"
+        },
+        {
+          "username": "s-hadinger",
+          "avatar": "https://avatars.githubusercontent.com/u/49731213?s=40&v=4"
+        },
+        {
+          "username": "Jason2866",
+          "avatar": "https://avatars.githubusercontent.com/u/24528715?s=40&v=4"
+        },
+        {
+          "username": "ascillato",
+          "avatar": "https://avatars.githubusercontent.com/u/35405447?s=40&v=4"
+        },
+        {
+          "username": "gemu2015",
+          "avatar": "https://avatars.githubusercontent.com/u/11647075?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 15,
       "author": "netdata",
       "repoName": "netdata",
       "url": "https://github.com/netdata/netdata",
       "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 77746,
+      "stars": 77747,
       "forks": 6334,
       "currentPeriodStars": 15,
       "builtBy": [
@@ -149,395 +529,49 @@
       "aiSummaries": null
     },
     {
-      "rank": 5,
-      "author": "mcmilk",
-      "repoName": "7-Zip-zstd",
-      "url": "https://github.com/mcmilk/7-Zip-zstd",
-      "description": "7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 6653,
-      "forks": 360,
-      "currentPeriodStars": 8,
-      "builtBy": [
-        {
-          "username": "mcmilk",
-          "avatar": "https://avatars.githubusercontent.com/u/1430535?s=40&v=4"
-        },
-        {
-          "username": "sebres",
-          "avatar": "https://avatars.githubusercontent.com/u/3769657?s=40&v=4"
-        },
-        {
-          "username": "conor42",
-          "avatar": "https://avatars.githubusercontent.com/u/10952568?s=40&v=4"
-        },
-        {
-          "username": "ozone10",
-          "avatar": "https://avatars.githubusercontent.com/u/55940305?s=40&v=4"
-        },
-        {
-          "username": "A2uria",
-          "avatar": "https://avatars.githubusercontent.com/u/83493416?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 6,
-      "author": "reactos",
-      "repoName": "reactos",
-      "url": "https://github.com/reactos/reactos",
-      "description": "A free Windows-compatible Operating System",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17073,
-      "forks": 2036,
-      "currentPeriodStars": 7,
-      "builtBy": [
-        {
-          "username": "AmineKhaldi",
-          "avatar": "https://avatars.githubusercontent.com/u/352225?s=40&v=4"
-        },
-        {
-          "username": "tkreuzer",
-          "avatar": "https://avatars.githubusercontent.com/u/313067?s=40&v=4"
-        },
-        {
-          "username": "EricKohl",
-          "avatar": "https://avatars.githubusercontent.com/u/32571919?s=40&v=4"
-        },
-        {
-          "username": "HBelusca",
-          "avatar": "https://avatars.githubusercontent.com/u/1969829?s=40&v=4"
-        },
-        {
-          "username": "ThFabba",
-          "avatar": "https://avatars.githubusercontent.com/u/18138474?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 7,
-      "author": "dorianborian",
-      "repoName": "sesame-robot",
-      "url": "https://github.com/dorianborian/sesame-robot",
-      "description": "An open and affordable mini quadruped robot based on ESP32.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 852,
-      "forks": 119,
-      "currentPeriodStars": 21,
-      "builtBy": [
-        {
-          "username": "dorianborian",
-          "avatar": "https://avatars.githubusercontent.com/u/33707294?s=40&v=4"
-        },
-        {
-          "username": "one-for-all",
-          "avatar": "https://avatars.githubusercontent.com/u/466956?s=40&v=4"
-        },
-        {
-          "username": "maximeconnolly",
-          "avatar": "https://avatars.githubusercontent.com/u/7928135?s=40&v=4"
-        },
-        {
-          "username": "jobmos",
-          "avatar": "https://avatars.githubusercontent.com/u/29378298?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 8,
-      "author": "u-boot",
-      "repoName": "u-boot",
-      "url": "https://github.com/u-boot/u-boot",
-      "description": "\"Das U-Boot\" Source Tree",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4934,
-      "forks": 4291,
-      "currentPeriodStars": 3,
-      "builtBy": [
-        {
-          "username": "sjg20",
-          "avatar": "https://avatars.githubusercontent.com/u/1708748?s=40&v=4"
-        },
-        {
-          "username": "trini",
-          "avatar": "https://avatars.githubusercontent.com/u/508192?s=40&v=4"
-        },
-        {
-          "username": "xypron",
-          "avatar": "https://avatars.githubusercontent.com/u/2747104?s=40&v=4"
-        },
-        {
-          "username": "wdenx",
-          "avatar": "https://avatars.githubusercontent.com/u/3415389?s=40&v=4"
-        },
-        {
-          "username": "masahir0y",
-          "avatar": "https://avatars.githubusercontent.com/u/781636?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 9,
-      "author": "OpenVPN",
-      "repoName": "openvpn",
-      "url": "https://github.com/OpenVPN/openvpn",
-      "description": "OpenVPN is an open source VPN daemon",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 13237,
-      "forks": 3264,
-      "currentPeriodStars": 6,
-      "builtBy": [
-        {
-          "username": "schwabe",
-          "avatar": "https://avatars.githubusercontent.com/u/1038539?s=40&v=4"
-        },
-        {
-          "username": "flichtenheld",
-          "avatar": "https://avatars.githubusercontent.com/u/93940?s=40&v=4"
-        },
-        {
-          "username": "cron2",
-          "avatar": "https://avatars.githubusercontent.com/u/3456368?s=40&v=4"
-        },
-        {
-          "username": "syzzer",
-          "avatar": "https://avatars.githubusercontent.com/u/3830300?s=40&v=4"
-        },
-        {
-          "username": "ordex",
-          "avatar": "https://avatars.githubusercontent.com/u/3433035?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 10,
-      "author": "nginx",
-      "repoName": "nginx",
-      "url": "https://github.com/nginx/nginx",
-      "description": "The official NGINX Open Source repository.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 29345,
-      "forks": 7761,
-      "currentPeriodStars": 9,
-      "builtBy": [
-        {
-          "username": "mdounin",
-          "avatar": "https://avatars.githubusercontent.com/u/201187?s=40&v=4"
-        },
-        {
-          "username": "arut",
-          "avatar": "https://avatars.githubusercontent.com/u/1236368?s=40&v=4"
-        },
-        {
-          "username": "vl-homutov",
-          "avatar": "https://avatars.githubusercontent.com/u/11629712?s=40&v=4"
-        },
-        {
-          "username": "VBart",
-          "avatar": "https://avatars.githubusercontent.com/u/2750827?s=40&v=4"
-        },
-        {
-          "username": "pluknet",
-          "avatar": "https://avatars.githubusercontent.com/u/105847909?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 11,
-      "author": "valinet",
-      "repoName": "ExplorerPatcher",
-      "url": "https://github.com/valinet/ExplorerPatcher",
-      "description": "This project aims to enhance the working environment on Windows",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 31555,
-      "forks": 1281,
-      "currentPeriodStars": 23,
-      "builtBy": [
-        {
-          "username": "valinet",
-          "avatar": "https://avatars.githubusercontent.com/u/6503598?s=40&v=4"
-        },
-        {
-          "username": "Amrsatrio",
-          "avatar": "https://avatars.githubusercontent.com/u/20662640?s=40&v=4"
-        },
-        {
-          "username": "Speedy37",
-          "avatar": "https://avatars.githubusercontent.com/u/5376197?s=40&v=4"
-        },
-        {
-          "username": "lordmilko",
-          "avatar": "https://avatars.githubusercontent.com/u/6138789?s=40&v=4"
-        },
-        {
-          "username": "BraINstinct0",
-          "avatar": "https://avatars.githubusercontent.com/u/29201475?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 12,
-      "author": "zephyrproject-rtos",
-      "repoName": "zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 14471,
-      "forks": 8653,
-      "currentPeriodStars": 10,
-      "builtBy": [
-        {
-          "username": "nashif",
-          "avatar": "https://avatars.githubusercontent.com/u/180017?s=40&v=4"
-        },
-        {
-          "username": "jukkar",
-          "avatar": "https://avatars.githubusercontent.com/u/1098415?s=40&v=4"
-        },
-        {
-          "username": "galak",
-          "avatar": "https://avatars.githubusercontent.com/u/16417047?s=40&v=4"
-        },
-        {
-          "username": "gmarull",
-          "avatar": "https://avatars.githubusercontent.com/u/25011557?s=40&v=4"
-        },
-        {
-          "username": "cvinayak",
-          "avatar": "https://avatars.githubusercontent.com/u/6350656?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 13,
-      "author": "freebsd",
-      "repoName": "freebsd-src",
-      "url": "https://github.com/freebsd/freebsd-src",
-      "description": "The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 8820,
-      "forks": 3192,
-      "currentPeriodStars": 0,
-      "builtBy": [
-        {
-          "username": "bsdimp",
-          "avatar": "https://avatars.githubusercontent.com/u/4139006?s=40&v=4"
-        },
-        {
-          "username": "bsdjhb",
-          "avatar": "https://avatars.githubusercontent.com/u/8976613?s=40&v=4"
-        },
-        {
-          "username": "kostikbel",
-          "avatar": "https://avatars.githubusercontent.com/u/2607252?s=40&v=4"
-        },
-        {
-          "username": "bsdphk",
-          "avatar": "https://avatars.githubusercontent.com/u/567236?s=40&v=4"
-        },
-        {
-          "username": "DarkHelmet433",
-          "avatar": "https://avatars.githubusercontent.com/u/342419?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 14,
-      "author": "kolunmi",
-      "repoName": "bazaar",
-      "url": "https://github.com/kolunmi/bazaar",
-      "description": "New App Store for GNOME",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 1399,
-      "forks": 112,
-      "currentPeriodStars": 9,
-      "builtBy": [
-        {
-          "username": "kolunmi",
-          "avatar": "https://avatars.githubusercontent.com/u/113054217?s=40&v=4"
-        },
-        {
-          "username": "AlexanderVanhee",
-          "avatar": "https://avatars.githubusercontent.com/u/160625516?s=40&v=4"
-        },
-        {
-          "username": "Lumaeris",
-          "avatar": "https://avatars.githubusercontent.com/u/10499845?s=40&v=4"
-        },
-        {
-          "username": "Saltane",
-          "avatar": "https://avatars.githubusercontent.com/u/101461606?s=40&v=4"
-        },
-        {
-          "username": "renner0e",
-          "avatar": "https://avatars.githubusercontent.com/u/80410025?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 15,
-      "author": "tianocore",
-      "repoName": "edk2",
-      "url": "https://github.com/tianocore/edk2",
-      "description": "EDK II",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 5778,
-      "forks": 3038,
-      "currentPeriodStars": 3,
-      "builtBy": [
-        {
-          "username": "niruiyu",
-          "avatar": "https://avatars.githubusercontent.com/u/8294960?s=40&v=4"
-        },
-        {
-          "username": "lzeng14",
-          "avatar": "https://avatars.githubusercontent.com/u/11768286?s=40&v=4"
-        },
-        {
-          "username": "lgao4",
-          "avatar": "https://avatars.githubusercontent.com/u/10111266?s=40&v=4"
-        },
-        {
-          "username": "jljusten",
-          "avatar": "https://avatars.githubusercontent.com/u/65927?s=40&v=4"
-        },
-        {
-          "username": "mdkinney",
-          "avatar": "https://avatars.githubusercontent.com/u/12265078?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
       "rank": 16,
+      "author": "lizongying",
+      "repoName": "my-tv",
+      "url": "https://github.com/lizongying/my-tv",
+      "description": "我的电视 电视直播软件，安装即可使用",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 32241,
+      "forks": 3618,
+      "currentPeriodStars": 14,
+      "builtBy": [
+        {
+          "username": "lizongying",
+          "avatar": "https://avatars.githubusercontent.com/u/16871545?s=40&v=4"
+        },
+        {
+          "username": "LeGend-wLw",
+          "avatar": "https://avatars.githubusercontent.com/u/112851743?s=40&v=4"
+        },
+        {
+          "username": "WoooKong",
+          "avatar": "https://avatars.githubusercontent.com/u/159127017?s=40&v=4"
+        },
+        {
+          "username": "DavidDengHui",
+          "avatar": "https://avatars.githubusercontent.com/u/15410727?s=40&v=4"
+        },
+        {
+          "username": "2926295173",
+          "avatar": "https://avatars.githubusercontent.com/u/74408214?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 17,
       "author": "openwrt",
       "repoName": "openwrt",
       "url": "https://github.com/openwrt/openwrt",
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 25542,
+      "stars": 25545,
       "forks": 12033,
       "currentPeriodStars": 10,
       "builtBy": [
@@ -565,71 +599,106 @@
       "aiSummaries": null
     },
     {
-      "rank": 17,
-      "author": "CTCaer",
-      "repoName": "hekate",
-      "url": "https://github.com/CTCaer/hekate",
-      "description": "hekate - A GUI based Nintendo Switch Bootloader",
+      "rank": 18,
+      "author": "curl",
+      "repoName": "curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 8055,
-      "forks": 636,
-      "currentPeriodStars": 0,
+      "stars": 40704,
+      "forks": 7057,
+      "currentPeriodStars": 9,
       "builtBy": [
         {
-          "username": "CTCaer",
-          "avatar": "https://avatars.githubusercontent.com/u/3665130?s=40&v=4"
+          "username": "bagder",
+          "avatar": "https://avatars.githubusercontent.com/u/177011?s=40&v=4"
         },
         {
-          "username": "rajkosto",
-          "avatar": "https://avatars.githubusercontent.com/u/205276?s=40&v=4"
+          "username": "vszakats",
+          "avatar": "https://avatars.githubusercontent.com/u/1446897?s=40&v=4"
         },
         {
-          "username": "balika011",
-          "avatar": "https://avatars.githubusercontent.com/u/1523956?s=40&v=4"
+          "username": "yangtse",
+          "avatar": "https://avatars.githubusercontent.com/u/242954?s=40&v=4"
         },
         {
-          "username": "nicholemattera",
-          "avatar": "https://avatars.githubusercontent.com/u/697668?s=40&v=4"
+          "username": "captain-caveman2k",
+          "avatar": "https://avatars.githubusercontent.com/u/1523871?s=40&v=4"
         },
         {
-          "username": "st4rk",
-          "avatar": "https://avatars.githubusercontent.com/u/6677048?s=40&v=4"
+          "username": "dfandrich",
+          "avatar": "https://avatars.githubusercontent.com/u/228259?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
-      "rank": 18,
-      "author": "cesanta",
-      "repoName": "mongoose",
-      "url": "https://github.com/cesanta/mongoose",
-      "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
+      "rank": 19,
+      "author": "valinet",
+      "repoName": "ExplorerPatcher",
+      "url": "https://github.com/valinet/ExplorerPatcher",
+      "description": "This project aims to enhance the working environment on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12528,
-      "forks": 2880,
-      "currentPeriodStars": 3,
+      "stars": 31560,
+      "forks": 1282,
+      "currentPeriodStars": 23,
       "builtBy": [
         {
-          "username": "cpq",
-          "avatar": "https://avatars.githubusercontent.com/u/601816?s=40&v=4"
+          "username": "valinet",
+          "avatar": "https://avatars.githubusercontent.com/u/6503598?s=40&v=4"
         },
         {
-          "username": "scaprile",
-          "avatar": "https://avatars.githubusercontent.com/u/6046251?s=40&v=4"
+          "username": "Amrsatrio",
+          "avatar": "https://avatars.githubusercontent.com/u/20662640?s=40&v=4"
         },
         {
-          "username": "alashkin",
-          "avatar": "https://avatars.githubusercontent.com/u/5459304?s=40&v=4"
+          "username": "Speedy37",
+          "avatar": "https://avatars.githubusercontent.com/u/5376197?s=40&v=4"
         },
         {
-          "username": "Evthewolf",
-          "avatar": "https://avatars.githubusercontent.com/u/13165924?s=40&v=4"
+          "username": "lordmilko",
+          "avatar": "https://avatars.githubusercontent.com/u/6138789?s=40&v=4"
         },
         {
-          "username": "dimonomid",
-          "avatar": "https://avatars.githubusercontent.com/u/1329932?s=40&v=4"
+          "username": "BraINstinct0",
+          "avatar": "https://avatars.githubusercontent.com/u/29201475?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 20,
+      "author": "iNavFlight",
+      "repoName": "inav",
+      "url": "https://github.com/iNavFlight/inav",
+      "description": "INAV: Navigation-enabled flight control software",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 3939,
+      "forks": 1761,
+      "currentPeriodStars": 0,
+      "builtBy": [
+        {
+          "username": "digitalentity",
+          "avatar": "https://avatars.githubusercontent.com/u/11059099?s=40&v=4"
+        },
+        {
+          "username": "DzikuVx",
+          "avatar": "https://avatars.githubusercontent.com/u/966811?s=40&v=4"
+        },
+        {
+          "username": "hydra",
+          "avatar": "https://avatars.githubusercontent.com/u/57075?s=40&v=4"
+        },
+        {
+          "username": "mmosca",
+          "avatar": "https://avatars.githubusercontent.com/u/23555060?s=40&v=4"
+        },
+        {
+          "username": "breadoven",
+          "avatar": "https://avatars.githubusercontent.com/u/56191411?s=40&v=4"
         }
       ],
       "aiSummaries": null

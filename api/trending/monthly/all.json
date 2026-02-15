@@ -1,7 +1,7 @@
 {
   "count": 17,
   "since": "monthly",
-  "captured_at": "2026-02-15 08:23:34",
+  "captured_at": "2026-02-15 12:19:31",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 195165,
-      "forks": 33742,
+      "stars": 195580,
+      "forks": 33847,
       "currentPeriodStars": 189974,
       "builtBy": [
         {
@@ -36,7 +36,18 @@
           "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
         }
       ],
-      "aiSummaries": null
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "openclaw 是一款跨平台的本地化 AI 助手框架，基于 TypeScript 构建，专注于在任意操作系统与平台上统一管理对话、插件和模型接入，帮助开发者快速搭建可扩展、可定制的个人智能助理应用。",
+          "en": "openclaw is a TypeScript-based, cross-platform framework for building personal AI assistants, unifying dialogue, plugins, and model integration to help developers rapidly create extensible, customizable assistant applications on any OS or platform."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "OpenClaw 是一个跨平台个人 AI 助手，旨在解决用户在不同操作系统和设备上缺乏统一智能工具的问题。它通过 TypeScript 实现，提供灵活、可定制的 AI 辅助功能，以“龙虾方式”强调其适应性和独特性。",
+          "en": "OpenClaw is a cross-platform personal AI assistant built with TypeScript. It addresses the lack of a unified AI tool across different operating systems and devices, offering flexible and customizable assistance in a unique 'lobster way'."
+        }
+      ]
     },
     {
       "rank": 2,
@@ -46,8 +57,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12174,
-      "forks": 1220,
+      "stars": 12217,
+      "forks": 1223,
       "currentPeriodStars": 10225,
       "builtBy": [
         {
@@ -75,14 +86,111 @@
     },
     {
       "rank": 3,
+      "author": "KeygraphHQ",
+      "repoName": "shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 22215,
+      "forks": 2232,
+      "currentPeriodStars": 18284,
+      "builtBy": [
+        {
+          "username": "ajmallesh",
+          "avatar": "https://avatars.githubusercontent.com/u/178829317?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "keygraphVarun",
+          "avatar": "https://avatars.githubusercontent.com/u/182007681?s=40&v=4"
+        },
+        {
+          "username": "Khaushik-keygraph",
+          "avatar": "https://avatars.githubusercontent.com/u/197124057?s=40&v=4"
+        },
+        {
+          "username": "nelliekeygraph",
+          "avatar": "https://avatars.githubusercontent.com/u/212406850?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 4,
+      "author": "VectifyAI",
+      "repoName": "PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 15152,
+      "forks": 1094,
+      "currentPeriodStars": 9775,
+      "builtBy": [
+        {
+          "username": "rejojer",
+          "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&v=4"
+        },
+        {
+          "username": "zmtomorrow",
+          "avatar": "https://avatars.githubusercontent.com/u/13518252?s=40&v=4"
+        },
+        {
+          "username": "clarenceluo78",
+          "avatar": "https://avatars.githubusercontent.com/u/71917860?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 5,
+      "author": "remotion-dev",
+      "repoName": "remotion",
+      "url": "https://github.com/remotion-dev/remotion",
+      "description": "🎥 Make videos programmatically with React",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 36645,
+      "forks": 2231,
+      "currentPeriodStars": 11382,
+      "builtBy": [
+        {
+          "username": "JonnyBurger",
+          "avatar": "https://avatars.githubusercontent.com/u/1629785?s=40&v=4"
+        },
+        {
+          "username": "patsalv",
+          "avatar": "https://avatars.githubusercontent.com/u/89481679?s=40&v=4"
+        },
+        {
+          "username": "UmungoBungo",
+          "avatar": "https://avatars.githubusercontent.com/u/22192773?s=40&v=4"
+        },
+        {
+          "username": "samohovets",
+          "avatar": "https://avatars.githubusercontent.com/u/24735429?s=40&v=4"
+        },
+        {
+          "username": "alexfernandez803",
+          "avatar": "https://avatars.githubusercontent.com/u/7582277?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 6,
       "author": "iOfficeAI",
       "repoName": "AionUi",
       "url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15886,
-      "forks": 1199,
+      "stars": 15908,
+      "forks": 1200,
       "currentPeriodStars": 12330,
       "builtBy": [
         {
@@ -114,103 +222,6 @@
       ]
     },
     {
-      "rank": 4,
-      "author": "KeygraphHQ",
-      "repoName": "shannon",
-      "url": "https://github.com/KeygraphHQ/shannon",
-      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 22150,
-      "forks": 2225,
-      "currentPeriodStars": 18284,
-      "builtBy": [
-        {
-          "username": "ajmallesh",
-          "avatar": "https://avatars.githubusercontent.com/u/178829317?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "keygraphVarun",
-          "avatar": "https://avatars.githubusercontent.com/u/182007681?s=40&v=4"
-        },
-        {
-          "username": "Khaushik-keygraph",
-          "avatar": "https://avatars.githubusercontent.com/u/197124057?s=40&v=4"
-        },
-        {
-          "username": "nelliekeygraph",
-          "avatar": "https://avatars.githubusercontent.com/u/212406850?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 5,
-      "author": "VectifyAI",
-      "repoName": "PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 15138,
-      "forks": 1094,
-      "currentPeriodStars": 9775,
-      "builtBy": [
-        {
-          "username": "rejojer",
-          "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&v=4"
-        },
-        {
-          "username": "zmtomorrow",
-          "avatar": "https://avatars.githubusercontent.com/u/13518252?s=40&v=4"
-        },
-        {
-          "username": "clarenceluo78",
-          "avatar": "https://avatars.githubusercontent.com/u/71917860?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 6,
-      "author": "remotion-dev",
-      "repoName": "remotion",
-      "url": "https://github.com/remotion-dev/remotion",
-      "description": "🎥 Make videos programmatically with React",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 36628,
-      "forks": 2229,
-      "currentPeriodStars": 11382,
-      "builtBy": [
-        {
-          "username": "JonnyBurger",
-          "avatar": "https://avatars.githubusercontent.com/u/1629785?s=40&v=4"
-        },
-        {
-          "username": "patsalv",
-          "avatar": "https://avatars.githubusercontent.com/u/89481679?s=40&v=4"
-        },
-        {
-          "username": "UmungoBungo",
-          "avatar": "https://avatars.githubusercontent.com/u/22192773?s=40&v=4"
-        },
-        {
-          "username": "samohovets",
-          "avatar": "https://avatars.githubusercontent.com/u/24735429?s=40&v=4"
-        },
-        {
-          "username": "alexfernandez803",
-          "avatar": "https://avatars.githubusercontent.com/u/7582277?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
       "rank": 7,
       "author": "obra",
       "repoName": "superpowers",
@@ -218,8 +229,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 51750,
-      "forks": 3911,
+      "stars": 51845,
+      "forks": 3920,
       "currentPeriodStars": 30073,
       "builtBy": [
         {
@@ -247,49 +258,14 @@
     },
     {
       "rank": 8,
-      "author": "gsd-build",
-      "repoName": "get-shit-done",
-      "url": "https://github.com/gsd-build/get-shit-done",
-      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 14156,
-      "forks": 1343,
-      "currentPeriodStars": 11444,
-      "builtBy": [
-        {
-          "username": "glittercowboy",
-          "avatar": "https://avatars.githubusercontent.com/u/186001655?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "jjshanks",
-          "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
-        },
-        {
-          "username": "davesienkowski",
-          "avatar": "https://avatars.githubusercontent.com/u/3037759?s=40&v=4"
-        },
-        {
-          "username": "dbachelder",
-          "avatar": "https://avatars.githubusercontent.com/u/325706?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 9,
       "author": "asgeirtj",
       "repoName": "system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 31513,
-      "forks": 5039,
+      "stars": 31537,
+      "forks": 5041,
       "currentPeriodStars": 6487,
       "builtBy": [
         {
@@ -316,15 +292,15 @@
       "aiSummaries": null
     },
     {
-      "rank": 10,
+      "rank": 9,
       "author": "tobi",
       "repoName": "qmd",
       "url": "https://github.com/tobi/qmd",
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8500,
-      "forks": 452,
+      "stars": 8521,
+      "forks": 454,
       "currentPeriodStars": 6822,
       "builtBy": [
         {
@@ -351,6 +327,41 @@
       "aiSummaries": null
     },
     {
+      "rank": 10,
+      "author": "openai",
+      "repoName": "skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 8548,
+      "forks": 477,
+      "currentPeriodStars": 6965,
+      "builtBy": [
+        {
+          "username": "gverma-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
+        },
+        {
+          "username": "dkundel-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4"
+        },
+        {
+          "username": "vb-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&v=4"
+        },
+        {
+          "username": "ae-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&v=4"
+        },
+        {
+          "username": "edward-bayes",
+          "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
       "rank": 11,
       "author": "anthropics",
       "repoName": "skills",
@@ -358,8 +369,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 69987,
-      "forks": 7090,
+      "stars": 70050,
+      "forks": 7100,
       "currentPeriodStars": 29735,
       "builtBy": [
         {
@@ -387,84 +398,49 @@
     },
     {
       "rank": 12,
-      "author": "openai",
-      "repoName": "skills",
-      "url": "https://github.com/openai/skills",
-      "description": "Skills Catalog for Codex",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 8538,
-      "forks": 476,
-      "currentPeriodStars": 6965,
-      "builtBy": [
-        {
-          "username": "gverma-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
-        },
-        {
-          "username": "dkundel-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4"
-        },
-        {
-          "username": "vb-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&v=4"
-        },
-        {
-          "username": "ae-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&v=4"
-        },
-        {
-          "username": "edward-bayes",
-          "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 13,
-      "author": "vercel-labs",
-      "repoName": "agent-skills",
-      "url": "https://github.com/vercel-labs/agent-skills",
-      "description": "Vercel's official collection of agent skills",
+      "author": "gsd-build",
+      "repoName": "get-shit-done",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 20395,
-      "forks": 1848,
-      "currentPeriodStars": 20179,
+      "stars": 14205,
+      "forks": 1350,
+      "currentPeriodStars": 11444,
       "builtBy": [
         {
-          "username": "nandorojo",
-          "avatar": "https://avatars.githubusercontent.com/u/13172299?s=40&v=4"
-        },
-        {
-          "username": "quuu",
-          "avatar": "https://avatars.githubusercontent.com/u/32676955?s=40&v=4"
-        },
-        {
-          "username": "shuding",
-          "avatar": "https://avatars.githubusercontent.com/u/3676859?s=40&v=4"
+          "username": "glittercowboy",
+          "avatar": "https://avatars.githubusercontent.com/u/186001655?s=40&v=4"
         },
         {
           "username": "claude",
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "elsigh",
-          "avatar": "https://avatars.githubusercontent.com/u/517210?s=40&v=4"
+          "username": "jjshanks",
+          "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
+        },
+        {
+          "username": "davesienkowski",
+          "avatar": "https://avatars.githubusercontent.com/u/3037759?s=40&v=4"
+        },
+        {
+          "username": "dbachelder",
+          "avatar": "https://avatars.githubusercontent.com/u/325706?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
-      "rank": 14,
+      "rank": 13,
       "author": "anomalyco",
       "repoName": "opencode",
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 104748,
-      "forks": 10189,
+      "stars": 104863,
+      "forks": 10191,
       "currentPeriodStars": 36517,
       "builtBy": [
         {
@@ -491,6 +467,51 @@
       "aiSummaries": null
     },
     {
+      "rank": 14,
+      "author": "tambo-ai",
+      "repoName": "tambo",
+      "url": "https://github.com/tambo-ai/tambo",
+      "description": "Generative UI SDK for React",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 9954,
+      "forks": 482,
+      "currentPeriodStars": 8032,
+      "builtBy": [
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "alecf",
+          "avatar": "https://avatars.githubusercontent.com/u/135340?s=40&v=4"
+        },
+        {
+          "username": "MichaelMilstead",
+          "avatar": "https://avatars.githubusercontent.com/u/8498335?s=40&v=4"
+        },
+        {
+          "username": "tambo-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/230265268?s=40&v=4"
+        },
+        {
+          "username": "akhileshrangani4",
+          "avatar": "https://avatars.githubusercontent.com/u/70284178?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "tambo 是基于 TypeScript 的 React 生成式 UI SDK，通过将自然语言与组件配置结合，简化界面构建与动态布局生成。它帮助团队快速迭代产品原型，降低手写样板代码成本，并提升复杂交互界面的开发效率与可维护性。",
+          "en": "tambo is a TypeScript-based generative UI SDK for React that turns natural language and structured config into dynamic interfaces. It reduces boilerplate, accelerates prototyping, and improves development efficiency for complex, interactive UIs."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，解决了手动处理流式输出与状态同步的复杂度，提升了开发效率。"
+        }
+      ]
+    },
+    {
       "rank": 15,
       "author": "thedotmack",
       "repoName": "claude-mem",
@@ -498,8 +519,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 28268,
-      "forks": 1892,
+      "stars": 28302,
+      "forks": 1899,
       "currentPeriodStars": 14718,
       "builtBy": [
         {
@@ -533,7 +554,7 @@
       "description": "Neovim AI agent done right",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 3786,
+      "stars": 3788,
       "forks": 181,
       "currentPeriodStars": 2785,
       "builtBy": [
@@ -568,8 +589,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15217,
-      "forks": 1823,
+      "stars": 15254,
+      "forks": 1825,
       "currentPeriodStars": 8192,
       "builtBy": [
         {

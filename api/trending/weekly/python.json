@@ -1,7 +1,7 @@
 {
-  "count": 13,
+  "count": 19,
   "since": "weekly",
-  "captured_at": "2026-02-15 08:22:44",
+  "captured_at": "2026-02-15 12:18:48",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32348,
-      "forks": 2161,
+      "stars": 32392,
+      "forks": 2165,
       "currentPeriodStars": 8146,
       "builtBy": [
         {
@@ -51,7 +51,7 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2574,
+      "stars": 2604,
       "forks": 166,
       "currentPeriodStars": 2065,
       "builtBy": [
@@ -85,49 +85,14 @@
     },
     {
       "rank": 3,
-      "author": "openai",
-      "repoName": "skills",
-      "url": "https://github.com/openai/skills",
-      "description": "Skills Catalog for Codex",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 8538,
-      "forks": 476,
-      "currentPeriodStars": 3126,
-      "builtBy": [
-        {
-          "username": "gverma-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
-        },
-        {
-          "username": "dkundel-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4"
-        },
-        {
-          "username": "vb-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&v=4"
-        },
-        {
-          "username": "ae-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&v=4"
-        },
-        {
-          "username": "edward-bayes",
-          "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 4,
       "author": "hsliuping",
       "repoName": "TradingAgents-CN",
       "url": "https://github.com/hsliuping/TradingAgents-CN",
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17288,
-      "forks": 3715,
+      "stars": 17298,
+      "forks": 3716,
       "currentPeriodStars": 1615,
       "builtBy": [
         {
@@ -154,50 +119,15 @@
       "aiSummaries": null
     },
     {
-      "rank": 5,
-      "author": "OpenBMB",
-      "repoName": "MiniCPM-o",
-      "url": "https://github.com/OpenBMB/MiniCPM-o",
-      "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 23795,
-      "forks": 1830,
-      "currentPeriodStars": 703,
-      "builtBy": [
-        {
-          "username": "yiranyyu",
-          "avatar": "https://avatars.githubusercontent.com/u/28106858?s=40&v=4"
-        },
-        {
-          "username": "iceflame89",
-          "avatar": "https://avatars.githubusercontent.com/u/5380770?s=40&v=4"
-        },
-        {
-          "username": "yaoyuanTHU",
-          "avatar": "https://avatars.githubusercontent.com/u/19372848?s=40&v=4"
-        },
-        {
-          "username": "tc-mb",
-          "avatar": "https://avatars.githubusercontent.com/u/157115220?s=40&v=4"
-        },
-        {
-          "username": "YuzaChongyi",
-          "avatar": "https://avatars.githubusercontent.com/u/18023954?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "author": "Shubhamsaboo",
       "repoName": "awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 95061,
-      "forks": 13772,
+      "stars": 95108,
+      "forks": 13780,
       "currentPeriodStars": 2539,
       "builtBy": [
         {
@@ -229,6 +159,76 @@
       ]
     },
     {
+      "rank": 5,
+      "author": "public-apis",
+      "repoName": "public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 398482,
+      "forks": 42632,
+      "currentPeriodStars": 2730,
+      "builtBy": [
+        {
+          "username": "matheusfelipeog",
+          "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&v=4"
+        },
+        {
+          "username": "davemachado",
+          "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&v=4"
+        },
+        {
+          "username": "pawelborkar",
+          "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&v=4"
+        },
+        {
+          "username": "jbrooksuk",
+          "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&v=4"
+        },
+        {
+          "username": "marekdano",
+          "avatar": "https://avatars.githubusercontent.com/u/1914165?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 6,
+      "author": "openai",
+      "repoName": "skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 8548,
+      "forks": 477,
+      "currentPeriodStars": 3126,
+      "builtBy": [
+        {
+          "username": "gverma-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
+        },
+        {
+          "username": "dkundel-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4"
+        },
+        {
+          "username": "vb-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&v=4"
+        },
+        {
+          "username": "ae-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&v=4"
+        },
+        {
+          "username": "edward-bayes",
+          "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
       "rank": 7,
       "author": "chenyme",
       "repoName": "grok2api",
@@ -236,8 +236,8 @@
       "description": "基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1426,
-      "forks": 467,
+      "stars": 1428,
+      "forks": 468,
       "currentPeriodStars": 269,
       "builtBy": [
         {
@@ -265,105 +265,105 @@
     },
     {
       "rank": 8,
-      "author": "public-apis",
-      "repoName": "public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
+      "author": "OpenBMB",
+      "repoName": "MiniCPM-o",
+      "url": "https://github.com/OpenBMB/MiniCPM-o",
+      "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 398459,
-      "forks": 42627,
-      "currentPeriodStars": 2730,
+      "stars": 23802,
+      "forks": 1831,
+      "currentPeriodStars": 703,
       "builtBy": [
         {
-          "username": "matheusfelipeog",
-          "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&v=4"
+          "username": "yiranyyu",
+          "avatar": "https://avatars.githubusercontent.com/u/28106858?s=40&v=4"
         },
         {
-          "username": "davemachado",
-          "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&v=4"
+          "username": "iceflame89",
+          "avatar": "https://avatars.githubusercontent.com/u/5380770?s=40&v=4"
         },
         {
-          "username": "pawelborkar",
-          "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&v=4"
+          "username": "yaoyuanTHU",
+          "avatar": "https://avatars.githubusercontent.com/u/19372848?s=40&v=4"
         },
         {
-          "username": "jbrooksuk",
-          "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&v=4"
+          "username": "tc-mb",
+          "avatar": "https://avatars.githubusercontent.com/u/157115220?s=40&v=4"
         },
         {
-          "username": "marekdano",
-          "avatar": "https://avatars.githubusercontent.com/u/1914165?s=40&v=4"
+          "username": "YuzaChongyi",
+          "avatar": "https://avatars.githubusercontent.com/u/18023954?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 9,
-      "author": "microsoft",
-      "repoName": "RD-Agent",
-      "url": "https://github.com/microsoft/RD-Agent",
-      "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
+      "author": "HKUDS",
+      "repoName": "RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11142,
-      "forks": 1282,
-      "currentPeriodStars": 302,
+      "stars": 13324,
+      "forks": 1599,
+      "currentPeriodStars": 598,
       "builtBy": [
         {
-          "username": "you-n-g",
-          "avatar": "https://avatars.githubusercontent.com/u/465606?s=40&v=4"
+          "username": "LarFii",
+          "avatar": "https://avatars.githubusercontent.com/u/49157727?s=40&v=4"
         },
         {
-          "username": "peteryang1",
-          "avatar": "https://avatars.githubusercontent.com/u/25981102?s=40&v=4"
+          "username": "chaohuang-ai",
+          "avatar": "https://avatars.githubusercontent.com/u/204865953?s=40&v=4"
         },
         {
-          "username": "XianBW",
-          "avatar": "https://avatars.githubusercontent.com/u/36835909?s=40&v=4"
+          "username": "LaansDole",
+          "avatar": "https://avatars.githubusercontent.com/u/85084360?s=40&v=4"
         },
         {
-          "username": "WinstonLiyt",
-          "avatar": "https://avatars.githubusercontent.com/u/104308117?s=40&v=4"
+          "username": "hzywhite",
+          "avatar": "https://avatars.githubusercontent.com/u/53216231?s=40&v=4"
         },
         {
-          "username": "qew21",
-          "avatar": "https://avatars.githubusercontent.com/u/25722332?s=40&v=4"
+          "username": "apps/copilot-swe-agent",
+          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 10,
-      "author": "element-hq",
-      "repoName": "synapse",
-      "url": "https://github.com/element-hq/synapse",
-      "description": "Synapse: Matrix homeserver written in Python/Twisted + Rust",
+      "author": "unclecode",
+      "repoName": "crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3607,
-      "forks": 463,
-      "currentPeriodStars": 131,
+      "stars": 60134,
+      "forks": 6128,
+      "currentPeriodStars": 602,
       "builtBy": [
         {
-          "username": "erikjohnston",
-          "avatar": "https://avatars.githubusercontent.com/u/8428120?s=40&v=4"
+          "username": "unclecode",
+          "avatar": "https://avatars.githubusercontent.com/u/12494079?s=40&v=4"
         },
         {
-          "username": "richvdh",
-          "avatar": "https://avatars.githubusercontent.com/u/1389908?s=40&v=4"
+          "username": "ntohidi",
+          "avatar": "https://avatars.githubusercontent.com/u/17140097?s=40&v=4"
         },
         {
-          "username": "anoadragon453",
-          "avatar": "https://avatars.githubusercontent.com/u/1342360?s=40&v=4"
+          "username": "aravindkarnam",
+          "avatar": "https://avatars.githubusercontent.com/u/15815124?s=40&v=4"
         },
         {
-          "username": "clokep",
-          "avatar": "https://avatars.githubusercontent.com/u/517124?s=40&v=4"
+          "username": "Ahmed-Tawfik94",
+          "avatar": "https://avatars.githubusercontent.com/u/106467151?s=40&v=4"
         },
         {
-          "username": "NegativeMjark",
-          "avatar": "https://avatars.githubusercontent.com/u/904009?s=40&v=4"
+          "username": "SohamKukreti",
+          "avatar": "https://avatars.githubusercontent.com/u/114597712?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -376,8 +376,8 @@
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11084,
-      "forks": 1083,
+      "stars": 11109,
+      "forks": 1088,
       "currentPeriodStars": 2736,
       "builtBy": [
         {
@@ -410,14 +410,49 @@
     },
     {
       "rank": 12,
+      "author": "baserow",
+      "repoName": "baserow",
+      "url": "https://github.com/baserow/baserow",
+      "description": "Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 4131,
+      "forks": 505,
+      "currentPeriodStars": 175,
+      "builtBy": [
+        {
+          "username": "bram2w",
+          "avatar": "https://avatars.githubusercontent.com/u/1261496?s=40&v=4"
+        },
+        {
+          "username": "jrmi",
+          "avatar": "https://avatars.githubusercontent.com/u/571533?s=40&v=4"
+        },
+        {
+          "username": "stribny",
+          "avatar": "https://avatars.githubusercontent.com/u/313952?s=40&v=4"
+        },
+        {
+          "username": "cezary-baserow",
+          "avatar": "https://avatars.githubusercontent.com/u/238164479?s=40&v=4"
+        },
+        {
+          "username": "silvestrid",
+          "avatar": "https://avatars.githubusercontent.com/u/75379892?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 13,
       "author": "DrewThomasson",
       "repoName": "ebook2audiobook",
       "url": "https://github.com/DrewThomasson/ebook2audiobook",
       "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 18157,
-      "forks": 1474,
+      "stars": 18160,
+      "forks": 1475,
       "currentPeriodStars": 737,
       "builtBy": [
         {
@@ -444,39 +479,212 @@
       "aiSummaries": null
     },
     {
-      "rank": 13,
-      "author": "baserow",
-      "repoName": "baserow",
-      "url": "https://github.com/baserow/baserow",
-      "description": "Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.",
+      "rank": 14,
+      "author": "bregman-arie",
+      "repoName": "devops-exercises",
+      "url": "https://github.com/bregman-arie/devops-exercises",
+      "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4127,
-      "forks": 504,
-      "currentPeriodStars": 175,
+      "stars": 81088,
+      "forks": 18590,
+      "currentPeriodStars": 231,
       "builtBy": [
         {
-          "username": "bram2w",
-          "avatar": "https://avatars.githubusercontent.com/u/1261496?s=40&v=4"
+          "username": "surister",
+          "avatar": "https://avatars.githubusercontent.com/u/37985796?s=40&v=4"
         },
         {
-          "username": "jrmi",
-          "avatar": "https://avatars.githubusercontent.com/u/571533?s=40&v=4"
+          "username": "austinsonger",
+          "avatar": "https://avatars.githubusercontent.com/u/26654315?s=40&v=4"
         },
         {
-          "username": "stribny",
-          "avatar": "https://avatars.githubusercontent.com/u/313952?s=40&v=4"
+          "username": "bregman-arie",
+          "avatar": "https://avatars.githubusercontent.com/u/10349437?s=40&v=4"
         },
         {
-          "username": "cezary-baserow",
-          "avatar": "https://avatars.githubusercontent.com/u/238164479?s=40&v=4"
+          "username": "knoxknot",
+          "avatar": "https://avatars.githubusercontent.com/u/23431146?s=40&v=4"
         },
         {
-          "username": "silvestrid",
-          "avatar": "https://avatars.githubusercontent.com/u/75379892?s=40&v=4"
+          "username": "djeada",
+          "avatar": "https://avatars.githubusercontent.com/u/37275728?s=40&v=4"
         }
       ],
       "aiSummaries": null
+    },
+    {
+      "rank": 15,
+      "author": "coleam00",
+      "repoName": "context-engineering-intro",
+      "url": "https://github.com/coleam00/context-engineering-intro",
+      "description": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 12461,
+      "forks": 2615,
+      "currentPeriodStars": 128,
+      "builtBy": [
+        {
+          "username": "coleam00",
+          "avatar": "https://avatars.githubusercontent.com/u/47287758?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 16,
+      "author": "THUDM",
+      "repoName": "slime",
+      "url": "https://github.com/THUDM/slime",
+      "description": "slime is an LLM post-training framework for RL Scaling.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 4171,
+      "forks": 537,
+      "currentPeriodStars": 466,
+      "builtBy": [
+        {
+          "username": "zhuzilin",
+          "avatar": "https://avatars.githubusercontent.com/u/10428324?s=40&v=4"
+        },
+        {
+          "username": "fzyzcjy",
+          "avatar": "https://avatars.githubusercontent.com/u/5236035?s=40&v=4"
+        },
+        {
+          "username": "yitianlian",
+          "avatar": "https://avatars.githubusercontent.com/u/91449279?s=40&v=4"
+        },
+        {
+          "username": "lilei199908",
+          "avatar": "https://avatars.githubusercontent.com/u/77353389?s=40&v=4"
+        },
+        {
+          "username": "lancerts",
+          "avatar": "https://avatars.githubusercontent.com/u/7495155?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "THUDM/slime 是一个专为大语言模型设计的强化学习扩展后训练框架。它解决了传统RLHF方法在模型规模扩大时面临的计算效率低、训练不稳定等痛点，通过创新的算法优化，实现了对超大规模语言模型高效、稳定的强化学习微调。"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "author": "bytedance",
+      "repoName": "Protenix",
+      "url": "https://github.com/bytedance/Protenix",
+      "description": "Toward High-Accuracy Open-Source Biomolecular Structure Prediction.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 1631,
+      "forks": 214,
+      "currentPeriodStars": 76,
+      "builtBy": [
+        {
+          "username": "zhangyuxuann",
+          "avatar": "https://avatars.githubusercontent.com/u/32118018?s=40&v=4"
+        },
+        {
+          "username": "heidongxianhua",
+          "avatar": "https://avatars.githubusercontent.com/u/22924371?s=40&v=4"
+        },
+        {
+          "username": "cloverzizi",
+          "avatar": "https://avatars.githubusercontent.com/u/150103645?s=40&v=4"
+        },
+        {
+          "username": "OccupyMars2025",
+          "avatar": "https://avatars.githubusercontent.com/u/31559413?s=40&v=4"
+        },
+        {
+          "username": "xinshi-chen",
+          "avatar": "https://avatars.githubusercontent.com/u/46148346?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 18,
+      "author": "karpathy",
+      "repoName": "nanoGPT",
+      "url": "https://github.com/karpathy/nanoGPT",
+      "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 53228,
+      "forks": 9006,
+      "currentPeriodStars": 533,
+      "builtBy": [
+        {
+          "username": "karpathy",
+          "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4"
+        },
+        {
+          "username": "apivovarov",
+          "avatar": "https://avatars.githubusercontent.com/u/218087?s=40&v=4"
+        },
+        {
+          "username": "danielgross",
+          "avatar": "https://avatars.githubusercontent.com/u/279531?s=40&v=4"
+        },
+        {
+          "username": "otaviogood",
+          "avatar": "https://avatars.githubusercontent.com/u/189850?s=40&v=4"
+        },
+        {
+          "username": "lantiga",
+          "avatar": "https://avatars.githubusercontent.com/u/191033?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 19,
+      "author": "unslothai",
+      "repoName": "unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 52216,
+      "forks": 4318,
+      "currentPeriodStars": 536,
+      "builtBy": [
+        {
+          "username": "danielhanchen",
+          "avatar": "https://avatars.githubusercontent.com/u/23090290?s=40&v=4"
+        },
+        {
+          "username": "shimmyshimmer",
+          "avatar": "https://avatars.githubusercontent.com/u/107991372?s=40&v=4"
+        },
+        {
+          "username": "apps/pre-commit-ci",
+          "avatar": "https://avatars.githubusercontent.com/in/68672?s=40&v=4"
+        },
+        {
+          "username": "Datta0",
+          "avatar": "https://avatars.githubusercontent.com/u/39181234?s=40&v=4"
+        },
+        {
+          "username": "jeromeku",
+          "avatar": "https://avatars.githubusercontent.com/u/2455711?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "Unsloth 是一个专注于大语言模型高效微调与强化学习的 Python 库。其核心在于通过优化算法显著提升训练速度，可将 OpenAI GPT-OSS、Llama 等模型的训练速度提升 2 倍，同时减少高达 70% 的 VRAM 占用，有效解决了大模型训练资源消耗巨大的痛点。"
+        }
+      ]
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "count": 15,
   "since": "weekly",
-  "captured_at": "2026-02-15 08:22:41",
+  "captured_at": "2026-02-15 12:18:43",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 22150,
-      "forks": 2225,
+      "stars": 22214,
+      "forks": 2232,
       "currentPeriodStars": 13576,
       "builtBy": [
         {
@@ -40,38 +40,48 @@
     },
     {
       "rank": 2,
-      "author": "pydantic",
-      "repoName": "monty",
-      "url": "https://github.com/pydantic/monty",
-      "description": "A minimal, secure Python interpreter written in Rust for use by AI",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 5267,
-      "forks": 190,
-      "currentPeriodStars": 3428,
+      "author": "github",
+      "repoName": "gh-aw",
+      "url": "https://github.com/github/gh-aw",
+      "description": "GitHub Agentic Workflows",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 2489,
+      "forks": 182,
+      "currentPeriodStars": 1927,
       "builtBy": [
         {
-          "username": "samuelcolvin",
-          "avatar": "https://avatars.githubusercontent.com/u/4039449?s=40&v=4"
+          "username": "apps/copilot-swe-agent",
+          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
         },
         {
-          "username": "davidhewitt",
-          "avatar": "https://avatars.githubusercontent.com/u/1939362?s=40&v=4"
+          "username": "pelikhan",
+          "avatar": "https://avatars.githubusercontent.com/u/4175913?s=40&v=4"
         },
         {
-          "username": "petyosi",
-          "avatar": "https://avatars.githubusercontent.com/u/13347?s=40&v=4"
+          "username": "dsyme",
+          "avatar": "https://avatars.githubusercontent.com/u/7204669?s=40&v=4"
         },
         {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         },
         {
-          "username": "DouweM",
-          "avatar": "https://avatars.githubusercontent.com/u/159434?s=40&v=4"
+          "username": "mnkiefer",
+          "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&v=4"
         }
       ],
-      "aiSummaries": null
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "github/gh-aw 是基于 Go 的 GitHub Agentic Workflows 项目，用于将智能代理与 GitHub 工作流深度集成，自动化处理代码变更、评审与协作任务，降低人工干预成本并提升开发效率与一致性。",
+          "en": "github/gh-aw is a Go-based GitHub Agentic Workflows project that integrates intelligent agents into GitHub workflows to automate code changes, reviews, and collaboration, reducing manual effort and improving development efficiency."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "gh-aw 是 GitHub 推出的基于 Go 语言开发的智能体工作流框架。它旨在通过可编程的自动化代理来编排复杂的开发任务，解决传统 CI/CD 流程在灵活性与智能决策方面的不足，提升软件交付的自动化与智能化水平。"
+        }
+      ]
     },
     {
       "rank": 3,
@@ -81,8 +91,8 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32348,
-      "forks": 2161,
+      "stars": 32392,
+      "forks": 2165,
       "currentPeriodStars": 8146,
       "builtBy": [
         {
@@ -115,53 +125,13 @@
     },
     {
       "rank": 4,
-      "author": "github",
-      "repoName": "gh-aw",
-      "url": "https://github.com/github/gh-aw",
-      "description": "GitHub Agentic Workflows",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2455,
-      "forks": 181,
-      "currentPeriodStars": 1927,
-      "builtBy": [
-        {
-          "username": "apps/copilot-swe-agent",
-          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
-        },
-        {
-          "username": "pelikhan",
-          "avatar": "https://avatars.githubusercontent.com/u/4175913?s=40&v=4"
-        },
-        {
-          "username": "dsyme",
-          "avatar": "https://avatars.githubusercontent.com/u/7204669?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "mnkiefer",
-          "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "deepseek",
-          "zh": "gh-aw 是 GitHub 推出的基于 Go 语言开发的智能体工作流框架。它旨在通过可编程的自动化代理来编排复杂的开发任务，解决传统 CI/CD 流程在灵活性与智能决策方面的不足，提升软件交付的自动化与智能化水平。"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "author": "Jeffallan",
       "repoName": "claude-skills",
       "url": "https://github.com/Jeffallan/claude-skills",
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2574,
+      "stars": 2604,
       "forks": 166,
       "currentPeriodStars": 2065,
       "builtBy": [
@@ -194,6 +164,41 @@
       ]
     },
     {
+      "rank": 5,
+      "author": "pydantic",
+      "repoName": "monty",
+      "url": "https://github.com/pydantic/monty",
+      "description": "A minimal, secure Python interpreter written in Rust for use by AI",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 5283,
+      "forks": 191,
+      "currentPeriodStars": 3428,
+      "builtBy": [
+        {
+          "username": "samuelcolvin",
+          "avatar": "https://avatars.githubusercontent.com/u/4039449?s=40&v=4"
+        },
+        {
+          "username": "davidhewitt",
+          "avatar": "https://avatars.githubusercontent.com/u/1939362?s=40&v=4"
+        },
+        {
+          "username": "petyosi",
+          "avatar": "https://avatars.githubusercontent.com/u/13347?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "DouweM",
+          "avatar": "https://avatars.githubusercontent.com/u/159434?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
       "rank": 6,
       "author": "virattt",
       "repoName": "dexter",
@@ -201,8 +206,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15217,
-      "forks": 1823,
+      "stars": 15254,
+      "forks": 1825,
       "currentPeriodStars": 4002,
       "builtBy": [
         {
@@ -230,35 +235,35 @@
     },
     {
       "rank": 7,
-      "author": "openai",
-      "repoName": "skills",
-      "url": "https://github.com/openai/skills",
-      "description": "Skills Catalog for Codex",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 8538,
-      "forks": 476,
-      "currentPeriodStars": 3126,
+      "author": "gitbutlerapp",
+      "repoName": "gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 19306,
+      "forks": 840,
+      "currentPeriodStars": 1495,
       "builtBy": [
         {
-          "username": "gverma-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
+          "username": "krlvi",
+          "avatar": "https://avatars.githubusercontent.com/u/4030927?s=40&v=4"
         },
         {
-          "username": "dkundel-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4"
+          "username": "estib-vega",
+          "avatar": "https://avatars.githubusercontent.com/u/35891811?s=40&v=4"
         },
         {
-          "username": "vb-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&v=4"
+          "username": "mtsgrd",
+          "avatar": "https://avatars.githubusercontent.com/u/1300356?s=40&v=4"
         },
         {
-          "username": "ae-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&v=4"
+          "username": "ngalaiko",
+          "avatar": "https://avatars.githubusercontent.com/u/15010292?s=40&v=4"
         },
         {
-          "username": "edward-bayes",
-          "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&v=4"
+          "username": "Caleb-T-Owens",
+          "avatar": "https://avatars.githubusercontent.com/u/13354155?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -271,8 +276,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12174,
-      "forks": 1220,
+      "stars": 12217,
+      "forks": 1223,
       "currentPeriodStars": 4131,
       "builtBy": [
         {
@@ -306,8 +311,8 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17288,
-      "forks": 3715,
+      "stars": 17298,
+      "forks": 3716,
       "currentPeriodStars": 1615,
       "builtBy": [
         {
@@ -335,159 +340,14 @@
     },
     {
       "rank": 10,
-      "author": "OpenBMB",
-      "repoName": "MiniCPM-o",
-      "url": "https://github.com/OpenBMB/MiniCPM-o",
-      "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 23795,
-      "forks": 1830,
-      "currentPeriodStars": 703,
-      "builtBy": [
-        {
-          "username": "yiranyyu",
-          "avatar": "https://avatars.githubusercontent.com/u/28106858?s=40&v=4"
-        },
-        {
-          "username": "iceflame89",
-          "avatar": "https://avatars.githubusercontent.com/u/5380770?s=40&v=4"
-        },
-        {
-          "username": "yaoyuanTHU",
-          "avatar": "https://avatars.githubusercontent.com/u/19372848?s=40&v=4"
-        },
-        {
-          "username": "tc-mb",
-          "avatar": "https://avatars.githubusercontent.com/u/157115220?s=40&v=4"
-        },
-        {
-          "username": "YuzaChongyi",
-          "avatar": "https://avatars.githubusercontent.com/u/18023954?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 11,
-      "author": "Shubhamsaboo",
-      "repoName": "awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 95061,
-      "forks": 13772,
-      "currentPeriodStars": 2539,
-      "builtBy": [
-        {
-          "username": "Shubhamsaboo",
-          "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&v=4"
-        },
-        {
-          "username": "Madhuvod",
-          "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&v=4"
-        },
-        {
-          "username": "libw0430",
-          "avatar": "https://avatars.githubusercontent.com/u/102198332?s=40&v=4"
-        },
-        {
-          "username": "awesomekoder",
-          "avatar": "https://avatars.githubusercontent.com/u/258367783?s=40&v=4"
-        },
-        {
-          "username": "AndrewHoh",
-          "avatar": "https://avatars.githubusercontent.com/u/774516?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "deepseek",
-          "zh": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。"
-        }
-      ]
-    },
-    {
-      "rank": 12,
-      "author": "thedotmack",
-      "repoName": "claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 28268,
-      "forks": 1892,
-      "currentPeriodStars": 3712,
-      "builtBy": [
-        {
-          "username": "thedotmack",
-          "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "apps/copilot-swe-agent",
-          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
-        },
-        {
-          "username": "rodboev",
-          "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 13,
-      "author": "EveryInc",
-      "repoName": "compound-engineering-plugin",
-      "url": "https://github.com/EveryInc/compound-engineering-plugin",
-      "description": "Official Claude Code compound engineering plugin",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 8883,
-      "forks": 691,
-      "currentPeriodStars": 1472,
-      "builtBy": [
-        {
-          "username": "kieranklaassen",
-          "avatar": "https://avatars.githubusercontent.com/u/209089?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "tmchow",
-          "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&v=4"
-        },
-        {
-          "username": "julik",
-          "avatar": "https://avatars.githubusercontent.com/u/16446?s=40&v=4"
-        },
-        {
-          "username": "dshipper",
-          "avatar": "https://avatars.githubusercontent.com/u/263564?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 14,
       "author": "ChromeDevTools",
       "repoName": "chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 25180,
-      "forks": 1484,
+      "stars": 25232,
+      "forks": 1485,
       "currentPeriodStars": 1513,
       "builtBy": [
         {
@@ -524,39 +384,189 @@
       ]
     },
     {
-      "rank": 15,
-      "author": "tobi",
-      "repoName": "qmd",
-      "url": "https://github.com/tobi/qmd",
-      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 8500,
-      "forks": 452,
-      "currentPeriodStars": 1421,
+      "rank": 11,
+      "author": "Shubhamsaboo",
+      "repoName": "awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 95108,
+      "forks": 13780,
+      "currentPeriodStars": 2539,
       "builtBy": [
         {
-          "username": "tobi",
-          "avatar": "https://avatars.githubusercontent.com/u/347?s=40&v=4"
+          "username": "Shubhamsaboo",
+          "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&v=4"
+        },
+        {
+          "username": "Madhuvod",
+          "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&v=4"
+        },
+        {
+          "username": "libw0430",
+          "avatar": "https://avatars.githubusercontent.com/u/102198332?s=40&v=4"
+        },
+        {
+          "username": "awesomekoder",
+          "avatar": "https://avatars.githubusercontent.com/u/258367783?s=40&v=4"
+        },
+        {
+          "username": "AndrewHoh",
+          "avatar": "https://avatars.githubusercontent.com/u/774516?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "author": "microsoft",
+      "repoName": "litebox",
+      "url": "https://github.com/microsoft/litebox",
+      "description": "A security-focused library OS supporting kernel- and user-mode execution",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2125,
+      "forks": 88,
+      "currentPeriodStars": 1103,
+      "builtBy": [
+        {
+          "username": "jaybosamiya-ms",
+          "avatar": "https://avatars.githubusercontent.com/u/171180729?s=40&v=4"
+        },
+        {
+          "username": "CvvT",
+          "avatar": "https://avatars.githubusercontent.com/u/11675863?s=40&v=4"
+        },
+        {
+          "username": "jstarks",
+          "avatar": "https://avatars.githubusercontent.com/u/9548354?s=40&v=4"
+        },
+        {
+          "username": "sangho2",
+          "avatar": "https://avatars.githubusercontent.com/u/3938640?s=40&v=4"
+        },
+        {
+          "username": "Icegrave0391",
+          "avatar": "https://avatars.githubusercontent.com/u/31272993?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 13,
+      "author": "thedotmack",
+      "repoName": "claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 28302,
+      "forks": 1899,
+      "currentPeriodStars": 3712,
+      "builtBy": [
+        {
+          "username": "thedotmack",
+          "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4"
         },
         {
           "username": "claude",
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "burke",
-          "avatar": "https://avatars.githubusercontent.com/u/1284?s=40&v=4"
+          "username": "apps/copilot-swe-agent",
+          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
         },
         {
-          "username": "mbrendan",
-          "avatar": "https://avatars.githubusercontent.com/u/25271154?s=40&v=4"
+          "username": "rodboev",
+          "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&v=4"
         },
         {
-          "username": "sh54",
-          "avatar": "https://avatars.githubusercontent.com/u/906180?s=40&v=4"
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
       "aiSummaries": null
+    },
+    {
+      "rank": 14,
+      "author": "EveryInc",
+      "repoName": "compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Claude Code compound engineering plugin",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 8892,
+      "forks": 691,
+      "currentPeriodStars": 1472,
+      "builtBy": [
+        {
+          "username": "kieranklaassen",
+          "avatar": "https://avatars.githubusercontent.com/u/209089?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "tmchow",
+          "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&v=4"
+        },
+        {
+          "username": "julik",
+          "avatar": "https://avatars.githubusercontent.com/u/16446?s=40&v=4"
+        },
+        {
+          "username": "dshipper",
+          "avatar": "https://avatars.githubusercontent.com/u/263564?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 15,
+      "author": "danielmiessler",
+      "repoName": "Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 8370,
+      "forks": 1158,
+      "currentPeriodStars": 2061,
+      "builtBy": [
+        {
+          "username": "danielmiessler",
+          "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "ksylvan",
+          "avatar": "https://avatars.githubusercontent.com/u/1226059?s=40&v=4"
+        },
+        {
+          "username": "mvoehringer",
+          "avatar": "https://avatars.githubusercontent.com/u/2719466?s=40&v=4"
+        },
+        {
+          "username": "m4nt0de4",
+          "avatar": "https://avatars.githubusercontent.com/u/176330864?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "danielmiessler/Personal_AI_Infrastructure 是一个基于 TypeScript 的智能体化 AI 基础设施项目。其核心目标是构建一个能扩展和增强人类能力的自动化代理系统，通过编排多个 AI 智能体协同工作，解决个人在信息处理、任务执行与决策支持等方面的效率瓶颈，实现人机能力的深度融合与放大。"
+        }
+      ]
     }
   ]
 }

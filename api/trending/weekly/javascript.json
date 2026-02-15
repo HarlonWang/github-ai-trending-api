@@ -1,18 +1,53 @@
 {
-  "count": 11,
+  "count": 12,
   "since": "weekly",
-  "captured_at": "2026-02-15 08:22:50",
+  "captured_at": "2026-02-15 12:18:51",
   "data": [
     {
       "rank": 1,
+      "author": "drawdb-io",
+      "repoName": "drawdb",
+      "url": "https://github.com/drawdb-io/drawdb",
+      "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 36599,
+      "forks": 2850,
+      "currentPeriodStars": 765,
+      "builtBy": [
+        {
+          "username": "1ilit",
+          "avatar": "https://avatars.githubusercontent.com/u/96800776?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "picimako",
+          "avatar": "https://avatars.githubusercontent.com/u/5739987?s=40&v=4"
+        },
+        {
+          "username": "haecheonlee",
+          "avatar": "https://avatars.githubusercontent.com/u/16802605?s=40&v=4"
+        },
+        {
+          "username": "KARM99",
+          "avatar": "https://avatars.githubusercontent.com/u/21248684?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 2,
       "author": "yctimlin",
       "repoName": "mcp_excalidraw",
       "url": "https://github.com/yctimlin/mcp_excalidraw",
       "description": "",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 901,
-      "forks": 84,
+      "stars": 902,
+      "forks": 85,
       "currentPeriodStars": 169,
       "builtBy": [
         {
@@ -39,41 +74,6 @@
       "aiSummaries": null
     },
     {
-      "rank": 2,
-      "author": "microsoft",
-      "repoName": "playwright-cli",
-      "url": "https://github.com/microsoft/playwright-cli",
-      "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 3538,
-      "forks": 133,
-      "currentPeriodStars": 1009,
-      "builtBy": [
-        {
-          "username": "pavelfeldman",
-          "avatar": "https://avatars.githubusercontent.com/u/883973?s=40&v=4"
-        },
-        {
-          "username": "Skn0tt",
-          "avatar": "https://avatars.githubusercontent.com/u/14912729?s=40&v=4"
-        },
-        {
-          "username": "yury-s",
-          "avatar": "https://avatars.githubusercontent.com/u/9798949?s=40&v=4"
-        },
-        {
-          "username": "manuelgruber",
-          "avatar": "https://avatars.githubusercontent.com/u/156138?s=40&v=4"
-        },
-        {
-          "username": "vsantele",
-          "avatar": "https://avatars.githubusercontent.com/u/26800140?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
       "rank": 3,
       "author": "viarotel-org",
       "repoName": "escrcpy",
@@ -81,7 +81,7 @@
       "description": "📱 Display and control your Android device graphically with scrcpy.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 8149,
+      "stars": 8148,
       "forks": 595,
       "currentPeriodStars": 388,
       "builtBy": [
@@ -116,8 +116,8 @@
       "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 8054,
-      "forks": 2994,
+      "stars": 8063,
+      "forks": 2997,
       "currentPeriodStars": 192,
       "builtBy": [
         {
@@ -145,83 +145,13 @@
     },
     {
       "rank": 5,
-      "author": "drawdb-io",
-      "repoName": "drawdb",
-      "url": "https://github.com/drawdb-io/drawdb",
-      "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 36600,
-      "forks": 2850,
-      "currentPeriodStars": 765,
-      "builtBy": [
-        {
-          "username": "1ilit",
-          "avatar": "https://avatars.githubusercontent.com/u/96800776?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "picimako",
-          "avatar": "https://avatars.githubusercontent.com/u/5739987?s=40&v=4"
-        },
-        {
-          "username": "haecheonlee",
-          "avatar": "https://avatars.githubusercontent.com/u/16802605?s=40&v=4"
-        },
-        {
-          "username": "KARM99",
-          "avatar": "https://avatars.githubusercontent.com/u/21248684?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 6,
-      "author": "anuraghazra",
-      "repoName": "github-readme-stats",
-      "url": "https://github.com/anuraghazra/github-readme-stats",
-      "description": "⚡ Dynamically generated stats for your github readmes",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 78363,
-      "forks": 30481,
-      "currentPeriodStars": 138,
-      "builtBy": [
-        {
-          "username": "qwerty541",
-          "avatar": "https://avatars.githubusercontent.com/u/53787217?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "anuraghazra",
-          "avatar": "https://avatars.githubusercontent.com/u/35374649?s=40&v=4"
-        },
-        {
-          "username": "rickstaa",
-          "avatar": "https://avatars.githubusercontent.com/u/17570430?s=40&v=4"
-        },
-        {
-          "username": "opheliagoldstein",
-          "avatar": "https://avatars.githubusercontent.com/u/159258143?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 7,
       "author": "GitSquared",
       "repoName": "edex-ui",
       "url": "https://github.com/GitSquared/edex-ui",
       "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 44233,
+      "stars": 44235,
       "forks": 2996,
       "currentPeriodStars": 154,
       "builtBy": [
@@ -249,42 +179,7 @@
       "aiSummaries": null
     },
     {
-      "rank": 8,
-      "author": "BrasilAPI",
-      "repoName": "BrasilAPI",
-      "url": "https://github.com/BrasilAPI/BrasilAPI",
-      "description": "Vamos transformar o Brasil em uma API?",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 10197,
-      "forks": 694,
-      "currentPeriodStars": 76,
-      "builtBy": [
-        {
-          "username": "LorhanSohaky",
-          "avatar": "https://avatars.githubusercontent.com/u/16273730?s=40&v=4"
-        },
-        {
-          "username": "lucianopf",
-          "avatar": "https://avatars.githubusercontent.com/u/8251208?s=40&v=4"
-        },
-        {
-          "username": "RodriAndreotti",
-          "avatar": "https://avatars.githubusercontent.com/u/9449048?s=40&v=4"
-        },
-        {
-          "username": "murilohns",
-          "avatar": "https://avatars.githubusercontent.com/u/18074134?s=40&v=4"
-        },
-        {
-          "username": "filipedeschamps",
-          "avatar": "https://avatars.githubusercontent.com/u/4248081?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "author": "tangly1024",
       "repoName": "NotionNext",
       "url": "https://github.com/tangly1024/NotionNext",
@@ -292,7 +187,7 @@
       "language": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": 11107,
-      "forks": 14416,
+      "forks": 14418,
       "currentPeriodStars": 68,
       "builtBy": [
         {
@@ -319,15 +214,50 @@
       "aiSummaries": null
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "author": "anuraghazra",
+      "repoName": "github-readme-stats",
+      "url": "https://github.com/anuraghazra/github-readme-stats",
+      "description": "⚡ Dynamically generated stats for your github readmes",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 78365,
+      "forks": 30486,
+      "currentPeriodStars": 138,
+      "builtBy": [
+        {
+          "username": "qwerty541",
+          "avatar": "https://avatars.githubusercontent.com/u/53787217?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "anuraghazra",
+          "avatar": "https://avatars.githubusercontent.com/u/35374649?s=40&v=4"
+        },
+        {
+          "username": "rickstaa",
+          "avatar": "https://avatars.githubusercontent.com/u/17570430?s=40&v=4"
+        },
+        {
+          "username": "opheliagoldstein",
+          "avatar": "https://avatars.githubusercontent.com/u/159258143?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 8,
       "author": "harvard-edge",
       "repoName": "cs249r_book",
       "url": "https://github.com/harvard-edge/cs249r_book",
       "description": "Introduction to Machine Learning Systems",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 18195,
-      "forks": 2129,
+      "stars": 18202,
+      "forks": 2131,
       "currentPeriodStars": 363,
       "builtBy": [
         {
@@ -354,24 +284,141 @@
       "aiSummaries": null
     },
     {
-      "rank": 11,
-      "author": "maxandrews",
-      "repoName": "Epstein-doc-explorer",
-      "url": "https://github.com/maxandrews/Epstein-doc-explorer",
-      "description": "a graph explorer of the Epstein emails",
+      "rank": 9,
+      "author": "sohzm",
+      "repoName": "cheating-daddy",
+      "url": "https://github.com/sohzm/cheating-daddy",
+      "description": "a free and opensource app that lets you gain an unfair advantage",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 524,
-      "forks": 95,
-      "currentPeriodStars": 73,
+      "stars": 5058,
+      "forks": 856,
+      "currentPeriodStars": 40,
       "builtBy": [
         {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+          "username": "sohzm",
+          "avatar": "https://avatars.githubusercontent.com/u/68921363?s=40&v=4"
         },
         {
-          "username": "maxandrews",
-          "avatar": "https://avatars.githubusercontent.com/u/173085487?s=40&v=4"
+          "username": "byigitt",
+          "avatar": "https://avatars.githubusercontent.com/u/137426514?s=40&v=4"
+        },
+        {
+          "username": "sandys",
+          "avatar": "https://avatars.githubusercontent.com/u/76883?s=40&v=4"
+        },
+        {
+          "username": "ManojINaik",
+          "avatar": "https://avatars.githubusercontent.com/u/68473696?s=40&v=4"
+        },
+        {
+          "username": "mayur1377",
+          "avatar": "https://avatars.githubusercontent.com/u/74107137?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 10,
+      "author": "qeeqbox",
+      "repoName": "social-analyzer",
+      "url": "https://github.com/qeeqbox/social-analyzer",
+      "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 21086,
+      "forks": 1957,
+      "currentPeriodStars": 287,
+      "builtBy": [
+        {
+          "username": "giga-a",
+          "avatar": "https://avatars.githubusercontent.com/u/52905881?s=40&v=4"
+        },
+        {
+          "username": "qb-auto",
+          "avatar": "https://avatars.githubusercontent.com/u/81345102?s=40&v=4"
+        },
+        {
+          "username": "SethFalco",
+          "avatar": "https://avatars.githubusercontent.com/u/22801583?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "supersourlemons",
+          "avatar": "https://avatars.githubusercontent.com/u/210174607?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 11,
+      "author": "plankanban",
+      "repoName": "planka",
+      "url": "https://github.com/plankanban/planka",
+      "description": "PLANKA is the Kanban-style project mastering tool for everyone",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 11533,
+      "forks": 1181,
+      "currentPeriodStars": 60,
+      "builtBy": [
+        {
+          "username": "meltyshev",
+          "avatar": "https://avatars.githubusercontent.com/u/5564188?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "daniel-hiller",
+          "avatar": "https://avatars.githubusercontent.com/u/46579393?s=40&v=4"
+        },
+        {
+          "username": "symonbaikov",
+          "avatar": "https://avatars.githubusercontent.com/u/115481136?s=40&v=4"
+        },
+        {
+          "username": "HannesOberreiter",
+          "avatar": "https://avatars.githubusercontent.com/u/16878981?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 12,
+      "author": "usebruno",
+      "repoName": "bruno",
+      "url": "https://github.com/usebruno/bruno",
+      "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 40862,
+      "forks": 2112,
+      "currentPeriodStars": 197,
+      "builtBy": [
+        {
+          "username": "helloanoop",
+          "avatar": "https://avatars.githubusercontent.com/u/9350733?s=40&v=4"
+        },
+        {
+          "username": "lohxt1",
+          "avatar": "https://avatars.githubusercontent.com/u/25679466?s=40&v=4"
+        },
+        {
+          "username": "lohit-bruno",
+          "avatar": "https://avatars.githubusercontent.com/u/159901171?s=40&v=4"
+        },
+        {
+          "username": "pooja-bruno",
+          "avatar": "https://avatars.githubusercontent.com/u/191850912?s=40&v=4"
+        },
+        {
+          "username": "Pragadesh-45",
+          "avatar": "https://avatars.githubusercontent.com/u/54320162?s=40&v=4"
         }
       ],
       "aiSummaries": null

@@ -1,7 +1,7 @@
 {
   "count": 15,
   "since": "daily",
-  "captured_at": "2026-02-15 08:21:54",
+  "captured_at": "2026-02-15 12:17:56",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6266,
-      "forks": 559,
+      "stars": 6306,
+      "forks": 563,
       "currentPeriodStars": 98,
       "builtBy": [
         {
@@ -38,14 +38,159 @@
     },
     {
       "rank": 2,
+      "author": "Comfy-Org",
+      "repoName": "ComfyUI-Manager",
+      "url": "https://github.com/Comfy-Org/ComfyUI-Manager",
+      "description": "ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 13600,
+      "forks": 1949,
+      "currentPeriodStars": 3,
+      "builtBy": [
+        {
+          "username": "ltdrdata",
+          "avatar": "https://avatars.githubusercontent.com/u/128333288?s=40&v=4"
+        },
+        {
+          "username": "Yuan-ManX",
+          "avatar": "https://avatars.githubusercontent.com/u/68322456?s=40&v=4"
+        },
+        {
+          "username": "chaojie",
+          "avatar": "https://avatars.githubusercontent.com/u/701810?s=40&v=4"
+        },
+        {
+          "username": "qiaoshun8888",
+          "avatar": "https://avatars.githubusercontent.com/u/1053081?s=40&v=4"
+        },
+        {
+          "username": "MaraScott",
+          "avatar": "https://avatars.githubusercontent.com/u/482210?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 3,
+      "author": "HKUDS",
+      "repoName": "RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 13324,
+      "forks": 1599,
+      "currentPeriodStars": 183,
+      "builtBy": [
+        {
+          "username": "LarFii",
+          "avatar": "https://avatars.githubusercontent.com/u/49157727?s=40&v=4"
+        },
+        {
+          "username": "chaohuang-ai",
+          "avatar": "https://avatars.githubusercontent.com/u/204865953?s=40&v=4"
+        },
+        {
+          "username": "LaansDole",
+          "avatar": "https://avatars.githubusercontent.com/u/85084360?s=40&v=4"
+        },
+        {
+          "username": "hzywhite",
+          "avatar": "https://avatars.githubusercontent.com/u/53216231?s=40&v=4"
+        },
+        {
+          "username": "apps/copilot-swe-agent",
+          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 4,
+      "author": "Jeffallan",
+      "repoName": "claude-skills",
+      "url": "https://github.com/Jeffallan/claude-skills",
+      "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 2604,
+      "forks": 166,
+      "currentPeriodStars": 358,
+      "builtBy": [
+        {
+          "username": "Jeffallan",
+          "avatar": "https://avatars.githubusercontent.com/u/23423962?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "liyin2015",
+          "avatar": "https://avatars.githubusercontent.com/u/14322677?s=40&v=4"
+        },
+        {
+          "username": "salmanmkc",
+          "avatar": "https://avatars.githubusercontent.com/u/32169182?s=40&v=4"
+        },
+        {
+          "username": "thomassamoul",
+          "avatar": "https://avatars.githubusercontent.com/u/50757446?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "author": "resemble-ai",
+      "repoName": "chatterbox",
+      "url": "https://github.com/resemble-ai/chatterbox",
+      "description": "SoTA open-source TTS",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 22645,
+      "forks": 2969,
+      "currentPeriodStars": 65,
+      "builtBy": [
+        {
+          "username": "fatchord",
+          "avatar": "https://avatars.githubusercontent.com/u/37295764?s=40&v=4"
+        },
+        {
+          "username": "JeremyCCHsu",
+          "avatar": "https://avatars.githubusercontent.com/u/16027371?s=40&v=4"
+        },
+        {
+          "username": "manmay-nakhashi",
+          "avatar": "https://avatars.githubusercontent.com/u/17176700?s=40&v=4"
+        },
+        {
+          "username": "ZohaibAhmed",
+          "avatar": "https://avatars.githubusercontent.com/u/660224?s=40&v=4"
+        },
+        {
+          "username": "TediPapajorgji",
+          "avatar": "https://avatars.githubusercontent.com/u/5790075?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 6,
       "author": "Zipstack",
       "repoName": "unstract",
       "url": "https://github.com/Zipstack/unstract",
       "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6368,
-      "forks": 604,
+      "stars": 6389,
+      "forks": 606,
       "currentPeriodStars": 40,
       "builtBy": [
         {
@@ -82,195 +227,225 @@
       ]
     },
     {
-      "rank": 3,
-      "author": "GetStream",
-      "repoName": "Vision-Agents",
-      "url": "https://github.com/GetStream/Vision-Agents",
-      "description": "Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 5815,
-      "forks": 462,
-      "currentPeriodStars": 272,
-      "builtBy": [
-        {
-          "username": "tschellenbach",
-          "avatar": "https://avatars.githubusercontent.com/u/265409?s=40&v=4"
-        },
-        {
-          "username": "Nash0x7E2",
-          "avatar": "https://avatars.githubusercontent.com/u/25674767?s=40&v=4"
-        },
-        {
-          "username": "maxkahan",
-          "avatar": "https://avatars.githubusercontent.com/u/28460373?s=40&v=4"
-        },
-        {
-          "username": "yarikdevcom",
-          "avatar": "https://avatars.githubusercontent.com/u/43354956?s=40&v=4"
-        },
-        {
-          "username": "d3xvn",
-          "avatar": "https://avatars.githubusercontent.com/u/26357843?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 4,
-      "author": "open-webui",
-      "repoName": "open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 123956,
-      "forks": 17507,
-      "currentPeriodStars": 122,
-      "builtBy": [
-        {
-          "username": "tjbck",
-          "avatar": "https://avatars.githubusercontent.com/u/25473318?s=40&v=4"
-        },
-        {
-          "username": "Classic298",
-          "avatar": "https://avatars.githubusercontent.com/u/27028174?s=40&v=4"
-        },
-        {
-          "username": "cheahjs",
-          "avatar": "https://avatars.githubusercontent.com/u/818368?s=40&v=4"
-        },
-        {
-          "username": "silentoplayz",
-          "avatar": "https://avatars.githubusercontent.com/u/50341825?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 5,
-      "author": "music-assistant",
-      "repoName": "server",
-      "url": "https://github.com/music-assistant/server",
-      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 1334,
-      "forks": 296,
-      "currentPeriodStars": 6,
-      "builtBy": [
-        {
-          "username": "marcelveldt",
-          "avatar": "https://avatars.githubusercontent.com/u/6389780?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "MarvinSchenkel",
-          "avatar": "https://avatars.githubusercontent.com/u/17671719?s=40&v=4"
-        },
-        {
-          "username": "music-assistant-machine",
-          "avatar": "https://avatars.githubusercontent.com/u/141749843?s=40&v=4"
-        },
-        {
-          "username": "OzGav",
-          "avatar": "https://avatars.githubusercontent.com/u/19848947?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 6,
-      "author": "anthropics",
-      "repoName": "claude-quickstarts",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 14020,
-      "forks": 2358,
-      "currentPeriodStars": 40,
-      "builtBy": [
-        {
-          "username": "x5a",
-          "avatar": "https://avatars.githubusercontent.com/u/4421754?s=40&v=4"
-        },
-        {
-          "username": "alexalbertt",
-          "avatar": "https://avatars.githubusercontent.com/u/34638987?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "zealoushacker",
-          "avatar": "https://avatars.githubusercontent.com/u/346275?s=40&v=4"
-        },
-        {
-          "username": "zckly",
-          "avatar": "https://avatars.githubusercontent.com/u/11340449?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
       "rank": 7,
-      "author": "Shubhamsaboo",
-      "repoName": "awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "author": "yt-dlp",
+      "repoName": "yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 95061,
-      "forks": 13772,
-      "currentPeriodStars": 358,
+      "stars": 147189,
+      "forks": 11919,
+      "currentPeriodStars": 143,
       "builtBy": [
         {
-          "username": "Shubhamsaboo",
-          "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&v=4"
+          "username": "dstftw",
+          "avatar": "https://avatars.githubusercontent.com/u/1908898?s=40&v=4"
         },
         {
-          "username": "Madhuvod",
-          "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&v=4"
+          "username": "phihag",
+          "avatar": "https://avatars.githubusercontent.com/u/779568?s=40&v=4"
         },
         {
-          "username": "libw0430",
-          "avatar": "https://avatars.githubusercontent.com/u/102198332?s=40&v=4"
+          "username": "pukkandan",
+          "avatar": "https://avatars.githubusercontent.com/u/6623388?s=40&v=4"
         },
         {
-          "username": "awesomekoder",
-          "avatar": "https://avatars.githubusercontent.com/u/258367783?s=40&v=4"
+          "username": "remitamine",
+          "avatar": "https://avatars.githubusercontent.com/u/10879694?s=40&v=4"
         },
         {
-          "username": "AndrewHoh",
-          "avatar": "https://avatars.githubusercontent.com/u/774516?s=40&v=4"
+          "username": "jaimeMF",
+          "avatar": "https://avatars.githubusercontent.com/u/1239727?s=40&v=4"
         }
       ],
-      "aiSummaries": [
-        {
-          "provider": "deepseek",
-          "zh": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。"
-        }
-      ]
+      "aiSummaries": null
     },
     {
       "rank": 8,
+      "author": "plotly",
+      "repoName": "dash",
+      "url": "https://github.com/plotly/dash",
+      "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 24476,
+      "forks": 2255,
+      "currentPeriodStars": 6,
+      "builtBy": [
+        {
+          "username": "T4rk1n",
+          "avatar": "https://avatars.githubusercontent.com/u/9417722?s=40&v=4"
+        },
+        {
+          "username": "alexcjohnson",
+          "avatar": "https://avatars.githubusercontent.com/u/2678795?s=40&v=4"
+        },
+        {
+          "username": "chriddyp",
+          "avatar": "https://avatars.githubusercontent.com/u/1280389?s=40&v=4"
+        },
+        {
+          "username": "KoolADE85",
+          "avatar": "https://avatars.githubusercontent.com/u/13205733?s=40&v=4"
+        },
+        {
+          "username": "Marc-Andre-Rivet",
+          "avatar": "https://avatars.githubusercontent.com/u/8092993?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 9,
+      "author": "mistralai",
+      "repoName": "mistral-vibe",
+      "url": "https://github.com/mistralai/mistral-vibe",
+      "description": "Minimal CLI coding agent by Mistral",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 3077,
+      "forks": 294,
+      "currentPeriodStars": 17,
+      "builtBy": [
+        {
+          "username": "qtrrb",
+          "avatar": "https://avatars.githubusercontent.com/u/70319920?s=40&v=4"
+        },
+        {
+          "username": "mgesbert",
+          "avatar": "https://avatars.githubusercontent.com/u/394372?s=40&v=4"
+        },
+        {
+          "username": "michelTho",
+          "avatar": "https://avatars.githubusercontent.com/u/51709227?s=40&v=4"
+        },
+        {
+          "username": "VinceOPS",
+          "avatar": "https://avatars.githubusercontent.com/u/10739306?s=40&v=4"
+        },
+        {
+          "username": "Nemtecl",
+          "avatar": "https://avatars.githubusercontent.com/u/24937220?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 10,
+      "author": "home-assistant",
+      "repoName": "core",
+      "url": "https://github.com/home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 84816,
+      "forks": 36748,
+      "currentPeriodStars": 21,
+      "builtBy": [
+        {
+          "username": "bdraco",
+          "avatar": "https://avatars.githubusercontent.com/u/663432?s=40&v=4"
+        },
+        {
+          "username": "balloob",
+          "avatar": "https://avatars.githubusercontent.com/u/1444314?s=40&v=4"
+        },
+        {
+          "username": "epenet",
+          "avatar": "https://avatars.githubusercontent.com/u/6771947?s=40&v=4"
+        },
+        {
+          "username": "frenck",
+          "avatar": "https://avatars.githubusercontent.com/u/195327?s=40&v=4"
+        },
+        {
+          "username": "emontnemery",
+          "avatar": "https://avatars.githubusercontent.com/u/14281572?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 11,
+      "author": "The-Pocket",
+      "repoName": "PocketFlow",
+      "url": "https://github.com/The-Pocket/PocketFlow",
+      "description": "Pocket Flow: 100-line LLM framework. Let Agents build Agents!",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 9978,
+      "forks": 1095,
+      "currentPeriodStars": 85,
+      "builtBy": [
+        {
+          "username": "zachary62",
+          "avatar": "https://avatars.githubusercontent.com/u/33015448?s=40&v=4"
+        },
+        {
+          "username": "zvictor",
+          "avatar": "https://avatars.githubusercontent.com/u/181076?s=40&v=4"
+        },
+        {
+          "username": "redreamality",
+          "avatar": "https://avatars.githubusercontent.com/u/3147776?s=40&v=4"
+        },
+        {
+          "username": "wenboown",
+          "avatar": "https://avatars.githubusercontent.com/u/1467314?s=40&v=4"
+        },
+        {
+          "username": "100apps",
+          "avatar": "https://avatars.githubusercontent.com/u/8075583?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 12,
+      "author": "shiyu-coder",
+      "repoName": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 10516,
+      "forks": 2208,
+      "currentPeriodStars": 33,
+      "builtBy": [
+        {
+          "username": "shiyu-coder",
+          "avatar": "https://avatars.githubusercontent.com/u/65760973?s=40&v=4"
+        },
+        {
+          "username": "Luciferbobo",
+          "avatar": "https://avatars.githubusercontent.com/u/54936491?s=40&v=4"
+        },
+        {
+          "username": "CharlesJ-ABu",
+          "avatar": "https://avatars.githubusercontent.com/u/18326516?s=40&v=4"
+        },
+        {
+          "username": "AnMakc",
+          "avatar": "https://avatars.githubusercontent.com/u/1777564?s=40&v=4"
+        },
+        {
+          "username": "ehan1990",
+          "avatar": "https://avatars.githubusercontent.com/u/1936983?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 13,
       "author": "cheahjs",
       "repoName": "free-llm-api-resources",
       "url": "https://github.com/cheahjs/free-llm-api-resources",
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11084,
-      "forks": 1083,
+      "stars": 11108,
+      "forks": 1088,
       "currentPeriodStars": 547,
       "builtBy": [
         {
@@ -302,251 +477,71 @@
       ]
     },
     {
-      "rank": 9,
-      "author": "microsoft",
-      "repoName": "agent-lightning",
-      "url": "https://github.com/microsoft/agent-lightning",
-      "description": "The absolute trainer to light up AI agents.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 14742,
-      "forks": 1251,
-      "currentPeriodStars": 61,
-      "builtBy": [
-        {
-          "username": "actions-user",
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4"
-        },
-        {
-          "username": "ultmaster",
-          "avatar": "https://avatars.githubusercontent.com/u/8463288?s=40&v=4"
-        },
-        {
-          "username": "acured",
-          "avatar": "https://avatars.githubusercontent.com/u/10276763?s=40&v=4"
-        },
-        {
-          "username": "wizardlancet",
-          "avatar": "https://avatars.githubusercontent.com/u/5806609?s=40&v=4"
-        },
-        {
-          "username": "apps/copilot-pull-request-reviewer",
-          "avatar": "https://avatars.githubusercontent.com/in/946600?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 10,
-      "author": "docling-project",
-      "repoName": "docling",
-      "url": "https://github.com/docling-project/docling",
-      "description": "Get your documents ready for gen AI",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 53076,
-      "forks": 3601,
-      "currentPeriodStars": 87,
-      "builtBy": [
-        {
-          "username": "dolfim-ibm",
-          "avatar": "https://avatars.githubusercontent.com/u/97102151?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "cau-git",
-          "avatar": "https://avatars.githubusercontent.com/u/60343111?s=40&v=4"
-        },
-        {
-          "username": "vagenas",
-          "avatar": "https://avatars.githubusercontent.com/u/35837085?s=40&v=4"
-        },
-        {
-          "username": "ceberam",
-          "avatar": "https://avatars.githubusercontent.com/u/75900930?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 11,
-      "author": "Jeffallan",
-      "repoName": "claude-skills",
-      "url": "https://github.com/Jeffallan/claude-skills",
-      "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 2574,
-      "forks": 166,
-      "currentPeriodStars": 358,
-      "builtBy": [
-        {
-          "username": "Jeffallan",
-          "avatar": "https://avatars.githubusercontent.com/u/23423962?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "liyin2015",
-          "avatar": "https://avatars.githubusercontent.com/u/14322677?s=40&v=4"
-        },
-        {
-          "username": "salmanmkc",
-          "avatar": "https://avatars.githubusercontent.com/u/32169182?s=40&v=4"
-        },
-        {
-          "username": "thomassamoul",
-          "avatar": "https://avatars.githubusercontent.com/u/50757446?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "deepseek",
-          "zh": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。"
-        }
-      ]
-    },
-    {
-      "rank": 12,
+      "rank": 14,
       "author": "karpathy",
-      "repoName": "nanochat",
-      "url": "https://github.com/karpathy/nanochat",
-      "description": "The best ChatGPT that $100 can buy.",
+      "repoName": "nanoGPT",
+      "url": "https://github.com/karpathy/nanoGPT",
+      "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 43327,
-      "forks": 5634,
-      "currentPeriodStars": 81,
+      "stars": 53228,
+      "forks": 9006,
+      "currentPeriodStars": 72,
       "builtBy": [
         {
           "username": "karpathy",
           "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4"
         },
         {
-          "username": "svlandeg",
-          "avatar": "https://avatars.githubusercontent.com/u/8796347?s=40&v=4"
+          "username": "apivovarov",
+          "avatar": "https://avatars.githubusercontent.com/u/218087?s=40&v=4"
         },
         {
-          "username": "lukestanley",
-          "avatar": "https://avatars.githubusercontent.com/u/306671?s=40&v=4"
+          "username": "danielgross",
+          "avatar": "https://avatars.githubusercontent.com/u/279531?s=40&v=4"
         },
         {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+          "username": "otaviogood",
+          "avatar": "https://avatars.githubusercontent.com/u/189850?s=40&v=4"
         },
         {
-          "username": "ericsilberstein",
-          "avatar": "https://avatars.githubusercontent.com/u/10590453?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 13,
-      "author": "mvt-project",
-      "repoName": "mvt",
-      "url": "https://github.com/mvt-project/mvt",
-      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 12138,
-      "forks": 1187,
-      "currentPeriodStars": 9,
-      "builtBy": [
-        {
-          "username": "botherder",
-          "avatar": "https://avatars.githubusercontent.com/u/1032671?s=40&v=4"
-        },
-        {
-          "username": "DonnchaC",
-          "avatar": "https://avatars.githubusercontent.com/u/3081375?s=40&v=4"
-        },
-        {
-          "username": "Te-k",
-          "avatar": "https://avatars.githubusercontent.com/u/15989628?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "besendorf",
-          "avatar": "https://avatars.githubusercontent.com/u/26350155?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 14,
-      "author": "HKUDS",
-      "repoName": "RAG-Anything",
-      "url": "https://github.com/HKUDS/RAG-Anything",
-      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 13306,
-      "forks": 1598,
-      "currentPeriodStars": 183,
-      "builtBy": [
-        {
-          "username": "LarFii",
-          "avatar": "https://avatars.githubusercontent.com/u/49157727?s=40&v=4"
-        },
-        {
-          "username": "chaohuang-ai",
-          "avatar": "https://avatars.githubusercontent.com/u/204865953?s=40&v=4"
-        },
-        {
-          "username": "LaansDole",
-          "avatar": "https://avatars.githubusercontent.com/u/85084360?s=40&v=4"
-        },
-        {
-          "username": "hzywhite",
-          "avatar": "https://avatars.githubusercontent.com/u/53216231?s=40&v=4"
-        },
-        {
-          "username": "apps/copilot-swe-agent",
-          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
+          "username": "lantiga",
+          "avatar": "https://avatars.githubusercontent.com/u/191033?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 15,
-      "author": "awslabs",
-      "repoName": "agent-squad",
-      "url": "https://github.com/awslabs/agent-squad",
-      "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+      "author": "open-webui",
+      "repoName": "open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 7417,
-      "forks": 695,
-      "currentPeriodStars": 10,
+      "stars": 123980,
+      "forks": 17505,
+      "currentPeriodStars": 122,
       "builtBy": [
         {
-          "username": "brnaba-aws",
-          "avatar": "https://avatars.githubusercontent.com/u/64135631?s=40&v=4"
+          "username": "tjbck",
+          "avatar": "https://avatars.githubusercontent.com/u/25473318?s=40&v=4"
         },
         {
-          "username": "cornelcroi",
-          "avatar": "https://avatars.githubusercontent.com/u/4018562?s=40&v=4"
+          "username": "Classic298",
+          "avatar": "https://avatars.githubusercontent.com/u/27028174?s=40&v=4"
+        },
+        {
+          "username": "cheahjs",
+          "avatar": "https://avatars.githubusercontent.com/u/818368?s=40&v=4"
+        },
+        {
+          "username": "silentoplayz",
+          "avatar": "https://avatars.githubusercontent.com/u/50341825?s=40&v=4"
         },
         {
           "username": "apps/dependabot",
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "Rajaniraiyn",
-          "avatar": "https://avatars.githubusercontent.com/u/72294760?s=40&v=4"
-        },
-        {
-          "username": "leandrodamascena",
-          "avatar": "https://avatars.githubusercontent.com/u/4295173?s=40&v=4"
         }
       ],
       "aiSummaries": null
