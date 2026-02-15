@@ -25,7 +25,7 @@ export const HEADERS = {
 
 export const AI_CONFIG = {
   enabled: process.env.AI_ENABLED === 'true',
-  providers: ['deepseek', 'gemini', 'chatgpt'], // 活跃的 AI 提供商列表
+  providers: ['deepseek', 'chatgpt'], // 活跃的 AI 提供商列表
   timeout: 30000,
   delay: 3000,
 
