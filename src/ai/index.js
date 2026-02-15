@@ -66,6 +66,7 @@ export async function generateAISummaries(repos) {
     const fullName = `${repo.author}/${repo.repoName}`;
     const prompt = AI_CONFIG.promptTemplate
       .replace('{{name}}', fullName)
+      .replace('{{url}}', repo.url)
       .replace('{{lang}}', repo.language || 'Unknown')
       .replace('{{desc}}', repo.description || 'No description');
 
