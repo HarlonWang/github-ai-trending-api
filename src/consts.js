@@ -25,7 +25,7 @@ export const HEADERS = {
 
 export const AI_CONFIG = {
   enabled: process.env.AI_ENABLED === 'true',
-  providers: ['deepseek', 'gemini'], // 活跃的 AI 提供商列表
+  providers: ['deepseek', 'gemini', 'chatgpt'], // 活跃的 AI 提供商列表
   timeout: 30000,
   delay: 3000,
 
@@ -63,6 +63,11 @@ export const AI_CONFIG = {
       model: 'deepseek-chat',
       apiKey: process.env.DEEPSEEK_API_KEY,
       baseUrl: 'https://api.deepseek.com/v1'
+    },
+    chatgpt: {
+      model: 'gpt-5.1',
+      apiKey: process.env.OPENAI_API_KEY,
+      baseUrl: 'https://api.openai.com/v1'
     }
   }
 };
