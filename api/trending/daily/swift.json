@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "daily",
-  "captured_at": "2026-02-15 00:18:02",
+  "captured_at": "2026-02-15 06:05:53",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "A toolkit to make debugging iOS applications easier 🚀",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1564,
+      "stars": 1567,
       "forks": 134,
       "currentPeriodStars": 197,
       "builtBy": [
@@ -36,10 +36,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/38084757?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "DebugSwift 是一款专为 iOS 应用设计的调试工具包，旨在简化开发者的调试流程。它通过集成视图层级检查、性能监控、网络请求追踪等核心功能，解决了传统调试方式繁琐、信息分散的痛点，显著提升了问题定位与诊断的效率。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "DebugSwift 是一款专为 iOS 应用设计的调试工具包，旨在简化开发者的调试流程。它通过集成视图层级检查、性能监控、网络请求追踪等核心功能，解决了传统调试方式繁琐、信息分散的痛点，显著提升了问题定位与诊断的效率。"
+        }
+      ]
     },
     {
       "rank": 2,
@@ -49,7 +51,7 @@
       "description": "Windows alt-tab on macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14756,
+      "stars": 14757,
       "forks": 484,
       "currentPeriodStars": 28,
       "builtBy": [
@@ -74,7 +76,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/13162840?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 3,
@@ -84,8 +86,8 @@
       "description": "Elegant HTTP Networking in Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 42350,
-      "forks": 7669,
+      "stars": 42349,
+      "forks": 7670,
       "currentPeriodStars": 2,
       "builtBy": [
         {
@@ -109,7 +111,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/198768?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 4,
@@ -119,7 +121,7 @@
       "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 7077,
+      "stars": 7078,
       "forks": 498,
       "currentPeriodStars": 34,
       "builtBy": [
@@ -144,7 +146,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/78331877?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -154,7 +156,7 @@
       "description": "A private messenger for iOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 11849,
+      "stars": 11851,
       "forks": 3352,
       "currentPeriodStars": 4,
       "builtBy": [
@@ -179,7 +181,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/103334431?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -189,7 +191,7 @@
       "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 32416,
+      "stars": 32419,
       "forks": 929,
       "currentPeriodStars": 22,
       "builtBy": [
@@ -214,7 +216,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/15175599?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 7,
@@ -224,7 +226,7 @@
       "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3747,
+      "stars": 3748,
       "forks": 477,
       "currentPeriodStars": 21,
       "builtBy": [
@@ -249,7 +251,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1684106?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -260,7 +262,7 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": 4344,
-      "forks": 361,
+      "forks": 362,
       "currentPeriodStars": 6,
       "builtBy": [
         {
@@ -284,7 +286,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/63311?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 9,
@@ -294,7 +296,7 @@
       "description": "AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3481,
+      "stars": 3484,
       "forks": 140,
       "currentPeriodStars": 15,
       "builtBy": [
@@ -319,7 +321,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/13251400?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -329,7 +331,7 @@
       "description": "A virtual platform team for mobile devs who ship",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 5521,
+      "stars": 5520,
       "forks": 693,
       "currentPeriodStars": 2,
       "builtBy": [
@@ -354,7 +356,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/2141?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 11,
@@ -389,7 +391,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/65520?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 12,
@@ -400,7 +402,7 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": 8412,
-      "forks": 728,
+      "forks": 729,
       "currentPeriodStars": 3,
       "builtBy": [
         {
@@ -424,7 +426,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/3491887?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 13,
@@ -459,7 +461,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/144462?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 14,
@@ -469,7 +471,7 @@
       "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14341,
+      "stars": 14342,
       "forks": 1636,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -494,7 +496,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/71127966?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 15,
@@ -529,7 +531,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/30923007?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 16,
@@ -539,7 +541,7 @@
       "description": "A toolkit for SQLite databases, with a focus on application development",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8180,
+      "stars": 8181,
       "forks": 845,
       "currentPeriodStars": 2,
       "builtBy": [
@@ -564,7 +566,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/833693?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 17,
@@ -599,7 +601,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/23041403?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 18,
@@ -634,7 +636,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/48967250?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 19,
@@ -644,7 +646,7 @@
       "description": "AeroSpace is an i3-like tiling window manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 18867,
+      "stars": 18871,
       "forks": 419,
       "currentPeriodStars": 15,
       "builtBy": [
@@ -669,7 +671,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4019880?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 20,
@@ -679,7 +681,7 @@
       "description": "On-device Speech Recognition for Apple Silicon",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 5600,
+      "stars": 5601,
       "forks": 500,
       "currentPeriodStars": 3,
       "builtBy": [
@@ -704,7 +706,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/209840868?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 21,
@@ -739,7 +741,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1680094?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

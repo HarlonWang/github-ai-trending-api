@@ -1,7 +1,7 @@
 {
   "count": 17,
   "since": "monthly",
-  "captured_at": "2026-02-15 00:18:58",
+  "captured_at": "2026-02-15 06:06:51",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 194384,
-      "forks": 33511,
+      "stars": 194940,
+      "forks": 33673,
       "currentPeriodStars": 189974,
       "builtBy": [
         {
@@ -36,7 +36,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 2,
@@ -46,8 +46,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12061,
-      "forks": 1203,
+      "stars": 12153,
+      "forks": 1216,
       "currentPeriodStars": 10225,
       "builtBy": [
         {
@@ -71,7 +71,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/980367?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 3,
@@ -81,8 +81,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15847,
-      "forks": 1193,
+      "stars": 15877,
+      "forks": 1198,
       "currentPeriodStars": 12330,
       "builtBy": [
         {
@@ -106,10 +106,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "AionUi 是一款免费、本地化、开源的 AI 协作工具，支持 Gemini CLI、Claude Code 等多种主流 AI 模型。其核心解决了用户需频繁切换不同 AI 工具界面的痛点，通过统一界面提供 24/7 不间断的集成化编程与对话协作体验。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "AionUi 是一款免费、本地化、开源的 AI 协作工具，支持 Gemini CLI、Claude Code 等多种主流 AI 模型。其核心解决了用户需频繁切换不同 AI 工具界面的痛点，通过统一界面提供 24/7 不间断的集成化编程与对话协作体验。"
+        }
+      ]
     },
     {
       "rank": 4,
@@ -119,8 +121,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 22019,
-      "forks": 2211,
+      "stars": 22105,
+      "forks": 2222,
       "currentPeriodStars": 18284,
       "builtBy": [
         {
@@ -144,7 +146,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/212406850?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -154,8 +156,8 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 15104,
-      "forks": 1091,
+      "stars": 15124,
+      "forks": 1093,
       "currentPeriodStars": 9775,
       "builtBy": [
         {
@@ -171,7 +173,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/71917860?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -181,8 +183,8 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 36594,
-      "forks": 2225,
+      "stars": 36623,
+      "forks": 2228,
       "currentPeriodStars": 11382,
       "builtBy": [
         {
@@ -206,7 +208,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/7582277?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 7,
@@ -216,8 +218,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 51594,
-      "forks": 3897,
+      "stars": 51694,
+      "forks": 3906,
       "currentPeriodStars": 30073,
       "builtBy": [
         {
@@ -241,7 +243,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -251,8 +253,8 @@
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 14050,
-      "forks": 1333,
+      "stars": 14125,
+      "forks": 1340,
       "currentPeriodStars": 11444,
       "builtBy": [
         {
@@ -276,7 +278,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/325706?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 9,
@@ -286,8 +288,8 @@
       "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 31483,
-      "forks": 5033,
+      "stars": 31509,
+      "forks": 5037,
       "currentPeriodStars": 6487,
       "builtBy": [
         {
@@ -311,7 +313,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21204817?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -321,8 +323,8 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8449,
-      "forks": 451,
+      "stars": 8490,
+      "forks": 452,
       "currentPeriodStars": 6822,
       "builtBy": [
         {
@@ -346,7 +348,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/906180?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 11,
@@ -356,8 +358,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 69849,
-      "forks": 7063,
+      "stars": 69939,
+      "forks": 7081,
       "currentPeriodStars": 29735,
       "builtBy": [
         {
@@ -381,7 +383,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1184736?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 12,
@@ -391,8 +393,8 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8502,
-      "forks": 473,
+      "stars": 8530,
+      "forks": 476,
       "currentPeriodStars": 6965,
       "builtBy": [
         {
@@ -416,7 +418,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 13,
@@ -426,8 +428,8 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 20355,
-      "forks": 1846,
+      "stars": 20382,
+      "forks": 1848,
       "currentPeriodStars": 20179,
       "builtBy": [
         {
@@ -451,7 +453,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/517210?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 14,
@@ -461,8 +463,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 104608,
-      "forks": 10166,
+      "stars": 104705,
+      "forks": 10177,
       "currentPeriodStars": 36517,
       "builtBy": [
         {
@@ -486,7 +488,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1879069?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 15,
@@ -496,8 +498,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 28201,
-      "forks": 1885,
+      "stars": 28245,
+      "forks": 1891,
       "currentPeriodStars": 14718,
       "builtBy": [
         {
@@ -521,7 +523,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 16,
@@ -531,8 +533,8 @@
       "description": "Neovim AI agent done right",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 3780,
-      "forks": 180,
+      "stars": 3785,
+      "forks": 181,
       "currentPeriodStars": 2785,
       "builtBy": [
         {
@@ -556,7 +558,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6402997?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 17,
@@ -566,8 +568,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15136,
-      "forks": 1813,
+      "stars": 15201,
+      "forks": 1821,
       "currentPeriodStars": 8192,
       "builtBy": [
         {
@@ -591,7 +593,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

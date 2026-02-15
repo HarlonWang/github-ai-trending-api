@@ -1,7 +1,7 @@
 {
   "count": 20,
   "since": "daily",
-  "captured_at": "2026-02-15 00:17:55",
+  "captured_at": "2026-02-15 06:05:44",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1217,
-      "forks": 67,
+      "stars": 1419,
+      "forks": 70,
       "currentPeriodStars": 172,
       "builtBy": [
         {
@@ -36,10 +36,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/78126249?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "zvec 是阿里巴巴开源的轻量级、极速进程内向量数据库。它专为需要高性能向量相似性搜索的场景设计，通过消除网络开销和复杂部署，实现了低延迟、高吞吐量的近似最近邻检索。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "zvec 是阿里巴巴开源的轻量级、极速进程内向量数据库。它专为需要高性能向量相似性搜索的场景设计，通过消除网络开销和复杂部署，实现了低延迟、高吞吐量的近似最近邻检索。"
+        }
+      ]
     },
     {
       "rank": 2,
@@ -49,7 +51,7 @@
       "description": "Android real-time display control software",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28139,
+      "stars": 28141,
       "forks": 3426,
       "currentPeriodStars": 27,
       "builtBy": [
@@ -74,7 +76,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/60132264?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 3,
@@ -84,8 +86,8 @@
       "description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3648,
-      "forks": 374,
+      "stars": 3652,
+      "forks": 375,
       "currentPeriodStars": 11,
       "builtBy": [
         {
@@ -109,7 +111,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/8703943?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 4,
@@ -119,8 +121,8 @@
       "description": "🦊 Anti-detect browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5350,
-      "forks": 491,
+      "stars": 5353,
+      "forks": 494,
       "currentPeriodStars": 21,
       "builtBy": [
         {
@@ -144,7 +146,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/20604835?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -154,7 +156,7 @@
       "description": "Webots Robot Simulator",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4137,
+      "stars": 4138,
       "forks": 1978,
       "currentPeriodStars": 20,
       "builtBy": [
@@ -179,7 +181,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2135826?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -189,8 +191,8 @@
       "description": "Complete Open Source and Modular solution for MMO",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7997,
-      "forks": 3194,
+      "stars": 7999,
+      "forks": 3195,
       "currentPeriodStars": 2,
       "builtBy": [
         {
@@ -214,7 +216,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/100873791?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 7,
@@ -224,7 +226,7 @@
       "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4759,
+      "stars": 4761,
       "forks": 558,
       "currentPeriodStars": 13,
       "builtBy": [
@@ -249,7 +251,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/11404354?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -284,7 +286,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/54248170?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 9,
@@ -315,7 +317,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/39142679?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -325,8 +327,8 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2690,
-      "forks": 213,
+      "stars": 2698,
+      "forks": 214,
       "currentPeriodStars": 23,
       "builtBy": [
         {
@@ -346,7 +348,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/29942937?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 11,
@@ -356,8 +358,8 @@
       "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28585,
-      "forks": 5165,
+      "stars": 28588,
+      "forks": 5166,
       "currentPeriodStars": 18,
       "builtBy": [
         {
@@ -381,7 +383,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/3587161?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 12,
@@ -391,8 +393,8 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 38228,
-      "forks": 10689,
+      "stars": 38229,
+      "forks": 10690,
       "currentPeriodStars": 4,
       "builtBy": [
         {
@@ -412,7 +414,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/32201506?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 13,
@@ -422,7 +424,7 @@
       "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 16509,
+      "stars": 16510,
       "forks": 4015,
       "currentPeriodStars": 5,
       "builtBy": [
@@ -447,7 +449,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1020496?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 14,
@@ -482,7 +484,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/11310805?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 15,
@@ -517,7 +519,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/8551050?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 16,
@@ -552,7 +554,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/36992510?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 17,
@@ -562,8 +564,8 @@
       "description": "Arduino core for the ESP32",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 16282,
-      "forks": 7806,
+      "stars": 16283,
+      "forks": 7807,
       "currentPeriodStars": 7,
       "builtBy": [
         {
@@ -587,7 +589,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/90197375?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 18,
@@ -610,7 +612,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/89974455?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 19,
@@ -620,7 +622,7 @@
       "description": "Making it easier to work with shaders",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5014,
+      "stars": 5015,
       "forks": 414,
       "currentPeriodStars": 3,
       "builtBy": [
@@ -645,7 +647,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/10618364?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 20,
@@ -655,7 +657,7 @@
       "description": "Private, fast, and honest web browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 11277,
+      "stars": 11283,
       "forks": 228,
       "currentPeriodStars": 39,
       "builtBy": [
@@ -680,7 +682,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/523357?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

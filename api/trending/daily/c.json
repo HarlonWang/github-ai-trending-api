@@ -1,7 +1,7 @@
 {
   "count": 18,
   "since": "daily",
-  "captured_at": "2026-02-15 00:17:59",
+  "captured_at": "2026-02-15 06:05:49",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5951,
+      "stars": 5953,
       "forks": 1001,
       "currentPeriodStars": 104,
       "builtBy": [
@@ -36,10 +36,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/6404829?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "MTProxy是Telegram官方推出的轻量级代理工具，使用C语言编写。它通过伪装流量和快速中继，帮助用户在受限网络环境中稳定访问Telegram服务，有效绕过网络封锁。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "MTProxy是Telegram官方推出的轻量级代理工具，使用C语言编写。它通过伪装流量和快速中继，帮助用户在受限网络环境中稳定访问Telegram服务，有效绕过网络封锁。"
+        }
+      ]
     },
     {
       "rank": 2,
@@ -50,7 +52,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 39848,
-      "forks": 8004,
+      "forks": 8003,
       "currentPeriodStars": 3,
       "builtBy": [
         {
@@ -74,7 +76,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/382813?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 3,
@@ -85,7 +87,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 12799,
-      "forks": 15252,
+      "forks": 15253,
       "currentPeriodStars": 8,
       "builtBy": [
         {
@@ -109,7 +111,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/669070?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 4,
@@ -119,8 +121,8 @@
       "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 77744,
-      "forks": 6333,
+      "stars": 77745,
+      "forks": 6334,
       "currentPeriodStars": 15,
       "builtBy": [
         {
@@ -144,7 +146,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/52996999?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -154,8 +156,8 @@
       "description": "7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6652,
-      "forks": 359,
+      "stars": 6653,
+      "forks": 360,
       "currentPeriodStars": 8,
       "builtBy": [
         {
@@ -179,7 +181,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/83493416?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -189,7 +191,7 @@
       "description": "A free Windows-compatible Operating System",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17071,
+      "stars": 17073,
       "forks": 2036,
       "currentPeriodStars": 7,
       "builtBy": [
@@ -214,7 +216,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/18138474?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 7,
@@ -224,7 +226,7 @@
       "description": "An open and affordable mini quadruped robot based on ESP32.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 850,
+      "stars": 851,
       "forks": 119,
       "currentPeriodStars": 21,
       "builtBy": [
@@ -245,7 +247,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/29378298?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -280,7 +282,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/781636?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 9,
@@ -315,7 +317,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/3433035?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -325,7 +327,7 @@
       "description": "The official NGINX Open Source repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 29346,
+      "stars": 29345,
       "forks": 7761,
       "currentPeriodStars": 9,
       "builtBy": [
@@ -350,7 +352,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/105847909?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 11,
@@ -360,7 +362,7 @@
       "description": "This project aims to enhance the working environment on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 31551,
+      "stars": 31555,
       "forks": 1281,
       "currentPeriodStars": 23,
       "builtBy": [
@@ -385,7 +387,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/29201475?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 12,
@@ -395,7 +397,7 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14470,
+      "stars": 14471,
       "forks": 8653,
       "currentPeriodStars": 10,
       "builtBy": [
@@ -420,7 +422,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6350656?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 13,
@@ -455,7 +457,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/342419?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 14,
@@ -465,7 +467,7 @@
       "description": "New App Store for GNOME",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1398,
+      "stars": 1399,
       "forks": 112,
       "currentPeriodStars": 9,
       "builtBy": [
@@ -490,7 +492,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/80410025?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 15,
@@ -525,7 +527,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/12265078?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 16,
@@ -535,8 +537,8 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 25537,
-      "forks": 12031,
+      "stars": 25541,
+      "forks": 12032,
       "currentPeriodStars": 10,
       "builtBy": [
         {
@@ -560,7 +562,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2528802?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 17,
@@ -570,7 +572,7 @@
       "description": "hekate - A GUI based Nintendo Switch Bootloader",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 8053,
+      "stars": 8055,
       "forks": 636,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -595,7 +597,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6677048?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 18,
@@ -605,7 +607,7 @@
       "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12527,
+      "stars": 12528,
       "forks": 2880,
       "currentPeriodStars": 3,
       "builtBy": [
@@ -630,7 +632,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1329932?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

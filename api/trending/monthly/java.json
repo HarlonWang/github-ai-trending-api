@@ -1,7 +1,7 @@
 {
   "count": 18,
   "since": "monthly",
-  "captured_at": "2026-02-15 00:19:11",
+  "captured_at": "2026-02-15 06:07:05",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 37154,
-      "forks": 3461,
+      "stars": 37171,
+      "forks": 3462,
       "currentPeriodStars": 973,
       "builtBy": [
         {
@@ -36,7 +36,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/40789489?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 2,
@@ -46,7 +46,7 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22098,
+      "stars": 22103,
       "forks": 5418,
       "currentPeriodStars": 1169,
       "builtBy": [
@@ -71,7 +71,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/97388607?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 3,
@@ -81,8 +81,8 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 30204,
-      "forks": 6849,
+      "stars": 30277,
+      "forks": 6864,
       "currentPeriodStars": 1215,
       "builtBy": [
         {
@@ -102,7 +102,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/89011337?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 4,
@@ -112,7 +112,7 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22050,
+      "stars": 22052,
       "forks": 13090,
       "currentPeriodStars": 515,
       "builtBy": [
@@ -137,7 +137,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/87599400?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -147,8 +147,8 @@
       "description": "All Algorithms implemented in Java",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 65042,
-      "forks": 20973,
+      "stars": 65044,
+      "forks": 20972,
       "currentPeriodStars": 406,
       "builtBy": [
         {
@@ -172,7 +172,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -182,7 +182,7 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 50616,
+      "stars": 50626,
       "forks": 6014,
       "currentPeriodStars": 1902,
       "builtBy": [
@@ -207,7 +207,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 7,
@@ -217,7 +217,7 @@
       "description": "signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4161,
+      "stars": 4162,
       "forks": 371,
       "currentPeriodStars": 191,
       "builtBy": [
@@ -242,7 +242,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/62397152?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -252,8 +252,8 @@
       "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12223,
-      "forks": 2559,
+      "stars": 12225,
+      "forks": 2561,
       "currentPeriodStars": 358,
       "builtBy": [
         {
@@ -277,7 +277,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1386547?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 9,
@@ -312,7 +312,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1891273?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -322,7 +322,7 @@
       "description": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 10372,
+      "stars": 10373,
       "forks": 2424,
       "currentPeriodStars": 100,
       "builtBy": [
@@ -347,7 +347,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/512439?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 11,
@@ -357,7 +357,7 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32841,
+      "stars": 32842,
       "forks": 8052,
       "currentPeriodStars": 674,
       "builtBy": [
@@ -382,7 +382,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/51133?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 12,
@@ -392,8 +392,8 @@
       "description": "Generate diagrams from textual description",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12651,
-      "forks": 1139,
+      "stars": 12654,
+      "forks": 1140,
       "currentPeriodStars": 152,
       "builtBy": [
         {
@@ -417,7 +417,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/825568?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 13,
@@ -452,7 +452,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/84867187?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 14,
@@ -462,7 +462,7 @@
       "description": "All Code of LLD Playlist",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 663,
+      "stars": 662,
       "forks": 460,
       "currentPeriodStars": 85,
       "builtBy": [
@@ -475,7 +475,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/165943559?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 15,
@@ -485,7 +485,7 @@
       "description": "LSPosed Framework resuscitated",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9590,
+      "stars": 9589,
       "forks": 603,
       "currentPeriodStars": 453,
       "builtBy": [
@@ -510,7 +510,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/17663689?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 16,
@@ -520,7 +520,7 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 64365,
+      "stars": 64366,
       "forks": 7137,
       "currentPeriodStars": 949,
       "builtBy": [
@@ -545,7 +545,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/48068198?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 17,
@@ -555,7 +555,7 @@
       "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8688,
+      "stars": 8689,
       "forks": 1843,
       "currentPeriodStars": 96,
       "builtBy": [
@@ -580,7 +580,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/25458773?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 18,
@@ -590,7 +590,7 @@
       "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5252,
+      "stars": 5254,
       "forks": 928,
       "currentPeriodStars": 178,
       "builtBy": [
@@ -615,7 +615,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4970595?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

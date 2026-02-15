@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "monthly",
-  "captured_at": "2026-02-15 00:19:15",
+  "captured_at": "2026-02-15 06:07:11",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 162618,
+      "stars": 162626,
       "forks": 14577,
       "currentPeriodStars": 3687,
       "builtBy": [
@@ -36,7 +36,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6468499?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 2,
@@ -46,8 +46,8 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16281,
-      "forks": 969,
+      "stars": 16290,
+      "forks": 970,
       "currentPeriodStars": 6247,
       "builtBy": [
         {
@@ -71,7 +71,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 3,
@@ -81,7 +81,7 @@
       "description": "A tool for secrets management, encryption as a service, and privileged access management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35032,
+      "stars": 35033,
       "forks": 4595,
       "currentPeriodStars": 1272,
       "builtBy": [
@@ -106,7 +106,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5587236?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 4,
@@ -116,7 +116,7 @@
       "description": "Ultimate camera streaming application",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12305,
+      "stars": 12310,
       "forks": 949,
       "currentPeriodStars": 1129,
       "builtBy": [
@@ -141,7 +141,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6480052?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -151,8 +151,8 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2386,
-      "forks": 226,
+      "stars": 2485,
+      "forks": 233,
       "currentPeriodStars": 1815,
       "builtBy": [
         {
@@ -176,7 +176,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/129705?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -186,7 +186,7 @@
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15207,
+      "stars": 15211,
       "forks": 1889,
       "currentPeriodStars": 1942,
       "builtBy": [
@@ -207,7 +207,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/19386888?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 7,
@@ -217,7 +217,7 @@
       "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22476,
+      "stars": 22482,
       "forks": 1098,
       "currentPeriodStars": 1501,
       "builtBy": [
@@ -242,7 +242,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/7756831?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -253,7 +253,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": 10745,
-      "forks": 9957,
+      "forks": 9958,
       "currentPeriodStars": 72,
       "builtBy": [
         {
@@ -277,7 +277,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/14969179?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 9,
@@ -312,7 +312,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/145564?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -347,7 +347,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/55502281?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 11,
@@ -357,7 +357,7 @@
       "description": "The to-do app to organize your life.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3331,
+      "stars": 3333,
       "forks": 305,
       "currentPeriodStars": 304,
       "builtBy": [
@@ -382,7 +382,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/34755314?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 12,
@@ -392,7 +392,7 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 31908,
+      "stars": 31910,
       "forks": 2946,
       "currentPeriodStars": 1015,
       "builtBy": [
@@ -417,7 +417,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1254783?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 13,
@@ -427,7 +427,7 @@
       "description": "GitHub's official MCP Server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26934,
+      "stars": 26940,
       "forks": 3581,
       "currentPeriodStars": 1121,
       "builtBy": [
@@ -452,7 +452,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 14,
@@ -462,8 +462,8 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 42465,
-      "forks": 7937,
+      "stars": 42469,
+      "forks": 7939,
       "currentPeriodStars": 540,
       "builtBy": [
         {
@@ -487,7 +487,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2089743?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 15,
@@ -497,8 +497,8 @@
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28287,
-      "forks": 2284,
+      "stars": 28297,
+      "forks": 2283,
       "currentPeriodStars": 1125,
       "builtBy": [
         {
@@ -522,7 +522,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/348?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 16,
@@ -532,7 +532,7 @@
       "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4459,
+      "stars": 4460,
       "forks": 738,
       "currentPeriodStars": 696,
       "builtBy": [
@@ -557,7 +557,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/57789?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 17,
@@ -567,7 +567,7 @@
       "description": "An open source, self-hosted implementation of the Tailscale control server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35363,
+      "stars": 35369,
       "forks": 1898,
       "currentPeriodStars": 1159,
       "builtBy": [
@@ -588,7 +588,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4344371?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 18,
@@ -598,7 +598,7 @@
       "description": "Container runtimes on macOS (and Linux) with minimal setup",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26923,
+      "stars": 26928,
       "forks": 530,
       "currentPeriodStars": 674,
       "builtBy": [
@@ -623,7 +623,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4974968?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 19,
@@ -633,8 +633,8 @@
       "description": "Glamourous agentic coding for all 💘",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19956,
-      "forks": 1230,
+      "stars": 19969,
+      "forks": 1231,
       "currentPeriodStars": 2157,
       "builtBy": [
         {
@@ -658,7 +658,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/25087?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

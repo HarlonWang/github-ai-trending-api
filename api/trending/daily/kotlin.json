@@ -1,7 +1,7 @@
 {
-  "count": 16,
+  "count": 17,
   "since": "daily",
-  "captured_at": "2026-02-15 00:18:06",
+  "captured_at": "2026-02-15 06:05:58",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2808,
-      "forks": 196,
+      "stars": 2819,
+      "forks": 201,
       "currentPeriodStars": 28,
       "builtBy": [
         {
@@ -36,7 +36,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/47008296?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 2,
@@ -46,7 +46,7 @@
       "description": "Free and open source manga reader for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 18581,
+      "stars": 18584,
       "forks": 947,
       "currentPeriodStars": 19,
       "builtBy": [
@@ -71,7 +71,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/10836780?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 3,
@@ -81,7 +81,7 @@
       "description": "哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3746,
+      "stars": 3748,
       "forks": 464,
       "currentPeriodStars": 7,
       "builtBy": [
@@ -106,7 +106,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/56953805?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 4,
@@ -116,8 +116,8 @@
       "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 35968,
-      "forks": 1749,
+      "stars": 35981,
+      "forks": 1748,
       "currentPeriodStars": 29,
       "builtBy": [
         {
@@ -141,7 +141,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/23419678?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -151,7 +151,7 @@
       "description": "An OSS Android TV client for Jellyfin",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1213,
+      "stars": 1215,
       "forks": 38,
       "currentPeriodStars": 15,
       "builtBy": [
@@ -176,7 +176,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/139140546?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -186,7 +186,7 @@
       "description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 45562,
+      "stars": 45563,
       "forks": 11856,
       "currentPeriodStars": 3,
       "builtBy": [
@@ -211,17 +211,52 @@
           "avatar": "https://avatars.githubusercontent.com/u/531613?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 7,
+      "author": "T8RIN",
+      "repoName": "ImageToolbox",
+      "url": "https://github.com/T8RIN/ImageToolbox",
+      "description": "🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 11674,
+      "forks": 508,
+      "currentPeriodStars": 9,
+      "builtBy": [
+        {
+          "username": "T8RIN",
+          "avatar": "https://avatars.githubusercontent.com/u/52178347?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "weblate",
+          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4"
+        },
+        {
+          "username": "Emperormummy",
+          "avatar": "https://avatars.githubusercontent.com/u/68811535?s=40&v=4"
+        },
+        {
+          "username": "xventivs",
+          "avatar": "https://avatars.githubusercontent.com/u/130994216?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 8,
       "author": "JetBrains",
       "repoName": "koog",
       "url": "https://github.com/JetBrains/koog",
       "description": "Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3721,
+      "stars": 3722,
       "forks": 321,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -246,17 +281,17 @@
           "avatar": "https://avatars.githubusercontent.com/u/24360128?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
-      "rank": 8,
+      "rank": 9,
       "author": "deniscerri",
       "repoName": "ytdlnis",
       "url": "https://github.com/deniscerri/ytdlnis",
       "description": "Full-featured audio/video downloader for Android using yt-dlp",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 7690,
+      "stars": 7693,
       "forks": 319,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -277,17 +312,17 @@
           "avatar": "https://avatars.githubusercontent.com/u/103105829?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
-      "rank": 9,
+      "rank": 10,
       "author": "d4rken-org",
       "repoName": "sdmaid-se",
       "url": "https://github.com/d4rken-org/sdmaid-se",
       "description": "SD Maid 2/SE is Android's most thorough cleaning tool.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6148,
+      "stars": 6149,
       "forks": 777,
       "currentPeriodStars": 10,
       "builtBy": [
@@ -312,10 +347,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/28185198?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
-      "rank": 10,
+      "rank": 11,
       "author": "modelcontextprotocol",
       "repoName": "kotlin-sdk",
       "url": "https://github.com/modelcontextprotocol/kotlin-sdk",
@@ -347,17 +382,17 @@
           "avatar": "https://avatars.githubusercontent.com/u/31625351?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
-      "rank": 11,
+      "rank": 12,
       "author": "Droid-ify",
       "repoName": "client",
       "url": "https://github.com/Droid-ify/client",
       "description": "Clutterfree F-Droid client",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6377,
+      "stars": 6383,
       "forks": 169,
       "currentPeriodStars": 10,
       "builtBy": [
@@ -378,17 +413,17 @@
           "avatar": "https://avatars.githubusercontent.com/u/60492161?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
-      "rank": 12,
+      "rank": 13,
       "author": "breezy-weather",
       "repoName": "breezy-weather",
       "url": "https://github.com/breezy-weather/breezy-weather",
       "description": "A feature-rich weather app with good visualizations and more than 50 sources.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 9302,
+      "stars": 9303,
       "forks": 309,
       "currentPeriodStars": 13,
       "builtBy": [
@@ -413,18 +448,18 @@
           "avatar": "https://avatars.githubusercontent.com/u/40403606?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
-      "rank": 13,
+      "rank": 14,
       "author": "tiann",
       "repoName": "KernelSU",
       "url": "https://github.com/tiann/KernelSU",
       "description": "A Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 15004,
-      "forks": 3115,
+      "stars": 15005,
+      "forks": 3117,
       "currentPeriodStars": 10,
       "builtBy": [
         {
@@ -448,10 +483,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/18079988?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
-      "rank": 14,
+      "rank": 15,
       "author": "bitwarden",
       "repoName": "android",
       "url": "https://github.com/bitwarden/android",
@@ -483,18 +518,18 @@
           "avatar": "https://avatars.githubusercontent.com/u/149429124?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
-      "rank": 15,
+      "rank": 16,
       "author": "horsemail",
       "repoName": "yourtv",
       "url": "https://github.com/horsemail/yourtv",
       "description": "安卓电视直播APK：IPTV/網頁視頻支持X5，可自定義源(支持webview://格式)，IPTV支持畫中畫和熄屏播放。 Android TV Live APK: IPTV/web video supports X5, customizable sources (support webview:// format), IPTV supports picture-in-picture and off-screen playback.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1101,
-      "forks": 130,
+      "stars": 1103,
+      "forks": 131,
       "currentPeriodStars": 8,
       "builtBy": [
         {
@@ -518,17 +553,17 @@
           "avatar": "https://avatars.githubusercontent.com/u/17667010?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
-      "rank": 16,
+      "rank": 17,
       "author": "RikkaApps",
       "repoName": "Shizuku",
       "url": "https://github.com/RikkaApps/Shizuku",
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 21868,
+      "stars": 21878,
       "forks": 2010,
       "currentPeriodStars": 37,
       "builtBy": [
@@ -553,7 +588,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/50289872?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

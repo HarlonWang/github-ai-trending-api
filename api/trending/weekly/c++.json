@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "weekly",
-  "captured_at": "2026-02-15 00:18:37",
+  "captured_at": "2026-02-15 06:06:35",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2690,
-      "forks": 213,
+      "stars": 2698,
+      "forks": 214,
       "currentPeriodStars": 147,
       "builtBy": [
         {
@@ -32,7 +32,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/29942937?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 2,
@@ -42,8 +42,8 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1219,
-      "forks": 67,
+      "stars": 1419,
+      "forks": 70,
       "currentPeriodStars": 722,
       "builtBy": [
         {
@@ -67,10 +67,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/78126249?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "zvec 是阿里巴巴开源的轻量级、极速进程内向量数据库。它专为需要高性能向量相似性搜索的场景设计，通过消除网络开销和复杂部署，实现了低延迟、高吞吐量的近似最近邻检索。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "zvec 是阿里巴巴开源的轻量级、极速进程内向量数据库。它专为需要高性能向量相似性搜索的场景设计，通过消除网络开销和复杂部署，实现了低延迟、高吞吐量的近似最近邻检索。"
+        }
+      ]
     },
     {
       "rank": 3,
@@ -80,8 +82,8 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 95042,
-      "forks": 14899,
+      "stars": 95048,
+      "forks": 14902,
       "currentPeriodStars": 528,
       "builtBy": [
         {
@@ -105,7 +107,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1629204?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 4,
@@ -115,7 +117,7 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29839,
+      "stars": 29842,
       "forks": 6264,
       "currentPeriodStars": 96,
       "builtBy": [
@@ -140,7 +142,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -150,7 +152,7 @@
       "description": "Behavior Trees Library in C++. Batteries included.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3827,
+      "stars": 3829,
       "forks": 804,
       "currentPeriodStars": 21,
       "builtBy": [
@@ -175,7 +177,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/11678396?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -185,8 +187,8 @@
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 193714,
-      "forks": 75227,
+      "stars": 193720,
+      "forks": 75229,
       "currentPeriodStars": 140,
       "builtBy": [
         {
@@ -210,7 +212,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/348932?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 7,
@@ -220,8 +222,8 @@
       "description": "Bitcoin Core integration/staging tree",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 88116,
-      "forks": 38905,
+      "stars": 88123,
+      "forks": 38904,
       "currentPeriodStars": 166,
       "builtBy": [
         {
@@ -245,7 +247,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/32963518?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -255,7 +257,7 @@
       "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19627,
+      "stars": 19628,
       "forks": 2113,
       "currentPeriodStars": 153,
       "builtBy": [
@@ -280,7 +282,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/48371888?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 9,
@@ -290,8 +292,8 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 38228,
-      "forks": 10689,
+      "stars": 38229,
+      "forks": 10690,
       "currentPeriodStars": 43,
       "builtBy": [
         {
@@ -311,7 +313,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/32201506?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -321,7 +323,7 @@
       "description": "Mumble is an open-source, low-latency, high quality voice chat software.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7688,
+      "stars": 7693,
       "forks": 1278,
       "currentPeriodStars": 111,
       "builtBy": [
@@ -346,7 +348,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/237537?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 11,
@@ -381,7 +383,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1131371?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 12,
@@ -416,7 +418,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/614631?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 13,
@@ -426,8 +428,8 @@
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19555,
-      "forks": 2485,
+      "stars": 19556,
+      "forks": 2484,
       "currentPeriodStars": 165,
       "builtBy": [
         {
@@ -451,7 +453,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/74587068?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 14,
@@ -461,7 +463,7 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9998,
+      "stars": 10001,
       "forks": 702,
       "currentPeriodStars": 119,
       "builtBy": [
@@ -486,7 +488,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1857572?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 15,
@@ -496,8 +498,8 @@
       "description": "Self-hosted game stream host for Moonlight.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 34451,
-      "forks": 1697,
+      "stars": 34460,
+      "forks": 1698,
       "currentPeriodStars": 204,
       "builtBy": [
         {
@@ -521,7 +523,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/3084139?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 16,
@@ -531,7 +533,7 @@
       "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14205,
+      "stars": 14207,
       "forks": 2200,
       "currentPeriodStars": 119,
       "builtBy": [
@@ -556,7 +558,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2675838?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 17,
@@ -566,8 +568,8 @@
       "description": "Production ready toolkit to run AI locally",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7676,
-      "forks": 234,
+      "stars": 7707,
+      "forks": 235,
       "currentPeriodStars": 1290,
       "builtBy": [
         {
@@ -591,7 +593,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 18,
@@ -601,7 +603,7 @@
       "description": "Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1737,
+      "stars": 1738,
       "forks": 211,
       "currentPeriodStars": 22,
       "builtBy": [
@@ -626,7 +628,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/7695873?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 19,
@@ -636,7 +638,7 @@
       "description": "Windows Subsystem for Linux",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 31088,
+      "stars": 31090,
       "forks": 1611,
       "currentPeriodStars": 60,
       "builtBy": [
@@ -661,7 +663,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2711825?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

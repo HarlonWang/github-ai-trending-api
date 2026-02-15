@@ -1,7 +1,7 @@
 {
   "count": 15,
   "since": "weekly",
-  "captured_at": "2026-02-14 16:04:38",
+  "captured_at": "2026-02-15 06:06:30",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21878,
-      "forks": 2200,
-      "currentPeriodStars": 16589,
+      "stars": 22105,
+      "forks": 2222,
+      "currentPeriodStars": 13576,
       "builtBy": [
         {
           "username": "ajmallesh",
@@ -36,7 +36,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/212406850?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 2,
@@ -46,9 +46,9 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15098,
-      "forks": 1808,
-      "currentPeriodStars": 4352,
+      "stars": 15201,
+      "forks": 1821,
+      "currentPeriodStars": 4002,
       "builtBy": [
         {
           "username": "virattt",
@@ -71,7 +71,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 3,
@@ -81,9 +81,9 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11941,
-      "forks": 1192,
-      "currentPeriodStars": 4044,
+      "stars": 12153,
+      "forks": 1216,
+      "currentPeriodStars": 4131,
       "builtBy": [
         {
           "username": "badlogic",
@@ -106,7 +106,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/980367?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 4,
@@ -116,9 +116,9 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 28125,
-      "forks": 1881,
-      "currentPeriodStars": 3745,
+      "stars": 28245,
+      "forks": 1891,
+      "currentPeriodStars": 3712,
       "builtBy": [
         {
           "username": "thedotmack",
@@ -141,7 +141,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -151,9 +151,9 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8833,
-      "forks": 686,
-      "currentPeriodStars": 1457,
+      "stars": 8879,
+      "forks": 691,
+      "currentPeriodStars": 1472,
       "builtBy": [
         {
           "username": "kieranklaassen",
@@ -176,7 +176,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/263564?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -186,9 +186,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24966,
-      "forks": 1474,
-      "currentPeriodStars": 1240,
+      "stars": 25154,
+      "forks": 1480,
+      "currentPeriodStars": 1513,
       "builtBy": [
         {
           "username": "OrKoN",
@@ -211,10 +211,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/325588?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。"
+        }
+      ]
     },
     {
       "rank": 7,
@@ -224,9 +226,9 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8408,
-      "forks": 446,
-      "currentPeriodStars": 1539,
+      "stars": 8490,
+      "forks": 452,
+      "currentPeriodStars": 1421,
       "builtBy": [
         {
           "username": "tobi",
@@ -249,7 +251,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/906180?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -259,9 +261,9 @@
       "description": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 463,
+      "stars": 468,
       "forks": 36,
-      "currentPeriodStars": 178,
+      "currentPeriodStars": 187,
       "builtBy": [
         {
           "username": "claude",
@@ -272,7 +274,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/13249054?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 9,
@@ -282,9 +284,9 @@
       "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 2651,
+      "stars": 2660,
       "forks": 173,
-      "currentPeriodStars": 941,
+      "currentPeriodStars": 671,
       "builtBy": [
         {
           "username": "davydkov",
@@ -295,19 +297,19 @@
           "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
         },
         {
+          "username": "sraphaz",
+          "avatar": "https://avatars.githubusercontent.com/u/16965571?s=40&v=4"
+        },
+        {
+          "username": "cursoragent",
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
+        },
+        {
           "username": "pavelpykhtin",
           "avatar": "https://avatars.githubusercontent.com/u/14885777?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "apps/likec4-ci",
-          "avatar": "https://avatars.githubusercontent.com/in/631189?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -317,9 +319,9 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15808,
-      "forks": 1189,
-      "currentPeriodStars": 3322,
+      "stars": 15877,
+      "forks": 1198,
+      "currentPeriodStars": 3233,
       "builtBy": [
         {
           "username": "kuishou68",
@@ -342,10 +344,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "AionUi 是一款免费、本地化、开源的 AI 协作工具，支持 Gemini CLI、Claude Code 等多种主流 AI 模型。其核心解决了用户需频繁切换不同 AI 工具界面的痛点，通过统一界面提供 24/7 不间断的集成化编程与对话协作体验。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "AionUi 是一款免费、本地化、开源的 AI 协作工具，支持 Gemini CLI、Claude Code 等多种主流 AI 模型。其核心解决了用户需频繁切换不同 AI 工具界面的痛点，通过统一界面提供 24/7 不间断的集成化编程与对话协作体验。"
+        }
+      ]
     },
     {
       "rank": 11,
@@ -355,9 +359,9 @@
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8307,
-      "forks": 1150,
-      "currentPeriodStars": 1671,
+      "stars": 8352,
+      "forks": 1157,
+      "currentPeriodStars": 2061,
       "builtBy": [
         {
           "username": "danielmiessler",
@@ -380,10 +384,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/176330864?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "danielmiessler/Personal_AI_Infrastructure 是一个基于 TypeScript 的智能体化 AI 基础设施项目。其核心目标是构建一个能扩展和增强人类能力的自动化代理系统，通过编排多个 AI 智能体协同工作，解决个人在信息处理、任务执行与决策支持等方面的效率瓶颈，实现人机能力的深度融合与放大。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "danielmiessler/Personal_AI_Infrastructure 是一个基于 TypeScript 的智能体化 AI 基础设施项目。其核心目标是构建一个能扩展和增强人类能力的自动化代理系统，通过编排多个 AI 智能体协同工作，解决个人在信息处理、任务执行与决策支持等方面的效率瓶颈，实现人机能力的深度融合与放大。"
+        }
+      ]
     },
     {
       "rank": 12,
@@ -393,9 +399,9 @@
       "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24567,
-      "forks": 2337,
-      "currentPeriodStars": 258,
+      "stars": 24576,
+      "forks": 2338,
+      "currentPeriodStars": 264,
       "builtBy": [
         {
           "username": "pheiduck",
@@ -418,7 +424,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 13,
@@ -428,9 +434,9 @@
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9481,
-      "forks": 461,
-      "currentPeriodStars": 1530,
+      "stars": 9777,
+      "forks": 472,
+      "currentPeriodStars": 1602,
       "builtBy": [
         {
           "username": "apps/dependabot",
@@ -453,10 +459,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/70284178?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，解决了手动处理流式输出与状态同步的复杂度，提升了开发效率。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，解决了手动处理流式输出与状态同步的复杂度，提升了开发效率。"
+        }
+      ]
     },
     {
       "rank": 14,
@@ -466,9 +474,9 @@
       "description": "一款提示词优化器，助力于编写高质量的提示词",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21113,
-      "forks": 2561,
-      "currentPeriodStars": 1329,
+      "stars": 21172,
+      "forks": 2568,
+      "currentPeriodStars": 1302,
       "builtBy": [
         {
           "username": "linshenkx",
@@ -491,7 +499,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1950036?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 15,
@@ -501,9 +509,9 @@
       "description": "A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4281,
+      "stars": 4289,
       "forks": 199,
-      "currentPeriodStars": 149,
+      "currentPeriodStars": 151,
       "builtBy": [
         {
           "username": "cameroncooke",
@@ -526,7 +534,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/1236702?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

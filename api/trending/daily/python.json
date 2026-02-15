@@ -1,7 +1,7 @@
 {
-  "count": 16,
+  "count": 15,
   "since": "daily",
-  "captured_at": "2026-02-15 00:17:23",
+  "captured_at": "2026-02-15 06:05:17",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6149,
-      "forks": 551,
+      "stars": 6231,
+      "forks": 555,
       "currentPeriodStars": 98,
       "builtBy": [
         {
@@ -24,10 +24,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "Ruvnet/Wifi-DensePose 实现了 InvisPose 系统，利用普通家用网状路由器发出的 WiFi 信号，实现了穿墙的实时密集人体姿态估计。该系统解决了传统视觉方法在遮挡或无光环境下失效的痛点，无需穿戴设备即可进行全身动作追踪。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "Ruvnet/Wifi-DensePose 实现了 InvisPose 系统，利用普通家用网状路由器发出的 WiFi 信号，实现了穿墙的实时密集人体姿态估计。该系统解决了传统视觉方法在遮挡或无光环境下失效的痛点，无需穿戴设备即可进行全身动作追踪。"
+        }
+      ]
     },
     {
       "rank": 2,
@@ -37,8 +39,8 @@
       "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6307,
-      "forks": 600,
+      "stars": 6353,
+      "forks": 602,
       "currentPeriodStars": 40,
       "builtBy": [
         {
@@ -62,10 +64,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/142381512?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "Zipstack/unstract 是一个基于 Python 的无代码 LLM 平台，旨在解决非结构化文档处理难题。其核心功能是让用户无需编程即可快速部署 API 和 ETL 流水线，从而自动化提取并结构化文档中的关键信息。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "Zipstack/unstract 是一个基于 Python 的无代码 LLM 平台，旨在解决非结构化文档处理难题。其核心功能是让用户无需编程即可快速部署 API 和 ETL 流水线，从而自动化提取并结构化文档中的关键信息。"
+        }
+      ]
     },
     {
       "rank": 3,
@@ -75,7 +79,7 @@
       "description": "Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 5787,
+      "stars": 5805,
       "forks": 462,
       "currentPeriodStars": 272,
       "builtBy": [
@@ -100,7 +104,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/26357843?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 4,
@@ -110,8 +114,8 @@
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 123929,
-      "forks": 17503,
+      "stars": 123955,
+      "forks": 17506,
       "currentPeriodStars": 122,
       "builtBy": [
         {
@@ -135,7 +139,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -145,7 +149,7 @@
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1331,
+      "stars": 1334,
       "forks": 296,
       "currentPeriodStars": 6,
       "builtBy": [
@@ -170,7 +174,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/19848947?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -180,8 +184,8 @@
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14011,
-      "forks": 2354,
+      "stars": 14017,
+      "forks": 2357,
       "currentPeriodStars": 40,
       "builtBy": [
         {
@@ -205,7 +209,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/11340449?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 7,
@@ -215,8 +219,8 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 95016,
-      "forks": 13761,
+      "stars": 95046,
+      "forks": 13767,
       "currentPeriodStars": 358,
       "builtBy": [
         {
@@ -240,10 +244,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/774516?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。"
+        }
+      ]
     },
     {
       "rank": 8,
@@ -253,8 +259,8 @@
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11016,
-      "forks": 1074,
+      "stars": 11064,
+      "forks": 1081,
       "currentPeriodStars": 547,
       "builtBy": [
         {
@@ -278,10 +284,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/131641639?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "该项目汇总了多个可免费调用的LLM推理API资源，解决了开发者因商业API成本高昂或访问受限而难以测试和集成大语言模型的痛点，为实验和小规模应用提供了便捷入口。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "该项目汇总了多个可免费调用的LLM推理API资源，解决了开发者因商业API成本高昂或访问受限而难以测试和集成大语言模型的痛点，为实验和小规模应用提供了便捷入口。"
+        }
+      ]
     },
     {
       "rank": 9,
@@ -291,8 +299,8 @@
       "description": "The absolute trainer to light up AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14733,
-      "forks": 1248,
+      "stars": 14740,
+      "forks": 1250,
       "currentPeriodStars": 61,
       "builtBy": [
         {
@@ -316,7 +324,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/946600?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -326,8 +334,8 @@
       "description": "Get your documents ready for gen AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 53048,
-      "forks": 3600,
+      "stars": 53066,
+      "forks": 3601,
       "currentPeriodStars": 87,
       "builtBy": [
         {
@@ -351,7 +359,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/75900930?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 11,
@@ -361,8 +369,8 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2490,
-      "forks": 162,
+      "stars": 2562,
+      "forks": 165,
       "currentPeriodStars": 358,
       "builtBy": [
         {
@@ -386,10 +394,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/50757446?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。"
+        }
+      ]
     },
     {
       "rank": 12,
@@ -399,8 +409,8 @@
       "description": "The best ChatGPT that $100 can buy.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 43287,
-      "forks": 5625,
+      "stars": 43320,
+      "forks": 5628,
       "currentPeriodStars": 81,
       "builtBy": [
         {
@@ -424,7 +434,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/10590453?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 13,
@@ -434,7 +444,7 @@
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 12134,
+      "stars": 12138,
       "forks": 1187,
       "currentPeriodStars": 9,
       "builtBy": [
@@ -459,53 +469,18 @@
           "avatar": "https://avatars.githubusercontent.com/u/26350155?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 14,
-      "author": "PsiACE",
-      "repoName": "bub",
-      "url": "https://github.com/PsiACE/bub",
-      "description": "Bub it. Build it.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 192,
-      "forks": 15,
-      "currentPeriodStars": 12,
-      "builtBy": [
-        {
-          "username": "frostming",
-          "avatar": "https://avatars.githubusercontent.com/u/16336606?s=40&v=4"
-        },
-        {
-          "username": "PsiACE",
-          "avatar": "https://avatars.githubusercontent.com/u/36896360?s=40&v=4"
-        },
-        {
-          "username": "yihong0618",
-          "avatar": "https://avatars.githubusercontent.com/u/15976103?s=40&v=4"
-        },
-        {
-          "username": "dagebot",
-          "avatar": "https://avatars.githubusercontent.com/u/110160333?s=40&v=4"
-        },
-        {
-          "username": "emliunix",
-          "avatar": "https://avatars.githubusercontent.com/u/11204802?s=40&v=4"
-        }
-      ],
-      "aiSummary": null
-    },
-    {
-      "rank": 15,
       "author": "HKUDS",
       "repoName": "RAG-Anything",
       "url": "https://github.com/HKUDS/RAG-Anything",
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 13266,
-      "forks": 1594,
+      "stars": 13296,
+      "forks": 1597,
       "currentPeriodStars": 183,
       "builtBy": [
         {
@@ -529,18 +504,18 @@
           "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
-      "rank": 16,
+      "rank": 15,
       "author": "awslabs",
       "repoName": "agent-squad",
       "url": "https://github.com/awslabs/agent-squad",
       "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 7410,
-      "forks": 694,
+      "stars": 7417,
+      "forks": 695,
       "currentPeriodStars": 10,
       "builtBy": [
         {
@@ -564,7 +539,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4295173?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

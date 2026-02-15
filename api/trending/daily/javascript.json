@@ -1,7 +1,7 @@
 {
   "count": 8,
   "since": "daily",
-  "captured_at": "2026-02-15 00:17:28",
+  "captured_at": "2026-02-15 06:05:20",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 604,
-      "forks": 238,
+      "stars": 639,
+      "forks": 250,
       "currentPeriodStars": 209,
       "builtBy": [
         {
@@ -36,10 +36,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "Synkra AIOS Core 是一个基于 JavaScript 的 AI 编排系统核心框架，旨在通过 AI 智能体协同工作，自动化处理全栈开发中的复杂任务流程，从而显著提升开发效率并降低人工编排成本。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "Synkra AIOS Core 是一个基于 JavaScript 的 AI 编排系统核心框架，旨在通过 AI 智能体协同工作，自动化处理全栈开发中的复杂任务流程，从而显著提升开发效率并降低人工编排成本。"
+        }
+      ]
     },
     {
       "rank": 2,
@@ -49,7 +51,7 @@
       "description": "",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 892,
+      "stars": 899,
       "forks": 83,
       "currentPeriodStars": 32,
       "builtBy": [
@@ -74,7 +76,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/40119877?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 3,
@@ -84,8 +86,8 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 82807,
-      "forks": 7393,
+      "stars": 82813,
+      "forks": 7395,
       "currentPeriodStars": 32,
       "builtBy": [
         {
@@ -109,7 +111,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/67638596?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 4,
@@ -119,7 +121,7 @@
       "description": "A design system built by IBM",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 8769,
+      "stars": 8771,
       "forks": 2096,
       "currentPeriodStars": 7,
       "builtBy": [
@@ -144,7 +146,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/8265238?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -154,8 +156,8 @@
       "description": "web development for the rest of us",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 85758,
-      "forks": 4769,
+      "stars": 85759,
+      "forks": 4770,
       "currentPeriodStars": 7,
       "builtBy": [
         {
@@ -179,7 +181,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1519870?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -189,8 +191,8 @@
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 14050,
-      "forks": 1333,
+      "stars": 14125,
+      "forks": 1340,
       "currentPeriodStars": 271,
       "builtBy": [
         {
@@ -214,7 +216,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/325706?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 7,
@@ -224,8 +226,8 @@
       "description": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 4958,
-      "forks": 577,
+      "stars": 4999,
+      "forks": 579,
       "currentPeriodStars": 175,
       "builtBy": [
         {
@@ -249,7 +251,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4424977?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -259,7 +261,7 @@
       "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 21216,
+      "stars": 21233,
       "forks": 2427,
       "currentPeriodStars": 77,
       "builtBy": [
@@ -284,7 +286,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/10998676?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

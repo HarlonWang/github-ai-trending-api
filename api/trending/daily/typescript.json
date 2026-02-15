@@ -1,7 +1,7 @@
 {
   "count": 11,
   "since": "daily",
-  "captured_at": "2026-02-15 00:17:50",
+  "captured_at": "2026-02-15 06:05:39",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9605,
-      "forks": 464,
+      "stars": 9776,
+      "forks": 472,
       "currentPeriodStars": 127,
       "builtBy": [
         {
@@ -36,10 +36,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/70284178?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，解决了手动处理流式输出与状态同步的复杂度，提升了开发效率。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，解决了手动处理流式输出与状态同步的复杂度，提升了开发效率。"
+        }
+      ]
     },
     {
       "rank": 2,
@@ -49,8 +51,8 @@
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 6022,
-      "forks": 495,
+      "stars": 6236,
+      "forks": 520,
       "currentPeriodStars": 217,
       "builtBy": [
         {
@@ -74,10 +76,12 @@
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "Rowboat 是一个开源的 AI 协作者，基于 TypeScript 开发。其核心在于为 AI 助手配备了长期记忆能力，解决了传统 AI 对话中上下文信息易丢失的痛点，能持续记忆用户偏好与历史交互，从而实现更连贯、个性化的协作体验。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "Rowboat 是一个开源的 AI 协作者，基于 TypeScript 开发。其核心在于为 AI 助手配备了长期记忆能力，解决了传统 AI 对话中上下文信息易丢失的痛点，能持续记忆用户偏好与历史交互，从而实现更连贯、个性化的协作体验。"
+        }
+      ]
     },
     {
       "rank": 3,
@@ -87,8 +91,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 25087,
-      "forks": 1479,
+      "stars": 25153,
+      "forks": 1480,
       "currentPeriodStars": 331,
       "builtBy": [
         {
@@ -112,10 +116,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/325588?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。"
+        }
+      ]
     },
     {
       "rank": 4,
@@ -125,8 +131,8 @@
       "description": "The memory-first coding agent",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1204,
-      "forks": 135,
+      "stars": 1265,
+      "forks": 139,
       "currentPeriodStars": 55,
       "builtBy": [
         {
@@ -150,10 +156,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/9100255?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "Letta-Code 是一个基于记忆优先理念的 TypeScript 编码智能体。它通过持久化记忆上下文，有效解决了传统AI编码助手在多轮复杂对话中遗忘历史、上下文丢失的核心痛点，从而能更连贯、精准地理解和执行长期开发任务。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "Letta-Code 是一个基于记忆优先理念的 TypeScript 编码智能体。它通过持久化记忆上下文，有效解决了传统AI编码助手在多轮复杂对话中遗忘历史、上下文丢失的核心痛点，从而能更连贯、精准地理解和执行长期开发任务。"
+        }
+      ]
     },
     {
       "rank": 5,
@@ -163,8 +171,8 @@
       "description": "Yet another matrix client",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 3045,
-      "forks": 410,
+      "stars": 3062,
+      "forks": 411,
       "currentPeriodStars": 41,
       "builtBy": [
         {
@@ -188,10 +196,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/35173023?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "Cinny 是一款基于 Matrix 协议的轻量级即时通讯客户端，采用 TypeScript 开发。它专注于提供快速、简洁的用户体验，解决了官方 Element 客户端较为臃肿、性能开销大的痛点，尤其适合在浏览器和移动端高效使用去中心化通信网络。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "Cinny 是一款基于 Matrix 协议的轻量级即时通讯客户端，采用 TypeScript 开发。它专注于提供快速、简洁的用户体验，解决了官方 Element 客户端较为臃肿、性能开销大的痛点，尤其适合在浏览器和移动端高效使用去中心化通信网络。"
+        }
+      ]
     },
     {
       "rank": 6,
@@ -201,8 +211,8 @@
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8332,
-      "forks": 1156,
+      "stars": 8352,
+      "forks": 1157,
       "currentPeriodStars": 406,
       "builtBy": [
         {
@@ -226,10 +236,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/176330864?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "danielmiessler/Personal_AI_Infrastructure 是一个基于 TypeScript 的智能体化 AI 基础设施项目。其核心目标是构建一个能扩展和增强人类能力的自动化代理系统，通过编排多个 AI 智能体协同工作，解决个人在信息处理、任务执行与决策支持等方面的效率瓶颈，实现人机能力的深度融合与放大。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "danielmiessler/Personal_AI_Infrastructure 是一个基于 TypeScript 的智能体化 AI 基础设施项目。其核心目标是构建一个能扩展和增强人类能力的自动化代理系统，通过编排多个 AI 智能体协同工作，解决个人在信息处理、任务执行与决策支持等方面的效率瓶颈，实现人机能力的深度融合与放大。"
+        }
+      ]
     },
     {
       "rank": 7,
@@ -239,8 +251,8 @@
       "description": "Database diagrams editor that allows you to visualize and design your DB with a single query.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21224,
-      "forks": 1258,
+      "stars": 21230,
+      "forks": 1259,
       "currentPeriodStars": 61,
       "builtBy": [
         {
@@ -264,7 +276,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/12880486?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -274,8 +286,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 194382,
-      "forks": 33512,
+      "stars": 194939,
+      "forks": 33672,
       "currentPeriodStars": 2758,
       "builtBy": [
         {
@@ -299,7 +311,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 9,
@@ -309,8 +321,8 @@
       "description": "✨ The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes ✨",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14889,
-      "forks": 1197,
+      "stars": 14899,
+      "forks": 1199,
       "currentPeriodStars": 51,
       "builtBy": [
         {
@@ -334,7 +346,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/84878205?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -344,8 +356,8 @@
       "description": "Backstage is an open framework for building developer portals",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 32599,
-      "forks": 7090,
+      "stars": 32600,
+      "forks": 7091,
       "currentPeriodStars": 6,
       "builtBy": [
         {
@@ -369,7 +381,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/72526453?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 11,
@@ -379,8 +391,8 @@
       "description": "🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11343,
-      "forks": 580,
+      "stars": 11354,
+      "forks": 581,
       "currentPeriodStars": 57,
       "builtBy": [
         {
@@ -404,7 +416,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5732724?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

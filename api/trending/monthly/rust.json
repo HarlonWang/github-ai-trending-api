@@ -1,7 +1,7 @@
 {
   "count": 22,
   "since": "monthly",
-  "captured_at": "2026-02-15 00:19:20",
+  "captured_at": "2026-02-15 06:07:15",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19296,
+      "stars": 19301,
       "forks": 840,
       "currentPeriodStars": 1883,
       "builtBy": [
@@ -36,7 +36,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/13354155?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 2,
@@ -46,8 +46,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60346,
-      "forks": 7949,
+      "stars": 60359,
+      "forks": 7956,
       "currentPeriodStars": 4606,
       "builtBy": [
         {
@@ -71,7 +71,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/172423086?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 3,
@@ -81,7 +81,7 @@
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 23337,
+      "stars": 23363,
       "forks": 2639,
       "currentPeriodStars": 10429,
       "builtBy": [
@@ -106,7 +106,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/12632895?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 4,
@@ -116,7 +116,7 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30443,
+      "stars": 30454,
       "forks": 2750,
       "currentPeriodStars": 4673,
       "builtBy": [
@@ -141,7 +141,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/14976?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -151,7 +151,7 @@
       "description": "An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1785,
+      "stars": 1791,
       "forks": 180,
       "currentPeriodStars": 1191,
       "builtBy": [
@@ -176,7 +176,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/87412347?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -186,8 +186,8 @@
       "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 18174,
-      "forks": 1138,
+      "stars": 18238,
+      "forks": 1139,
       "currentPeriodStars": 7045,
       "builtBy": [
         {
@@ -211,7 +211,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/10758833?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 7,
@@ -222,7 +222,7 @@
       "language": "Rust",
       "languageColor": "#dea584",
       "stars": 6912,
-      "forks": 430,
+      "forks": 431,
       "currentPeriodStars": 529,
       "builtBy": [
         {
@@ -246,7 +246,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/49335821?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -256,8 +256,8 @@
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 18985,
-      "forks": 2270,
+      "stars": 18997,
+      "forks": 2272,
       "currentPeriodStars": 1805,
       "builtBy": [
         {
@@ -281,7 +281,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/49148?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 9,
@@ -291,8 +291,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2073,
-      "forks": 75,
+      "stars": 2081,
+      "forks": 76,
       "currentPeriodStars": 964,
       "builtBy": [
         {
@@ -316,7 +316,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -326,7 +326,7 @@
       "description": "⚡ Better `pre-commit`, re-engineered in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6188,
+      "stars": 6190,
       "forks": 165,
       "currentPeriodStars": 2835,
       "builtBy": [
@@ -351,7 +351,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2979452?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 11,
@@ -361,7 +361,7 @@
       "description": "Open-source search and retrieval database for AI applications.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 26125,
+      "stars": 26126,
       "forks": 2056,
       "currentPeriodStars": 728,
       "builtBy": [
@@ -386,7 +386,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/60079945?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 12,
@@ -396,7 +396,7 @@
       "description": "screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16849,
+      "stars": 16860,
       "forks": 1395,
       "currentPeriodStars": 493,
       "builtBy": [
@@ -421,7 +421,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/62727185?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 13,
@@ -431,7 +431,7 @@
       "description": "dev tools, env vars, task runner",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 24560,
+      "stars": 24564,
       "forks": 882,
       "currentPeriodStars": 1597,
       "builtBy": [
@@ -456,7 +456,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/243519?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 14,
@@ -466,8 +466,8 @@
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 102699,
-      "forks": 3385,
+      "stars": 102705,
+      "forks": 3386,
       "currentPeriodStars": 1610,
       "builtBy": [
         {
@@ -491,7 +491,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/30730186?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 15,
@@ -501,7 +501,7 @@
       "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 24141,
+      "stars": 24145,
       "forks": 1197,
       "currentPeriodStars": 778,
       "builtBy": [
@@ -526,7 +526,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/147966?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 16,
@@ -536,7 +536,7 @@
       "description": "A terminal workspace with batteries included",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29039,
+      "stars": 29042,
       "forks": 962,
       "currentPeriodStars": 934,
       "builtBy": [
@@ -561,7 +561,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/32578710?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 17,
@@ -571,7 +571,7 @@
       "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29798,
+      "stars": 29800,
       "forks": 2251,
       "currentPeriodStars": 330,
       "builtBy": [
@@ -596,7 +596,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4060187?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 18,
@@ -606,7 +606,7 @@
       "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29220,
+      "stars": 29223,
       "forks": 961,
       "currentPeriodStars": 1201,
       "builtBy": [
@@ -631,7 +631,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/50847364?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 19,
@@ -641,7 +641,7 @@
       "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 26415,
+      "stars": 26417,
       "forks": 2809,
       "currentPeriodStars": 730,
       "builtBy": [
@@ -666,7 +666,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/357361?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 20,
@@ -676,7 +676,7 @@
       "description": "The user-friendly command line shell.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32553,
+      "stars": 32555,
       "forks": 2224,
       "currentPeriodStars": 533,
       "builtBy": [
@@ -701,7 +701,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/606923?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 21,
@@ -711,7 +711,7 @@
       "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 55912,
+      "stars": 55917,
       "forks": 2373,
       "currentPeriodStars": 603,
       "builtBy": [
@@ -736,7 +736,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/28804882?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 22,
@@ -746,7 +746,7 @@
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9829,
+      "stars": 9832,
       "forks": 275,
       "currentPeriodStars": 859,
       "builtBy": [
@@ -771,7 +771,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/65783406?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

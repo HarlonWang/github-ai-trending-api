@@ -1,7 +1,7 @@
 {
   "count": 23,
   "since": "monthly",
-  "captured_at": "2026-02-15 00:19:31",
+  "captured_at": "2026-02-15 06:07:27",
   "data": [
     {
       "rank": 1,
@@ -36,7 +36,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/192296276?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 2,
@@ -46,8 +46,8 @@
       "description": "MLX: An array framework for Apple silicon",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 23933,
-      "forks": 1514,
+      "stars": 23934,
+      "forks": 1515,
       "currentPeriodStars": 513,
       "builtBy": [
         {
@@ -71,7 +71,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/12023682?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 3,
@@ -81,7 +81,7 @@
       "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18679,
+      "stars": 18682,
       "forks": 1651,
       "currentPeriodStars": 1827,
       "builtBy": [
@@ -106,7 +106,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1184344?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 4,
@@ -117,7 +117,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 4015,
-      "forks": 621,
+      "forks": 620,
       "currentPeriodStars": 363,
       "builtBy": [
         {
@@ -141,7 +141,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/139755545?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -151,7 +151,7 @@
       "description": "The ultimate Geometry Dash modding framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1636,
+      "stars": 1639,
       "forks": 294,
       "currentPeriodStars": 276,
       "builtBy": [
@@ -176,7 +176,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/30120687?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -187,7 +187,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 27143,
-      "forks": 5106,
+      "forks": 5107,
       "currentPeriodStars": 491,
       "builtBy": [
         {
@@ -211,7 +211,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/12630740?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 7,
@@ -221,7 +221,7 @@
       "description": "Port of OpenAI's Whisper model in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 46731,
+      "stars": 46733,
       "forks": 5207,
       "currentPeriodStars": 1091,
       "builtBy": [
@@ -246,7 +246,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/432351?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -256,8 +256,8 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 106663,
-      "forks": 24324,
+      "stars": 106668,
+      "forks": 24323,
       "currentPeriodStars": 1494,
       "builtBy": [
         {
@@ -281,7 +281,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/7645683?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 9,
@@ -291,7 +291,7 @@
       "description": "DuckDB is an analytical in-process SQL database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 36096,
+      "stars": 36098,
       "forks": 2925,
       "currentPeriodStars": 773,
       "builtBy": [
@@ -316,7 +316,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/44262898?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -326,7 +326,7 @@
       "description": "A cross-platform, reimplementation of Notepad++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 13433,
+      "stars": 13434,
       "forks": 810,
       "currentPeriodStars": 372,
       "builtBy": [
@@ -351,7 +351,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/16929048?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 11,
@@ -386,7 +386,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6031700?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 12,
@@ -396,8 +396,8 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 95042,
-      "forks": 14899,
+      "stars": 95048,
+      "forks": 14902,
       "currentPeriodStars": 2368,
       "builtBy": [
         {
@@ -421,7 +421,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1629204?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 13,
@@ -431,7 +431,7 @@
       "description": "Official Transmission BitTorrent client repository",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14258,
+      "stars": 14259,
       "forks": 1341,
       "currentPeriodStars": 361,
       "builtBy": [
@@ -456,7 +456,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/22149508?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 14,
@@ -466,8 +466,8 @@
       "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29302,
-      "forks": 1853,
+      "stars": 29304,
+      "forks": 1854,
       "currentPeriodStars": 706,
       "builtBy": [
         {
@@ -491,7 +491,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/29044423?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 15,
@@ -501,8 +501,8 @@
       "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 77124,
-      "forks": 8315,
+      "stars": 77127,
+      "forks": 8316,
       "currentPeriodStars": 258,
       "builtBy": [
         {
@@ -526,7 +526,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/169252?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 16,
@@ -561,7 +561,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/18221333?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 17,
@@ -596,7 +596,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2151639?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 18,
@@ -606,7 +606,7 @@
       "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19627,
+      "stars": 19628,
       "forks": 2113,
       "currentPeriodStars": 295,
       "builtBy": [
@@ -631,7 +631,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/48371888?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 19,
@@ -666,7 +666,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2893260?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 20,
@@ -676,7 +676,7 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29839,
+      "stars": 29842,
       "forks": 6264,
       "currentPeriodStars": 341,
       "builtBy": [
@@ -701,7 +701,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 21,
@@ -711,7 +711,7 @@
       "description": "Tool to statically recompile N64 games into native executables",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7678,
+      "stars": 7679,
       "forks": 415,
       "currentPeriodStars": 239,
       "builtBy": [
@@ -736,7 +736,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6609531?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 22,
@@ -746,8 +746,8 @@
       "description": "Production ready toolkit to run AI locally",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7676,
-      "forks": 234,
+      "stars": 7707,
+      "forks": 235,
       "currentPeriodStars": 4018,
       "builtBy": [
         {
@@ -771,7 +771,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 23,
@@ -781,7 +781,7 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9998,
+      "stars": 10001,
       "forks": 702,
       "currentPeriodStars": 464,
       "builtBy": [
@@ -806,7 +806,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1857572?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

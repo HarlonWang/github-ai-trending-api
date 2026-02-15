@@ -1,7 +1,7 @@
 {
   "count": 23,
   "since": "weekly",
-  "captured_at": "2026-02-15 00:18:25",
+  "captured_at": "2026-02-15 06:06:16",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 30204,
-      "forks": 6849,
+      "stars": 30276,
+      "forks": 6864,
       "currentPeriodStars": 513,
       "builtBy": [
         {
@@ -32,7 +32,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/89011337?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 2,
@@ -42,7 +42,7 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22098,
+      "stars": 22103,
       "forks": 5418,
       "currentPeriodStars": 370,
       "builtBy": [
@@ -67,7 +67,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/97388607?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 3,
@@ -102,7 +102,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/462620?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 4,
@@ -112,8 +112,8 @@
       "description": "Telegram for Android source",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 28538,
-      "forks": 9279,
+      "stars": 28539,
+      "forks": 9281,
       "currentPeriodStars": 97,
       "builtBy": [
         {
@@ -137,7 +137,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/3435533?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -147,7 +147,7 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 64365,
+      "stars": 64366,
       "forks": 7137,
       "currentPeriodStars": 228,
       "builtBy": [
@@ -172,7 +172,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/48068198?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -207,7 +207,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1228900?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 7,
@@ -217,7 +217,7 @@
       "description": "LSPosed Framework resuscitated",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9590,
+      "stars": 9589,
       "forks": 603,
       "currentPeriodStars": 118,
       "builtBy": [
@@ -242,7 +242,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/17663689?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -252,7 +252,7 @@
       "description": "收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5729,
+      "stars": 5731,
       "forks": 548,
       "currentPeriodStars": 116,
       "builtBy": [
@@ -269,7 +269,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/99273309?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 9,
@@ -279,7 +279,7 @@
       "description": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25135,
+      "stars": 25136,
       "forks": 2733,
       "currentPeriodStars": 95,
       "builtBy": [
@@ -304,7 +304,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/137188352?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -314,7 +314,7 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22050,
+      "stars": 22052,
       "forks": 13090,
       "currentPeriodStars": 196,
       "builtBy": [
@@ -339,7 +339,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/87599400?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 11,
@@ -349,7 +349,7 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32841,
+      "stars": 32842,
       "forks": 8052,
       "currentPeriodStars": 154,
       "builtBy": [
@@ -374,7 +374,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/51133?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 12,
@@ -384,7 +384,7 @@
       "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8688,
+      "stars": 8689,
       "forks": 1843,
       "currentPeriodStars": 22,
       "builtBy": [
@@ -409,7 +409,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/25458773?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 13,
@@ -419,8 +419,8 @@
       "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12223,
-      "forks": 2559,
+      "stars": 12225,
+      "forks": 2561,
       "currentPeriodStars": 91,
       "builtBy": [
         {
@@ -444,7 +444,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1386547?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 14,
@@ -454,7 +454,7 @@
       "description": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 10372,
+      "stars": 10373,
       "forks": 2424,
       "currentPeriodStars": 28,
       "builtBy": [
@@ -479,7 +479,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/512439?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 15,
@@ -489,8 +489,8 @@
       "description": "The automation tower defense RTS",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 26572,
-      "forks": 3347,
+      "stars": 26574,
+      "forks": 3348,
       "currentPeriodStars": 105,
       "builtBy": [
         {
@@ -514,7 +514,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/31485341?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 16,
@@ -549,7 +549,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/41156994?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 17,
@@ -559,7 +559,7 @@
       "description": "Open-source third-party Telegram client with not many but useful modifications.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 3313,
+      "stars": 3316,
       "forks": 140,
       "currentPeriodStars": 108,
       "builtBy": [
@@ -584,7 +584,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/10834227?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 18,
@@ -619,7 +619,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/162997?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 19,
@@ -629,7 +629,7 @@
       "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5252,
+      "stars": 5254,
       "forks": 928,
       "currentPeriodStars": 43,
       "builtBy": [
@@ -654,7 +654,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4970595?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 20,
@@ -665,7 +665,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 34797,
-      "forks": 16285,
+      "forks": 16286,
       "currentPeriodStars": 30,
       "builtBy": [
         {
@@ -689,7 +689,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/7993?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 21,
@@ -699,8 +699,8 @@
       "description": "An unofficial rules engine for the world's greatest card game.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 2178,
-      "forks": 843,
+      "stars": 2179,
+      "forks": 845,
       "currentPeriodStars": 23,
       "builtBy": [
         {
@@ -724,7 +724,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/18243520?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 22,
@@ -734,7 +734,7 @@
       "description": "Mirror of Apache Kafka",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 31897,
+      "stars": 31898,
       "forks": 14959,
       "currentPeriodStars": 52,
       "builtBy": [
@@ -759,7 +759,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/157182?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 23,
@@ -769,7 +769,7 @@
       "description": "LSPosed Framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22788,
+      "stars": 22789,
       "forks": 3469,
       "currentPeriodStars": 73,
       "builtBy": [
@@ -794,7 +794,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/17663689?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

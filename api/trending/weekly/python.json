@@ -1,7 +1,7 @@
 {
   "count": 13,
   "since": "weekly",
-  "captured_at": "2026-02-15 00:18:14",
+  "captured_at": "2026-02-15 06:06:07",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32278,
-      "forks": 2152,
+      "stars": 32321,
+      "forks": 2157,
       "currentPeriodStars": 8146,
       "builtBy": [
         {
@@ -36,10 +36,12 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "Google开发的Langextract是一个Python库，利用大语言模型从非结构化文本中提取结构化信息。其核心在于提供精确的溯源能力，确保输出结果可追踪至原文片段，并支持交互式可视化以辅助理解和验证。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "Google开发的Langextract是一个Python库，利用大语言模型从非结构化文本中提取结构化信息。其核心在于提供精确的溯源能力，确保输出结果可追踪至原文片段，并支持交互式可视化以辅助理解和验证。"
+        }
+      ]
     },
     {
       "rank": 2,
@@ -49,8 +51,8 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2490,
-      "forks": 162,
+      "stars": 2562,
+      "forks": 165,
       "currentPeriodStars": 2065,
       "builtBy": [
         {
@@ -74,10 +76,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/50757446?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。"
+        }
+      ]
     },
     {
       "rank": 3,
@@ -87,8 +91,8 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8502,
-      "forks": 473,
+      "stars": 8530,
+      "forks": 476,
       "currentPeriodStars": 3126,
       "builtBy": [
         {
@@ -112,7 +116,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 4,
@@ -122,8 +126,8 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17268,
-      "forks": 3714,
+      "stars": 17283,
+      "forks": 3715,
       "currentPeriodStars": 1615,
       "builtBy": [
         {
@@ -147,7 +151,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/50827102?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -157,8 +161,8 @@
       "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 23779,
-      "forks": 1828,
+      "stars": 23792,
+      "forks": 1830,
       "currentPeriodStars": 703,
       "builtBy": [
         {
@@ -182,7 +186,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/18023954?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -192,8 +196,8 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 95016,
-      "forks": 13762,
+      "stars": 95046,
+      "forks": 13767,
       "currentPeriodStars": 2539,
       "builtBy": [
         {
@@ -217,10 +221,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/774516?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。"
+        }
+      ]
     },
     {
       "rank": 7,
@@ -230,8 +236,8 @@
       "description": "基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1423,
-      "forks": 463,
+      "stars": 1425,
+      "forks": 465,
       "currentPeriodStars": 269,
       "builtBy": [
         {
@@ -255,7 +261,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/3044880?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -265,8 +271,8 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 398421,
-      "forks": 42620,
+      "stars": 398446,
+      "forks": 42622,
       "currentPeriodStars": 2730,
       "builtBy": [
         {
@@ -290,7 +296,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1914165?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 9,
@@ -300,7 +306,7 @@
       "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11138,
+      "stars": 11140,
       "forks": 1282,
       "currentPeriodStars": 302,
       "builtBy": [
@@ -325,7 +331,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/25722332?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -335,7 +341,7 @@
       "description": "Synapse: Matrix homeserver written in Python/Twisted + Rust",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3601,
+      "stars": 3607,
       "forks": 463,
       "currentPeriodStars": 131,
       "builtBy": [
@@ -360,7 +366,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/904009?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 11,
@@ -370,8 +376,8 @@
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11016,
-      "forks": 1074,
+      "stars": 11064,
+      "forks": 1081,
       "currentPeriodStars": 2736,
       "builtBy": [
         {
@@ -395,10 +401,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/131641639?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "该项目汇总了多个可免费调用的LLM推理API资源，解决了开发者因商业API成本高昂或访问受限而难以测试和集成大语言模型的痛点，为实验和小规模应用提供了便捷入口。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "该项目汇总了多个可免费调用的LLM推理API资源，解决了开发者因商业API成本高昂或访问受限而难以测试和集成大语言模型的痛点，为实验和小规模应用提供了便捷入口。"
+        }
+      ]
     },
     {
       "rank": 12,
@@ -408,7 +416,7 @@
       "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 18148,
+      "stars": 18151,
       "forks": 1474,
       "currentPeriodStars": 737,
       "builtBy": [
@@ -433,7 +441,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/108031419?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 13,
@@ -443,7 +451,7 @@
       "description": "Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4123,
+      "stars": 4126,
       "forks": 504,
       "currentPeriodStars": 175,
       "builtBy": [
@@ -468,7 +476,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/75379892?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

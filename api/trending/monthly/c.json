@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "monthly",
-  "captured_at": "2026-02-15 00:19:35",
+  "captured_at": "2026-02-15 06:07:30",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5951,
+      "stars": 5953,
       "forks": 1001,
       "currentPeriodStars": 365,
       "builtBy": [
@@ -36,10 +36,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/6404829?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "MTProxy是Telegram官方推出的轻量级代理工具，使用C语言编写。它通过伪装流量和快速中继，帮助用户在受限网络环境中稳定访问Telegram服务，有效绕过网络封锁。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "MTProxy是Telegram官方推出的轻量级代理工具，使用C语言编写。它通过伪装流量和快速中继，帮助用户在受限网络环境中稳定访问Telegram服务，有效绕过网络封锁。"
+        }
+      ]
     },
     {
       "rank": 2,
@@ -74,7 +76,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5159728?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 3,
@@ -84,8 +86,8 @@
       "description": "tmux source code",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 41763,
-      "forks": 2409,
+      "stars": 41768,
+      "forks": 2410,
       "currentPeriodStars": 1048,
       "builtBy": [
         {
@@ -109,7 +111,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/97253?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 4,
@@ -144,7 +146,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/89487150?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -179,7 +181,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21345721?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -189,8 +191,8 @@
       "description": "The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2281,
-      "forks": 325,
+      "stars": 2282,
+      "forks": 326,
       "currentPeriodStars": 160,
       "builtBy": [
         {
@@ -214,7 +216,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/135865149?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 7,
@@ -249,7 +251,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/92030377?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -259,7 +261,7 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14470,
+      "stars": 14471,
       "forks": 8653,
       "currentPeriodStars": 324,
       "builtBy": [
@@ -284,7 +286,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6350656?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 9,
@@ -294,7 +296,7 @@
       "description": "Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6818,
+      "stars": 6819,
       "forks": 313,
       "currentPeriodStars": 187,
       "builtBy": [
@@ -319,7 +321,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/538504?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -329,7 +331,7 @@
       "description": "Power full Task Manager",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3127,
+      "stars": 3129,
       "forks": 243,
       "currentPeriodStars": 1159,
       "builtBy": [
@@ -354,7 +356,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6871698?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 11,
@@ -364,7 +366,7 @@
       "description": "TLS/SSL and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 29558,
+      "stars": 29559,
       "forks": 11049,
       "currentPeriodStars": 228,
       "builtBy": [
@@ -389,7 +391,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6590984?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 12,
@@ -399,7 +401,7 @@
       "description": "ehviewer，用爱发电，快乐前行",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 22398,
+      "stars": 22399,
       "forks": 593,
       "currentPeriodStars": 621,
       "builtBy": [
@@ -424,7 +426,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/26001028?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 13,
@@ -434,7 +436,7 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 40700,
+      "stars": 40702,
       "forks": 7057,
       "currentPeriodStars": 390,
       "builtBy": [
@@ -459,7 +461,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/228259?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 14,
@@ -469,7 +471,7 @@
       "description": "A simple and easy-to-use library to enjoy videogames programming",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 30952,
+      "stars": 30956,
       "forks": 2925,
       "currentPeriodStars": 708,
       "builtBy": [
@@ -494,7 +496,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 15,
@@ -504,7 +506,7 @@
       "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13618,
+      "stars": 13619,
       "forks": 1616,
       "currentPeriodStars": 268,
       "builtBy": [
@@ -529,7 +531,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/30962924?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 16,
@@ -539,7 +541,7 @@
       "description": "A free Windows-compatible Operating System",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17071,
+      "stars": 17073,
       "forks": 2036,
       "currentPeriodStars": 276,
       "builtBy": [
@@ -564,7 +566,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/18138474?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 17,
@@ -574,7 +576,7 @@
       "description": "low cost software radio platform",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7731,
+      "stars": 7733,
       "forks": 1670,
       "currentPeriodStars": 92,
       "builtBy": [
@@ -599,7 +601,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/432709?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 18,
@@ -634,7 +636,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6563055?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 19,
@@ -644,7 +646,7 @@
       "description": "anti-dpi software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1631,
+      "stars": 1633,
       "forks": 52,
       "currentPeriodStars": 543,
       "builtBy": [
@@ -657,7 +659,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/50713272?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

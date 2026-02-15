@@ -1,7 +1,7 @@
 {
   "count": 17,
   "since": "daily",
-  "captured_at": "2026-02-15 00:17:40",
+  "captured_at": "2026-02-15 06:05:31",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 60275,
-      "forks": 7008,
+      "stars": 60291,
+      "forks": 7019,
       "currentPeriodStars": 29,
       "builtBy": [
         {
@@ -36,10 +36,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/791968?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "MinIO 是一款基于 Go 语言开发的高性能对象存储系统，完全兼容 Amazon S3 API。它解决了企业构建私有云存储时对高性能、可扩展且与主流生态兼容的存储服务的需求，适用于大规模数据湖、备份和云原生应用场景。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "MinIO 是一款基于 Go 语言开发的高性能对象存储系统，完全兼容 Amazon S3 API。它解决了企业构建私有云存储时对高性能、可扩展且与主流生态兼容的存储服务的需求，适用于大规模数据湖、备份和云原生应用场景。"
+        }
+      ]
     },
     {
       "rank": 2,
@@ -49,7 +51,7 @@
       "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22476,
+      "stars": 22482,
       "forks": 1098,
       "currentPeriodStars": 53,
       "builtBy": [
@@ -74,7 +76,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/7756831?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 3,
@@ -84,7 +86,7 @@
       "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2341,
+      "stars": 2342,
       "forks": 241,
       "currentPeriodStars": 19,
       "builtBy": [
@@ -109,7 +111,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/24454679?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 4,
@@ -119,7 +121,7 @@
       "description": "Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4536,
+      "stars": 4545,
       "forks": 189,
       "currentPeriodStars": 65,
       "builtBy": [
@@ -144,7 +146,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -154,7 +156,7 @@
       "description": "Curated list of Go design patterns, recipes and idioms",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 27700,
+      "stars": 27703,
       "forks": 2335,
       "currentPeriodStars": 61,
       "builtBy": [
@@ -179,7 +181,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2125236?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -189,7 +191,7 @@
       "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12974,
+      "stars": 12977,
       "forks": 1194,
       "currentPeriodStars": 53,
       "builtBy": [
@@ -214,7 +216,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/117315983?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 7,
@@ -249,7 +251,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/223565?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -284,7 +286,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/129663775?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 9,
@@ -294,7 +296,7 @@
       "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 25495,
+      "stars": 25497,
       "forks": 2038,
       "currentPeriodStars": 6,
       "builtBy": [
@@ -319,7 +321,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/56698301?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -329,7 +331,7 @@
       "description": "🧟 The modern PHP app server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 10767,
+      "stars": 10768,
       "forks": 429,
       "currentPeriodStars": 10,
       "builtBy": [
@@ -354,7 +356,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1883296?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 11,
@@ -364,7 +366,7 @@
       "description": "Open device management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6037,
+      "stars": 6039,
       "forks": 780,
       "currentPeriodStars": 11,
       "builtBy": [
@@ -389,7 +391,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/575602?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 12,
@@ -399,7 +401,7 @@
       "description": "Ultimate camera streaming application",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12305,
+      "stars": 12310,
       "forks": 949,
       "currentPeriodStars": 22,
       "builtBy": [
@@ -424,7 +426,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6480052?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 13,
@@ -434,7 +436,7 @@
       "description": "Complete container management platform",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 25355,
+      "stars": 25354,
       "forks": 3169,
       "currentPeriodStars": 2,
       "builtBy": [
@@ -459,7 +461,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/19376037?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 14,
@@ -494,7 +496,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/65486276?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 15,
@@ -504,7 +506,7 @@
       "description": "Application Kernel for Containers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 17716,
+      "stars": 17718,
       "forks": 1511,
       "currentPeriodStars": 10,
       "builtBy": [
@@ -529,7 +531,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1718925?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 16,
@@ -564,7 +566,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/9537734?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 17,
@@ -574,7 +576,7 @@
       "description": "Network-wide ads & trackers blocking DNS server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 32559,
+      "stars": 32566,
       "forks": 2243,
       "currentPeriodStars": 20,
       "builtBy": [
@@ -599,7 +601,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/739119?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

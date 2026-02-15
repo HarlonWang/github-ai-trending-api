@@ -1,7 +1,7 @@
 {
   "count": 23,
   "since": "weekly",
-  "captured_at": "2026-02-15 00:18:29",
+  "captured_at": "2026-02-15 06:06:22",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2409,
-      "forks": 180,
+      "stars": 2439,
+      "forks": 181,
       "currentPeriodStars": 1927,
       "builtBy": [
         {
@@ -36,10 +36,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "gh-aw 是 GitHub 推出的基于 Go 语言开发的智能体工作流框架。它旨在通过可编程的自动化代理来编排复杂的开发任务，解决传统 CI/CD 流程在灵活性与智能决策方面的不足，提升软件交付的自动化与智能化水平。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "gh-aw 是 GitHub 推出的基于 Go 语言开发的智能体工作流框架。它旨在通过可编程的自动化代理来编排复杂的开发任务，解决传统 CI/CD 流程在灵活性与智能决策方面的不足，提升软件交付的自动化与智能化水平。"
+        }
+      ]
     },
     {
       "rank": 2,
@@ -49,7 +51,7 @@
       "description": "Container runtimes on macOS (and Linux) with minimal setup",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26923,
+      "stars": 26928,
       "forks": 530,
       "currentPeriodStars": 225,
       "builtBy": [
@@ -74,7 +76,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4974968?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 3,
@@ -84,7 +86,7 @@
       "description": "Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4536,
+      "stars": 4545,
       "forks": 189,
       "currentPeriodStars": 354,
       "builtBy": [
@@ -109,7 +111,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 4,
@@ -119,7 +121,7 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 31908,
+      "stars": 31910,
       "forks": 2946,
       "currentPeriodStars": 321,
       "builtBy": [
@@ -144,7 +146,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1254783?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -154,8 +156,8 @@
       "description": "Podman: A tool for managing OCI containers and pods.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 30688,
-      "forks": 2976,
+      "stars": 30691,
+      "forks": 2977,
       "currentPeriodStars": 98,
       "builtBy": [
         {
@@ -179,7 +181,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/45212748?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -189,7 +191,7 @@
       "description": "Find secrets with Gitleaks 🔑",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24905,
+      "stars": 24911,
       "forks": 1912,
       "currentPeriodStars": 108,
       "builtBy": [
@@ -214,7 +216,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/378909?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 7,
@@ -225,7 +227,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": 7458,
-      "forks": 1187,
+      "forks": 1188,
       "currentPeriodStars": 161,
       "builtBy": [
         {
@@ -249,7 +251,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/115543613?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -284,7 +286,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/129663775?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 9,
@@ -294,7 +296,7 @@
       "description": "Prometheus Alertmanager",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8353,
+      "stars": 8354,
       "forks": 2402,
       "currentPeriodStars": 16,
       "builtBy": [
@@ -319,7 +321,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/538008?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -329,8 +331,8 @@
       "description": "simple terminal UI for git commands",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 72325,
-      "forks": 2504,
+      "stars": 72337,
+      "forks": 2505,
       "currentPeriodStars": 495,
       "builtBy": [
         {
@@ -354,7 +356,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/10097437?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 11,
@@ -364,7 +366,7 @@
       "description": "Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12161,
+      "stars": 12162,
       "forks": 657,
       "currentPeriodStars": 79,
       "builtBy": [
@@ -389,7 +391,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 12,
@@ -424,7 +426,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/8717479?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 13,
@@ -434,7 +436,7 @@
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 47668,
+      "stars": 47671,
       "forks": 10216,
       "currentPeriodStars": 69,
       "builtBy": [
@@ -459,7 +461,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/61721?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 14,
@@ -494,7 +496,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2643092?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 15,
@@ -504,7 +506,7 @@
       "description": "An open source, self-hosted implementation of the Tailscale control server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35363,
+      "stars": 35369,
       "forks": 1898,
       "currentPeriodStars": 398,
       "builtBy": [
@@ -525,7 +527,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4344371?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 16,
@@ -535,7 +537,7 @@
       "description": "Open-source media server with a web interface and desktop app for anime and manga.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2834,
+      "stars": 2837,
       "forks": 180,
       "currentPeriodStars": 211,
       "builtBy": [
@@ -560,7 +562,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/32774211?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 17,
@@ -570,7 +572,7 @@
       "description": "The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4833,
+      "stars": 4836,
       "forks": 251,
       "currentPeriodStars": 61,
       "builtBy": [
@@ -595,7 +597,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/16758464?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 18,
@@ -605,8 +607,8 @@
       "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 60275,
-      "forks": 7008,
+      "stars": 60291,
+      "forks": 7019,
       "currentPeriodStars": 180,
       "builtBy": [
         {
@@ -630,10 +632,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/791968?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "MinIO 是一款基于 Go 语言开发的高性能对象存储系统，完全兼容 Amazon S3 API。它解决了企业构建私有云存储时对高性能、可扩展且与主流生态兼容的存储服务的需求，适用于大规模数据湖、备份和云原生应用场景。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "MinIO 是一款基于 Go 语言开发的高性能对象存储系统，完全兼容 Amazon S3 API。它解决了企业构建私有云存储时对高性能、可扩展且与主流生态兼容的存储服务的需求，适用于大规模数据湖、备份和云原生应用场景。"
+        }
+      ]
     },
     {
       "rank": 19,
@@ -643,7 +647,7 @@
       "description": "MCP server for Grafana",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2303,
+      "stars": 2305,
       "forks": 260,
       "currentPeriodStars": 57,
       "builtBy": [
@@ -668,7 +672,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 20,
@@ -678,7 +682,7 @@
       "description": "⚡️ Express inspired web framework written in Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 39207,
+      "stars": 39210,
       "forks": 1956,
       "currentPeriodStars": 83,
       "builtBy": [
@@ -703,7 +707,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 21,
@@ -713,7 +717,7 @@
       "description": "Weighs the soul of incoming HTTP requests to stop AI crawlers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16930,
+      "stars": 16935,
       "forks": 496,
       "currentPeriodStars": 219,
       "builtBy": [
@@ -738,7 +742,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/11882577?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 22,
@@ -748,7 +752,7 @@
       "description": "The to-do app to organize your life.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3331,
+      "stars": 3333,
       "forks": 305,
       "currentPeriodStars": 91,
       "builtBy": [
@@ -773,7 +777,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/34755314?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 23,
@@ -808,7 +812,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5417586?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

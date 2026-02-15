@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "weekly",
-  "captured_at": "2026-02-15 00:18:43",
+  "captured_at": "2026-02-15 06:06:40",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5951,
+      "stars": 5953,
       "forks": 1001,
       "currentPeriodStars": 307,
       "builtBy": [
@@ -36,10 +36,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/6404829?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "MTProxy是Telegram官方推出的轻量级代理工具，使用C语言编写。它通过伪装流量和快速中继，帮助用户在受限网络环境中稳定访问Telegram服务，有效绕过网络封锁。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "MTProxy是Telegram官方推出的轻量级代理工具，使用C语言编写。它通过伪装流量和快速中继，帮助用户在受限网络环境中稳定访问Telegram服务，有效绕过网络封锁。"
+        }
+      ]
     },
     {
       "rank": 2,
@@ -49,7 +51,7 @@
       "description": "anti-dpi software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1631,
+      "stars": 1633,
       "forks": 52,
       "currentPeriodStars": 160,
       "builtBy": [
@@ -62,7 +64,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/50713272?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 3,
@@ -72,7 +74,7 @@
       "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12396,
+      "stars": 12398,
       "forks": 2736,
       "currentPeriodStars": 64,
       "builtBy": [
@@ -97,7 +99,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/10557215?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 4,
@@ -107,7 +109,7 @@
       "description": "This project aims to enhance the working environment on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 31551,
+      "stars": 31555,
       "forks": 1281,
       "currentPeriodStars": 120,
       "builtBy": [
@@ -132,7 +134,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/29201475?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -142,7 +144,7 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14470,
+      "stars": 14471,
       "forks": 8653,
       "currentPeriodStars": 71,
       "builtBy": [
@@ -167,7 +169,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6350656?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -177,7 +179,7 @@
       "description": "ESP32/ESP8285-based High-Performance Radio Link for RC applications",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4730,
+      "stars": 4731,
       "forks": 1304,
       "currentPeriodStars": 21,
       "builtBy": [
@@ -202,7 +204,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/59873510?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 7,
@@ -212,8 +214,8 @@
       "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 59094,
-      "forks": 27500,
+      "stars": 59098,
+      "forks": 27503,
       "currentPeriodStars": 152,
       "builtBy": [
         {
@@ -237,7 +239,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4056630?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -272,7 +274,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1090367?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 9,
@@ -282,7 +284,7 @@
       "description": "Share your terminal over the web",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 10949,
+      "stars": 10953,
       "forks": 1069,
       "currentPeriodStars": 66,
       "builtBy": [
@@ -307,7 +309,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/20320324?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -317,8 +319,8 @@
       "description": "Eclipse Mosquitto - An open source MQTT broker",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 10625,
-      "forks": 2585,
+      "stars": 10626,
+      "forks": 2586,
       "currentPeriodStars": 32,
       "builtBy": [
         {
@@ -342,7 +344,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/359833?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 11,
@@ -352,7 +354,7 @@
       "description": "A vector search SQLite extension that runs anywhere!",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6900,
+      "stars": 6902,
       "forks": 277,
       "currentPeriodStars": 58,
       "builtBy": [
@@ -377,7 +379,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/61634?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 12,
@@ -388,7 +390,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 14366,
-      "forks": 990,
+      "forks": 991,
       "currentPeriodStars": 102,
       "builtBy": [
         {
@@ -412,7 +414,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/36511477?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 13,
@@ -423,7 +425,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 12009,
-      "forks": 1273,
+      "forks": 1274,
       "currentPeriodStars": 45,
       "builtBy": [
         {
@@ -447,7 +449,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1794020?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 14,
@@ -457,8 +459,8 @@
       "description": "Display and control your Android device",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 135655,
-      "forks": 12646,
+      "stars": 135665,
+      "forks": 12647,
       "currentPeriodStars": 375,
       "builtBy": [
         {
@@ -482,7 +484,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2694559?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 15,
@@ -517,7 +519,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/29823718?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 16,
@@ -527,7 +529,7 @@
       "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14726,
+      "stars": 14728,
       "forks": 2156,
       "currentPeriodStars": 82,
       "builtBy": [
@@ -552,7 +554,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/14975138?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 17,
@@ -587,7 +589,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/66876057?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 18,
@@ -597,7 +599,7 @@
       "description": "ehviewer，用爱发电，快乐前行",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 22398,
+      "stars": 22399,
       "forks": 593,
       "currentPeriodStars": 143,
       "builtBy": [
@@ -622,7 +624,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/26001028?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 19,
@@ -632,7 +634,7 @@
       "description": "John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12721,
+      "stars": 12722,
       "forks": 2449,
       "currentPeriodStars": 48,
       "builtBy": [
@@ -657,7 +659,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1608941?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 20,
@@ -668,7 +670,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 2357,
-      "forks": 376,
+      "forks": 375,
       "currentPeriodStars": 41,
       "builtBy": [
         {
@@ -692,7 +694,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2997482?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 21,
@@ -702,7 +704,7 @@
       "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 72927,
+      "stars": 72931,
       "forks": 24487,
       "currentPeriodStars": 139,
       "builtBy": [
@@ -727,7 +729,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/965798?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "count": 16,
   "since": "monthly",
-  "captured_at": "2026-02-15 00:19:26",
+  "captured_at": "2026-02-15 06:07:21",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 194386,
-      "forks": 33512,
+      "stars": 194942,
+      "forks": 33673,
       "currentPeriodStars": 189974,
       "builtBy": [
         {
@@ -36,7 +36,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 2,
@@ -46,8 +46,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12062,
-      "forks": 1203,
+      "stars": 12153,
+      "forks": 1216,
       "currentPeriodStars": 10225,
       "builtBy": [
         {
@@ -71,7 +71,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/980367?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 3,
@@ -81,8 +81,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15847,
-      "forks": 1193,
+      "stars": 15877,
+      "forks": 1198,
       "currentPeriodStars": 12330,
       "builtBy": [
         {
@@ -106,10 +106,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "AionUi 是一款免费、本地化、开源的 AI 协作工具，支持 Gemini CLI、Claude Code 等多种主流 AI 模型。其核心解决了用户需频繁切换不同 AI 工具界面的痛点，通过统一界面提供 24/7 不间断的集成化编程与对话协作体验。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "AionUi 是一款免费、本地化、开源的 AI 协作工具，支持 Gemini CLI、Claude Code 等多种主流 AI 模型。其核心解决了用户需频繁切换不同 AI 工具界面的痛点，通过统一界面提供 24/7 不间断的集成化编程与对话协作体验。"
+        }
+      ]
     },
     {
       "rank": 4,
@@ -119,8 +121,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 22019,
-      "forks": 2211,
+      "stars": 22105,
+      "forks": 2222,
       "currentPeriodStars": 18284,
       "builtBy": [
         {
@@ -144,7 +146,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/212406850?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 5,
@@ -154,8 +156,8 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 36594,
-      "forks": 2225,
+      "stars": 36623,
+      "forks": 2228,
       "currentPeriodStars": 11382,
       "builtBy": [
         {
@@ -179,7 +181,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/7582277?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -189,8 +191,8 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8449,
-      "forks": 451,
+      "stars": 8490,
+      "forks": 452,
       "currentPeriodStars": 6822,
       "builtBy": [
         {
@@ -214,7 +216,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/906180?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 7,
@@ -224,8 +226,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 104608,
-      "forks": 10166,
+      "stars": 104705,
+      "forks": 10177,
       "currentPeriodStars": 36517,
       "builtBy": [
         {
@@ -249,7 +251,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1879069?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -259,8 +261,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 28201,
-      "forks": 1885,
+      "stars": 28245,
+      "forks": 1891,
       "currentPeriodStars": 14718,
       "builtBy": [
         {
@@ -284,7 +286,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 9,
@@ -294,8 +296,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15136,
-      "forks": 1813,
+      "stars": 15201,
+      "forks": 1821,
       "currentPeriodStars": 8192,
       "builtBy": [
         {
@@ -319,7 +321,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -329,8 +331,8 @@
       "description": "Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8369,
-      "forks": 561,
+      "stars": 8379,
+      "forks": 562,
       "currentPeriodStars": 5531,
       "builtBy": [
         {
@@ -354,7 +356,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21700150?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 11,
@@ -364,8 +366,8 @@
       "description": "the best agent harness",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 31439,
-      "forks": 2345,
+      "stars": 31485,
+      "forks": 2350,
       "currentPeriodStars": 15155,
       "builtBy": [
         {
@@ -389,7 +391,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/99611484?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 12,
@@ -399,7 +401,7 @@
       "description": "A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents. 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4450,
+      "stars": 4455,
       "forks": 1131,
       "currentPeriodStars": 2701,
       "builtBy": [
@@ -424,7 +426,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/32067712?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 13,
@@ -434,8 +436,8 @@
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 16427,
-      "forks": 1643,
+      "stars": 16430,
+      "forks": 1644,
       "currentPeriodStars": 2359,
       "builtBy": [
         {
@@ -459,7 +461,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/65047246?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 14,
@@ -469,8 +471,8 @@
       "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1489,
-      "forks": 173,
+      "stars": 1493,
+      "forks": 174,
       "currentPeriodStars": 1137,
       "builtBy": [
         {
@@ -494,7 +496,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/33686587?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 15,
@@ -504,8 +506,8 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8861,
-      "forks": 690,
+      "stars": 8879,
+      "forks": 691,
       "currentPeriodStars": 4208,
       "builtBy": [
         {
@@ -529,7 +531,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/263564?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 16,
@@ -539,7 +541,7 @@
       "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 45746,
+      "stars": 45759,
       "forks": 2182,
       "currentPeriodStars": 3953,
       "builtBy": [
@@ -564,7 +566,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }

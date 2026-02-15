@@ -1,7 +1,7 @@
 {
   "count": 15,
   "since": "weekly",
-  "captured_at": "2026-02-15 00:18:09",
+  "captured_at": "2026-02-15 06:06:03",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 22017,
-      "forks": 2211,
+      "stars": 22105,
+      "forks": 2222,
       "currentPeriodStars": 13576,
       "builtBy": [
         {
@@ -36,7 +36,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/212406850?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 2,
@@ -46,8 +46,8 @@
       "description": "A minimal, secure Python interpreter written in Rust for use by AI",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5229,
-      "forks": 189,
+      "stars": 5255,
+      "forks": 190,
       "currentPeriodStars": 3428,
       "builtBy": [
         {
@@ -71,7 +71,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/159434?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 3,
@@ -81,8 +81,8 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32278,
-      "forks": 2152,
+      "stars": 32321,
+      "forks": 2157,
       "currentPeriodStars": 8146,
       "builtBy": [
         {
@@ -106,10 +106,12 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "Google开发的Langextract是一个Python库，利用大语言模型从非结构化文本中提取结构化信息。其核心在于提供精确的溯源能力，确保输出结果可追踪至原文片段，并支持交互式可视化以辅助理解和验证。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "Google开发的Langextract是一个Python库，利用大语言模型从非结构化文本中提取结构化信息。其核心在于提供精确的溯源能力，确保输出结果可追踪至原文片段，并支持交互式可视化以辅助理解和验证。"
+        }
+      ]
     },
     {
       "rank": 4,
@@ -119,8 +121,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2409,
-      "forks": 180,
+      "stars": 2439,
+      "forks": 181,
       "currentPeriodStars": 1927,
       "builtBy": [
         {
@@ -144,10 +146,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "gh-aw 是 GitHub 推出的基于 Go 语言开发的智能体工作流框架。它旨在通过可编程的自动化代理来编排复杂的开发任务，解决传统 CI/CD 流程在灵活性与智能决策方面的不足，提升软件交付的自动化与智能化水平。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "gh-aw 是 GitHub 推出的基于 Go 语言开发的智能体工作流框架。它旨在通过可编程的自动化代理来编排复杂的开发任务，解决传统 CI/CD 流程在灵活性与智能决策方面的不足，提升软件交付的自动化与智能化水平。"
+        }
+      ]
     },
     {
       "rank": 5,
@@ -157,8 +161,8 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2490,
-      "forks": 162,
+      "stars": 2562,
+      "forks": 165,
       "currentPeriodStars": 2065,
       "builtBy": [
         {
@@ -182,10 +186,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/50757446?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "Jeffallan/claude-skills 是一个 Python 项目，旨在将 Claude 代码转化为全栈开发专家的结对编程伙伴。它通过提供 66 项专项技能，解决了开发者在复杂项目中需要广泛领域知识和高效代码生成的核心痛点，显著提升了开发效率与代码质量。"
+        }
+      ]
     },
     {
       "rank": 6,
@@ -195,8 +201,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15136,
-      "forks": 1813,
+      "stars": 15201,
+      "forks": 1821,
       "currentPeriodStars": 4002,
       "builtBy": [
         {
@@ -220,7 +226,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 7,
@@ -230,8 +236,8 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8502,
-      "forks": 473,
+      "stars": 8530,
+      "forks": 476,
       "currentPeriodStars": 3126,
       "builtBy": [
         {
@@ -255,7 +261,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 8,
@@ -265,8 +271,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12061,
-      "forks": 1203,
+      "stars": 12153,
+      "forks": 1216,
       "currentPeriodStars": 4131,
       "builtBy": [
         {
@@ -290,7 +296,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/980367?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 9,
@@ -300,8 +306,8 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17268,
-      "forks": 3714,
+      "stars": 17283,
+      "forks": 3715,
       "currentPeriodStars": 1615,
       "builtBy": [
         {
@@ -325,7 +331,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/50827102?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 10,
@@ -335,8 +341,8 @@
       "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 23779,
-      "forks": 1828,
+      "stars": 23792,
+      "forks": 1830,
       "currentPeriodStars": 703,
       "builtBy": [
         {
@@ -360,7 +366,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/18023954?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 11,
@@ -370,8 +376,8 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 95016,
-      "forks": 13762,
+      "stars": 95046,
+      "forks": 13767,
       "currentPeriodStars": 2539,
       "builtBy": [
         {
@@ -395,10 +401,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/774516?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。"
+        }
+      ]
     },
     {
       "rank": 12,
@@ -408,8 +416,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 28201,
-      "forks": 1885,
+      "stars": 28245,
+      "forks": 1891,
       "currentPeriodStars": 3712,
       "builtBy": [
         {
@@ -433,7 +441,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 13,
@@ -443,8 +451,8 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8861,
-      "forks": 690,
+      "stars": 8879,
+      "forks": 691,
       "currentPeriodStars": 1472,
       "builtBy": [
         {
@@ -468,7 +476,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/263564?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     },
     {
       "rank": 14,
@@ -478,8 +486,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 25087,
-      "forks": 1479,
+      "stars": 25154,
+      "forks": 1480,
       "currentPeriodStars": 1513,
       "builtBy": [
         {
@@ -503,10 +511,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/325588?s=40&v=4"
         }
       ],
-      "aiSummary": {
-        "zh": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。",
-        "source": "deepseek"
-      }
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。"
+        }
+      ]
     },
     {
       "rank": 15,
@@ -516,8 +526,8 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8448,
-      "forks": 451,
+      "stars": 8490,
+      "forks": 452,
       "currentPeriodStars": 1421,
       "builtBy": [
         {
@@ -541,7 +551,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/906180?s=40&v=4"
         }
       ],
-      "aiSummary": null
+      "aiSummaries": null
     }
   ]
 }
