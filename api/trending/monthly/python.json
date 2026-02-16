@@ -1,7 +1,7 @@
 {
-  "count": 17,
+  "count": 16,
   "since": "monthly",
-  "captured_at": "2026-02-16 00:18:53",
+  "captured_at": "2026-02-16 12:19:28",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 15193,
-      "forks": 1099,
+      "stars": 15239,
+      "forks": 1103,
       "currentPeriodStars": 9831,
       "builtBy": [
         {
@@ -38,8 +38,8 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8599,
-      "forks": 479,
+      "stars": 8660,
+      "forks": 481,
       "currentPeriodStars": 7035,
       "builtBy": [
         {
@@ -73,8 +73,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 70252,
-      "forks": 7126,
+      "stars": 70461,
+      "forks": 7159,
       "currentPeriodStars": 28927,
       "builtBy": [
         {
@@ -108,8 +108,8 @@
       "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9256,
-      "forks": 708,
+      "stars": 9281,
+      "forks": 711,
       "currentPeriodStars": 4668,
       "builtBy": [
         {
@@ -137,49 +137,14 @@
     },
     {
       "rank": 5,
-      "author": "OpenBMB",
-      "repoName": "UltraRAG",
-      "url": "https://github.com/OpenBMB/UltraRAG",
-      "description": "A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 5193,
-      "forks": 365,
-      "currentPeriodStars": 2804,
-      "builtBy": [
-        {
-          "username": "mssssss123",
-          "avatar": "https://avatars.githubusercontent.com/u/56372416?s=40&v=4"
-        },
-        {
-          "username": "xhd0728",
-          "avatar": "https://avatars.githubusercontent.com/u/77320781?s=40&v=4"
-        },
-        {
-          "username": "gdw439",
-          "avatar": "https://avatars.githubusercontent.com/u/23526166?s=40&v=4"
-        },
-        {
-          "username": "Kaguya-19",
-          "avatar": "https://avatars.githubusercontent.com/u/50143482?s=40&v=4"
-        },
-        {
-          "username": "ChenYX24",
-          "avatar": "https://avatars.githubusercontent.com/u/90974567?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 6,
       "author": "MoonshotAI",
       "repoName": "kimi-cli",
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6414,
-      "forks": 609,
+      "stars": 6429,
+      "forks": 610,
       "currentPeriodStars": 2605,
       "builtBy": [
         {
@@ -206,6 +171,41 @@
       "aiSummaries": null
     },
     {
+      "rank": 6,
+      "author": "OpenBMB",
+      "repoName": "UltraRAG",
+      "url": "https://github.com/OpenBMB/UltraRAG",
+      "description": "A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 5202,
+      "forks": 367,
+      "currentPeriodStars": 2804,
+      "builtBy": [
+        {
+          "username": "mssssss123",
+          "avatar": "https://avatars.githubusercontent.com/u/56372416?s=40&v=4"
+        },
+        {
+          "username": "xhd0728",
+          "avatar": "https://avatars.githubusercontent.com/u/77320781?s=40&v=4"
+        },
+        {
+          "username": "gdw439",
+          "avatar": "https://avatars.githubusercontent.com/u/23526166?s=40&v=4"
+        },
+        {
+          "username": "Kaguya-19",
+          "avatar": "https://avatars.githubusercontent.com/u/50143482?s=40&v=4"
+        },
+        {
+          "username": "ChenYX24",
+          "avatar": "https://avatars.githubusercontent.com/u/90974567?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
       "rank": 7,
       "author": "ComposioHQ",
       "repoName": "awesome-claude-skills",
@@ -213,8 +213,8 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 35067,
-      "forks": 3400,
+      "stars": 35180,
+      "forks": 3415,
       "currentPeriodStars": 15480,
       "builtBy": [
         {
@@ -248,8 +248,8 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32527,
-      "forks": 2178,
+      "stars": 32625,
+      "forks": 2185,
       "currentPeriodStars": 11965,
       "builtBy": [
         {
@@ -288,8 +288,8 @@
       "description": "Official inference framework for 1-bit LLMs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 28454,
-      "forks": 2327,
+      "stars": 28461,
+      "forks": 2328,
       "currentPeriodStars": 2795,
       "builtBy": [
         {
@@ -323,8 +323,8 @@
       "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 30987,
-      "forks": 3818,
+      "stars": 30995,
+      "forks": 3819,
       "currentPeriodStars": 2385,
       "builtBy": [
         {
@@ -352,37 +352,14 @@
     },
     {
       "rank": 11,
-      "author": "disler",
-      "repoName": "claude-code-hooks-mastery",
-      "url": "https://github.com/disler/claude-code-hooks-mastery",
-      "description": "Master Claude Code Hooks",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 3043,
-      "forks": 547,
-      "currentPeriodStars": 988,
-      "builtBy": [
-        {
-          "username": "disler",
-          "avatar": "https://avatars.githubusercontent.com/u/7570811?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 12,
       "author": "microsoft",
       "repoName": "agent-lightning",
       "url": "https://github.com/microsoft/agent-lightning",
       "description": "The absolute trainer to light up AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14760,
-      "forks": 1253,
+      "stars": 14776,
+      "forks": 1254,
       "currentPeriodStars": 4536,
       "builtBy": [
         {
@@ -409,6 +386,29 @@
       "aiSummaries": null
     },
     {
+      "rank": 12,
+      "author": "disler",
+      "repoName": "claude-code-hooks-mastery",
+      "url": "https://github.com/disler/claude-code-hooks-mastery",
+      "description": "Master Claude Code Hooks",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 3052,
+      "forks": 550,
+      "currentPeriodStars": 988,
+      "builtBy": [
+        {
+          "username": "disler",
+          "avatar": "https://avatars.githubusercontent.com/u/7570811?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
       "rank": 13,
       "author": "alirezarezvani",
       "repoName": "claude-skills",
@@ -416,8 +416,8 @@
       "description": "A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1816,
-      "forks": 218,
+      "stars": 1828,
+      "forks": 220,
       "currentPeriodStars": 1135,
       "builtBy": [
         {
@@ -445,119 +445,14 @@
     },
     {
       "rank": 14,
-      "author": "ahujasid",
-      "repoName": "blender-mcp",
-      "url": "https://github.com/ahujasid/blender-mcp",
-      "description": "",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 17075,
-      "forks": 1626,
-      "currentPeriodStars": 1717,
-      "builtBy": [
-        {
-          "username": "ahujasid",
-          "avatar": "https://avatars.githubusercontent.com/u/11807284?s=40&v=4"
-        },
-        {
-          "username": "ElgoogUdiab",
-          "avatar": "https://avatars.githubusercontent.com/u/28426666?s=40&v=4"
-        },
-        {
-          "username": "siddikisahil47",
-          "avatar": "https://avatars.githubusercontent.com/u/134954614?s=40&v=4"
-        },
-        {
-          "username": "harrywang",
-          "avatar": "https://avatars.githubusercontent.com/u/595772?s=40&v=4"
-        },
-        {
-          "username": "satishgoda",
-          "avatar": "https://avatars.githubusercontent.com/u/536008?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 15,
-      "author": "thu-ml",
-      "repoName": "tianshou",
-      "url": "https://github.com/thu-ml/tianshou",
-      "description": "An elegant PyTorch deep reinforcement learning library.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 10212,
-      "forks": 1267,
-      "currentPeriodStars": 1182,
-      "builtBy": [
-        {
-          "username": "opcode81",
-          "avatar": "https://avatars.githubusercontent.com/u/1295099?s=40&v=4"
-        },
-        {
-          "username": "MischaPanch",
-          "avatar": "https://avatars.githubusercontent.com/u/35432522?s=40&v=4"
-        },
-        {
-          "username": "Trinkle23897",
-          "avatar": "https://avatars.githubusercontent.com/u/8189182?s=40&v=4"
-        },
-        {
-          "username": "rtz19970824",
-          "avatar": "https://avatars.githubusercontent.com/u/9161765?s=40&v=4"
-        },
-        {
-          "username": "carlocagnetta",
-          "avatar": "https://avatars.githubusercontent.com/u/50958143?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 16,
-      "author": "hesreallyhim",
-      "repoName": "awesome-claude-code",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code",
-      "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 23823,
-      "forks": 1394,
-      "currentPeriodStars": 3386,
-      "builtBy": [
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "hesreallyhim",
-          "avatar": "https://avatars.githubusercontent.com/u/172150522?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "apps/copilot-pull-request-reviewer",
-          "avatar": "https://avatars.githubusercontent.com/in/946600?s=40&v=4"
-        },
-        {
-          "username": "tninja",
-          "avatar": "https://avatars.githubusercontent.com/u/714625?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 17,
       "author": "Shubhamsaboo",
       "repoName": "awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 95296,
-      "forks": 13796,
+      "stars": 95425,
+      "forks": 13813,
       "currentPeriodStars": 7586,
       "builtBy": [
         {
@@ -587,6 +482,76 @@
           "zh": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。"
         }
       ]
+    },
+    {
+      "rank": 15,
+      "author": "ahujasid",
+      "repoName": "blender-mcp",
+      "url": "https://github.com/ahujasid/blender-mcp",
+      "description": "",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 17086,
+      "forks": 1626,
+      "currentPeriodStars": 1717,
+      "builtBy": [
+        {
+          "username": "ahujasid",
+          "avatar": "https://avatars.githubusercontent.com/u/11807284?s=40&v=4"
+        },
+        {
+          "username": "ElgoogUdiab",
+          "avatar": "https://avatars.githubusercontent.com/u/28426666?s=40&v=4"
+        },
+        {
+          "username": "siddikisahil47",
+          "avatar": "https://avatars.githubusercontent.com/u/134954614?s=40&v=4"
+        },
+        {
+          "username": "harrywang",
+          "avatar": "https://avatars.githubusercontent.com/u/595772?s=40&v=4"
+        },
+        {
+          "username": "satishgoda",
+          "avatar": "https://avatars.githubusercontent.com/u/536008?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 16,
+      "author": "hesreallyhim",
+      "repoName": "awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 23877,
+      "forks": 1406,
+      "currentPeriodStars": 3386,
+      "builtBy": [
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        },
+        {
+          "username": "hesreallyhim",
+          "avatar": "https://avatars.githubusercontent.com/u/172150522?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "apps/copilot-pull-request-reviewer",
+          "avatar": "https://avatars.githubusercontent.com/in/946600?s=40&v=4"
+        },
+        {
+          "username": "tninja",
+          "avatar": "https://avatars.githubusercontent.com/u/714625?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
     }
   ]
 }

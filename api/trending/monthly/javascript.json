@@ -1,7 +1,7 @@
 {
   "count": 14,
   "since": "monthly",
-  "captured_at": "2026-02-16 00:18:59",
+  "captured_at": "2026-02-16 12:19:33",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 14437,
-      "forks": 1361,
+      "stars": 14628,
+      "forks": 1374,
       "currentPeriodStars": 11499,
       "builtBy": [
         {
@@ -46,8 +46,8 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 20443,
-      "forks": 1854,
+      "stars": 20476,
+      "forks": 1856,
       "currentPeriodStars": 15160,
       "builtBy": [
         {
@@ -75,49 +75,14 @@
     },
     {
       "rank": 3,
-      "author": "github",
-      "repoName": "awesome-copilot",
-      "url": "https://github.com/github/awesome-copilot",
-      "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 21306,
-      "forks": 2433,
-      "currentPeriodStars": 3677,
-      "builtBy": [
-        {
-          "username": "aaronpowell",
-          "avatar": "https://avatars.githubusercontent.com/u/434140?s=40&v=4"
-        },
-        {
-          "username": "apps/copilot-pull-request-reviewer",
-          "avatar": "https://avatars.githubusercontent.com/in/946600?s=40&v=4"
-        },
-        {
-          "username": "codemillmatt",
-          "avatar": "https://avatars.githubusercontent.com/u/2053639?s=40&v=4"
-        },
-        {
-          "username": "apps/copilot-swe-agent",
-          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
-        },
-        {
-          "username": "jhauga",
-          "avatar": "https://avatars.githubusercontent.com/u/10998676?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 4,
       "author": "Coding-Solo",
       "repoName": "godot-mcp",
       "url": "https://github.com/Coding-Solo/godot-mcp",
       "description": "MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 1813,
-      "forks": 202,
+      "stars": 1821,
+      "forks": 203,
       "currentPeriodStars": 420,
       "builtBy": [
         {
@@ -144,7 +109,217 @@
       "aiSummaries": null
     },
     {
+      "rank": 4,
+      "author": "expo",
+      "repoName": "skills",
+      "url": "https://github.com/expo/skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 1025,
+      "forks": 38,
+      "currentPeriodStars": 845,
+      "builtBy": [
+        {
+          "username": "EvanBacon",
+          "avatar": "https://avatars.githubusercontent.com/u/9664363?s=40&v=4"
+        },
+        {
+          "username": "ide",
+          "avatar": "https://avatars.githubusercontent.com/u/379606?s=40&v=4"
+        },
+        {
+          "username": "Ubax",
+          "avatar": "https://avatars.githubusercontent.com/u/32908614?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "brentvatne",
+          "avatar": "https://avatars.githubusercontent.com/u/90494?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
       "rank": 5,
+      "author": "pedroslopez",
+      "repoName": "whatsapp-web.js",
+      "url": "https://github.com/pedroslopez/whatsapp-web.js",
+      "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 21185,
+      "forks": 4858,
+      "currentPeriodStars": 681,
+      "builtBy": [
+        {
+          "username": "pedroslopez",
+          "avatar": "https://avatars.githubusercontent.com/u/4368928?s=40&v=4"
+        },
+        {
+          "username": "alechkos",
+          "avatar": "https://avatars.githubusercontent.com/u/93551621?s=40&v=4"
+        },
+        {
+          "username": "wwebjs-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/111271321?s=40&v=4"
+        },
+        {
+          "username": "purpshell",
+          "avatar": "https://avatars.githubusercontent.com/u/52720753?s=40&v=4"
+        },
+        {
+          "username": "BenyFilho",
+          "avatar": "https://avatars.githubusercontent.com/u/168232825?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 6,
+      "author": "GitSquared",
+      "repoName": "edex-ui",
+      "url": "https://github.com/GitSquared/edex-ui",
+      "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 44241,
+      "forks": 2998,
+      "currentPeriodStars": 410,
+      "builtBy": [
+        {
+          "username": "GitSquared",
+          "avatar": "https://avatars.githubusercontent.com/u/24496417?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot-preview",
+          "avatar": "https://avatars.githubusercontent.com/in/2141?s=40&v=4"
+        },
+        {
+          "username": "dependabot-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/36207117?s=40&v=4"
+        },
+        {
+          "username": "apps/greenkeeper",
+          "avatar": "https://avatars.githubusercontent.com/in/505?s=40&v=4"
+        },
+        {
+          "username": "greenkeeperio-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/14790466?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 7,
+      "author": "siteboon",
+      "repoName": "claudecodeui",
+      "url": "https://github.com/siteboon/claudecodeui",
+      "description": "Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 6277,
+      "forks": 825,
+      "currentPeriodStars": 798,
+      "builtBy": [
+        {
+          "username": "viper151",
+          "avatar": "https://avatars.githubusercontent.com/u/7479045?s=40&v=4"
+        },
+        {
+          "username": "blackmammoth",
+          "avatar": "https://avatars.githubusercontent.com/u/118998054?s=40&v=4"
+        },
+        {
+          "username": "EricBlanquer",
+          "avatar": "https://avatars.githubusercontent.com/u/1058958?s=40&v=4"
+        },
+        {
+          "username": "unsystemizer",
+          "avatar": "https://avatars.githubusercontent.com/u/13134193?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 8,
+      "author": "viarotel-org",
+      "repoName": "escrcpy",
+      "url": "https://github.com/viarotel-org/escrcpy",
+      "description": "📱 Display and control your Android device graphically with scrcpy.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 8156,
+      "forks": 597,
+      "currentPeriodStars": 839,
+      "builtBy": [
+        {
+          "username": "viarotel",
+          "avatar": "https://avatars.githubusercontent.com/u/38282758?s=40&v=4"
+        },
+        {
+          "username": "reindex-ot",
+          "avatar": "https://avatars.githubusercontent.com/u/32851879?s=40&v=4"
+        },
+        {
+          "username": "dainamiter",
+          "avatar": "https://avatars.githubusercontent.com/u/189065486?s=40&v=4"
+        },
+        {
+          "username": "salmanmkc",
+          "avatar": "https://avatars.githubusercontent.com/u/32169182?s=40&v=4"
+        },
+        {
+          "username": "ahmed-0011",
+          "avatar": "https://avatars.githubusercontent.com/u/74181508?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 9,
+      "author": "Acode-Foundation",
+      "repoName": "Acode",
+      "url": "https://github.com/Acode-Foundation/Acode",
+      "description": "Acode - powerful text/code editor for android",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 4566,
+      "forks": 809,
+      "currentPeriodStars": 229,
+      "builtBy": [
+        {
+          "username": "bajrangCoder",
+          "avatar": "https://avatars.githubusercontent.com/u/71929976?s=40&v=4"
+        },
+        {
+          "username": "deadlyjack",
+          "avatar": "https://avatars.githubusercontent.com/u/38699939?s=40&v=4"
+        },
+        {
+          "username": "RohitKushvaha01",
+          "avatar": "https://avatars.githubusercontent.com/u/99863818?s=40&v=4"
+        },
+        {
+          "username": "UnschooledGamer",
+          "avatar": "https://avatars.githubusercontent.com/u/76094069?s=40&v=4"
+        },
+        {
+          "username": "Micha-he",
+          "avatar": "https://avatars.githubusercontent.com/u/36689516?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 10,
       "author": "jquery",
       "repoName": "jquery",
       "url": "https://github.com/jquery/jquery",
@@ -179,225 +354,15 @@
       "aiSummaries": null
     },
     {
-      "rank": 6,
-      "author": "pedroslopez",
-      "repoName": "whatsapp-web.js",
-      "url": "https://github.com/pedroslopez/whatsapp-web.js",
-      "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 21181,
-      "forks": 4858,
-      "currentPeriodStars": 681,
-      "builtBy": [
-        {
-          "username": "pedroslopez",
-          "avatar": "https://avatars.githubusercontent.com/u/4368928?s=40&v=4"
-        },
-        {
-          "username": "alechkos",
-          "avatar": "https://avatars.githubusercontent.com/u/93551621?s=40&v=4"
-        },
-        {
-          "username": "wwebjs-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/111271321?s=40&v=4"
-        },
-        {
-          "username": "purpshell",
-          "avatar": "https://avatars.githubusercontent.com/u/52720753?s=40&v=4"
-        },
-        {
-          "username": "BenyFilho",
-          "avatar": "https://avatars.githubusercontent.com/u/168232825?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 7,
-      "author": "GitSquared",
-      "repoName": "edex-ui",
-      "url": "https://github.com/GitSquared/edex-ui",
-      "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 44237,
-      "forks": 2998,
-      "currentPeriodStars": 410,
-      "builtBy": [
-        {
-          "username": "GitSquared",
-          "avatar": "https://avatars.githubusercontent.com/u/24496417?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot-preview",
-          "avatar": "https://avatars.githubusercontent.com/in/2141?s=40&v=4"
-        },
-        {
-          "username": "dependabot-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/36207117?s=40&v=4"
-        },
-        {
-          "username": "apps/greenkeeper",
-          "avatar": "https://avatars.githubusercontent.com/in/505?s=40&v=4"
-        },
-        {
-          "username": "greenkeeperio-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/14790466?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 8,
-      "author": "siteboon",
-      "repoName": "claudecodeui",
-      "url": "https://github.com/siteboon/claudecodeui",
-      "description": "Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 6263,
-      "forks": 822,
-      "currentPeriodStars": 798,
-      "builtBy": [
-        {
-          "username": "viper151",
-          "avatar": "https://avatars.githubusercontent.com/u/7479045?s=40&v=4"
-        },
-        {
-          "username": "blackmammoth",
-          "avatar": "https://avatars.githubusercontent.com/u/118998054?s=40&v=4"
-        },
-        {
-          "username": "EricBlanquer",
-          "avatar": "https://avatars.githubusercontent.com/u/1058958?s=40&v=4"
-        },
-        {
-          "username": "unsystemizer",
-          "avatar": "https://avatars.githubusercontent.com/u/13134193?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 9,
-      "author": "viarotel-org",
-      "repoName": "escrcpy",
-      "url": "https://github.com/viarotel-org/escrcpy",
-      "description": "📱 Display and control your Android device graphically with scrcpy.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 8150,
-      "forks": 595,
-      "currentPeriodStars": 839,
-      "builtBy": [
-        {
-          "username": "viarotel",
-          "avatar": "https://avatars.githubusercontent.com/u/38282758?s=40&v=4"
-        },
-        {
-          "username": "reindex-ot",
-          "avatar": "https://avatars.githubusercontent.com/u/32851879?s=40&v=4"
-        },
-        {
-          "username": "dainamiter",
-          "avatar": "https://avatars.githubusercontent.com/u/189065486?s=40&v=4"
-        },
-        {
-          "username": "salmanmkc",
-          "avatar": "https://avatars.githubusercontent.com/u/32169182?s=40&v=4"
-        },
-        {
-          "username": "ahmed-0011",
-          "avatar": "https://avatars.githubusercontent.com/u/74181508?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 10,
-      "author": "Acode-Foundation",
-      "repoName": "Acode",
-      "url": "https://github.com/Acode-Foundation/Acode",
-      "description": "Acode - powerful text/code editor for android",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 4560,
-      "forks": 809,
-      "currentPeriodStars": 229,
-      "builtBy": [
-        {
-          "username": "bajrangCoder",
-          "avatar": "https://avatars.githubusercontent.com/u/71929976?s=40&v=4"
-        },
-        {
-          "username": "deadlyjack",
-          "avatar": "https://avatars.githubusercontent.com/u/38699939?s=40&v=4"
-        },
-        {
-          "username": "RohitKushvaha01",
-          "avatar": "https://avatars.githubusercontent.com/u/99863818?s=40&v=4"
-        },
-        {
-          "username": "UnschooledGamer",
-          "avatar": "https://avatars.githubusercontent.com/u/76094069?s=40&v=4"
-        },
-        {
-          "username": "Micha-he",
-          "avatar": "https://avatars.githubusercontent.com/u/36689516?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
       "rank": 11,
-      "author": "nodejs",
-      "repoName": "node",
-      "url": "https://github.com/nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 115719,
-      "forks": 34754,
-      "currentPeriodStars": 694,
-      "builtBy": [
-        {
-          "username": "Trott",
-          "avatar": "https://avatars.githubusercontent.com/u/718899?s=40&v=4"
-        },
-        {
-          "username": "ry",
-          "avatar": "https://avatars.githubusercontent.com/u/80?s=40&v=4"
-        },
-        {
-          "username": "bnoordhuis",
-          "avatar": "https://avatars.githubusercontent.com/u/275871?s=40&v=4"
-        },
-        {
-          "username": "addaleax",
-          "avatar": "https://avatars.githubusercontent.com/u/899444?s=40&v=4"
-        },
-        {
-          "username": "isaacs",
-          "avatar": "https://avatars.githubusercontent.com/u/9287?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 12,
       "author": "poloclub",
       "repoName": "transformer-explainer",
       "url": "https://github.com/poloclub/transformer-explainer",
       "description": "Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 6766,
-      "forks": 722,
+      "stars": 6772,
+      "forks": 723,
       "currentPeriodStars": 341,
       "builtBy": [
         {
@@ -424,42 +389,42 @@
       "aiSummaries": null
     },
     {
-      "rank": 13,
-      "author": "eslint",
-      "repoName": "eslint",
-      "url": "https://github.com/eslint/eslint",
-      "description": "Find and fix problems in your JavaScript code.",
+      "rank": 12,
+      "author": "nodejs",
+      "repoName": "node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 26898,
-      "forks": 4907,
-      "currentPeriodStars": 145,
+      "stars": 115728,
+      "forks": 34749,
+      "currentPeriodStars": 694,
       "builtBy": [
         {
-          "username": "nzakas",
-          "avatar": "https://avatars.githubusercontent.com/u/38546?s=40&v=4"
+          "username": "Trott",
+          "avatar": "https://avatars.githubusercontent.com/u/718899?s=40&v=4"
         },
         {
-          "username": "mdjermanovic",
-          "avatar": "https://avatars.githubusercontent.com/u/44349756?s=40&v=4"
+          "username": "ry",
+          "avatar": "https://avatars.githubusercontent.com/u/80?s=40&v=4"
         },
         {
-          "username": "ilyavolodin",
-          "avatar": "https://avatars.githubusercontent.com/u/1380062?s=40&v=4"
+          "username": "bnoordhuis",
+          "avatar": "https://avatars.githubusercontent.com/u/275871?s=40&v=4"
         },
         {
-          "username": "not-an-aardvark",
-          "avatar": "https://avatars.githubusercontent.com/u/11638619?s=40&v=4"
+          "username": "addaleax",
+          "avatar": "https://avatars.githubusercontent.com/u/899444?s=40&v=4"
         },
         {
-          "username": "mysticatea",
-          "avatar": "https://avatars.githubusercontent.com/u/1937871?s=40&v=4"
+          "username": "isaacs",
+          "avatar": "https://avatars.githubusercontent.com/u/9287?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
-      "rank": 14,
+      "rank": 13,
       "author": "drawdb-io",
       "repoName": "drawdb",
       "url": "https://github.com/drawdb-io/drawdb",
@@ -489,6 +454,41 @@
         {
           "username": "KARM99",
           "avatar": "https://avatars.githubusercontent.com/u/21248684?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 14,
+      "author": "eslint",
+      "repoName": "eslint",
+      "url": "https://github.com/eslint/eslint",
+      "description": "Find and fix problems in your JavaScript code.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 26898,
+      "forks": 4905,
+      "currentPeriodStars": 145,
+      "builtBy": [
+        {
+          "username": "nzakas",
+          "avatar": "https://avatars.githubusercontent.com/u/38546?s=40&v=4"
+        },
+        {
+          "username": "mdjermanovic",
+          "avatar": "https://avatars.githubusercontent.com/u/44349756?s=40&v=4"
+        },
+        {
+          "username": "ilyavolodin",
+          "avatar": "https://avatars.githubusercontent.com/u/1380062?s=40&v=4"
+        },
+        {
+          "username": "not-an-aardvark",
+          "avatar": "https://avatars.githubusercontent.com/u/11638619?s=40&v=4"
+        },
+        {
+          "username": "mysticatea",
+          "avatar": "https://avatars.githubusercontent.com/u/1937871?s=40&v=4"
         }
       ],
       "aiSummaries": null

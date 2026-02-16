@@ -1,7 +1,7 @@
 {
-  "count": 13,
+  "count": 11,
   "since": "daily",
-  "captured_at": "2026-02-16 00:17:38",
+  "captured_at": "2026-02-16 12:18:10",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 6798,
-      "forks": 576,
-      "currentPeriodStars": 803,
+      "stars": 7079,
+      "forks": 607,
+      "currentPeriodStars": 701,
       "builtBy": [
         {
           "username": "ramnique",
@@ -50,60 +50,15 @@
     },
     {
       "rank": 2,
-      "author": "ChromeDevTools",
-      "repoName": "chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 25413,
-      "forks": 1500,
-      "currentPeriodStars": 357,
-      "builtBy": [
-        {
-          "username": "OrKoN",
-          "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "Lightning00Blade",
-          "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&v=4"
-        },
-        {
-          "username": "browser-automation-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&v=4"
-        },
-        {
-          "username": "szuend",
-          "avatar": "https://avatars.githubusercontent.com/u/325588?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "chrome-devtools-mcp 利用 TypeScript 将 Chrome DevTools 能力以 MCP 接口暴露给编码智能体，使其可自动化调试、性能分析与页面检查。项目解决了代理难以直接操控浏览器调试工具的痛点，提升自动化诊断与前端问题定位效率。",
-          "en": "chrome-devtools-mcp exposes Chrome DevTools via the MCP protocol for coding agents, enabling automated debugging, profiling, and page inspection. It solves the difficulty of programmatically using DevTools, improving automated diagnosis and front-end issue resolution."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "author": "openclaw",
       "repoName": "openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 197144,
-      "forks": 34299,
-      "currentPeriodStars": 2380,
+      "stars": 199399,
+      "forks": 35235,
+      "currentPeriodStars": 3873,
       "builtBy": [
         {
           "username": "steipete",
@@ -140,15 +95,15 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "author": "letta-ai",
       "repoName": "letta-code",
       "url": "https://github.com/letta-ai/letta-code",
       "description": "The memory-first coding agent",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1316,
-      "forks": 146,
+      "stars": 1329,
+      "forks": 149,
       "currentPeriodStars": 192,
       "builtBy": [
         {
@@ -185,295 +140,152 @@
       ]
     },
     {
-      "rank": 5,
-      "author": "breaking-brake",
-      "repoName": "cc-wf-studio",
-      "url": "https://github.com/breaking-brake/cc-wf-studio",
-      "description": "CC Workflow Studio",
+      "rank": 4,
+      "author": "maxritter",
+      "repoName": "claude-pilot",
+      "url": "https://github.com/maxritter/claude-pilot",
+      "description": "Claude Code is powerful. Pilot makes it reliable. Start a task, grab a coffee, come back to production-grade code. Tests enforced. Context preserved. Quality automated.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 3855,
-      "forks": 443,
-      "currentPeriodStars": 71,
+      "stars": 1082,
+      "forks": 85,
+      "currentPeriodStars": 131,
       "builtBy": [
         {
-          "username": "breaking-brake",
-          "avatar": "https://avatars.githubusercontent.com/u/76818625?s=40&v=4"
+          "username": "maxritter",
+          "avatar": "https://avatars.githubusercontent.com/u/12452009?s=40&v=4"
+        },
+        {
+          "username": "semantic-release-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         },
         {
           "username": "claude",
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+          "username": "mavogel",
+          "avatar": "https://avatars.githubusercontent.com/u/8409778?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "claude-pilot 利用 TypeScript 构建自动化编码工作流，将 Claude Code 的能力包装为可重复的工程化流程。它通过任务编排、上下文持续管理与强制测试执行，减少人工干预，让开发者能稳定产出接近生产级质量的代码。",
+          "en": "claude-pilot turns Claude Code into a reliable, automated coding workflow with task orchestration, persistent context, and enforced tests, reducing manual oversight while consistently generating production-grade code."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "Claude Pilot 是一个基于 Claude Code 的自动化开发工具，旨在将 AI 代码生成提升至生产级别。它通过强制测试、保持上下文和自动化质量检查，让开发者能可靠地启动任务并获取高质量代码，显著提升开发效率与代码可靠性。",
+          "en": "Claude Pilot automates AI-driven coding to production-grade standards. It enforces tests, preserves context, and automates quality checks, enabling developers to reliably generate high-quality code with minimal supervision."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "author": "seerr-team",
+      "repoName": "seerr",
+      "url": "https://github.com/seerr-team/seerr",
+      "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 8895,
+      "forks": 592,
+      "currentPeriodStars": 185,
+      "builtBy": [
+        {
+          "username": "fallenbagel",
+          "avatar": "https://avatars.githubusercontent.com/u/98979876?s=40&v=4"
+        },
+        {
+          "username": "sct",
+          "avatar": "https://avatars.githubusercontent.com/u/234213?s=40&v=4"
+        },
+        {
+          "username": "TheCatLady",
+          "avatar": "https://avatars.githubusercontent.com/u/52870424?s=40&v=4"
+        },
+        {
+          "username": "apps/allcontributors",
+          "avatar": "https://avatars.githubusercontent.com/in/23186?s=40&v=4"
+        },
+        {
+          "username": "gauthier-th",
+          "avatar": "https://avatars.githubusercontent.com/u/37781713?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "Seerr 是一款面向 Jellyfin、Plex 与 Emby 的开源媒体请求与发现管理工具，集中处理用户片源请求、审核与自动化添加，简化管理员工作流程并提升媒体库可发现性与使用效率。",
+          "en": "Seerr is an open-source media request and discovery manager for Jellyfin, Plex, and Emby, centralizing user requests, approvals, and automated library additions to streamline administration and improve media discoverability."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "Seerr 是一个开源的媒体请求与管理工具，专为 Jellyfin、Plex 和 Emby 设计。它解决了用户难以统一请求和发现媒体内容的痛点，通过集中管理请求流程，简化了媒体库的维护与更新。",
+          "en": "Seerr is an open-source media request and discovery manager for Jellyfin, Plex, and Emby. It addresses the pain point of fragmented media requests by centralizing the process, streamlining library maintenance and updates."
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "author": "ChromeDevTools",
+      "repoName": "chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 25568,
+      "forks": 1508,
+      "currentPeriodStars": 345,
+      "builtBy": [
+        {
+          "username": "OrKoN",
+          "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4"
         },
         {
           "username": "apps/dependabot",
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "apps/copilot-swe-agent",
-          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
+          "username": "Lightning00Blade",
+          "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&v=4"
+        },
+        {
+          "username": "browser-automation-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&v=4"
+        },
+        {
+          "username": "szuend",
+          "avatar": "https://avatars.githubusercontent.com/u/325588?s=40&v=4"
         }
       ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 6,
-      "author": "amicalhq",
-      "repoName": "amical",
-      "url": "https://github.com/amicalhq/amical",
-      "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 773,
-      "forks": 74,
-      "currentPeriodStars": 8,
-      "builtBy": [
+      "aiSummaries": [
         {
-          "username": "haritabh-z01",
-          "avatar": "https://avatars.githubusercontent.com/u/41149926?s=40&v=4"
+          "provider": "chatgpt",
+          "zh": "chrome-devtools-mcp 利用 TypeScript 将 Chrome DevTools 能力以 MCP 接口暴露给编码智能体，使其可自动化调试、性能分析与页面检查。项目解决了代理难以直接操控浏览器调试工具的痛点，提升自动化诊断与前端问题定位效率。",
+          "en": "chrome-devtools-mcp exposes Chrome DevTools via the MCP protocol for coding agents, enabling automated debugging, profiling, and page inspection. It solves the difficulty of programmatically using DevTools, improving automated diagnosis and front-end issue resolution."
         },
         {
-          "username": "nchopra",
-          "avatar": "https://avatars.githubusercontent.com/u/1182597?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "turbobot-temp",
-          "avatar": "https://avatars.githubusercontent.com/u/145653950?s=40&v=4"
-        },
-        {
-          "username": "Mgtantheta",
-          "avatar": "https://avatars.githubusercontent.com/u/114408959?s=40&v=4"
+          "provider": "deepseek",
+          "zh": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。"
         }
-      ],
-      "aiSummaries": null
+      ]
     },
     {
       "rank": 7,
-      "author": "microsoft",
-      "repoName": "playwright-cli",
-      "url": "https://github.com/microsoft/playwright-cli",
-      "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 3583,
-      "forks": 135,
-      "currentPeriodStars": 145,
-      "builtBy": [
-        {
-          "username": "pavelfeldman",
-          "avatar": "https://avatars.githubusercontent.com/u/883973?s=40&v=4"
-        },
-        {
-          "username": "Skn0tt",
-          "avatar": "https://avatars.githubusercontent.com/u/14912729?s=40&v=4"
-        },
-        {
-          "username": "yury-s",
-          "avatar": "https://avatars.githubusercontent.com/u/9798949?s=40&v=4"
-        },
-        {
-          "username": "manuelgruber",
-          "avatar": "https://avatars.githubusercontent.com/u/156138?s=40&v=4"
-        },
-        {
-          "username": "vsantele",
-          "avatar": "https://avatars.githubusercontent.com/u/26800140?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 8,
-      "author": "elastic",
-      "repoName": "kibana",
-      "url": "https://github.com/elastic/kibana",
-      "description": "Your window into all of your data",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 20942,
-      "forks": 8522,
-      "currentPeriodStars": 4,
-      "builtBy": [
-        {
-          "username": "kibanamachine",
-          "avatar": "https://avatars.githubusercontent.com/u/42973632?s=40&v=4"
-        },
-        {
-          "username": "elasticmachine",
-          "avatar": "https://avatars.githubusercontent.com/u/15837671?s=40&v=4"
-        },
-        {
-          "username": "mistic",
-          "avatar": "https://avatars.githubusercontent.com/u/4440734?s=40&v=4"
-        },
-        {
-          "username": "w33ble",
-          "avatar": "https://avatars.githubusercontent.com/u/404731?s=40&v=4"
-        },
-        {
-          "username": "spalger",
-          "avatar": "https://avatars.githubusercontent.com/u/1329312?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 9,
-      "author": "afkarxyz",
-      "repoName": "SpotiFLAC",
-      "url": "https://github.com/afkarxyz/SpotiFLAC",
-      "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 4501,
-      "forks": 268,
-      "currentPeriodStars": 37,
-      "builtBy": [
-        {
-          "username": "afkarxyz",
-          "avatar": "https://avatars.githubusercontent.com/u/173781715?s=40&v=4"
-        },
-        {
-          "username": "exyezed",
-          "avatar": "https://avatars.githubusercontent.com/u/185352121?s=40&v=4"
-        },
-        {
-          "username": "value1338",
-          "avatar": "https://avatars.githubusercontent.com/u/212730926?s=40&v=4"
-        },
-        {
-          "username": "zarzet",
-          "avatar": "https://avatars.githubusercontent.com/u/42882290?s=40&v=4"
-        },
-        {
-          "username": "Lukas200301",
-          "avatar": "https://avatars.githubusercontent.com/u/69511007?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 10,
-      "author": "gitroomhq",
-      "repoName": "postiz-app",
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "description": "📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 26593,
-      "forks": 4579,
-      "currentPeriodStars": 18,
-      "builtBy": [
-        {
-          "username": "nevo-david",
-          "avatar": "https://avatars.githubusercontent.com/u/100117126?s=40&v=4"
-        },
-        {
-          "username": "egelhaus",
-          "avatar": "https://avatars.githubusercontent.com/u/156946629?s=40&v=4"
-        },
-        {
-          "username": "jamesread",
-          "avatar": "https://avatars.githubusercontent.com/u/2025715?s=40&v=4"
-        },
-        {
-          "username": "jonathan-irvin",
-          "avatar": "https://avatars.githubusercontent.com/u/2481437?s=40&v=4"
-        },
-        {
-          "username": "weblate",
-          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 11,
-      "author": "YishenTu",
-      "repoName": "claudian",
-      "url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 2390,
-      "forks": 157,
-      "currentPeriodStars": 38,
-      "builtBy": [
-        {
-          "username": "YishenTu",
-          "avatar": "https://avatars.githubusercontent.com/u/134207149?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "summerKK",
-          "avatar": "https://avatars.githubusercontent.com/u/19187969?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "AlexSuprun",
-          "avatar": "https://avatars.githubusercontent.com/u/3644296?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 12,
-      "author": "linshenkx",
-      "repoName": "prompt-optimizer",
-      "url": "https://github.com/linshenkx/prompt-optimizer",
-      "description": "一款提示词优化器，助力于编写高质量的提示词",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 21252,
-      "forks": 2574,
-      "currentPeriodStars": 126,
-      "builtBy": [
-        {
-          "username": "linshenkx",
-          "avatar": "https://avatars.githubusercontent.com/u/32978552?s=40&v=4"
-        },
-        {
-          "username": "hexart",
-          "avatar": "https://avatars.githubusercontent.com/u/5528016?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "lanyuanxiaoyao",
-          "avatar": "https://avatars.githubusercontent.com/u/15119304?s=40&v=4"
-        },
-        {
-          "username": "prazjain",
-          "avatar": "https://avatars.githubusercontent.com/u/1950036?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 13,
       "author": "tambo-ai",
       "repoName": "tambo",
       "url": "https://github.com/tambo-ai/tambo",
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 10152,
-      "forks": 493,
+      "stars": 10225,
+      "forks": 499,
       "currentPeriodStars": 551,
       "builtBy": [
         {
@@ -508,6 +320,146 @@
           "zh": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，解决了手动处理流式输出与状态同步的复杂度，提升了开发效率。"
         }
       ]
+    },
+    {
+      "rank": 8,
+      "author": "bytedance",
+      "repoName": "deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 19906,
+      "forks": 2494,
+      "currentPeriodStars": 25,
+      "builtBy": [
+        {
+          "username": "MagicCube",
+          "avatar": "https://avatars.githubusercontent.com/u/1003147?s=40&v=4"
+        },
+        {
+          "username": "henry-byted",
+          "avatar": "https://avatars.githubusercontent.com/u/209858577?s=40&v=4"
+        },
+        {
+          "username": "hetaoBackend",
+          "avatar": "https://avatars.githubusercontent.com/u/45447813?s=40&v=4"
+        },
+        {
+          "username": "WillemJiang",
+          "avatar": "https://avatars.githubusercontent.com/u/219644?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 9,
+      "author": "gitroomhq",
+      "repoName": "postiz-app",
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "description": "📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 26605,
+      "forks": 4586,
+      "currentPeriodStars": 18,
+      "builtBy": [
+        {
+          "username": "nevo-david",
+          "avatar": "https://avatars.githubusercontent.com/u/100117126?s=40&v=4"
+        },
+        {
+          "username": "egelhaus",
+          "avatar": "https://avatars.githubusercontent.com/u/156946629?s=40&v=4"
+        },
+        {
+          "username": "jamesread",
+          "avatar": "https://avatars.githubusercontent.com/u/2025715?s=40&v=4"
+        },
+        {
+          "username": "jonathan-irvin",
+          "avatar": "https://avatars.githubusercontent.com/u/2481437?s=40&v=4"
+        },
+        {
+          "username": "weblate",
+          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 10,
+      "author": "ComposioHQ",
+      "repoName": "composio",
+      "url": "https://github.com/ComposioHQ/composio",
+      "description": "Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 26573,
+      "forks": 4407,
+      "currentPeriodStars": 19,
+      "builtBy": [
+        {
+          "username": "Sushmithamallesh",
+          "avatar": "https://avatars.githubusercontent.com/u/19796925?s=40&v=4"
+        },
+        {
+          "username": "haxzie",
+          "avatar": "https://avatars.githubusercontent.com/u/53584487?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "jkomyno",
+          "avatar": "https://avatars.githubusercontent.com/u/12381818?s=40&v=4"
+        },
+        {
+          "username": "alt-glitch",
+          "avatar": "https://avatars.githubusercontent.com/u/52913345?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 11,
+      "author": "afkarxyz",
+      "repoName": "SpotiFLAC",
+      "url": "https://github.com/afkarxyz/SpotiFLAC",
+      "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 4512,
+      "forks": 270,
+      "currentPeriodStars": 37,
+      "builtBy": [
+        {
+          "username": "afkarxyz",
+          "avatar": "https://avatars.githubusercontent.com/u/173781715?s=40&v=4"
+        },
+        {
+          "username": "exyezed",
+          "avatar": "https://avatars.githubusercontent.com/u/185352121?s=40&v=4"
+        },
+        {
+          "username": "value1338",
+          "avatar": "https://avatars.githubusercontent.com/u/212730926?s=40&v=4"
+        },
+        {
+          "username": "zarzet",
+          "avatar": "https://avatars.githubusercontent.com/u/42882290?s=40&v=4"
+        },
+        {
+          "username": "Lukas200301",
+          "avatar": "https://avatars.githubusercontent.com/u/69511007?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
     }
   ]
 }

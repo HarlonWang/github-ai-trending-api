@@ -1,19 +1,64 @@
 {
   "count": 11,
   "since": "daily",
-  "captured_at": "2026-02-16 00:17:14",
+  "captured_at": "2026-02-16 12:17:21",
   "data": [
     {
       "rank": 1,
+      "author": "alibaba",
+      "repoName": "zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 2781,
+      "forks": 139,
+      "currentPeriodStars": 1094,
+      "builtBy": [
+        {
+          "username": "iaojnh",
+          "avatar": "https://avatars.githubusercontent.com/u/38692278?s=40&v=4"
+        },
+        {
+          "username": "feihongxu0824",
+          "avatar": "https://avatars.githubusercontent.com/u/237691413?s=40&v=4"
+        },
+        {
+          "username": "egolearner",
+          "avatar": "https://avatars.githubusercontent.com/u/45122959?s=40&v=4"
+        },
+        {
+          "username": "Cuiyus",
+          "avatar": "https://avatars.githubusercontent.com/u/42903451?s=40&v=4"
+        },
+        {
+          "username": "zhourrr",
+          "avatar": "https://avatars.githubusercontent.com/u/78126249?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "zvec 是阿里巴巴开源的轻量级 C++ 向量数据库，专注进程内高性能向量检索与相似度搜索。它以极低延迟和小内存占用解决在线推理、个性化推荐等场景下的嵌入向量高效查询与管理问题。",
+          "en": "zvec is a lightweight C++ in-process vector database delivering ultra-fast similarity search with low memory overhead, targeting efficient embedding retrieval for online inference and recommendation workloads."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "zvec 是阿里巴巴开源的轻量级、极速进程内向量数据库。它专为需要高性能向量相似性搜索的场景设计，通过消除网络开销和复杂部署，实现了低延迟、高吞吐量的近似最近邻检索。"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "author": "nautechsystems",
       "repoName": "nautilus_trader",
       "url": "https://github.com/nautechsystems/nautilus_trader",
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19293,
-      "forks": 2294,
-      "currentPeriodStars": 68,
+      "stars": 19573,
+      "forks": 2311,
+      "currentPeriodStars": 545,
       "builtBy": [
         {
           "username": "cjdsellers",
@@ -50,52 +95,6 @@
       ]
     },
     {
-      "rank": 2,
-      "author": "steipete",
-      "repoName": "gogcli",
-      "url": "https://github.com/steipete/gogcli",
-      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2960,
-      "forks": 257,
-      "currentPeriodStars": 630,
-      "builtBy": [
-        {
-          "username": "steipete",
-          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
-        },
-        {
-          "username": "salmonumbrella",
-          "avatar": "https://avatars.githubusercontent.com/u/182032677?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "jeanregisser",
-          "avatar": "https://avatars.githubusercontent.com/u/57791?s=40&v=4"
-        },
-        {
-          "username": "antons",
-          "avatar": "https://avatars.githubusercontent.com/u/129705?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "gogcli 是一个基于 Go 的 Google 套件命令行工具，统一管理 Gmail、日历、云端硬盘与联系人。它通过脚本化与自动化操作，减少频繁切换网页界面的低效流程，适合集成到运维脚本和工作流中。",
-          "en": "gogcli is a Go-based CLI for Google Suite, unifying Gmail, Calendar, Drive, and Contacts management. It streamlines scripted and automated workflows, removing reliance on web UI for routine operations."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "gogcli 是一个用 Go 编写的 Google 套件命令行工具，集成了 Gmail、日历、网盘和联系人管理。它解决了用户需要通过单一命令行界面高效访问和管理多个 Google 服务的痛点，提升了自动化与脚本操作的效率。",
-          "en": "gogcli is a Go-based CLI tool for Google Suite, integrating Gmail, Calendar, Drive, and Contacts. It addresses the need for efficient access and management of multiple Google services through a unified command-line interface, enhancing automation and scripting capabilities."
-        }
-      ]
-    },
-    {
       "rank": 3,
       "author": "rowboatlabs",
       "repoName": "rowboat",
@@ -103,9 +102,9 @@
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 6797,
-      "forks": 576,
-      "currentPeriodStars": 803,
+      "stars": 7079,
+      "forks": 607,
+      "currentPeriodStars": 701,
       "builtBy": [
         {
           "username": "ramnique",
@@ -142,150 +141,61 @@
     },
     {
       "rank": 4,
-      "author": "github",
-      "repoName": "gh-aw",
-      "url": "https://github.com/github/gh-aw",
-      "description": "GitHub Agentic Workflows",
+      "author": "steipete",
+      "repoName": "gogcli",
+      "url": "https://github.com/steipete/gogcli",
+      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2697,
-      "forks": 199,
-      "currentPeriodStars": 213,
+      "stars": 3244,
+      "forks": 280,
+      "currentPeriodStars": 636,
       "builtBy": [
         {
-          "username": "apps/copilot-swe-agent",
-          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
+          "username": "steipete",
+          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
         },
         {
-          "username": "pelikhan",
-          "avatar": "https://avatars.githubusercontent.com/u/4175913?s=40&v=4"
+          "username": "salmonumbrella",
+          "avatar": "https://avatars.githubusercontent.com/u/182032677?s=40&v=4"
         },
         {
-          "username": "dsyme",
-          "avatar": "https://avatars.githubusercontent.com/u/7204669?s=40&v=4"
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+          "username": "jeanregisser",
+          "avatar": "https://avatars.githubusercontent.com/u/57791?s=40&v=4"
         },
         {
-          "username": "mnkiefer",
-          "avatar": "https://avatars.githubusercontent.com/u/8320933?s=40&v=4"
+          "username": "antons",
+          "avatar": "https://avatars.githubusercontent.com/u/129705?s=40&v=4"
         }
       ],
       "aiSummaries": [
         {
           "provider": "chatgpt",
-          "zh": "github/gh-aw 是基于 Go 的 GitHub Agentic Workflows 项目，用于将智能代理与 GitHub 工作流深度集成，自动化处理代码变更、评审与协作任务，降低人工干预成本并提升开发效率与一致性。",
-          "en": "github/gh-aw is a Go-based GitHub Agentic Workflows project that integrates intelligent agents into GitHub workflows to automate code changes, reviews, and collaboration, reducing manual effort and improving development efficiency."
+          "zh": "gogcli 是一个基于 Go 的 Google 套件命令行工具，统一管理 Gmail、日历、云端硬盘与联系人。它通过脚本化与自动化操作，减少频繁切换网页界面的低效流程，适合集成到运维脚本和工作流中。",
+          "en": "gogcli is a Go-based CLI for Google Suite, unifying Gmail, Calendar, Drive, and Contacts management. It streamlines scripted and automated workflows, removing reliance on web UI for routine operations."
         },
         {
           "provider": "deepseek",
-          "zh": "gh-aw 是 GitHub 推出的基于 Go 语言开发的智能体工作流框架。它旨在通过可编程的自动化代理来编排复杂的开发任务，解决传统 CI/CD 流程在灵活性与智能决策方面的不足，提升软件交付的自动化与智能化水平。"
+          "zh": "gogcli 是一个用 Go 编写的 Google 套件命令行工具，集成了 Gmail、日历、网盘和联系人管理。它解决了用户需要通过单一命令行界面高效访问和管理多个 Google 服务的痛点，提升了自动化与脚本操作的效率。",
+          "en": "gogcli is a Go-based CLI tool for Google Suite, integrating Gmail, Calendar, Drive, and Contacts. It addresses the need for efficient access and management of multiple Google services through a unified command-line interface, enhancing automation and scripting capabilities."
         }
       ]
     },
     {
       "rank": 5,
-      "author": "ChromeDevTools",
-      "repoName": "chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 25413,
-      "forks": 1500,
-      "currentPeriodStars": 357,
-      "builtBy": [
-        {
-          "username": "OrKoN",
-          "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "Lightning00Blade",
-          "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&v=4"
-        },
-        {
-          "username": "browser-automation-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&v=4"
-        },
-        {
-          "username": "szuend",
-          "avatar": "https://avatars.githubusercontent.com/u/325588?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "chrome-devtools-mcp 利用 TypeScript 将 Chrome DevTools 能力以 MCP 接口暴露给编码智能体，使其可自动化调试、性能分析与页面检查。项目解决了代理难以直接操控浏览器调试工具的痛点，提升自动化诊断与前端问题定位效率。",
-          "en": "chrome-devtools-mcp exposes Chrome DevTools via the MCP protocol for coding agents, enabling automated debugging, profiling, and page inspection. It solves the difficulty of programmatically using DevTools, improving automated diagnosis and front-end issue resolution."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "author": "alibaba",
-      "repoName": "zvec",
-      "url": "https://github.com/alibaba/zvec",
-      "description": "A lightweight, lightning-fast, in-process vector database",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 2295,
-      "forks": 116,
-      "currentPeriodStars": 673,
-      "builtBy": [
-        {
-          "username": "iaojnh",
-          "avatar": "https://avatars.githubusercontent.com/u/38692278?s=40&v=4"
-        },
-        {
-          "username": "feihongxu0824",
-          "avatar": "https://avatars.githubusercontent.com/u/237691413?s=40&v=4"
-        },
-        {
-          "username": "egolearner",
-          "avatar": "https://avatars.githubusercontent.com/u/45122959?s=40&v=4"
-        },
-        {
-          "username": "Cuiyus",
-          "avatar": "https://avatars.githubusercontent.com/u/42903451?s=40&v=4"
-        },
-        {
-          "username": "zhourrr",
-          "avatar": "https://avatars.githubusercontent.com/u/78126249?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "zvec 是阿里巴巴开源的轻量级 C++ 向量数据库，专注进程内高性能向量检索与相似度搜索。它以极低延迟和小内存占用解决在线推理、个性化推荐等场景下的嵌入向量高效查询与管理问题。",
-          "en": "zvec is a lightweight C++ in-process vector database delivering ultra-fast similarity search with low memory overhead, targeting efficient embedding retrieval for online inference and recommendation workloads."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "zvec 是阿里巴巴开源的轻量级、极速进程内向量数据库。它专为需要高性能向量相似性搜索的场景设计，通过消除网络开销和复杂部署，实现了低延迟、高吞吐量的近似最近邻检索。"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "author": "openclaw",
       "repoName": "openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 197142,
-      "forks": 34299,
-      "currentPeriodStars": 2380,
+      "stars": 199396,
+      "forks": 35235,
+      "currentPeriodStars": 3873,
       "builtBy": [
         {
           "username": "steipete",
@@ -322,108 +232,16 @@
       ]
     },
     {
-      "rank": 8,
-      "author": "moonshine-ai",
-      "repoName": "moonshine",
-      "url": "https://github.com/moonshine-ai/moonshine",
-      "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 3805,
-      "forks": 179,
-      "currentPeriodStars": 157,
-      "builtBy": [
-        {
-          "username": "evmaki",
-          "avatar": "https://avatars.githubusercontent.com/u/15764776?s=40&v=4"
-        },
-        {
-          "username": "keveman",
-          "avatar": "https://avatars.githubusercontent.com/u/229914?s=40&v=4"
-        },
-        {
-          "username": "petewarden",
-          "avatar": "https://avatars.githubusercontent.com/u/161459?s=40&v=4"
-        },
-        {
-          "username": "andimarafioti",
-          "avatar": "https://avatars.githubusercontent.com/u/9143109?s=40&v=4"
-        },
-        {
-          "username": "guynich",
-          "avatar": "https://avatars.githubusercontent.com/u/35084975?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "moonshine 是一款以 C 语言实现的轻量级端侧语音识别引擎，专注在资源受限设备上提供高速且高精度的 ASR 能力，降低对云端依赖，适用于实时语音交互与离线语音应用场景。",
-          "en": "moonshine is a C-based lightweight ASR engine delivering fast, accurate speech recognition on resource-constrained edge devices, reducing cloud dependency and enabling real-time and offline voice applications."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "Moonshine 是一个专为边缘设备设计的自动语音识别（ASR）项目，采用 C 语言开发。它解决了在资源受限的嵌入式环境中实现快速、高精度语音识别的核心痛点，旨在提供高效且低延迟的本地语音处理能力。",
-          "en": "Moonshine is an automatic speech recognition (ASR) project written in C, specifically designed for edge devices. It addresses the need for fast and accurate on-device speech recognition with low latency in resource-constrained environments."
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "author": "brave",
-      "repoName": "brave-browser",
-      "url": "https://github.com/brave/brave-browser",
-      "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
-      "language": "Unknown",
-      "languageColor": null,
-      "stars": 21539,
-      "forks": 2973,
-      "currentPeriodStars": 27,
-      "builtBy": [
-        {
-          "username": "brave-browser-releases",
-          "avatar": "https://avatars.githubusercontent.com/u/39539223?s=40&v=4"
-        },
-        {
-          "username": "brave-builds",
-          "avatar": "https://avatars.githubusercontent.com/u/45370463?s=40&v=4"
-        },
-        {
-          "username": "kjozwiak",
-          "avatar": "https://avatars.githubusercontent.com/u/2602313?s=40&v=4"
-        },
-        {
-          "username": "LaurenWags",
-          "avatar": "https://avatars.githubusercontent.com/u/28145373?s=40&v=4"
-        },
-        {
-          "username": "mihaiplesa",
-          "avatar": "https://avatars.githubusercontent.com/u/907672?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "Brave Browser 是一款跨平台浏览器，专注隐私保护与性能优化。通过内置广告与跟踪器拦截、HTTPS 升级及奖励机制，减少资源消耗与隐私泄露风险，为用户提供更安全高效的上网体验。",
-          "en": "Brave Browser is a cross-platform browser focused on privacy and performance. It blocks ads and trackers by default, upgrades connections to HTTPS, and offers a rewards system, delivering a faster and more secure browsing experience."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "Brave 是一款注重隐私和安全的开源浏览器，适用于 Android、iOS、Linux、macOS 和 Windows。其核心功能是默认拦截广告与网站跟踪器，提升浏览速度并保护用户隐私，同时通过其奖励系统为用户提供了一种创新的内容变现方式。",
-          "en": "Brave is a privacy-focused, open-source browser for Android, iOS, Linux, macOS, and Windows. It blocks ads and trackers by default to enhance speed and security, and introduces an innovative rewards system for user-centric monetization."
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 6,
       "author": "SynkraAI",
       "repoName": "aios-core",
       "url": "https://github.com/SynkraAI/aios-core",
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 789,
-      "forks": 285,
-      "currentPeriodStars": 163,
+      "stars": 873,
+      "forks": 303,
+      "currentPeriodStars": 205,
       "builtBy": [
         {
           "username": "claude",
@@ -459,16 +277,61 @@
       ]
     },
     {
-      "rank": 11,
+      "rank": 7,
+      "author": "letta-ai",
+      "repoName": "letta-code",
+      "url": "https://github.com/letta-ai/letta-code",
+      "description": "The memory-first coding agent",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 1329,
+      "forks": 149,
+      "currentPeriodStars": 192,
+      "builtBy": [
+        {
+          "username": "cpacker",
+          "avatar": "https://avatars.githubusercontent.com/u/5475622?s=40&v=4"
+        },
+        {
+          "username": "letta-code",
+          "avatar": "https://avatars.githubusercontent.com/u/248085862?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        },
+        {
+          "username": "jnjpng",
+          "avatar": "https://avatars.githubusercontent.com/u/13899997?s=40&v=4"
+        },
+        {
+          "username": "kl2806",
+          "avatar": "https://avatars.githubusercontent.com/u/9100255?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "letta-code 是一个以记忆为核心的 TypeScript 智能编码代理，通过持续积累与检索上下文记忆，理解大型代码库的演化与依赖关系，从而在复杂开发场景中提供更精准的代码生成、重构与协作支持，降低认知负担并提升开发效率。",
+          "en": "letta-code is a memory-first TypeScript coding agent that persistently builds and retrieves rich project context, enabling more accurate code generation, refactoring, and navigation in large, evolving codebases, thereby reducing cognitive load and improving developer productivity."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "Letta-Code 是一个基于记忆优先理念的 TypeScript 编码智能体。它通过持久化记忆上下文，有效解决了传统AI编码助手在多轮复杂对话中遗忘历史、上下文丢失的核心痛点，从而能更连贯、精准地理解和执行长期开发任务。"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "author": "ruvnet",
       "repoName": "wifi-densepose",
       "url": "https://github.com/ruvnet/wifi-densepose",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6479,
-      "forks": 573,
-      "currentPeriodStars": 352,
+      "stars": 6644,
+      "forks": 579,
+      "currentPeriodStars": 344,
       "builtBy": [
         {
           "username": "ruvnet",
@@ -488,6 +351,144 @@
         {
           "provider": "deepseek",
           "zh": "Ruvnet/Wifi-DensePose 实现了 InvisPose 系统，利用普通家用网状路由器发出的 WiFi 信号，实现了穿墙的实时密集人体姿态估计。该系统解决了传统视觉方法在遮挡或无光环境下失效的痛点，无需穿戴设备即可进行全身动作追踪。"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "author": "maxritter",
+      "repoName": "claude-pilot",
+      "url": "https://github.com/maxritter/claude-pilot",
+      "description": "Claude Code is powerful. Pilot makes it reliable. Start a task, grab a coffee, come back to production-grade code. Tests enforced. Context preserved. Quality automated.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 1082,
+      "forks": 84,
+      "currentPeriodStars": 131,
+      "builtBy": [
+        {
+          "username": "maxritter",
+          "avatar": "https://avatars.githubusercontent.com/u/12452009?s=40&v=4"
+        },
+        {
+          "username": "semantic-release-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "mavogel",
+          "avatar": "https://avatars.githubusercontent.com/u/8409778?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "claude-pilot 利用 TypeScript 构建自动化编码工作流，将 Claude Code 的能力包装为可重复的工程化流程。它通过任务编排、上下文持续管理与强制测试执行，减少人工干预，让开发者能稳定产出接近生产级质量的代码。",
+          "en": "claude-pilot turns Claude Code into a reliable, automated coding workflow with task orchestration, persistent context, and enforced tests, reducing manual oversight while consistently generating production-grade code."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "Claude Pilot 是一个基于 Claude Code 的自动化开发工具，旨在将 AI 代码生成提升至生产级别。它通过强制测试、保持上下文和自动化质量检查，让开发者能可靠地启动任务并获取高质量代码，显著提升开发效率与代码可靠性。",
+          "en": "Claude Pilot automates AI-driven coding to production-grade standards. It enforces tests, preserves context, and automates quality checks, enabling developers to reliably generate high-quality code with minimal supervision."
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "author": "seerr-team",
+      "repoName": "seerr",
+      "url": "https://github.com/seerr-team/seerr",
+      "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 8895,
+      "forks": 592,
+      "currentPeriodStars": 185,
+      "builtBy": [
+        {
+          "username": "fallenbagel",
+          "avatar": "https://avatars.githubusercontent.com/u/98979876?s=40&v=4"
+        },
+        {
+          "username": "sct",
+          "avatar": "https://avatars.githubusercontent.com/u/234213?s=40&v=4"
+        },
+        {
+          "username": "TheCatLady",
+          "avatar": "https://avatars.githubusercontent.com/u/52870424?s=40&v=4"
+        },
+        {
+          "username": "apps/allcontributors",
+          "avatar": "https://avatars.githubusercontent.com/in/23186?s=40&v=4"
+        },
+        {
+          "username": "gauthier-th",
+          "avatar": "https://avatars.githubusercontent.com/u/37781713?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "Seerr 是一款面向 Jellyfin、Plex 与 Emby 的开源媒体请求与发现管理工具，集中处理用户片源请求、审核与自动化添加，简化管理员工作流程并提升媒体库可发现性与使用效率。",
+          "en": "Seerr is an open-source media request and discovery manager for Jellyfin, Plex, and Emby, centralizing user requests, approvals, and automated library additions to streamline administration and improve media discoverability."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "Seerr 是一个开源的媒体请求与管理工具，专为 Jellyfin、Plex 和 Emby 设计。它解决了用户难以统一请求和发现媒体内容的痛点，通过集中管理请求流程，简化了媒体库的维护与更新。",
+          "en": "Seerr is an open-source media request and discovery manager for Jellyfin, Plex, and Emby. It addresses the pain point of fragmented media requests by centralizing the process, streamlining library maintenance and updates."
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "author": "hummingbot",
+      "repoName": "hummingbot",
+      "url": "https://github.com/hummingbot/hummingbot",
+      "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 16225,
+      "forks": 4365,
+      "currentPeriodStars": 315,
+      "builtBy": [
+        {
+          "username": "cardosofede",
+          "avatar": "https://avatars.githubusercontent.com/u/36869960?s=40&v=4"
+        },
+        {
+          "username": "Nullably",
+          "avatar": "https://avatars.githubusercontent.com/u/37262506?s=40&v=4"
+        },
+        {
+          "username": "vic-en",
+          "avatar": "https://avatars.githubusercontent.com/u/31972210?s=40&v=4"
+        },
+        {
+          "username": "yzhang1994",
+          "avatar": "https://avatars.githubusercontent.com/u/25759483?s=40&v=4"
+        },
+        {
+          "username": "aarmoa",
+          "avatar": "https://avatars.githubusercontent.com/u/30988000?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "hummingbot 是一款开源高频加密货币量化交易框架，帮助开发者与交易者快速搭建、配置和部署自动化做市与套利机器人，统一对接多家交易所，并提供策略开发、回测与实时执行能力，降低量化交易的技术门槛与运维成本。",
+          "en": "Hummingbot is an open-source high-frequency crypto trading framework that lets users build, configure, and deploy market-making and arbitrage bots across multiple exchanges, simplifying strategy development, backtesting, and live execution while reducing technical and operational barriers."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "Hummingbot 是一个开源的 Python 项目，旨在帮助用户创建和部署高频加密货币交易机器人。它解决了手动交易效率低下和定制化交易策略开发复杂的问题，核心功能是提供一套自动化交易框架和多种市场连接器。",
+          "en": "Hummingbot is an open-source Python project designed to help users create and deploy high-frequency cryptocurrency trading bots. It addresses the inefficiency of manual trading and the complexity of developing custom strategies by providing an automated trading framework with multiple exchange connectors."
         }
       ]
     }

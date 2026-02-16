@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "weekly",
-  "captured_at": "2026-02-16 00:18:04",
+  "captured_at": "2026-02-16 12:18:35",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32527,
-      "forks": 2178,
+      "stars": 32625,
+      "forks": 2185,
       "currentPeriodStars": 7964,
       "builtBy": [
         {
@@ -51,8 +51,8 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2687,
-      "forks": 174,
+      "stars": 2770,
+      "forks": 178,
       "currentPeriodStars": 2265,
       "builtBy": [
         {
@@ -91,8 +91,8 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17324,
-      "forks": 3721,
+      "stars": 17349,
+      "forks": 3731,
       "currentPeriodStars": 1412,
       "builtBy": [
         {
@@ -120,14 +120,49 @@
     },
     {
       "rank": 4,
+      "author": "HKUDS",
+      "repoName": "RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 13429,
+      "forks": 1606,
+      "currentPeriodStars": 627,
+      "builtBy": [
+        {
+          "username": "LarFii",
+          "avatar": "https://avatars.githubusercontent.com/u/49157727?s=40&v=4"
+        },
+        {
+          "username": "chaohuang-ai",
+          "avatar": "https://avatars.githubusercontent.com/u/204865953?s=40&v=4"
+        },
+        {
+          "username": "LaansDole",
+          "avatar": "https://avatars.githubusercontent.com/u/85084360?s=40&v=4"
+        },
+        {
+          "username": "hzywhite",
+          "avatar": "https://avatars.githubusercontent.com/u/53216231?s=40&v=4"
+        },
+        {
+          "username": "apps/copilot-swe-agent",
+          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 5,
       "author": "Shubhamsaboo",
       "repoName": "awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 95296,
-      "forks": 13796,
+      "stars": 95425,
+      "forks": 13813,
       "currentPeriodStars": 2481,
       "builtBy": [
         {
@@ -159,225 +194,164 @@
       ]
     },
     {
-      "rank": 5,
-      "author": "public-apis",
-      "repoName": "public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 398555,
-      "forks": 42638,
-      "currentPeriodStars": 2237,
-      "builtBy": [
-        {
-          "username": "matheusfelipeog",
-          "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&v=4"
-        },
-        {
-          "username": "davemachado",
-          "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&v=4"
-        },
-        {
-          "username": "pawelborkar",
-          "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&v=4"
-        },
-        {
-          "username": "jbrooksuk",
-          "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&v=4"
-        },
-        {
-          "username": "marekdano",
-          "avatar": "https://avatars.githubusercontent.com/u/1914165?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
       "rank": 6,
-      "author": "openai",
-      "repoName": "skills",
-      "url": "https://github.com/openai/skills",
-      "description": "Skills Catalog for Codex",
+      "author": "ruvnet",
+      "repoName": "wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8599,
-      "forks": 479,
-      "currentPeriodStars": 1808,
+      "stars": 6644,
+      "forks": 579,
+      "currentPeriodStars": 820,
       "builtBy": [
         {
-          "username": "gverma-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
+          "username": "ruvnet",
+          "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4"
         },
         {
-          "username": "dkundel-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4"
-        },
-        {
-          "username": "vb-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&v=4"
-        },
-        {
-          "username": "ae-openai",
-          "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&v=4"
-        },
-        {
-          "username": "edward-bayes",
-          "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&v=4"
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
-      "aiSummaries": null
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "wifi-densepose 提供 InvisPose 的生产级实现，仅依赖普通 WiFi Mesh 路由器即可穿墙实时获取人体全身致密姿态。它解决了传统视觉方案对摄像头、光照和视线无遮挡的依赖，为隐私友好的人体追踪与交互应用奠定基础。",
+          "en": "wifi-densepose is a production-ready implementation of InvisPose, enabling real-time, through-wall dense human pose estimation using commodity WiFi mesh routers, removing reliance on cameras and lighting for full-body tracking."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "Ruvnet/Wifi-DensePose 实现了 InvisPose 系统，利用普通家用网状路由器发出的 WiFi 信号，实现了穿墙的实时密集人体姿态估计。该系统解决了传统视觉方法在遮挡或无光环境下失效的痛点，无需穿戴设备即可进行全身动作追踪。"
+        }
+      ]
     },
     {
       "rank": 7,
-      "author": "chenyme",
-      "repoName": "grok2api",
-      "url": "https://github.com/chenyme/grok2api",
-      "description": "基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。",
+      "author": "karpathy",
+      "repoName": "nanochat",
+      "url": "https://github.com/karpathy/nanochat",
+      "description": "The best ChatGPT that $100 can buy.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1442,
-      "forks": 472,
-      "currentPeriodStars": 223,
+      "stars": 43437,
+      "forks": 5657,
+      "currentPeriodStars": 788,
       "builtBy": [
         {
-          "username": "chenyme",
-          "avatar": "https://avatars.githubusercontent.com/u/118253778?s=40&v=4"
+          "username": "karpathy",
+          "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4"
         },
         {
-          "username": "piexian",
-          "avatar": "https://avatars.githubusercontent.com/u/64474352?s=40&v=4"
+          "username": "svlandeg",
+          "avatar": "https://avatars.githubusercontent.com/u/8796347?s=40&v=4"
         },
         {
-          "username": "BiFangKNT",
-          "avatar": "https://avatars.githubusercontent.com/u/93891533?s=40&v=4"
+          "username": "lukestanley",
+          "avatar": "https://avatars.githubusercontent.com/u/306671?s=40&v=4"
         },
         {
           "username": "claude",
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "shellus",
-          "avatar": "https://avatars.githubusercontent.com/u/3044880?s=40&v=4"
+          "username": "ericsilberstein",
+          "avatar": "https://avatars.githubusercontent.com/u/10590453?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 8,
-      "author": "OpenBMB",
-      "repoName": "MiniCPM-o",
-      "url": "https://github.com/OpenBMB/MiniCPM-o",
-      "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
+      "author": "openai",
+      "repoName": "whisper",
+      "url": "https://github.com/openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 23811,
-      "forks": 1832,
-      "currentPeriodStars": 503,
+      "stars": 94682,
+      "forks": 11761,
+      "currentPeriodStars": 364,
       "builtBy": [
         {
-          "username": "yiranyyu",
-          "avatar": "https://avatars.githubusercontent.com/u/28106858?s=40&v=4"
+          "username": "jongwook",
+          "avatar": "https://avatars.githubusercontent.com/u/266841?s=40&v=4"
         },
         {
-          "username": "iceflame89",
-          "avatar": "https://avatars.githubusercontent.com/u/5380770?s=40&v=4"
+          "username": "cclauss",
+          "avatar": "https://avatars.githubusercontent.com/u/3709715?s=40&v=4"
         },
         {
-          "username": "yaoyuanTHU",
-          "avatar": "https://avatars.githubusercontent.com/u/19372848?s=40&v=4"
+          "username": "ryanheise",
+          "avatar": "https://avatars.githubusercontent.com/u/19899190?s=40&v=4"
         },
         {
-          "username": "tc-mb",
-          "avatar": "https://avatars.githubusercontent.com/u/157115220?s=40&v=4"
+          "username": "petterreinholdtsen",
+          "avatar": "https://avatars.githubusercontent.com/u/731031?s=40&v=4"
         },
         {
-          "username": "YuzaChongyi",
-          "avatar": "https://avatars.githubusercontent.com/u/18023954?s=40&v=4"
+          "username": "HennerM",
+          "avatar": "https://avatars.githubusercontent.com/u/1714412?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 9,
-      "author": "HKUDS",
-      "repoName": "RAG-Anything",
-      "url": "https://github.com/HKUDS/RAG-Anything",
-      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "author": "hummingbot",
+      "repoName": "hummingbot",
+      "url": "https://github.com/hummingbot/hummingbot",
+      "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 13376,
-      "forks": 1602,
-      "currentPeriodStars": 627,
+      "stars": 16225,
+      "forks": 4365,
+      "currentPeriodStars": 374,
       "builtBy": [
         {
-          "username": "LarFii",
-          "avatar": "https://avatars.githubusercontent.com/u/49157727?s=40&v=4"
+          "username": "cardosofede",
+          "avatar": "https://avatars.githubusercontent.com/u/36869960?s=40&v=4"
         },
         {
-          "username": "chaohuang-ai",
-          "avatar": "https://avatars.githubusercontent.com/u/204865953?s=40&v=4"
+          "username": "Nullably",
+          "avatar": "https://avatars.githubusercontent.com/u/37262506?s=40&v=4"
         },
         {
-          "username": "LaansDole",
-          "avatar": "https://avatars.githubusercontent.com/u/85084360?s=40&v=4"
+          "username": "vic-en",
+          "avatar": "https://avatars.githubusercontent.com/u/31972210?s=40&v=4"
         },
         {
-          "username": "hzywhite",
-          "avatar": "https://avatars.githubusercontent.com/u/53216231?s=40&v=4"
+          "username": "yzhang1994",
+          "avatar": "https://avatars.githubusercontent.com/u/25759483?s=40&v=4"
         },
         {
-          "username": "apps/copilot-swe-agent",
-          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
+          "username": "aarmoa",
+          "avatar": "https://avatars.githubusercontent.com/u/30988000?s=40&v=4"
         }
       ],
-      "aiSummaries": null
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "hummingbot 是一款开源高频加密货币量化交易框架，帮助开发者与交易者快速搭建、配置和部署自动化做市与套利机器人，统一对接多家交易所，并提供策略开发、回测与实时执行能力，降低量化交易的技术门槛与运维成本。",
+          "en": "Hummingbot is an open-source high-frequency crypto trading framework that lets users build, configure, and deploy market-making and arbitrage bots across multiple exchanges, simplifying strategy development, backtesting, and live execution while reducing technical and operational barriers."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "Hummingbot 是一个开源的 Python 项目，旨在帮助用户创建和部署高频加密货币交易机器人。它解决了手动交易效率低下和定制化交易策略开发复杂的问题，核心功能是提供一套自动化交易框架和多种市场连接器。",
+          "en": "Hummingbot is an open-source Python project designed to help users create and deploy high-frequency cryptocurrency trading bots. It addresses the inefficiency of manual trading and the complexity of developing custom strategies by providing an automated trading framework with multiple exchange connectors."
+        }
+      ]
     },
     {
       "rank": 10,
-      "author": "unclecode",
-      "repoName": "crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 60161,
-      "forks": 6129,
-      "currentPeriodStars": 604,
-      "builtBy": [
-        {
-          "username": "unclecode",
-          "avatar": "https://avatars.githubusercontent.com/u/12494079?s=40&v=4"
-        },
-        {
-          "username": "ntohidi",
-          "avatar": "https://avatars.githubusercontent.com/u/17140097?s=40&v=4"
-        },
-        {
-          "username": "aravindkarnam",
-          "avatar": "https://avatars.githubusercontent.com/u/15815124?s=40&v=4"
-        },
-        {
-          "username": "Ahmed-Tawfik94",
-          "avatar": "https://avatars.githubusercontent.com/u/106467151?s=40&v=4"
-        },
-        {
-          "username": "SohamKukreti",
-          "avatar": "https://avatars.githubusercontent.com/u/114597712?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 11,
       "author": "cheahjs",
       "repoName": "free-llm-api-resources",
       "url": "https://github.com/cheahjs/free-llm-api-resources",
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11186,
-      "forks": 1095,
+      "stars": 11243,
+      "forks": 1101,
       "currentPeriodStars": 2925,
       "builtBy": [
         {
@@ -409,49 +383,49 @@
       ]
     },
     {
-      "rank": 12,
-      "author": "baserow",
-      "repoName": "baserow",
-      "url": "https://github.com/baserow/baserow",
-      "description": "Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.",
+      "rank": 11,
+      "author": "GreyDGL",
+      "repoName": "PentestGPT",
+      "url": "https://github.com/GreyDGL/PentestGPT",
+      "description": "Automated Penetration Testing Agentic Framework Powered by Large Language Models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4142,
-      "forks": 507,
-      "currentPeriodStars": 193,
+      "stars": 11638,
+      "forks": 1942,
+      "currentPeriodStars": 149,
       "builtBy": [
         {
-          "username": "bram2w",
-          "avatar": "https://avatars.githubusercontent.com/u/1261496?s=40&v=4"
+          "username": "GreyDGL",
+          "avatar": "https://avatars.githubusercontent.com/u/78410652?s=40&v=4"
         },
         {
-          "username": "jrmi",
-          "avatar": "https://avatars.githubusercontent.com/u/571533?s=40&v=4"
+          "username": "apps/deepsource-autofix",
+          "avatar": "https://avatars.githubusercontent.com/in/57168?s=40&v=4"
         },
         {
-          "username": "stribny",
-          "avatar": "https://avatars.githubusercontent.com/u/313952?s=40&v=4"
+          "username": "vmayoral",
+          "avatar": "https://avatars.githubusercontent.com/u/1375246?s=40&v=4"
         },
         {
-          "username": "cezary-baserow",
-          "avatar": "https://avatars.githubusercontent.com/u/238164479?s=40&v=4"
+          "username": "RiccardoRobb",
+          "avatar": "https://avatars.githubusercontent.com/u/48962040?s=40&v=4"
         },
         {
-          "username": "silvestrid",
-          "avatar": "https://avatars.githubusercontent.com/u/75379892?s=40&v=4"
+          "username": "keysaim",
+          "avatar": "https://avatars.githubusercontent.com/u/1351661?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
-      "rank": 13,
+      "rank": 12,
       "author": "DrewThomasson",
       "repoName": "ebook2audiobook",
       "url": "https://github.com/DrewThomasson/ebook2audiobook",
       "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 18172,
+      "stars": 18179,
       "forks": 1475,
       "currentPeriodStars": 622,
       "builtBy": [
@@ -479,6 +453,29 @@
       "aiSummaries": null
     },
     {
+      "rank": 13,
+      "author": "coleam00",
+      "repoName": "context-engineering-intro",
+      "url": "https://github.com/coleam00/context-engineering-intro",
+      "description": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 12481,
+      "forks": 2615,
+      "currentPeriodStars": 135,
+      "builtBy": [
+        {
+          "username": "coleam00",
+          "avatar": "https://avatars.githubusercontent.com/u/47287758?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
       "rank": 14,
       "author": "bregman-arie",
       "repoName": "devops-exercises",
@@ -486,8 +483,8 @@
       "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 81096,
-      "forks": 18594,
+      "stars": 81107,
+      "forks": 18597,
       "currentPeriodStars": 235,
       "builtBy": [
         {
@@ -515,23 +512,35 @@
     },
     {
       "rank": 15,
-      "author": "coleam00",
-      "repoName": "context-engineering-intro",
-      "url": "https://github.com/coleam00/context-engineering-intro",
-      "description": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!",
+      "author": "public-apis",
+      "repoName": "public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 12476,
-      "forks": 2616,
-      "currentPeriodStars": 135,
+      "stars": 398629,
+      "forks": 42651,
+      "currentPeriodStars": 2237,
       "builtBy": [
         {
-          "username": "coleam00",
-          "avatar": "https://avatars.githubusercontent.com/u/47287758?s=40&v=4"
+          "username": "matheusfelipeog",
+          "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&v=4"
         },
         {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+          "username": "davemachado",
+          "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&v=4"
+        },
+        {
+          "username": "pawelborkar",
+          "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&v=4"
+        },
+        {
+          "username": "jbrooksuk",
+          "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&v=4"
+        },
+        {
+          "username": "marekdano",
+          "avatar": "https://avatars.githubusercontent.com/u/1914165?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -544,8 +553,8 @@
       "description": "slime is an LLM post-training framework for RL Scaling.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4185,
-      "forks": 541,
+      "stars": 4196,
+      "forks": 542,
       "currentPeriodStars": 468,
       "builtBy": [
         {
@@ -578,35 +587,35 @@
     },
     {
       "rank": 17,
-      "author": "bytedance",
-      "repoName": "Protenix",
-      "url": "https://github.com/bytedance/Protenix",
-      "description": "Toward High-Accuracy Open-Source Biomolecular Structure Prediction.",
+      "author": "openai",
+      "repoName": "skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1633,
-      "forks": 215,
-      "currentPeriodStars": 73,
+      "stars": 8660,
+      "forks": 481,
+      "currentPeriodStars": 1808,
       "builtBy": [
         {
-          "username": "zhangyuxuann",
-          "avatar": "https://avatars.githubusercontent.com/u/32118018?s=40&v=4"
+          "username": "gverma-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/235382312?s=40&v=4"
         },
         {
-          "username": "heidongxianhua",
-          "avatar": "https://avatars.githubusercontent.com/u/22924371?s=40&v=4"
+          "username": "dkundel-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4"
         },
         {
-          "username": "cloverzizi",
-          "avatar": "https://avatars.githubusercontent.com/u/150103645?s=40&v=4"
+          "username": "vb-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/250380837?s=40&v=4"
         },
         {
-          "username": "OccupyMars2025",
-          "avatar": "https://avatars.githubusercontent.com/u/31559413?s=40&v=4"
+          "username": "ae-openai",
+          "avatar": "https://avatars.githubusercontent.com/u/173195103?s=40&v=4"
         },
         {
-          "username": "xinshi-chen",
-          "avatar": "https://avatars.githubusercontent.com/u/46148346?s=40&v=4"
+          "username": "edward-bayes",
+          "avatar": "https://avatars.githubusercontent.com/u/191618473?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -619,8 +628,8 @@
       "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 53260,
-      "forks": 9011,
+      "stars": 53291,
+      "forks": 9020,
       "currentPeriodStars": 538,
       "builtBy": [
         {
@@ -654,8 +663,8 @@
       "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 52244,
-      "forks": 4318,
+      "stars": 52265,
+      "forks": 4319,
       "currentPeriodStars": 538,
       "builtBy": [
         {

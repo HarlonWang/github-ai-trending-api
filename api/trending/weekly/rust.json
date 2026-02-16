@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "weekly",
-  "captured_at": "2026-02-16 00:18:22",
+  "captured_at": "2026-02-16 12:18:55",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "A minimal, secure Python interpreter written in Rust for use by AI",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5322,
-      "forks": 193,
+      "stars": 5356,
+      "forks": 196,
       "currentPeriodStars": 3113,
       "builtBy": [
         {
@@ -46,8 +46,8 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19337,
-      "forks": 841,
+      "stars": 19359,
+      "forks": 842,
       "currentPeriodStars": 1192,
       "builtBy": [
         {
@@ -81,7 +81,7 @@
       "description": "A security-focused library OS supporting kernel- and user-mode execution",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2153,
+      "stars": 2182,
       "forks": 90,
       "currentPeriodStars": 872,
       "builtBy": [
@@ -116,7 +116,7 @@
       "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8351,
+      "stars": 8353,
       "forks": 577,
       "currentPeriodStars": 497,
       "builtBy": [
@@ -151,8 +151,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60443,
-      "forks": 7974,
+      "stars": 60592,
+      "forks": 7995,
       "currentPeriodStars": 987,
       "builtBy": [
         {
@@ -186,7 +186,7 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 55044,
+      "stars": 55065,
       "forks": 2554,
       "currentPeriodStars": 394,
       "builtBy": [
@@ -221,8 +221,8 @@
       "description": "Build fast web applications with Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 20075,
-      "forks": 840,
+      "stars": 20083,
+      "forks": 841,
       "currentPeriodStars": 148,
       "builtBy": [
         {
@@ -250,48 +250,13 @@
     },
     {
       "rank": 8,
-      "author": "atuinsh",
-      "repoName": "atuin",
-      "url": "https://github.com/atuinsh/atuin",
-      "description": "✨ Magical shell history",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 28290,
-      "forks": 777,
-      "currentPeriodStars": 108,
-      "builtBy": [
-        {
-          "username": "ellie",
-          "avatar": "https://avatars.githubusercontent.com/u/53315310?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "conradludgate",
-          "avatar": "https://avatars.githubusercontent.com/u/6625462?s=40&v=4"
-        },
-        {
-          "username": "akinomyoga",
-          "avatar": "https://avatars.githubusercontent.com/u/8982192?s=40&v=4"
-        },
-        {
-          "username": "BinaryMuse",
-          "avatar": "https://avatars.githubusercontent.com/u/189606?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 9,
       "author": "rust-lang",
       "repoName": "rust-analyzer",
       "url": "https://github.com/rust-lang/rust-analyzer",
       "description": "A Rust compiler front-end for IDEs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16059,
+      "stars": 16060,
       "forks": 1950,
       "currentPeriodStars": 41,
       "builtBy": [
@@ -319,14 +284,14 @@
       "aiSummaries": null
     },
     {
-      "rank": 10,
+      "rank": 9,
       "author": "EasyTier",
       "repoName": "EasyTier",
       "url": "https://github.com/EasyTier/EasyTier",
       "description": "A simple, decentralized mesh VPN with WireGuard support.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10009,
+      "stars": 10014,
       "forks": 949,
       "currentPeriodStars": 254,
       "builtBy": [
@@ -354,14 +319,14 @@
       "aiSummaries": null
     },
     {
-      "rank": 11,
+      "rank": 10,
       "author": "signalapp",
       "repoName": "libsignal",
       "url": "https://github.com/signalapp/libsignal",
       "description": "Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5434,
+      "stars": 5438,
       "forks": 669,
       "currentPeriodStars": 40,
       "builtBy": [
@@ -389,106 +354,141 @@
       "aiSummaries": null
     },
     {
-      "rank": 12,
-      "author": "topjohnwu",
-      "repoName": "Magisk",
-      "url": "https://github.com/topjohnwu/Magisk",
-      "description": "The Magic Mask for Android",
+      "rank": 11,
+      "author": "facebook",
+      "repoName": "pyrefly",
+      "url": "https://github.com/facebook/pyrefly",
+      "description": "A fast type checker and language server for Python",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 58712,
-      "forks": 16738,
-      "currentPeriodStars": 147,
+      "stars": 5357,
+      "forks": 273,
+      "currentPeriodStars": 68,
       "builtBy": [
         {
-          "username": "topjohnwu",
-          "avatar": "https://avatars.githubusercontent.com/u/7337301?s=40&v=4"
+          "username": "ndmitchell",
+          "avatar": "https://avatars.githubusercontent.com/u/1651197?s=40&v=4"
         },
         {
-          "username": "diareuse",
-          "avatar": "https://avatars.githubusercontent.com/u/5982859?s=40&v=4"
+          "username": "stroxler",
+          "avatar": "https://avatars.githubusercontent.com/u/966970?s=40&v=4"
         },
         {
-          "username": "vvb2060",
-          "avatar": "https://avatars.githubusercontent.com/u/26996262?s=40&v=4"
+          "username": "rchen152",
+          "avatar": "https://avatars.githubusercontent.com/u/4142312?s=40&v=4"
         },
         {
-          "username": "yujincheng08",
-          "avatar": "https://avatars.githubusercontent.com/u/5022927?s=40&v=4"
+          "username": "yangdanny97",
+          "avatar": "https://avatars.githubusercontent.com/u/18299205?s=40&v=4"
         },
         {
-          "username": "canyie",
-          "avatar": "https://avatars.githubusercontent.com/u/31466456?s=40&v=4"
+          "username": "kinto0",
+          "avatar": "https://avatars.githubusercontent.com/u/9772246?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 12,
+      "author": "slint-ui",
+      "repoName": "slint",
+      "url": "https://github.com/slint-ui/slint",
+      "description": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 21756,
+      "forks": 818,
+      "currentPeriodStars": 73,
+      "builtBy": [
+        {
+          "username": "tronical",
+          "avatar": "https://avatars.githubusercontent.com/u/1486?s=40&v=4"
+        },
+        {
+          "username": "ogoffart",
+          "avatar": "https://avatars.githubusercontent.com/u/959326?s=40&v=4"
+        },
+        {
+          "username": "hunger",
+          "avatar": "https://avatars.githubusercontent.com/u/73267?s=40&v=4"
+        },
+        {
+          "username": "NigelBreslaw",
+          "avatar": "https://avatars.githubusercontent.com/u/1957186?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 13,
-      "author": "Zackriya-Solutions",
-      "repoName": "meeting-minutes",
-      "url": "https://github.com/Zackriya-Solutions/meeting-minutes",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "author": "aome510",
+      "repoName": "spotify-player",
+      "url": "https://github.com/aome510/spotify-player",
+      "description": "A Spotify player in the terminal with full feature parity",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9830,
-      "forks": 882,
-      "currentPeriodStars": 143,
+      "stars": 6203,
+      "forks": 312,
+      "currentPeriodStars": 37,
       "builtBy": [
         {
-          "username": "sujithatzackriya",
-          "avatar": "https://avatars.githubusercontent.com/u/85450497?s=40&v=4"
+          "username": "aome510",
+          "avatar": "https://avatars.githubusercontent.com/u/40011582?s=40&v=4"
         },
         {
-          "username": "safvanatzack",
-          "avatar": "https://avatars.githubusercontent.com/u/213172806?s=40&v=4"
+          "username": "juliamertz",
+          "avatar": "https://avatars.githubusercontent.com/u/35079666?s=40&v=4"
         },
         {
-          "username": "mohammedsafvan",
-          "avatar": "https://avatars.githubusercontent.com/u/37416474?s=40&v=4"
+          "username": "DOD-101",
+          "avatar": "https://avatars.githubusercontent.com/u/131907205?s=40&v=4"
         },
         {
-          "username": "athulchandroth",
-          "avatar": "https://avatars.githubusercontent.com/u/87969134?s=40&v=4"
+          "username": "LucasFA",
+          "avatar": "https://avatars.githubusercontent.com/u/23667494?s=40&v=4"
         },
         {
-          "username": "sujithhubpost",
-          "avatar": "https://avatars.githubusercontent.com/u/18640268?s=40&v=4"
+          "username": "aNNiMON",
+          "avatar": "https://avatars.githubusercontent.com/u/1321838?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 14,
-      "author": "zed-industries",
-      "repoName": "zed",
-      "url": "https://github.com/zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "author": "moghtech",
+      "repoName": "komodo",
+      "url": "https://github.com/moghtech/komodo",
+      "description": "🦎 a tool to build and deploy software on many servers 🦎",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 75399,
-      "forks": 6958,
-      "currentPeriodStars": 492,
+      "stars": 10239,
+      "forks": 271,
+      "currentPeriodStars": 132,
       "builtBy": [
         {
-          "username": "as-cii",
-          "avatar": "https://avatars.githubusercontent.com/u/482957?s=40&v=4"
+          "username": "mbecker20",
+          "avatar": "https://avatars.githubusercontent.com/u/49575486?s=40&v=4"
         },
         {
-          "username": "maxbrunsfeld",
-          "avatar": "https://avatars.githubusercontent.com/u/326587?s=40&v=4"
+          "username": "beckerinj",
+          "avatar": "https://avatars.githubusercontent.com/u/104922791?s=40&v=4"
         },
         {
-          "username": "maxdeviant",
-          "avatar": "https://avatars.githubusercontent.com/u/1486634?s=40&v=4"
+          "username": "karamvirsingh98",
+          "avatar": "https://avatars.githubusercontent.com/u/67458484?s=40&v=4"
         },
         {
-          "username": "nathansobo",
-          "avatar": "https://avatars.githubusercontent.com/u/1789?s=40&v=4"
+          "username": "jackra1n",
+          "avatar": "https://avatars.githubusercontent.com/u/45038833?s=40&v=4"
         },
         {
-          "username": "ConradIrwin",
-          "avatar": "https://avatars.githubusercontent.com/u/94272?s=40&v=4"
+          "username": "MP-Tool",
+          "avatar": "https://avatars.githubusercontent.com/u/82059270?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -501,7 +501,7 @@
       "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32764,
+      "stars": 32768,
       "forks": 1205,
       "currentPeriodStars": 198,
       "builtBy": [
@@ -530,83 +530,118 @@
     },
     {
       "rank": 16,
-      "author": "nushell",
-      "repoName": "nushell",
-      "url": "https://github.com/nushell/nushell",
-      "description": "A new type of shell",
+      "author": "pimalaya",
+      "repoName": "himalaya",
+      "url": "https://github.com/pimalaya/himalaya",
+      "description": "CLI to manage emails",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 38329,
-      "forks": 2046,
-      "currentPeriodStars": 144,
+      "stars": 5412,
+      "forks": 155,
+      "currentPeriodStars": 55,
       "builtBy": [
         {
-          "username": "sophiajt",
-          "avatar": "https://avatars.githubusercontent.com/u/547158?s=40&v=4"
+          "username": "soywod",
+          "avatar": "https://avatars.githubusercontent.com/u/10437171?s=40&v=4"
         },
         {
-          "username": "fdncred",
-          "avatar": "https://avatars.githubusercontent.com/u/343840?s=40&v=4"
+          "username": "prmadev",
+          "avatar": "https://avatars.githubusercontent.com/u/28535608?s=40&v=4"
         },
         {
-          "username": "sholderbach",
-          "avatar": "https://avatars.githubusercontent.com/u/15833959?s=40&v=4"
+          "username": "KoviRobi",
+          "avatar": "https://avatars.githubusercontent.com/u/1903418?s=40&v=4"
         },
         {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+          "username": "TornaxO7",
+          "avatar": "https://avatars.githubusercontent.com/u/50843046?s=40&v=4"
         },
         {
-          "username": "andrasio",
-          "avatar": "https://avatars.githubusercontent.com/u/951128?s=40&v=4"
+          "username": "AckslD",
+          "avatar": "https://avatars.githubusercontent.com/u/23341710?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 17,
-      "author": "solana-labs",
-      "repoName": "solana",
-      "url": "https://github.com/solana-labs/solana",
-      "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+      "author": "Zackriya-Solutions",
+      "repoName": "meeting-minutes",
+      "url": "https://github.com/Zackriya-Solutions/meeting-minutes",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 14781,
-      "forks": 5526,
-      "currentPeriodStars": 27,
+      "stars": 9837,
+      "forks": 883,
+      "currentPeriodStars": 143,
       "builtBy": [
         {
-          "username": "mvines",
-          "avatar": "https://avatars.githubusercontent.com/u/1281082?s=40&v=4"
+          "username": "sujithatzackriya",
+          "avatar": "https://avatars.githubusercontent.com/u/85450497?s=40&v=4"
         },
         {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+          "username": "safvanatzack",
+          "avatar": "https://avatars.githubusercontent.com/u/213172806?s=40&v=4"
         },
         {
-          "username": "garious",
-          "avatar": "https://avatars.githubusercontent.com/u/55449?s=40&v=4"
+          "username": "mohammedsafvan",
+          "avatar": "https://avatars.githubusercontent.com/u/37416474?s=40&v=4"
         },
         {
-          "username": "jeffwashington",
-          "avatar": "https://avatars.githubusercontent.com/u/75863576?s=40&v=4"
+          "username": "athulchandroth",
+          "avatar": "https://avatars.githubusercontent.com/u/87969134?s=40&v=4"
         },
         {
-          "username": "jstarry",
-          "avatar": "https://avatars.githubusercontent.com/u/1076145?s=40&v=4"
+          "username": "sujithhubpost",
+          "avatar": "https://avatars.githubusercontent.com/u/18640268?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 18,
+      "author": "rustdesk",
+      "repoName": "rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 107594,
+      "forks": 15991,
+      "currentPeriodStars": 501,
+      "builtBy": [
+        {
+          "username": "rustdesk",
+          "avatar": "https://avatars.githubusercontent.com/u/71636191?s=40&v=4"
+        },
+        {
+          "username": "fufesou",
+          "avatar": "https://avatars.githubusercontent.com/u/13586388?s=40&v=4"
+        },
+        {
+          "username": "21pages",
+          "avatar": "https://avatars.githubusercontent.com/u/14891774?s=40&v=4"
+        },
+        {
+          "username": "Kingtous",
+          "avatar": "https://avatars.githubusercontent.com/u/39793325?s=40&v=4"
+        },
+        {
+          "username": "Heap-Hop",
+          "avatar": "https://avatars.githubusercontent.com/u/62206297?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 19,
       "author": "DioCrafts",
       "repoName": "OxiCloud",
       "url": "https://github.com/DioCrafts/OxiCloud",
       "description": "☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2477,
+      "stars": 2485,
       "forks": 96,
       "currentPeriodStars": 211,
       "builtBy": [
@@ -634,15 +669,15 @@
       "aiSummaries": null
     },
     {
-      "rank": 19,
+      "rank": 20,
       "author": "matrix-construct",
       "repoName": "tuwunel",
       "url": "https://github.com/matrix-construct/tuwunel",
       "description": "Official successor to conduwuit",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1400,
-      "forks": 94,
+      "stars": 1408,
+      "forks": 93,
       "currentPeriodStars": 173,
       "builtBy": [
         {
@@ -669,71 +704,36 @@
       "aiSummaries": null
     },
     {
-      "rank": 20,
-      "author": "pimalaya",
-      "repoName": "himalaya",
-      "url": "https://github.com/pimalaya/himalaya",
-      "description": "CLI to manage emails",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 5406,
-      "forks": 154,
-      "currentPeriodStars": 55,
-      "builtBy": [
-        {
-          "username": "soywod",
-          "avatar": "https://avatars.githubusercontent.com/u/10437171?s=40&v=4"
-        },
-        {
-          "username": "prmadev",
-          "avatar": "https://avatars.githubusercontent.com/u/28535608?s=40&v=4"
-        },
-        {
-          "username": "KoviRobi",
-          "avatar": "https://avatars.githubusercontent.com/u/1903418?s=40&v=4"
-        },
-        {
-          "username": "TornaxO7",
-          "avatar": "https://avatars.githubusercontent.com/u/50843046?s=40&v=4"
-        },
-        {
-          "username": "AckslD",
-          "avatar": "https://avatars.githubusercontent.com/u/23341710?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
       "rank": 21,
-      "author": "Universal-Debloater-Alliance",
-      "repoName": "universal-android-debloater-next-generation",
-      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "author": "zed-industries",
+      "repoName": "zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5870,
-      "forks": 238,
-      "currentPeriodStars": 104,
+      "stars": 75426,
+      "forks": 6962,
+      "currentPeriodStars": 492,
       "builtBy": [
         {
-          "username": "AnonymousWP",
-          "avatar": "https://avatars.githubusercontent.com/u/50231698?s=40&v=4"
+          "username": "as-cii",
+          "avatar": "https://avatars.githubusercontent.com/u/482957?s=40&v=4"
         },
         {
-          "username": "0x192",
-          "avatar": "https://avatars.githubusercontent.com/u/55300518?s=40&v=4"
+          "username": "maxbrunsfeld",
+          "avatar": "https://avatars.githubusercontent.com/u/326587?s=40&v=4"
         },
         {
-          "username": "Frigyes06",
-          "avatar": "https://avatars.githubusercontent.com/u/72750891?s=40&v=4"
+          "username": "maxdeviant",
+          "avatar": "https://avatars.githubusercontent.com/u/1486634?s=40&v=4"
         },
         {
-          "username": "Rudxain",
-          "avatar": "https://avatars.githubusercontent.com/u/76864299?s=40&v=4"
+          "username": "nathansobo",
+          "avatar": "https://avatars.githubusercontent.com/u/1789?s=40&v=4"
         },
         {
-          "username": "lavafroth",
-          "avatar": "https://avatars.githubusercontent.com/u/107522312?s=40&v=4"
+          "username": "ConradIrwin",
+          "avatar": "https://avatars.githubusercontent.com/u/94272?s=40&v=4"
         }
       ],
       "aiSummaries": null
