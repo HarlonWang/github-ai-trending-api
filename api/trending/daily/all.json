@@ -1,7 +1,7 @@
 {
   "count": 11,
   "since": "daily",
-  "captured_at": "2026-02-15 12:17:14",
+  "captured_at": "2026-02-16 00:17:14",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19037,
-      "forks": 2276,
-      "currentPeriodStars": 30,
+      "stars": 19293,
+      "forks": 2294,
+      "currentPeriodStars": 68,
       "builtBy": [
         {
           "username": "cjdsellers",
@@ -57,9 +57,9 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2607,
-      "forks": 236,
-      "currentPeriodStars": 639,
+      "stars": 2960,
+      "forks": 257,
+      "currentPeriodStars": 630,
       "builtBy": [
         {
           "username": "steipete",
@@ -103,9 +103,9 @@
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 6398,
-      "forks": 537,
-      "currentPeriodStars": 217,
+      "stars": 6797,
+      "forks": 576,
+      "currentPeriodStars": 803,
       "builtBy": [
         {
           "username": "ramnique",
@@ -148,8 +148,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2488,
-      "forks": 182,
+      "stars": 2697,
+      "forks": 199,
       "currentPeriodStars": 213,
       "builtBy": [
         {
@@ -193,9 +193,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 25232,
-      "forks": 1485,
-      "currentPeriodStars": 331,
+      "stars": 25413,
+      "forks": 1500,
+      "currentPeriodStars": 357,
       "builtBy": [
         {
           "username": "OrKoN",
@@ -238,9 +238,9 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1668,
-      "forks": 84,
-      "currentPeriodStars": 172,
+      "stars": 2295,
+      "forks": 116,
+      "currentPeriodStars": 673,
       "builtBy": [
         {
           "username": "iaojnh",
@@ -283,29 +283,29 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 195575,
-      "forks": 33847,
-      "currentPeriodStars": 2758,
+      "stars": 197142,
+      "forks": 34299,
+      "currentPeriodStars": 2380,
       "builtBy": [
         {
           "username": "steipete",
           "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
         },
         {
-          "username": "thewilloftheshadow",
-          "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
           "username": "vignesh07",
           "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&v=4"
         },
         {
+          "username": "thewilloftheshadow",
+          "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&v=4"
+        },
+        {
           "username": "gumadeiras",
           "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
       "aiSummaries": [
@@ -329,9 +329,9 @@
       "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3568,
-      "forks": 174,
-      "currentPeriodStars": 160,
+      "stars": 3805,
+      "forks": 179,
+      "currentPeriodStars": 157,
       "builtBy": [
         {
           "username": "evmaki",
@@ -375,9 +375,9 @@
       "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
       "language": "Unknown",
       "languageColor": null,
-      "stars": 21429,
-      "forks": 2967,
-      "currentPeriodStars": 23,
+      "stars": 21539,
+      "forks": 2973,
+      "currentPeriodStars": 27,
       "builtBy": [
         {
           "username": "brave-browser-releases",
@@ -421,9 +421,9 @@
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 671,
-      "forks": 255,
-      "currentPeriodStars": 209,
+      "stars": 789,
+      "forks": 285,
+      "currentPeriodStars": 163,
       "builtBy": [
         {
           "username": "claude",
@@ -466,9 +466,9 @@
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6306,
-      "forks": 563,
-      "currentPeriodStars": 98,
+      "stars": 6479,
+      "forks": 573,
+      "currentPeriodStars": 352,
       "builtBy": [
         {
           "username": "ruvnet",

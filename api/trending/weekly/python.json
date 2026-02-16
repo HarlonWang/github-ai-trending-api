@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "weekly",
-  "captured_at": "2026-02-15 12:18:48",
+  "captured_at": "2026-02-16 00:18:04",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32392,
-      "forks": 2165,
-      "currentPeriodStars": 8146,
+      "stars": 32527,
+      "forks": 2178,
+      "currentPeriodStars": 7964,
       "builtBy": [
         {
           "username": "aksg87",
@@ -51,9 +51,9 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2604,
-      "forks": 166,
-      "currentPeriodStars": 2065,
+      "stars": 2687,
+      "forks": 174,
+      "currentPeriodStars": 2265,
       "builtBy": [
         {
           "username": "Jeffallan",
@@ -91,9 +91,9 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17298,
-      "forks": 3716,
-      "currentPeriodStars": 1615,
+      "stars": 17324,
+      "forks": 3721,
+      "currentPeriodStars": 1412,
       "builtBy": [
         {
           "username": "hsliuping",
@@ -126,9 +126,9 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 95108,
-      "forks": 13780,
-      "currentPeriodStars": 2539,
+      "stars": 95296,
+      "forks": 13796,
+      "currentPeriodStars": 2481,
       "builtBy": [
         {
           "username": "Shubhamsaboo",
@@ -166,9 +166,9 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 398482,
-      "forks": 42632,
-      "currentPeriodStars": 2730,
+      "stars": 398555,
+      "forks": 42638,
+      "currentPeriodStars": 2237,
       "builtBy": [
         {
           "username": "matheusfelipeog",
@@ -201,9 +201,9 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8548,
-      "forks": 477,
-      "currentPeriodStars": 3126,
+      "stars": 8599,
+      "forks": 479,
+      "currentPeriodStars": 1808,
       "builtBy": [
         {
           "username": "gverma-openai",
@@ -236,9 +236,9 @@
       "description": "基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1428,
-      "forks": 468,
-      "currentPeriodStars": 269,
+      "stars": 1442,
+      "forks": 472,
+      "currentPeriodStars": 223,
       "builtBy": [
         {
           "username": "chenyme",
@@ -271,9 +271,9 @@
       "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 23802,
-      "forks": 1831,
-      "currentPeriodStars": 703,
+      "stars": 23811,
+      "forks": 1832,
+      "currentPeriodStars": 503,
       "builtBy": [
         {
           "username": "yiranyyu",
@@ -306,9 +306,9 @@
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 13324,
-      "forks": 1599,
-      "currentPeriodStars": 598,
+      "stars": 13376,
+      "forks": 1602,
+      "currentPeriodStars": 627,
       "builtBy": [
         {
           "username": "LarFii",
@@ -341,9 +341,9 @@
       "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 60134,
-      "forks": 6128,
-      "currentPeriodStars": 602,
+      "stars": 60161,
+      "forks": 6129,
+      "currentPeriodStars": 604,
       "builtBy": [
         {
           "username": "unclecode",
@@ -376,9 +376,9 @@
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11109,
-      "forks": 1088,
-      "currentPeriodStars": 2736,
+      "stars": 11186,
+      "forks": 1095,
+      "currentPeriodStars": 2925,
       "builtBy": [
         {
           "username": "cheahjs",
@@ -416,9 +416,9 @@
       "description": "Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4131,
-      "forks": 505,
-      "currentPeriodStars": 175,
+      "stars": 4142,
+      "forks": 507,
+      "currentPeriodStars": 193,
       "builtBy": [
         {
           "username": "bram2w",
@@ -451,9 +451,9 @@
       "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 18160,
+      "stars": 18172,
       "forks": 1475,
-      "currentPeriodStars": 737,
+      "currentPeriodStars": 622,
       "builtBy": [
         {
           "username": "ROBERT-MCDOWELL",
@@ -486,9 +486,9 @@
       "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 81088,
-      "forks": 18590,
-      "currentPeriodStars": 231,
+      "stars": 81096,
+      "forks": 18594,
+      "currentPeriodStars": 235,
       "builtBy": [
         {
           "username": "surister",
@@ -521,9 +521,9 @@
       "description": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 12461,
-      "forks": 2615,
-      "currentPeriodStars": 128,
+      "stars": 12476,
+      "forks": 2616,
+      "currentPeriodStars": 135,
       "builtBy": [
         {
           "username": "coleam00",
@@ -544,9 +544,9 @@
       "description": "slime is an LLM post-training framework for RL Scaling.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4171,
-      "forks": 537,
-      "currentPeriodStars": 466,
+      "stars": 4185,
+      "forks": 541,
+      "currentPeriodStars": 468,
       "builtBy": [
         {
           "username": "zhuzilin",
@@ -584,9 +584,9 @@
       "description": "Toward High-Accuracy Open-Source Biomolecular Structure Prediction.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1631,
-      "forks": 214,
-      "currentPeriodStars": 76,
+      "stars": 1633,
+      "forks": 215,
+      "currentPeriodStars": 73,
       "builtBy": [
         {
           "username": "zhangyuxuann",
@@ -619,9 +619,9 @@
       "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 53228,
-      "forks": 9006,
-      "currentPeriodStars": 533,
+      "stars": 53260,
+      "forks": 9011,
+      "currentPeriodStars": 538,
       "builtBy": [
         {
           "username": "karpathy",
@@ -654,9 +654,9 @@
       "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 52216,
+      "stars": 52244,
       "forks": 4318,
-      "currentPeriodStars": 536,
+      "currentPeriodStars": 538,
       "builtBy": [
         {
           "username": "danielhanchen",

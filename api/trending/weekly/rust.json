@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "weekly",
-  "captured_at": "2026-02-15 12:19:04",
+  "captured_at": "2026-02-16 00:18:22",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A minimal, secure Python interpreter written in Rust for use by AI",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5283,
-      "forks": 191,
-      "currentPeriodStars": 3428,
+      "stars": 5322,
+      "forks": 193,
+      "currentPeriodStars": 3113,
       "builtBy": [
         {
           "username": "samuelcolvin",
@@ -46,9 +46,9 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19306,
-      "forks": 840,
-      "currentPeriodStars": 1495,
+      "stars": 19337,
+      "forks": 841,
+      "currentPeriodStars": 1192,
       "builtBy": [
         {
           "username": "krlvi",
@@ -81,9 +81,9 @@
       "description": "A security-focused library OS supporting kernel- and user-mode execution",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2125,
-      "forks": 88,
-      "currentPeriodStars": 1103,
+      "stars": 2153,
+      "forks": 90,
+      "currentPeriodStars": 872,
       "builtBy": [
         {
           "username": "jaybosamiya-ms",
@@ -116,9 +116,9 @@
       "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8343,
-      "forks": 576,
-      "currentPeriodStars": 541,
+      "stars": 8351,
+      "forks": 577,
+      "currentPeriodStars": 497,
       "builtBy": [
         {
           "username": "apps/dependabot-preview",
@@ -151,9 +151,9 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60388,
-      "forks": 7959,
-      "currentPeriodStars": 1042,
+      "stars": 60443,
+      "forks": 7974,
+      "currentPeriodStars": 987,
       "builtBy": [
         {
           "username": "bolinfest",
@@ -186,9 +186,9 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 55017,
+      "stars": 55044,
       "forks": 2554,
-      "currentPeriodStars": 399,
+      "currentPeriodStars": 394,
       "builtBy": [
         {
           "username": "dani-garcia",
@@ -221,9 +221,9 @@
       "description": "Build fast web applications with Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 20064,
+      "stars": 20075,
       "forks": 840,
-      "currentPeriodStars": 145,
+      "currentPeriodStars": 148,
       "builtBy": [
         {
           "username": "gbj",
@@ -256,9 +256,9 @@
       "description": "✨ Magical shell history",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 28279,
+      "stars": 28290,
       "forks": 777,
-      "currentPeriodStars": 105,
+      "currentPeriodStars": 108,
       "builtBy": [
         {
           "username": "ellie",
@@ -291,7 +291,7 @@
       "description": "A Rust compiler front-end for IDEs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16057,
+      "stars": 16059,
       "forks": 1950,
       "currentPeriodStars": 41,
       "builtBy": [
@@ -326,9 +326,9 @@
       "description": "A simple, decentralized mesh VPN with WireGuard support.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9996,
-      "forks": 946,
-      "currentPeriodStars": 259,
+      "stars": 10009,
+      "forks": 949,
+      "currentPeriodStars": 254,
       "builtBy": [
         {
           "username": "KKRainbow",
@@ -361,9 +361,9 @@
       "description": "Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5429,
-      "forks": 668,
-      "currentPeriodStars": 39,
+      "stars": 5434,
+      "forks": 669,
+      "currentPeriodStars": 40,
       "builtBy": [
         {
           "username": "jrose-signal",
@@ -396,9 +396,9 @@
       "description": "The Magic Mask for Android",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 58704,
-      "forks": 16734,
-      "currentPeriodStars": 156,
+      "stars": 58712,
+      "forks": 16738,
+      "currentPeriodStars": 147,
       "builtBy": [
         {
           "username": "topjohnwu",
@@ -431,9 +431,9 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9825,
+      "stars": 9830,
       "forks": 882,
-      "currentPeriodStars": 153,
+      "currentPeriodStars": 143,
       "builtBy": [
         {
           "username": "sujithatzackriya",
@@ -466,9 +466,9 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 75378,
-      "forks": 6950,
-      "currentPeriodStars": 475,
+      "stars": 75399,
+      "forks": 6958,
+      "currentPeriodStars": 492,
       "builtBy": [
         {
           "username": "as-cii",
@@ -501,9 +501,9 @@
       "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32760,
-      "forks": 1204,
-      "currentPeriodStars": 185,
+      "stars": 32764,
+      "forks": 1205,
+      "currentPeriodStars": 198,
       "builtBy": [
         {
           "username": "GyulyVGC",
@@ -536,9 +536,9 @@
       "description": "A new type of shell",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 38324,
+      "stars": 38329,
       "forks": 2046,
-      "currentPeriodStars": 163,
+      "currentPeriodStars": 144,
       "builtBy": [
         {
           "username": "sophiajt",
@@ -571,9 +571,9 @@
       "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 14782,
+      "stars": 14781,
       "forks": 5526,
-      "currentPeriodStars": 30,
+      "currentPeriodStars": 27,
       "builtBy": [
         {
           "username": "mvines",
@@ -606,9 +606,9 @@
       "description": "☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2465,
-      "forks": 95,
-      "currentPeriodStars": 208,
+      "stars": 2477,
+      "forks": 96,
+      "currentPeriodStars": 211,
       "builtBy": [
         {
           "username": "DioCrafts",
@@ -641,9 +641,9 @@
       "description": "Official successor to conduwuit",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1387,
-      "forks": 92,
-      "currentPeriodStars": 170,
+      "stars": 1400,
+      "forks": 94,
+      "currentPeriodStars": 173,
       "builtBy": [
         {
           "username": "jevolk",
@@ -676,9 +676,9 @@
       "description": "CLI to manage emails",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5399,
+      "stars": 5406,
       "forks": 154,
-      "currentPeriodStars": 52,
+      "currentPeriodStars": 55,
       "builtBy": [
         {
           "username": "soywod",
@@ -711,9 +711,9 @@
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5856,
-      "forks": 239,
-      "currentPeriodStars": 88,
+      "stars": 5870,
+      "forks": 238,
+      "currentPeriodStars": 104,
       "builtBy": [
         {
           "username": "AnonymousWP",

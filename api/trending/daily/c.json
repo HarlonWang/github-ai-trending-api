@@ -1,7 +1,7 @@
 {
   "count": 20,
   "since": "daily",
-  "captured_at": "2026-02-15 12:18:28",
+  "captured_at": "2026-02-16 00:17:49",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3568,
-      "forks": 174,
-      "currentPeriodStars": 160,
+      "stars": 3806,
+      "forks": 179,
+      "currentPeriodStars": 157,
       "builtBy": [
         {
           "username": "evmaki",
@@ -57,9 +57,9 @@
       "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 20130,
+      "stars": 20134,
       "forks": 43519,
-      "currentPeriodStars": 6,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "fauxpark",
@@ -92,9 +92,9 @@
       "description": "Custom and repackaged Snapmaker U1 firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 332,
-      "forks": 40,
-      "currentPeriodStars": 10,
+      "stars": 336,
+      "forks": 41,
+      "currentPeriodStars": 9,
       "builtBy": [
         {
           "username": "paxx12",
@@ -105,12 +105,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/953831?s=40&v=4"
         },
         {
-          "username": "justinh-rahb",
-          "avatar": "https://avatars.githubusercontent.com/u/52832301?s=40&v=4"
-        },
-        {
           "username": "QuinnDamerell",
           "avatar": "https://avatars.githubusercontent.com/u/7854873?s=40&v=4"
+        },
+        {
+          "username": "justinh-rahb",
+          "avatar": "https://avatars.githubusercontent.com/u/52832301?s=40&v=4"
         },
         {
           "username": "Argolein",
@@ -127,7 +127,7 @@
       "description": "minimal cross-platform standalone C headers",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 9601,
+      "stars": 9603,
       "forks": 615,
       "currentPeriodStars": 6,
       "builtBy": [
@@ -162,13 +162,17 @@
       "description": "An open and affordable mini quadruped robot based on ESP32.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 854,
-      "forks": 120,
-      "currentPeriodStars": 21,
+      "stars": 867,
+      "forks": 121,
+      "currentPeriodStars": 15,
       "builtBy": [
         {
           "username": "dorianborian",
           "avatar": "https://avatars.githubusercontent.com/u/33707294?s=40&v=4"
+        },
+        {
+          "username": "shariqnaiyer",
+          "avatar": "https://avatars.githubusercontent.com/u/22573854?s=40&v=4"
         },
         {
           "username": "one-for-all",
@@ -193,9 +197,9 @@
       "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14691,
-      "forks": 5805,
-      "currentPeriodStars": 3,
+      "stars": 14693,
+      "forks": 5806,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "elmindreda",
@@ -228,9 +232,9 @@
       "description": "New App Store for GNOME",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1401,
-      "forks": 112,
-      "currentPeriodStars": 9,
+      "stars": 1403,
+      "forks": 111,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "kolunmi",
@@ -245,12 +249,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/10499845?s=40&v=4"
         },
         {
-          "username": "Saltane",
-          "avatar": "https://avatars.githubusercontent.com/u/101461606?s=40&v=4"
-        },
-        {
           "username": "renner0e",
           "avatar": "https://avatars.githubusercontent.com/u/80410025?s=40&v=4"
+        },
+        {
+          "username": "Saltane",
+          "avatar": "https://avatars.githubusercontent.com/u/101461606?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -263,9 +267,9 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5959,
+      "stars": 5968,
       "forks": 1001,
-      "currentPeriodStars": 104,
+      "currentPeriodStars": 23,
       "builtBy": [
         {
           "username": "levlam",
@@ -303,9 +307,9 @@
       "description": "anti-dpi software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1636,
+      "stars": 1645,
       "forks": 52,
-      "currentPeriodStars": 18,
+      "currentPeriodStars": 16,
       "builtBy": [
         {
           "username": "bol-van",
@@ -326,9 +330,9 @@
       "description": "Zstandard - Fast real-time compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 26616,
-      "forks": 2405,
-      "currentPeriodStars": 10,
+      "stars": 26619,
+      "forks": 2404,
+      "currentPeriodStars": 8,
       "builtBy": [
         {
           "username": "Cyan4973",
@@ -361,9 +365,9 @@
       "description": "DPI bypass multi platform",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14369,
+      "stars": 14373,
       "forks": 990,
-      "currentPeriodStars": 19,
+      "currentPeriodStars": 16,
       "builtBy": [
         {
           "username": "bol-van",
@@ -396,9 +400,9 @@
       "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 20054,
+      "stars": 20080,
       "forks": 684,
-      "currentPeriodStars": 23,
+      "currentPeriodStars": 47,
       "builtBy": [
         {
           "username": "CarterLi",
@@ -431,9 +435,9 @@
       "description": "ZMK Firmware Repository",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3839,
-      "forks": 3784,
-      "currentPeriodStars": 2,
+      "stars": 3842,
+      "forks": 3788,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "petejohanson",
@@ -466,9 +470,9 @@
       "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 24133,
-      "forks": 5052,
-      "currentPeriodStars": 4,
+      "stars": 24134,
+      "forks": 5053,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "arendst",
@@ -501,9 +505,9 @@
       "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 77747,
-      "forks": 6334,
-      "currentPeriodStars": 15,
+      "stars": 77751,
+      "forks": 6335,
+      "currentPeriodStars": 12,
       "builtBy": [
         {
           "username": "ktsaou",
@@ -536,9 +540,9 @@
       "description": "我的电视 电视直播软件，安装即可使用",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 32241,
+      "stars": 32244,
       "forks": 3618,
-      "currentPeriodStars": 14,
+      "currentPeriodStars": 16,
       "builtBy": [
         {
           "username": "lizongying",
@@ -571,9 +575,9 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 25545,
-      "forks": 12033,
-      "currentPeriodStars": 10,
+      "stars": 25549,
+      "forks": 12036,
+      "currentPeriodStars": 16,
       "builtBy": [
         {
           "username": "juhosg",
@@ -606,9 +610,9 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 40704,
-      "forks": 7057,
-      "currentPeriodStars": 9,
+      "stars": 40709,
+      "forks": 7058,
+      "currentPeriodStars": 12,
       "builtBy": [
         {
           "username": "bagder",
@@ -641,9 +645,9 @@
       "description": "This project aims to enhance the working environment on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 31560,
+      "stars": 31564,
       "forks": 1282,
-      "currentPeriodStars": 23,
+      "currentPeriodStars": 18,
       "builtBy": [
         {
           "username": "valinet",
@@ -676,9 +680,9 @@
       "description": "INAV: Navigation-enabled flight control software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3939,
+      "stars": 3942,
       "forks": 1761,
-      "currentPeriodStars": 0,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "digitalentity",

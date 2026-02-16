@@ -1,7 +1,7 @@
 {
   "count": 18,
   "since": "daily",
-  "captured_at": "2026-02-15 12:18:15",
+  "captured_at": "2026-02-16 00:17:35",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19037,
-      "forks": 2276,
-      "currentPeriodStars": 30,
+      "stars": 19293,
+      "forks": 2294,
+      "currentPeriodStars": 68,
       "builtBy": [
         {
           "username": "cjdsellers",
@@ -57,9 +57,9 @@
       "description": "A distributed vector database that learns. Store embeddings, query with Cypher, scale horizontally with Raft consensus, and let the index improve itself through Graph Neural Networks.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 329,
-      "forks": 97,
-      "currentPeriodStars": 11,
+      "stars": 346,
+      "forks": 95,
+      "currentPeriodStars": 15,
       "builtBy": [
         {
           "username": "claude",
@@ -88,8 +88,8 @@
       "description": "Open-source search and retrieval database for AI applications.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 26129,
-      "forks": 2058,
+      "stars": 26136,
+      "forks": 2059,
       "currentPeriodStars": 21,
       "builtBy": [
         {
@@ -123,9 +123,9 @@
       "description": "Fast file explorer written with Tauri and React.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1355,
+      "stars": 1374,
       "forks": 99,
-      "currentPeriodStars": 132,
+      "currentPeriodStars": 88,
       "builtBy": [
         {
           "username": "CodeMarco05",
@@ -158,9 +158,9 @@
       "description": "A Rust compiler front-end for IDEs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16057,
+      "stars": 16059,
       "forks": 1950,
-      "currentPeriodStars": 8,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "apps/bors",
@@ -193,9 +193,9 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 107539,
-      "forks": 15978,
-      "currentPeriodStars": 89,
+      "stars": 107561,
+      "forks": 15984,
+      "currentPeriodStars": 86,
       "builtBy": [
         {
           "username": "rustdesk",
@@ -228,9 +228,9 @@
       "description": "Turso is an in-process SQL database, compatible with SQLite.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 17349,
-      "forks": 725,
-      "currentPeriodStars": 20,
+      "stars": 17360,
+      "forks": 727,
+      "currentPeriodStars": 18,
       "builtBy": [
         {
           "username": "penberg",
@@ -263,9 +263,9 @@
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5856,
-      "forks": 239,
-      "currentPeriodStars": 24,
+      "stars": 5870,
+      "forks": 238,
+      "currentPeriodStars": 25,
       "builtBy": [
         {
           "username": "AnonymousWP",
@@ -298,9 +298,9 @@
       "description": "A Python Interpreter written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 21785,
+      "stars": 21789,
       "forks": 1399,
-      "currentPeriodStars": 7,
+      "currentPeriodStars": 8,
       "builtBy": [
         {
           "username": "youknowone",
@@ -333,9 +333,9 @@
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 102712,
-      "forks": 3386,
-      "currentPeriodStars": 34,
+      "stars": 102732,
+      "forks": 3389,
+      "currentPeriodStars": 36,
       "builtBy": [
         {
           "username": "lucasfernog",
@@ -368,9 +368,9 @@
       "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29232,
+      "stars": 29243,
       "forks": 961,
-      "currentPeriodStars": 27,
+      "currentPeriodStars": 32,
       "builtBy": [
         {
           "username": "qarmin",
@@ -389,8 +389,8 @@
           "avatar": "https://avatars.githubusercontent.com/u/3356767?s=40&v=4"
         },
         {
-          "username": "TheEvilSkeleton",
-          "avatar": "https://avatars.githubusercontent.com/u/50847364?s=40&v=4"
+          "username": "jlesage",
+          "avatar": "https://avatars.githubusercontent.com/u/1791123?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -403,9 +403,9 @@
       "description": "NVIDIA Bare Metal Manager - Hardware Lifecycle Management and multitenant networking",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 38,
-      "forks": 27,
-      "currentPeriodStars": 5,
+      "stars": 43,
+      "forks": 28,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "Matthias247",
@@ -438,7 +438,7 @@
       "description": "A fast type checker and language server for Python",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5354,
+      "stars": 5358,
       "forks": 273,
       "currentPeriodStars": 20,
       "builtBy": [
@@ -473,9 +473,9 @@
       "description": "A cross-platform, safe, pure-Rust graphics API.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16377,
-      "forks": 1213,
-      "currentPeriodStars": 26,
+      "stars": 16387,
+      "forks": 1212,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
           "username": "kvark",
@@ -508,8 +508,8 @@
       "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 54114,
-      "forks": 2374,
+      "stars": 54126,
+      "forks": 2375,
       "currentPeriodStars": 24,
       "builtBy": [
         {
@@ -543,9 +543,9 @@
       "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32637,
+      "stars": 32645,
       "forks": 1969,
-      "currentPeriodStars": 5,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "mgeisler",
@@ -578,9 +578,9 @@
       "description": "Empowering everyone to build reliable and efficient software.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 110301,
-      "forks": 14495,
-      "currentPeriodStars": 35,
+      "stars": 110323,
+      "forks": 14498,
+      "currentPeriodStars": 37,
       "builtBy": [
         {
           "username": "bors",
@@ -613,9 +613,9 @@
       "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 21544,
-      "forks": 929,
-      "currentPeriodStars": 130,
+      "stars": 21574,
+      "forks": 928,
+      "currentPeriodStars": 90,
       "builtBy": [
         {
           "username": "houseme",

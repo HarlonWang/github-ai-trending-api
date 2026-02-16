@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "monthly",
-  "captured_at": "2026-02-15 12:19:44",
+  "captured_at": "2026-02-16 00:19:02",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 37182,
-      "forks": 3463,
-      "currentPeriodStars": 973,
+      "stars": 37193,
+      "forks": 3464,
+      "currentPeriodStars": 989,
       "builtBy": [
         {
           "username": "Stypox",
@@ -46,9 +46,9 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 30805,
-      "forks": 6985,
-      "currentPeriodStars": 1215,
+      "stars": 31671,
+      "forks": 7117,
+      "currentPeriodStars": 2193,
       "builtBy": [
         {
           "username": "ashishps1",
@@ -77,9 +77,9 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22119,
-      "forks": 5421,
-      "currentPeriodStars": 1169,
+      "stars": 22139,
+      "forks": 5425,
+      "currentPeriodStars": 1177,
       "builtBy": [
         {
           "username": "ashishps1",
@@ -112,9 +112,9 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22053,
-      "forks": 13093,
-      "currentPeriodStars": 515,
+      "stars": 22056,
+      "forks": 13095,
+      "currentPeriodStars": 522,
       "builtBy": [
         {
           "username": "kunal-kushwaha",
@@ -147,9 +147,9 @@
       "description": "All Algorithms implemented in Java",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 65044,
-      "forks": 20972,
-      "currentPeriodStars": 406,
+      "stars": 65050,
+      "forks": 20974,
+      "currentPeriodStars": 404,
       "builtBy": [
         {
           "username": "alxkm",
@@ -182,9 +182,9 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 50630,
-      "forks": 6018,
-      "currentPeriodStars": 1902,
+      "stars": 50658,
+      "forks": 6022,
+      "currentPeriodStars": 1916,
       "builtBy": [
         {
           "username": "agnostic-apollo",
@@ -217,8 +217,8 @@
       "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12227,
-      "forks": 2561,
+      "stars": 12235,
+      "forks": 2562,
       "currentPeriodStars": 358,
       "builtBy": [
         {
@@ -252,9 +252,9 @@
       "description": "signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4164,
-      "forks": 372,
-      "currentPeriodStars": 191,
+      "stars": 4166,
+      "forks": 371,
+      "currentPeriodStars": 195,
       "builtBy": [
         {
           "username": "AsamK",
@@ -287,9 +287,9 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32845,
-      "forks": 8053,
-      "currentPeriodStars": 674,
+      "stars": 32848,
+      "forks": 8055,
+      "currentPeriodStars": 659,
       "builtBy": [
         {
           "username": "stianst",
@@ -322,9 +322,9 @@
       "description": "Telegram for Android source",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 28538,
-      "forks": 9282,
-      "currentPeriodStars": 269,
+      "stars": 28542,
+      "forks": 9283,
+      "currentPeriodStars": 264,
       "builtBy": [
         {
           "username": "xaxtix",
@@ -357,9 +357,9 @@
       "description": "NewPipe's core library for extracting data from streaming sites",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 1752,
+      "stars": 1753,
       "forks": 524,
-      "currentPeriodStars": 65,
+      "currentPeriodStars": 64,
       "builtBy": [
         {
           "username": "TobiGr",
@@ -392,9 +392,9 @@
       "description": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 10375,
-      "forks": 2425,
-      "currentPeriodStars": 100,
+      "stars": 10381,
+      "forks": 2426,
+      "currentPeriodStars": 104,
       "builtBy": [
         {
           "username": "jon-signal",
@@ -427,9 +427,9 @@
       "description": "LSPosed Framework resuscitated",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9590,
+      "stars": 9591,
       "forks": 602,
-      "currentPeriodStars": 453,
+      "currentPeriodStars": 443,
       "builtBy": [
         {
           "username": "yujincheng08",
@@ -462,9 +462,9 @@
       "description": "Generate diagrams from textual description",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12656,
+      "stars": 12664,
       "forks": 1140,
-      "currentPeriodStars": 152,
+      "currentPeriodStars": 159,
       "builtBy": [
         {
           "username": "arnaudroques",
@@ -497,9 +497,9 @@
       "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8690,
-      "forks": 1843,
-      "currentPeriodStars": 96,
+      "stars": 8693,
+      "forks": 1844,
+      "currentPeriodStars": 99,
       "builtBy": [
         {
           "username": "khanhduytran0",
@@ -532,9 +532,9 @@
       "description": "Free universal database tool and SQL client",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 48685,
-      "forks": 4036,
-      "currentPeriodStars": 517,
+      "stars": 48690,
+      "forks": 4037,
+      "currentPeriodStars": 513,
       "builtBy": [
         {
           "username": "serge-rider",
@@ -567,9 +567,9 @@
       "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5257,
+      "stars": 5259,
       "forks": 930,
-      "currentPeriodStars": 178,
+      "currentPeriodStars": 181,
       "builtBy": [
         {
           "username": "vkryl",
@@ -602,9 +602,9 @@
       "description": "All Code of LLD Playlist",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 662,
+      "stars": 663,
       "forks": 460,
-      "currentPeriodStars": 85,
+      "currentPeriodStars": 89,
       "builtBy": [
         {
           "username": "adityatandon15",
@@ -625,9 +625,9 @@
       "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8860,
-      "forks": 3994,
-      "currentPeriodStars": 55,
+      "stars": 8862,
+      "forks": 3995,
+      "currentPeriodStars": 56,
       "builtBy": [
         {
           "username": "romani",

@@ -1,7 +1,7 @@
 {
   "count": 17,
   "since": "monthly",
-  "captured_at": "2026-02-15 12:19:35",
+  "captured_at": "2026-02-16 00:18:53",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 15152,
-      "forks": 1094,
-      "currentPeriodStars": 9775,
+      "stars": 15193,
+      "forks": 1099,
+      "currentPeriodStars": 9831,
       "builtBy": [
         {
           "username": "rejojer",
@@ -38,9 +38,9 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8548,
-      "forks": 477,
-      "currentPeriodStars": 6965,
+      "stars": 8599,
+      "forks": 479,
+      "currentPeriodStars": 7035,
       "builtBy": [
         {
           "username": "gverma-openai",
@@ -73,9 +73,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 70050,
-      "forks": 7100,
-      "currentPeriodStars": 29735,
+      "stars": 70252,
+      "forks": 7126,
+      "currentPeriodStars": 28927,
       "builtBy": [
         {
           "username": "klazuka",
@@ -108,9 +108,9 @@
       "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9239,
-      "forks": 706,
-      "currentPeriodStars": 4738,
+      "stars": 9256,
+      "forks": 708,
+      "currentPeriodStars": 4668,
       "builtBy": [
         {
           "username": "sairin1202",
@@ -143,9 +143,9 @@
       "description": "A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 5189,
+      "stars": 5193,
       "forks": 365,
-      "currentPeriodStars": 2805,
+      "currentPeriodStars": 2804,
       "builtBy": [
         {
           "username": "mssssss123",
@@ -178,9 +178,9 @@
       "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6405,
-      "forks": 604,
-      "currentPeriodStars": 2598,
+      "stars": 6414,
+      "forks": 609,
+      "currentPeriodStars": 2605,
       "builtBy": [
         {
           "username": "stdrc",
@@ -213,9 +213,9 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 34941,
-      "forks": 3392,
-      "currentPeriodStars": 15869,
+      "stars": 35067,
+      "forks": 3400,
+      "currentPeriodStars": 15480,
       "builtBy": [
         {
           "username": "Prat011",
@@ -248,9 +248,9 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32394,
-      "forks": 2165,
-      "currentPeriodStars": 11733,
+      "stars": 32527,
+      "forks": 2178,
+      "currentPeriodStars": 11965,
       "builtBy": [
         {
           "username": "aksg87",
@@ -288,9 +288,9 @@
       "description": "Official inference framework for 1-bit LLMs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 28442,
-      "forks": 2324,
-      "currentPeriodStars": 2797,
+      "stars": 28454,
+      "forks": 2327,
+      "currentPeriodStars": 2795,
       "builtBy": [
         {
           "username": "potassiummmm",
@@ -323,9 +323,9 @@
       "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 30978,
-      "forks": 3816,
-      "currentPeriodStars": 2437,
+      "stars": 30987,
+      "forks": 3818,
+      "currentPeriodStars": 2385,
       "builtBy": [
         {
           "username": "thinkwee",
@@ -358,9 +358,9 @@
       "description": "Master Claude Code Hooks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3037,
-      "forks": 544,
-      "currentPeriodStars": 983,
+      "stars": 3043,
+      "forks": 547,
+      "currentPeriodStars": 988,
       "builtBy": [
         {
           "username": "disler",
@@ -381,9 +381,9 @@
       "description": "The absolute trainer to light up AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14745,
-      "forks": 1251,
-      "currentPeriodStars": 4517,
+      "stars": 14760,
+      "forks": 1253,
+      "currentPeriodStars": 4536,
       "builtBy": [
         {
           "username": "actions-user",
@@ -416,9 +416,9 @@
       "description": "A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1802,
-      "forks": 217,
-      "currentPeriodStars": 1212,
+      "stars": 1816,
+      "forks": 218,
+      "currentPeriodStars": 1135,
       "builtBy": [
         {
           "username": "alirezarezvani",
@@ -451,9 +451,9 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17062,
+      "stars": 17075,
       "forks": 1626,
-      "currentPeriodStars": 1784,
+      "currentPeriodStars": 1717,
       "builtBy": [
         {
           "username": "ahujasid",
@@ -486,9 +486,9 @@
       "description": "An elegant PyTorch deep reinforcement learning library.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10208,
-      "forks": 1266,
-      "currentPeriodStars": 1180,
+      "stars": 10212,
+      "forks": 1267,
+      "currentPeriodStars": 1182,
       "builtBy": [
         {
           "username": "opcode81",
@@ -521,9 +521,9 @@
       "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 23750,
-      "forks": 1389,
-      "currentPeriodStars": 3417,
+      "stars": 23823,
+      "forks": 1394,
+      "currentPeriodStars": 3386,
       "builtBy": [
         {
           "username": "apps/github-actions",
@@ -556,9 +556,9 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 95108,
-      "forks": 13780,
-      "currentPeriodStars": 7424,
+      "stars": 95296,
+      "forks": 13796,
+      "currentPeriodStars": 7586,
       "builtBy": [
         {
           "username": "Shubhamsaboo",

@@ -1,7 +1,7 @@
 {
   "count": 20,
   "since": "daily",
-  "captured_at": "2026-02-15 12:18:10",
+  "captured_at": "2026-02-16 00:17:32",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2608,
-      "forks": 236,
-      "currentPeriodStars": 639,
+      "stars": 2960,
+      "forks": 257,
+      "currentPeriodStars": 630,
       "builtBy": [
         {
           "username": "steipete",
@@ -57,8 +57,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2489,
-      "forks": 182,
+      "stars": 2697,
+      "forks": 199,
       "currentPeriodStars": 213,
       "builtBy": [
         {
@@ -102,9 +102,9 @@
       "description": "Network-wide ads & trackers blocking DNS server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 32574,
-      "forks": 2243,
-      "currentPeriodStars": 20,
+      "stars": 32586,
+      "forks": 2245,
+      "currentPeriodStars": 30,
       "builtBy": [
         {
           "username": "ainar-g",
@@ -137,9 +137,9 @@
       "description": "Glamourous agentic coding for all 💘",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19983,
-      "forks": 1230,
-      "currentPeriodStars": 67,
+      "stars": 20007,
+      "forks": 1232,
+      "currentPeriodStars": 62,
       "builtBy": [
         {
           "username": "kujtimiihoxha",
@@ -172,9 +172,9 @@
       "description": "Community managed domain list. Generate geosite.dat for V2Ray.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7565,
+      "stars": 7569,
       "forks": 1210,
-      "currentPeriodStars": 13,
+      "currentPeriodStars": 12,
       "builtBy": [
         {
           "username": "Loyalsoldier",
@@ -207,9 +207,9 @@
       "description": "scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3074,
-      "forks": 423,
-      "currentPeriodStars": 218,
+      "stars": 3096,
+      "forks": 427,
+      "currentPeriodStars": 135,
       "builtBy": [
         {
           "username": "gosom",
@@ -242,9 +242,9 @@
       "description": "WhatsApp CLI",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 394,
-      "forks": 62,
-      "currentPeriodStars": 12,
+      "stars": 399,
+      "forks": 64,
+      "currentPeriodStars": 9,
       "builtBy": [
         {
           "username": "steipete",
@@ -277,9 +277,9 @@
       "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22788,
-      "forks": 571,
-      "currentPeriodStars": 18,
+      "stars": 22798,
+      "forks": 574,
+      "currentPeriodStars": 17,
       "builtBy": [
         {
           "username": "meowgorithm",
@@ -313,8 +313,8 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": 60310,
-      "forks": 7024,
-      "currentPeriodStars": 29,
+      "forks": 7031,
+      "currentPeriodStars": 89,
       "builtBy": [
         {
           "username": "harshavardhana",
@@ -357,9 +357,9 @@
       "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 30255,
+      "stars": 30274,
       "forks": 2703,
-      "currentPeriodStars": 34,
+      "currentPeriodStars": 35,
       "builtBy": [
         {
           "username": "chrislusf",
@@ -392,8 +392,8 @@
       "description": "🪓 Run Background Tasks at Scale",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6572,
-      "forks": 305,
+      "stars": 6584,
+      "forks": 304,
       "currentPeriodStars": 20,
       "builtBy": [
         {
@@ -427,9 +427,9 @@
       "description": "Open device management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6039,
-      "forks": 780,
-      "currentPeriodStars": 11,
+      "stars": 6041,
+      "forks": 781,
+      "currentPeriodStars": 8,
       "builtBy": [
         {
           "username": "eashaw",
@@ -462,9 +462,9 @@
       "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22486,
-      "forks": 1098,
-      "currentPeriodStars": 53,
+      "stars": 22501,
+      "forks": 1101,
+      "currentPeriodStars": 29,
       "builtBy": [
         {
           "username": "mlsmaycon",
@@ -497,9 +497,9 @@
       "description": "Render Mermaid graphs inside your terminal",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1173,
+      "stars": 1176,
       "forks": 49,
-      "currentPeriodStars": 17,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
           "username": "AlexanderGrooff",
@@ -532,9 +532,9 @@
       "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12982,
-      "forks": 1194,
-      "currentPeriodStars": 53,
+      "stars": 12993,
+      "forks": 1196,
+      "currentPeriodStars": 19,
       "builtBy": [
         {
           "username": "Yuan325",
@@ -567,9 +567,9 @@
       "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16321,
+      "stars": 16323,
       "forks": 1570,
-      "currentPeriodStars": 11,
+      "currentPeriodStars": 8,
       "builtBy": [
         {
           "username": "valyala",
@@ -602,9 +602,9 @@
       "description": "Style definitions for nice terminal layouts 👄",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 10543,
-      "forks": 309,
-      "currentPeriodStars": 11,
+      "stars": 10549,
+      "forks": 310,
+      "currentPeriodStars": 10,
       "builtBy": [
         {
           "username": "meowgorithm",
@@ -637,9 +637,9 @@
       "description": "solar charging ☀️🚘",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6150,
+      "stars": 6151,
       "forks": 1189,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "andig",
@@ -672,9 +672,9 @@
       "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 14887,
+      "stars": 14893,
       "forks": 743,
-      "currentPeriodStars": 6,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "mikefarah",
@@ -707,9 +707,9 @@
       "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19048,
+      "stars": 19059,
       "forks": 1923,
-      "currentPeriodStars": 8,
+      "currentPeriodStars": 10,
       "builtBy": [
         {
           "username": "knadh",

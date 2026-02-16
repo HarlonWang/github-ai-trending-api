@@ -1,7 +1,7 @@
 {
   "count": 20,
   "since": "weekly",
-  "captured_at": "2026-02-15 12:19:00",
+  "captured_at": "2026-02-16 00:18:18",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2489,
-      "forks": 182,
-      "currentPeriodStars": 1927,
+      "stars": 2698,
+      "forks": 199,
+      "currentPeriodStars": 2106,
       "builtBy": [
         {
           "username": "apps/copilot-swe-agent",
@@ -56,9 +56,9 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2609,
-      "forks": 236,
-      "currentPeriodStars": 1090,
+      "stars": 2960,
+      "forks": 257,
+      "currentPeriodStars": 1235,
       "builtBy": [
         {
           "username": "steipete",
@@ -102,9 +102,9 @@
       "description": "Container runtimes on macOS (and Linux) with minimal setup",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26929,
+      "stars": 26938,
       "forks": 530,
-      "currentPeriodStars": 225,
+      "currentPeriodStars": 200,
       "builtBy": [
         {
           "username": "abiosoft",
@@ -137,9 +137,9 @@
       "description": "Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4556,
-      "forks": 190,
-      "currentPeriodStars": 354,
+      "stars": 4572,
+      "forks": 191,
+      "currentPeriodStars": 357,
       "builtBy": [
         {
           "username": "rcourtman",
@@ -174,7 +174,7 @@
       "languageColor": "#00ADD8",
       "stars": 8354,
       "forks": 2402,
-      "currentPeriodStars": 16,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
           "username": "fabxc",
@@ -207,9 +207,9 @@
       "description": "Podman: A tool for managing OCI containers and pods.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 30694,
-      "forks": 2977,
-      "currentPeriodStars": 98,
+      "stars": 30703,
+      "forks": 2978,
+      "currentPeriodStars": 96,
       "builtBy": [
         {
           "username": "openshift-merge-robot",
@@ -242,9 +242,9 @@
       "description": "Find secrets with Gitleaks 🔑",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24916,
-      "forks": 1912,
-      "currentPeriodStars": 108,
+      "stars": 24922,
+      "forks": 1914,
+      "currentPeriodStars": 106,
       "builtBy": [
         {
           "username": "zricethezav",
@@ -277,9 +277,9 @@
       "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7461,
-      "forks": 1186,
-      "currentPeriodStars": 161,
+      "stars": 7465,
+      "forks": 1187,
+      "currentPeriodStars": 157,
       "builtBy": [
         {
           "username": "alireza0",
@@ -312,9 +312,9 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 31912,
+      "stars": 31918,
       "forks": 2946,
-      "currentPeriodStars": 321,
+      "currentPeriodStars": 172,
       "builtBy": [
         {
           "username": "knqyf263",
@@ -347,9 +347,9 @@
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 47674,
-      "forks": 10215,
-      "currentPeriodStars": 69,
+      "stars": 47677,
+      "forks": 10214,
+      "currentPeriodStars": 66,
       "builtBy": [
         {
           "username": "jbardin",
@@ -382,9 +382,9 @@
       "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3847,
-      "forks": 352,
-      "currentPeriodStars": 65,
+      "stars": 3854,
+      "forks": 353,
+      "currentPeriodStars": 67,
       "builtBy": [
         {
           "username": "findleyr",
@@ -417,9 +417,9 @@
       "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22788,
-      "forks": 571,
-      "currentPeriodStars": 134,
+      "stars": 22798,
+      "forks": 574,
+      "currentPeriodStars": 138,
       "builtBy": [
         {
           "username": "meowgorithm",
@@ -452,9 +452,9 @@
       "description": "Network-wide ads & trackers blocking DNS server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 32574,
-      "forks": 2243,
-      "currentPeriodStars": 129,
+      "stars": 32586,
+      "forks": 2245,
+      "currentPeriodStars": 135,
       "builtBy": [
         {
           "username": "ainar-g",
@@ -487,9 +487,9 @@
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8582,
+      "stars": 8586,
       "forks": 720,
-      "currentPeriodStars": 166,
+      "currentPeriodStars": 136,
       "builtBy": [
         {
           "username": "majd",
@@ -523,8 +523,8 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": 60310,
-      "forks": 7024,
-      "currentPeriodStars": 180,
+      "forks": 7031,
+      "currentPeriodStars": 254,
       "builtBy": [
         {
           "username": "harshavardhana",
@@ -567,9 +567,9 @@
       "description": "simple terminal UI for git commands",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 72343,
-      "forks": 2505,
-      "currentPeriodStars": 495,
+      "stars": 72363,
+      "forks": 2506,
+      "currentPeriodStars": 468,
       "builtBy": [
         {
           "username": "jesseduffield",
@@ -602,9 +602,9 @@
       "description": "An open source, self-hosted implementation of the Tailscale control server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35380,
-      "forks": 1898,
-      "currentPeriodStars": 398,
+      "stars": 35402,
+      "forks": 1900,
+      "currentPeriodStars": 410,
       "builtBy": [
         {
           "username": "kradalby",
@@ -633,9 +633,9 @@
       "description": "Open-source media server with a web interface and desktop app for anime and manga.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2837,
+      "stars": 2840,
       "forks": 180,
-      "currentPeriodStars": 211,
+      "currentPeriodStars": 140,
       "builtBy": [
         {
           "username": "5rahim",
@@ -668,9 +668,9 @@
       "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12982,
-      "forks": 1194,
-      "currentPeriodStars": 222,
+      "stars": 12993,
+      "forks": 1196,
+      "currentPeriodStars": 217,
       "builtBy": [
         {
           "username": "Yuan325",
@@ -703,9 +703,9 @@
       "description": "The Cloud Native Application Proxy",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 61639,
+      "stars": 61655,
       "forks": 5830,
-      "currentPeriodStars": 169,
+      "currentPeriodStars": 172,
       "builtBy": [
         {
           "username": "ldez",

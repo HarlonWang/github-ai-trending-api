@@ -1,7 +1,7 @@
 {
   "count": 12,
   "since": "daily",
-  "captured_at": "2026-02-15 12:18:01",
+  "captured_at": "2026-02-16 00:17:24",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 671,
-      "forks": 255,
-      "currentPeriodStars": 209,
+      "stars": 789,
+      "forks": 285,
+      "currentPeriodStars": 163,
       "builtBy": [
         {
           "username": "claude",
@@ -56,9 +56,9 @@
       "description": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 5035,
-      "forks": 583,
-      "currentPeriodStars": 175,
+      "stars": 5109,
+      "forks": 588,
+      "currentPeriodStars": 211,
       "builtBy": [
         {
           "username": "pshenok",
@@ -77,8 +77,8 @@
           "avatar": "https://avatars.githubusercontent.com/u/103160824?s=40&v=4"
         },
         {
-          "username": "ikkira",
-          "avatar": "https://avatars.githubusercontent.com/u/4424977?s=40&v=4"
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -91,9 +91,9 @@
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 14205,
-      "forks": 1350,
-      "currentPeriodStars": 271,
+      "stars": 14437,
+      "forks": 1361,
+      "currentPeriodStars": 368,
       "builtBy": [
         {
           "username": "glittercowboy",
@@ -112,8 +112,8 @@
           "avatar": "https://avatars.githubusercontent.com/u/3037759?s=40&v=4"
         },
         {
-          "username": "dbachelder",
-          "avatar": "https://avatars.githubusercontent.com/u/325706?s=40&v=4"
+          "username": "superresistant",
+          "avatar": "https://avatars.githubusercontent.com/u/8614797?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -127,7 +127,7 @@
       "language": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": 1359,
-      "forks": 350,
+      "forks": 353,
       "currentPeriodStars": 4,
       "builtBy": [
         {
@@ -161,9 +161,9 @@
       "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5js.org",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 23429,
-      "forks": 3708,
-      "currentPeriodStars": 6,
+      "stars": 23436,
+      "forks": 3710,
+      "currentPeriodStars": 8,
       "builtBy": [
         {
           "username": "apps/allcontributors",
@@ -196,9 +196,9 @@
       "description": "The Free Software Media System - Official Web Client",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 3372,
+      "stars": 3373,
       "forks": 1813,
-      "currentPeriodStars": 4,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "thornbill",
@@ -231,9 +231,9 @@
       "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 61552,
+      "stars": 61561,
       "forks": 3942,
-      "currentPeriodStars": 29,
+      "currentPeriodStars": 26,
       "builtBy": [
         {
           "username": "gorhill",
@@ -266,8 +266,8 @@
       "description": "Minecraft AI with LLMs+Mineflayer",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 4734,
-      "forks": 678,
+      "stars": 4737,
+      "forks": 677,
       "currentPeriodStars": 6,
       "builtBy": [
         {
@@ -301,9 +301,9 @@
       "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 51816,
+      "stars": 51820,
       "forks": 11325,
-      "currentPeriodStars": 6,
+      "currentPeriodStars": 9,
       "builtBy": [
         {
           "username": "ErisDS",
@@ -336,9 +336,9 @@
       "description": "Fast, unopinionated, minimalist web framework for node.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 68698,
-      "forks": 22528,
-      "currentPeriodStars": 6,
+      "stars": 68703,
+      "forks": 22532,
+      "currentPeriodStars": 9,
       "builtBy": [
         {
           "username": "tj",
@@ -371,9 +371,9 @@
       "description": "📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 16135,
-      "forks": 2135,
-      "currentPeriodStars": 6,
+      "stars": 16139,
+      "forks": 2134,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "lowlighter",
@@ -406,9 +406,9 @@
       "description": "A way to experience modded websites and you can install newer apps without fighting with Tizen Studio",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 1199,
+      "stars": 1201,
       "forks": 88,
-      "currentPeriodStars": 7,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "reisxd",

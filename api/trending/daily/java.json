@@ -1,7 +1,7 @@
 {
   "count": 22,
   "since": "daily",
-  "captured_at": "2026-02-15 12:18:05",
+  "captured_at": "2026-02-16 00:17:28",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 50630,
-      "forks": 6018,
-      "currentPeriodStars": 39,
+      "stars": 50658,
+      "forks": 6022,
+      "currentPeriodStars": 41,
       "builtBy": [
         {
           "username": "agnostic-apollo",
@@ -46,9 +46,9 @@
       "description": "Open-source third-party Telegram client with not many but useful modifications.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 3319,
+      "stars": 3322,
       "forks": 140,
-      "currentPeriodStars": 49,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "tehcneko",
@@ -81,9 +81,9 @@
       "description": "QuestDB is a high performance, open-source, time-series database",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 16679,
-      "forks": 1536,
-      "currentPeriodStars": 4,
+      "stars": 16684,
+      "forks": 1538,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "bluestreak01",
@@ -116,9 +116,9 @@
       "description": "Browse media content with your own rules on Android TV",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 28163,
+      "stars": 28179,
       "forks": 1519,
-      "currentPeriodStars": 23,
+      "currentPeriodStars": 26,
       "builtBy": [
         {
           "username": "yuliskov",
@@ -151,9 +151,9 @@
       "description": "电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 2846,
+      "stars": 2848,
       "forks": 287,
-      "currentPeriodStars": 4,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "Eanya-Tonic",
@@ -178,9 +178,9 @@
       "description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12555,
-      "forks": 3486,
-      "currentPeriodStars": 9,
+      "stars": 12556,
+      "forks": 3485,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "findepi",
@@ -213,7 +213,7 @@
       "description": "Add-ons for openHAB",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 2041,
+      "stars": 2043,
       "forks": 3723,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -248,8 +248,8 @@
       "description": "A podcast manager for Android",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 7651,
-      "forks": 1616,
+      "stars": 7652,
+      "forks": 1617,
       "currentPeriodStars": 4,
       "builtBy": [
         {
@@ -283,9 +283,9 @@
       "description": "Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5707,
+      "stars": 5708,
       "forks": 141,
-      "currentPeriodStars": 3,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "Ghost-chu",
@@ -320,7 +320,7 @@
       "languageColor": "#b07219",
       "stars": 113,
       "forks": 59,
-      "currentPeriodStars": 11,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "kousen",
@@ -341,9 +341,9 @@
       "description": "Mirror of Apache Kafka",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 31899,
+      "stars": 31905,
       "forks": 14960,
-      "currentPeriodStars": 12,
+      "currentPeriodStars": 10,
       "builtBy": [
         {
           "username": "ijuma",
@@ -376,9 +376,9 @@
       "description": "An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5710,
+      "stars": 5713,
       "forks": 983,
-      "currentPeriodStars": 29,
+      "currentPeriodStars": 11,
       "builtBy": [
         {
           "username": "ikarus23",
@@ -413,7 +413,7 @@
       "languageColor": "#b07219",
       "stars": 2030,
       "forks": 2295,
-      "currentPeriodStars": 6,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "vishwasbabu",
@@ -446,9 +446,9 @@
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 76065,
-      "forks": 25795,
-      "currentPeriodStars": 7,
+      "stars": 76068,
+      "forks": 25796,
+      "currentPeriodStars": 8,
       "builtBy": [
         {
           "username": "kimchy",
@@ -481,9 +481,9 @@
       "description": "LSPosed Framework resuscitated",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9590,
+      "stars": 9591,
       "forks": 602,
-      "currentPeriodStars": 9,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "yujincheng08",
@@ -516,7 +516,7 @@
       "description": "🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 23401,
+      "stars": 23406,
       "forks": 4025,
       "currentPeriodStars": 18,
       "builtBy": [
@@ -551,7 +551,7 @@
       "description": "a fast, scalable, multi-language and extensible build system",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25123,
+      "stars": 25126,
       "forks": 4407,
       "currentPeriodStars": 4,
       "builtBy": [
@@ -582,9 +582,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 64379,
-      "forks": 7140,
-      "currentPeriodStars": 28,
+      "stars": 64400,
+      "forks": 7139,
+      "currentPeriodStars": 37,
       "builtBy": [
         {
           "username": "ryanmkurtz",
@@ -652,7 +652,7 @@
       "description": "Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 840,
+      "stars": 841,
       "forks": 946,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -687,9 +687,9 @@
       "description": "WhatsApp tools for Android",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 1231,
+      "stars": 1234,
       "forks": 165,
-      "currentPeriodStars": 7,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "Dev4Mod",
@@ -722,9 +722,9 @@
       "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12227,
-      "forks": 2561,
-      "currentPeriodStars": 13,
+      "stars": 12235,
+      "forks": 2562,
+      "currentPeriodStars": 9,
       "builtBy": [
         {
           "username": "mar-v-in",

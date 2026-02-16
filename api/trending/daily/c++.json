@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "daily",
-  "captured_at": "2026-02-15 12:18:25",
+  "captured_at": "2026-02-16 00:17:45",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1669,
-      "forks": 84,
-      "currentPeriodStars": 172,
+      "stars": 2295,
+      "forks": 116,
+      "currentPeriodStars": 673,
       "builtBy": [
         {
           "username": "iaojnh",
@@ -56,9 +56,9 @@
       "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12567,
-      "forks": 1745,
-      "currentPeriodStars": 27,
+      "stars": 12574,
+      "forks": 1746,
+      "currentPeriodStars": 25,
       "builtBy": [
         {
           "username": "SoftFever",
@@ -91,9 +91,9 @@
       "description": "qBittorrent BitTorrent client",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 35546,
-      "forks": 4568,
-      "currentPeriodStars": 21,
+      "stars": 35556,
+      "forks": 4570,
+      "currentPeriodStars": 19,
       "builtBy": [
         {
           "username": "Chocobo1",
@@ -126,9 +126,9 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10007,
-      "forks": 704,
-      "currentPeriodStars": 22,
+      "stars": 10017,
+      "forks": 705,
+      "currentPeriodStars": 20,
       "builtBy": [
         {
           "username": "pokamest",
@@ -161,9 +161,9 @@
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12001,
-      "forks": 1327,
-      "currentPeriodStars": 9,
+      "stars": 12007,
+      "forks": 1328,
+      "currentPeriodStars": 11,
       "builtBy": [
         {
           "username": "yuvaltassa",
@@ -196,9 +196,9 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2704,
-      "forks": 213,
-      "currentPeriodStars": 23,
+      "stars": 2722,
+      "forks": 214,
+      "currentPeriodStars": 37,
       "builtBy": [
         {
           "username": "geo-tp",
@@ -211,6 +211,10 @@
         {
           "username": "fdufnews",
           "avatar": "https://avatars.githubusercontent.com/u/4077715?s=40&v=4"
+        },
+        {
+          "username": "KonradIT",
+          "avatar": "https://avatars.githubusercontent.com/u/5891284?s=40&v=4"
         },
         {
           "username": "rosbeef",
@@ -227,9 +231,9 @@
       "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8063,
-      "forks": 1993,
-      "currentPeriodStars": 2,
+      "stars": 8065,
+      "forks": 1994,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "reuk",
@@ -262,9 +266,9 @@
       "description": "Production ready toolkit to run AI locally",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7805,
-      "forks": 237,
-      "currentPeriodStars": 226,
+      "stars": 8049,
+      "forks": 244,
+      "currentPeriodStars": 241,
       "builtBy": [
         {
           "username": "sanchitmonga22",
@@ -297,9 +301,9 @@
       "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28590,
-      "forks": 5167,
-      "currentPeriodStars": 18,
+      "stars": 28596,
+      "forks": 5169,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
           "username": "wwmayer",
@@ -332,9 +336,9 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 106672,
-      "forks": 24326,
-      "currentPeriodStars": 32,
+      "stars": 106683,
+      "forks": 24340,
+      "currentPeriodStars": 25,
       "builtBy": [
         {
           "username": "akien-mga",
@@ -367,9 +371,9 @@
       "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 45883,
-      "forks": 8076,
-      "currentPeriodStars": 35,
+      "stars": 45896,
+      "forks": 8079,
+      "currentPeriodStars": 33,
       "builtBy": [
         {
           "username": "alexey-milovidov",
@@ -402,9 +406,9 @@
       "description": "Fort Firewall for Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2921,
-      "forks": 202,
-      "currentPeriodStars": 19,
+      "stars": 2928,
+      "forks": 203,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "tnodir",
@@ -437,9 +441,9 @@
       "description": "Empower the Web community and invite more to build across platforms.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14434,
+      "stars": 14438,
       "forks": 500,
-      "currentPeriodStars": 8,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "nhsprite",
@@ -472,7 +476,7 @@
       "description": "Cross-platform desktop application for content-aware file organization and renaming. Supports local and remote LLMs, preview-based workflows, and fully user-controlled changes.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 528,
+      "stars": 532,
       "forks": 65,
       "currentPeriodStars": 34,
       "builtBy": [
@@ -495,9 +499,9 @@
       "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 44353,
-      "forks": 11053,
-      "currentPeriodStars": 4,
+      "stars": 44354,
+      "forks": 11055,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "ctiller",
@@ -530,9 +534,9 @@
       "description": "Cryptography Toolkit",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3149,
+      "stars": 3153,
       "forks": 627,
-      "currentPeriodStars": 6,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "randombit",
@@ -565,9 +569,9 @@
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 71348,
-      "forks": 11545,
-      "currentPeriodStars": 24,
+      "stars": 71361,
+      "forks": 11547,
+      "currentPeriodStars": 21,
       "builtBy": [
         {
           "username": "ocornut",
@@ -600,8 +604,8 @@
       "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10564,
-      "forks": 5023,
+      "stars": 10567,
+      "forks": 5024,
       "currentPeriodStars": 11,
       "builtBy": [
         {
@@ -635,9 +639,9 @@
       "description": "Self-hosted game stream host for Moonlight.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 34464,
+      "stars": 34489,
       "forks": 1699,
-      "currentPeriodStars": 31,
+      "currentPeriodStars": 29,
       "builtBy": [
         {
           "username": "ReenigneArcher",
@@ -670,8 +674,8 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 38230,
-      "forks": 10689,
+      "stars": 38232,
+      "forks": 10688,
       "currentPeriodStars": 4,
       "builtBy": [
         {
@@ -701,7 +705,7 @@
       "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7512,
+      "stars": 7515,
       "forks": 527,
       "currentPeriodStars": 4,
       "builtBy": [

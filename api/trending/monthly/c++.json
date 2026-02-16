@@ -1,7 +1,7 @@
 {
   "count": 23,
   "since": "monthly",
-  "captured_at": "2026-02-15 12:20:00",
+  "captured_at": "2026-02-16 00:19:21",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12486,
+      "stars": 12488,
       "forks": 985,
-      "currentPeriodStars": 541,
+      "currentPeriodStars": 535,
       "builtBy": [
         {
           "username": "beginlner",
@@ -46,9 +46,9 @@
       "description": "MLX: An array framework for Apple silicon",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 23938,
-      "forks": 1515,
-      "currentPeriodStars": 513,
+      "stars": 23944,
+      "forks": 1517,
+      "currentPeriodStars": 512,
       "builtBy": [
         {
           "username": "awni",
@@ -81,9 +81,9 @@
       "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18689,
-      "forks": 1652,
-      "currentPeriodStars": 1827,
+      "stars": 18699,
+      "forks": 1654,
+      "currentPeriodStars": 1817,
       "builtBy": [
         {
           "username": "k4yt3x",
@@ -116,9 +116,9 @@
       "description": "The ultimate Geometry Dash modding framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1640,
-      "forks": 295,
-      "currentPeriodStars": 276,
+      "stars": 1647,
+      "forks": 297,
+      "currentPeriodStars": 282,
       "builtBy": [
         {
           "username": "altalk23",
@@ -151,9 +151,9 @@
       "description": "PC Software for BambuLab and other 3D printers",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4014,
+      "stars": 4016,
       "forks": 620,
-      "currentPeriodStars": 363,
+      "currentPeriodStars": 357,
       "builtBy": [
         {
           "username": "Haidiye00",
@@ -186,9 +186,9 @@
       "description": "Notepad++ official repository",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 27145,
-      "forks": 5108,
-      "currentPeriodStars": 491,
+      "stars": 27147,
+      "forks": 5107,
+      "currentPeriodStars": 484,
       "builtBy": [
         {
           "username": "donho",
@@ -221,9 +221,9 @@
       "description": "Port of OpenAI's Whisper model in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 46738,
-      "forks": 5208,
-      "currentPeriodStars": 1091,
+      "stars": 46749,
+      "forks": 5211,
+      "currentPeriodStars": 1076,
       "builtBy": [
         {
           "username": "ggerganov",
@@ -258,7 +258,7 @@
       "languageColor": "#f34b7d",
       "stars": 7174,
       "forks": 1965,
-      "currentPeriodStars": 251,
+      "currentPeriodStars": 248,
       "builtBy": [
         {
           "username": "dr-m",
@@ -291,9 +291,9 @@
       "description": "PlayStation 3 emulator and debugger",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18166,
-      "forks": 2218,
-      "currentPeriodStars": 218,
+      "stars": 18172,
+      "forks": 2219,
+      "currentPeriodStars": 220,
       "builtBy": [
         {
           "username": "Megamouse",
@@ -326,9 +326,9 @@
       "description": "A cross-platform, reimplementation of Notepad++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 13437,
+      "stars": 13442,
       "forks": 810,
-      "currentPeriodStars": 372,
+      "currentPeriodStars": 370,
       "builtBy": [
         {
           "username": "dail8859",
@@ -361,9 +361,9 @@
       "description": "Official Transmission BitTorrent client repository",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14260,
+      "stars": 14261,
       "forks": 1341,
-      "currentPeriodStars": 361,
+      "currentPeriodStars": 365,
       "builtBy": [
         {
           "username": "ckerr",
@@ -396,9 +396,9 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 106672,
-      "forks": 24326,
-      "currentPeriodStars": 1494,
+      "stars": 106683,
+      "forks": 24340,
+      "currentPeriodStars": 1469,
       "builtBy": [
         {
           "username": "akien-mga",
@@ -431,9 +431,9 @@
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 101814,
-      "forks": 9072,
-      "currentPeriodStars": 603,
+      "stars": 101816,
+      "forks": 9074,
+      "currentPeriodStars": 599,
       "builtBy": [
         {
           "username": "DHowett",
@@ -466,9 +466,9 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 95053,
-      "forks": 14906,
-      "currentPeriodStars": 2368,
+      "stars": 95075,
+      "forks": 14916,
+      "currentPeriodStars": 2351,
       "builtBy": [
         {
           "username": "ggerganov",
@@ -501,9 +501,9 @@
       "description": "MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1782,
+      "stars": 1784,
       "forks": 470,
-      "currentPeriodStars": 90,
+      "currentPeriodStars": 89,
       "builtBy": [
         {
           "username": "kkaefer",
@@ -536,9 +536,9 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10007,
-      "forks": 704,
-      "currentPeriodStars": 464,
+      "stars": 10017,
+      "forks": 705,
+      "currentPeriodStars": 468,
       "builtBy": [
         {
           "username": "pokamest",
@@ -571,8 +571,8 @@
       "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 77128,
-      "forks": 8318,
+      "stars": 77127,
+      "forks": 8315,
       "currentPeriodStars": 258,
       "builtBy": [
         {
@@ -606,7 +606,7 @@
       "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19629,
+      "stars": 19632,
       "forks": 2113,
       "currentPeriodStars": 295,
       "builtBy": [
@@ -641,9 +641,9 @@
       "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14509,
-      "forks": 20247,
-      "currentPeriodStars": 190,
+      "stars": 14511,
+      "forks": 20252,
+      "currentPeriodStars": 189,
       "builtBy": [
         {
           "username": "peterbarker",
@@ -676,9 +676,9 @@
       "description": "Tool to statically recompile N64 games into native executables",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7679,
+      "stars": 7680,
       "forks": 415,
-      "currentPeriodStars": 239,
+      "currentPeriodStars": 240,
       "builtBy": [
         {
           "username": "Mr-Wiseguy",
@@ -711,9 +711,9 @@
       "description": "DuckDB is an analytical in-process SQL database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 36100,
-      "forks": 2925,
-      "currentPeriodStars": 773,
+      "stars": 36111,
+      "forks": 2928,
+      "currentPeriodStars": 771,
       "builtBy": [
         {
           "username": "Mytherin",
@@ -746,9 +746,9 @@
       "description": "🦊 Anti-detect browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5356,
-      "forks": 494,
-      "currentPeriodStars": 605,
+      "stars": 5364,
+      "forks": 495,
+      "currentPeriodStars": 604,
       "builtBy": [
         {
           "username": "daijro",
@@ -781,9 +781,9 @@
       "description": "Production ready toolkit to run AI locally",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7805,
-      "forks": 237,
-      "currentPeriodStars": 4018,
+      "stars": 8049,
+      "forks": 244,
+      "currentPeriodStars": 4219,
       "builtBy": [
         {
           "username": "sanchitmonga22",

@@ -1,7 +1,7 @@
 {
   "count": 20,
   "since": "weekly",
-  "captured_at": "2026-02-15 12:19:12",
+  "captured_at": "2026-02-16 00:18:29",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2704,
-      "forks": 213,
-      "currentPeriodStars": 147,
+      "stars": 2722,
+      "forks": 214,
+      "currentPeriodStars": 174,
       "builtBy": [
         {
           "username": "geo-tp",
@@ -26,6 +26,10 @@
         {
           "username": "fdufnews",
           "avatar": "https://avatars.githubusercontent.com/u/4077715?s=40&v=4"
+        },
+        {
+          "username": "KonradIT",
+          "avatar": "https://avatars.githubusercontent.com/u/5891284?s=40&v=4"
         },
         {
           "username": "rosbeef",
@@ -42,9 +46,9 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1670,
-      "forks": 84,
-      "currentPeriodStars": 722,
+      "stars": 2295,
+      "forks": 116,
+      "currentPeriodStars": 1804,
       "builtBy": [
         {
           "username": "iaojnh",
@@ -87,9 +91,9 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 95053,
-      "forks": 14906,
-      "currentPeriodStars": 528,
+      "stars": 95075,
+      "forks": 14916,
+      "currentPeriodStars": 500,
       "builtBy": [
         {
           "username": "ggerganov",
@@ -122,9 +126,9 @@
       "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14253,
+      "stars": 14254,
       "forks": 3073,
-      "currentPeriodStars": 34,
+      "currentPeriodStars": 32,
       "builtBy": [
         {
           "username": "RomanPudashkin",
@@ -159,7 +163,7 @@
       "languageColor": "#f34b7d",
       "stars": 12689,
       "forks": 1776,
-      "currentPeriodStars": 24,
+      "currentPeriodStars": 18,
       "builtBy": [
         {
           "username": "evmar",
@@ -192,9 +196,9 @@
       "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19629,
+      "stars": 19632,
       "forks": 2113,
-      "currentPeriodStars": 153,
+      "currentPeriodStars": 142,
       "builtBy": [
         {
           "username": "pixelflinger",
@@ -227,9 +231,9 @@
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 193724,
-      "forks": 75230,
-      "currentPeriodStars": 140,
+      "stars": 193731,
+      "forks": 75232,
+      "currentPeriodStars": 148,
       "builtBy": [
         {
           "username": "tensorflower-gardener",
@@ -262,9 +266,9 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 38230,
-      "forks": 10689,
-      "currentPeriodStars": 43,
+      "stars": 38232,
+      "forks": 10688,
+      "currentPeriodStars": 36,
       "builtBy": [
         {
           "username": "gennadiycivil",
@@ -293,9 +297,9 @@
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19563,
+      "stars": 19574,
       "forks": 2485,
-      "currentPeriodStars": 165,
+      "currentPeriodStars": 166,
       "builtBy": [
         {
           "username": "MistEO",
@@ -328,9 +332,9 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10007,
-      "forks": 704,
-      "currentPeriodStars": 119,
+      "stars": 10017,
+      "forks": 705,
+      "currentPeriodStars": 129,
       "builtBy": [
         {
           "username": "pokamest",
@@ -363,9 +367,9 @@
       "description": "Self-hosted game stream host for Moonlight.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 34464,
+      "stars": 34489,
       "forks": 1699,
-      "currentPeriodStars": 204,
+      "currentPeriodStars": 216,
       "builtBy": [
         {
           "username": "ReenigneArcher",
@@ -398,9 +402,9 @@
       "description": "Mumble is an open-source, low-latency, high quality voice chat software.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7700,
-      "forks": 1278,
-      "currentPeriodStars": 111,
+      "stars": 7712,
+      "forks": 1279,
+      "currentPeriodStars": 134,
       "builtBy": [
         {
           "username": "thorvald",
@@ -433,9 +437,9 @@
       "description": "Android real-time display control software",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28146,
-      "forks": 3427,
-      "currentPeriodStars": 181,
+      "stars": 28223,
+      "forks": 3436,
+      "currentPeriodStars": 239,
       "builtBy": [
         {
           "username": "barry-ran",
@@ -468,9 +472,9 @@
       "description": "Behavior Trees Library in C++. Batteries included.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3830,
+      "stars": 3832,
       "forks": 804,
-      "currentPeriodStars": 21,
+      "currentPeriodStars": 22,
       "builtBy": [
         {
           "username": "facontidavide",
@@ -503,9 +507,9 @@
       "description": "Bitcoin Core integration/staging tree",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 88130,
-      "forks": 38906,
-      "currentPeriodStars": 166,
+      "stars": 88136,
+      "forks": 38908,
+      "currentPeriodStars": 162,
       "builtBy": [
         {
           "username": "laanwj",
@@ -540,7 +544,7 @@
       "languageColor": "#f34b7d",
       "stars": 1739,
       "forks": 211,
-      "currentPeriodStars": 22,
+      "currentPeriodStars": 14,
       "builtBy": [
         {
           "username": "otavepto",
@@ -573,9 +577,9 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29842,
-      "forks": 6266,
-      "currentPeriodStars": 96,
+      "stars": 29849,
+      "forks": 6269,
+      "currentPeriodStars": 94,
       "builtBy": [
         {
           "username": "john-preston",
@@ -608,9 +612,9 @@
       "description": "Production ready toolkit to run AI locally",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7805,
-      "forks": 237,
-      "currentPeriodStars": 1290,
+      "stars": 8049,
+      "forks": 244,
+      "currentPeriodStars": 1505,
       "builtBy": [
         {
           "username": "sanchitmonga22",
@@ -643,9 +647,9 @@
       "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. ✌️ 🎉",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10643,
-      "forks": 985,
-      "currentPeriodStars": 66,
+      "stars": 10646,
+      "forks": 986,
+      "currentPeriodStars": 61,
       "builtBy": [
         {
           "username": "Alexays",
@@ -680,7 +684,7 @@
       "languageColor": "#f34b7d",
       "stars": 17038,
       "forks": 2967,
-      "currentPeriodStars": 30,
+      "currentPeriodStars": 28,
       "builtBy": [
         {
           "username": "derekmauro",

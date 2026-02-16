@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "weekly",
-  "captured_at": "2026-02-15 12:19:21",
+  "captured_at": "2026-02-16 00:18:39",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "AeroSpace is an i3-like tiling window manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 18874,
-      "forks": 419,
-      "currentPeriodStars": 168,
+      "stars": 18885,
+      "forks": 418,
+      "currentPeriodStars": 167,
       "builtBy": [
         {
           "username": "nikitabobko",
@@ -46,9 +46,9 @@
       "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3748,
-      "forks": 476,
-      "currentPeriodStars": 135,
+      "stars": 3755,
+      "forks": 477,
+      "currentPeriodStars": 123,
       "builtBy": [
         {
           "username": "Beingpax",
@@ -81,9 +81,9 @@
       "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 7086,
+      "stars": 7098,
       "forks": 499,
-      "currentPeriodStars": 187,
+      "currentPeriodStars": 205,
       "builtBy": [
         {
           "username": "Alexander5015",
@@ -116,9 +116,9 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 24472,
-      "forks": 642,
-      "currentPeriodStars": 352,
+      "stars": 24488,
+      "forks": 645,
+      "currentPeriodStars": 345,
       "builtBy": [
         {
           "username": "jglogan",
@@ -152,8 +152,8 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": 14896,
-      "forks": 472,
-      "currentPeriodStars": 29,
+      "forks": 473,
+      "currentPeriodStars": 30,
       "builtBy": [
         {
           "username": "IsaacMarovitz",
@@ -186,9 +186,9 @@
       "description": "RSS reader for macOS and iOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 9680,
+      "stars": 9681,
       "forks": 645,
-      "currentPeriodStars": 93,
+      "currentPeriodStars": 94,
       "builtBy": [
         {
           "username": "brentsimmons",
@@ -221,7 +221,7 @@
       "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 32425,
+      "stars": 32426,
       "forks": 930,
       "currentPeriodStars": 87,
       "builtBy": [
@@ -258,7 +258,7 @@
       "languageColor": "#F05138",
       "stars": 8006,
       "forks": 2409,
-      "currentPeriodStars": 26,
+      "currentPeriodStars": 29,
       "builtBy": [
         {
           "username": "laktyushin",
@@ -293,7 +293,7 @@
       "languageColor": "#F05138",
       "stars": 19451,
       "forks": 2280,
-      "currentPeriodStars": 22,
+      "currentPeriodStars": 23,
       "builtBy": [
         {
           "username": "jpsim",
@@ -326,9 +326,9 @@
       "description": "A modular Swift SDK for audio processing with MLX on Apple Silicon",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 204,
-      "forks": 24,
-      "currentPeriodStars": 118,
+      "stars": 209,
+      "forks": 26,
+      "currentPeriodStars": 82,
       "builtBy": [
         {
           "username": "Blaizzy",
@@ -361,9 +361,9 @@
       "description": "AltStore is an alternative app store for non-jailbroken iOS devices.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 13518,
+      "stars": 13519,
       "forks": 1226,
-      "currentPeriodStars": 46,
+      "currentPeriodStars": 39,
       "builtBy": [
         {
           "username": "rileytestut",
@@ -396,9 +396,9 @@
       "description": "Elegant HTTP Networking in Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 42348,
-      "forks": 7670,
-      "currentPeriodStars": 22,
+      "stars": 42345,
+      "forks": 7671,
+      "currentPeriodStars": 18,
       "builtBy": [
         {
           "username": "cnoon",
@@ -431,9 +431,9 @@
       "description": "Privacy oriented video player for iOS, tvOS and macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3311,
+      "stars": 3312,
       "forks": 129,
-      "currentPeriodStars": 17,
+      "currentPeriodStars": 19,
       "builtBy": [
         {
           "username": "arekf",
@@ -466,9 +466,9 @@
       "description": "macOS system monitor in your menu bar",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 36464,
-      "forks": 1180,
-      "currentPeriodStars": 187,
+      "stars": 36468,
+      "forks": 1181,
+      "currentPeriodStars": 160,
       "builtBy": [
         {
           "username": "exelban",
@@ -501,9 +501,9 @@
       "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14341,
+      "stars": 14342,
       "forks": 1636,
-      "currentPeriodStars": 30,
+      "currentPeriodStars": 27,
       "builtBy": [
         {
           "username": "stephencelis",
@@ -537,8 +537,8 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": 8413,
-      "forks": 729,
-      "currentPeriodStars": 8,
+      "forks": 730,
+      "currentPeriodStars": 10,
       "builtBy": [
         {
           "username": "weissi",
@@ -573,7 +573,7 @@
       "languageColor": "#F05138",
       "stars": 8022,
       "forks": 3689,
-      "currentPeriodStars": 5,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "joesus",
@@ -608,7 +608,7 @@
       "languageColor": "#F05138",
       "stars": 26667,
       "forks": 3835,
-      "currentPeriodStars": 13,
+      "currentPeriodStars": 10,
       "builtBy": [
         {
           "username": "buba447",
@@ -641,9 +641,9 @@
       "description": "Commonly used data structures for Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 4345,
+      "stars": 4349,
       "forks": 362,
-      "currentPeriodStars": 19,
+      "currentPeriodStars": 26,
       "builtBy": [
         {
           "username": "lorentey",
@@ -676,9 +676,9 @@
       "description": "A toolkit to make debugging iOS applications easier 🚀",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1568,
+      "stars": 1573,
       "forks": 133,
-      "currentPeriodStars": 450,
+      "currentPeriodStars": 429,
       "builtBy": [
         {
           "username": "MaatheusGois",
@@ -716,9 +716,9 @@
       "description": "Windows alt-tab on macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14762,
+      "stars": 14772,
       "forks": 485,
-      "currentPeriodStars": 123,
+      "currentPeriodStars": 129,
       "builtBy": [
         {
           "username": "lwouis",

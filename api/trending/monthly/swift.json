@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "monthly",
-  "captured_at": "2026-02-15 12:20:12",
+  "captured_at": "2026-02-16 00:19:32",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 5821,
-      "forks": 374,
-      "currentPeriodStars": 3672,
+      "stars": 5858,
+      "forks": 375,
+      "currentPeriodStars": 3581,
       "builtBy": [
         {
           "username": "steipete",
@@ -46,9 +46,9 @@
       "description": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2102,
-      "forks": 131,
-      "currentPeriodStars": 974,
+      "stars": 2112,
+      "forks": 132,
+      "currentPeriodStars": 986,
       "builtBy": [
         {
           "username": "steipete",
@@ -81,9 +81,9 @@
       "description": "CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 640,
-      "forks": 68,
-      "currentPeriodStars": 445,
+      "stars": 646,
+      "forks": 70,
+      "currentPeriodStars": 450,
       "builtBy": [
         {
           "username": "steipete",
@@ -94,16 +94,16 @@
           "avatar": "https://avatars.githubusercontent.com/u/129705?s=40&v=4"
         },
         {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
           "username": "tommybananas",
           "avatar": "https://avatars.githubusercontent.com/u/2165523?s=40&v=4"
         },
         {
           "username": "zackleman",
           "avatar": "https://avatars.githubusercontent.com/u/6403966?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -116,9 +116,9 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 25069,
-      "forks": 2343,
-      "currentPeriodStars": 1239,
+      "stars": 25076,
+      "forks": 2344,
+      "currentPeriodStars": 1164,
       "builtBy": [
         {
           "username": "jackjackbits",
@@ -151,9 +151,9 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 24472,
-      "forks": 642,
-      "currentPeriodStars": 1264,
+      "stars": 24488,
+      "forks": 645,
+      "currentPeriodStars": 1277,
       "builtBy": [
         {
           "username": "jglogan",
@@ -186,7 +186,7 @@
       "description": "RSS reader for macOS and iOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 9680,
+      "stars": 9681,
       "forks": 645,
       "currentPeriodStars": 227,
       "builtBy": [
@@ -221,9 +221,9 @@
       "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3748,
-      "forks": 476,
-      "currentPeriodStars": 594,
+      "stars": 3755,
+      "forks": 477,
+      "currentPeriodStars": 539,
       "builtBy": [
         {
           "username": "Beingpax",
@@ -256,9 +256,9 @@
       "description": "AltStore is an alternative app store for non-jailbroken iOS devices.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 13518,
+      "stars": 13519,
       "forks": 1226,
-      "currentPeriodStars": 160,
+      "currentPeriodStars": 161,
       "builtBy": [
         {
           "username": "rileytestut",
@@ -291,9 +291,9 @@
       "description": "Elegant HTTP Networking in Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 42348,
-      "forks": 7670,
-      "currentPeriodStars": 90,
+      "stars": 42345,
+      "forks": 7671,
+      "currentPeriodStars": 89,
       "builtBy": [
         {
           "username": "cnoon",
@@ -326,9 +326,9 @@
       "description": "Windows alt-tab on macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14762,
+      "stars": 14772,
       "forks": 485,
-      "currentPeriodStars": 509,
+      "currentPeriodStars": 518,
       "builtBy": [
         {
           "username": "lwouis",
@@ -361,9 +361,9 @@
       "description": "macOS system monitor in your menu bar",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 36464,
-      "forks": 1180,
-      "currentPeriodStars": 755,
+      "stars": 36468,
+      "forks": 1181,
+      "currentPeriodStars": 742,
       "builtBy": [
         {
           "username": "exelban",
@@ -396,9 +396,9 @@
       "description": "On-device Speech Recognition for Apple Silicon",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 5602,
-      "forks": 501,
-      "currentPeriodStars": 166,
+      "stars": 5605,
+      "forks": 502,
+      "currentPeriodStars": 170,
       "builtBy": [
         {
           "username": "ZachNagengast",
@@ -431,9 +431,9 @@
       "description": "Community fork of PlayCover",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 10847,
+      "stars": 10850,
       "forks": 892,
-      "currentPeriodStars": 280,
+      "currentPeriodStars": 281,
       "builtBy": [
         {
           "username": "IsaacMarovitz",
@@ -468,7 +468,7 @@
       "languageColor": "#F05138",
       "stars": 5519,
       "forks": 693,
-      "currentPeriodStars": 78,
+      "currentPeriodStars": 72,
       "builtBy": [
         {
           "username": "fortmarek",
@@ -501,9 +501,9 @@
       "description": "Virtual machines for iOS and macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 32824,
+      "stars": 32830,
       "forks": 1648,
-      "currentPeriodStars": 631,
+      "currentPeriodStars": 628,
       "builtBy": [
         {
           "username": "osy",
@@ -538,7 +538,7 @@
       "languageColor": "#F05138",
       "stars": 19451,
       "forks": 2280,
-      "currentPeriodStars": 83,
+      "currentPeriodStars": 81,
       "builtBy": [
         {
           "username": "jpsim",
@@ -571,9 +571,9 @@
       "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 7086,
+      "stars": 7098,
       "forks": 499,
-      "currentPeriodStars": 658,
+      "currentPeriodStars": 661,
       "builtBy": [
         {
           "username": "Alexander5015",
@@ -606,9 +606,9 @@
       "description": "Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 979,
-      "forks": 54,
-      "currentPeriodStars": 376,
+      "stars": 985,
+      "forks": 55,
+      "currentPeriodStars": 373,
       "builtBy": [
         {
           "username": "steipete",
@@ -641,9 +641,9 @@
       "description": "Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1121,
+      "stars": 1124,
       "forks": 50,
-      "currentPeriodStars": 852,
+      "currentPeriodStars": 858,
       "builtBy": [
         {
           "username": "hamed-elfayome",
@@ -676,7 +676,7 @@
       "description": "A toolkit for SQLite databases, with a focus on application development",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8182,
+      "stars": 8185,
       "forks": 845,
       "currentPeriodStars": 95,
       "builtBy": [
@@ -711,9 +711,9 @@
       "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 32425,
+      "stars": 32426,
       "forks": 930,
-      "currentPeriodStars": 360,
+      "currentPeriodStars": 359,
       "builtBy": [
         {
           "username": "waydabber",

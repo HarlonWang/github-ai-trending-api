@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "monthly",
-  "captured_at": "2026-02-15 12:19:48",
+  "captured_at": "2026-02-16 00:19:06",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 162642,
-      "forks": 14579,
-      "currentPeriodStars": 3687,
+      "stars": 162661,
+      "forks": 14585,
+      "currentPeriodStars": 3644,
       "builtBy": [
         {
           "username": "mxyng",
@@ -46,9 +46,9 @@
       "description": "A tool for secrets management, encryption as a service, and privileged access management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35032,
+      "stars": 35034,
       "forks": 4595,
-      "currentPeriodStars": 1272,
+      "currentPeriodStars": 1267,
       "builtBy": [
         {
           "username": "jefferai",
@@ -81,9 +81,9 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16312,
-      "forks": 971,
-      "currentPeriodStars": 6247,
+      "stars": 16350,
+      "forks": 977,
+      "currentPeriodStars": 6093,
       "builtBy": [
         {
           "username": "steveyegge",
@@ -116,9 +116,9 @@
       "description": "Ultimate camera streaming application",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12319,
+      "stars": 12325,
       "forks": 950,
-      "currentPeriodStars": 1129,
+      "currentPeriodStars": 1153,
       "builtBy": [
         {
           "username": "AlexxIT",
@@ -151,9 +151,9 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2609,
-      "forks": 236,
-      "currentPeriodStars": 1815,
+      "stars": 2960,
+      "forks": 257,
+      "currentPeriodStars": 2376,
       "builtBy": [
         {
           "username": "steipete",
@@ -197,9 +197,9 @@
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15215,
-      "forks": 1891,
-      "currentPeriodStars": 1942,
+      "stars": 15220,
+      "forks": 1892,
+      "currentPeriodStars": 1936,
       "builtBy": [
         {
           "username": "putyy",
@@ -228,9 +228,9 @@
       "description": "The AWS Provider enables Terraform to manage AWS resources.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 10745,
+      "stars": 10744,
       "forks": 9958,
-      "currentPeriodStars": 72,
+      "currentPeriodStars": 68,
       "builtBy": [
         {
           "username": "ewbankkit",
@@ -263,9 +263,9 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 42478,
+      "stars": 42483,
       "forks": 7937,
-      "currentPeriodStars": 540,
+      "currentPeriodStars": 542,
       "builtBy": [
         {
           "username": "mislav",
@@ -298,9 +298,9 @@
       "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22486,
-      "forks": 1098,
-      "currentPeriodStars": 1501,
+      "stars": 22501,
+      "forks": 1101,
+      "currentPeriodStars": 1506,
       "builtBy": [
         {
           "username": "mlsmaycon",
@@ -333,9 +333,9 @@
       "description": "The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1355,
+      "stars": 1356,
       "forks": 235,
-      "currentPeriodStars": 244,
+      "currentPeriodStars": 234,
       "builtBy": [
         {
           "username": "korotovsky",
@@ -368,9 +368,9 @@
       "description": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3166,
-      "forks": 91,
-      "currentPeriodStars": 977,
+      "stars": 3177,
+      "forks": 92,
+      "currentPeriodStars": 980,
       "builtBy": [
         {
           "username": "s0up4200",
@@ -403,9 +403,9 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 31912,
+      "stars": 31918,
       "forks": 2946,
-      "currentPeriodStars": 1015,
+      "currentPeriodStars": 1016,
       "builtBy": [
         {
           "username": "knqyf263",
@@ -438,9 +438,9 @@
       "description": "The to-do app to organize your life.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3334,
-      "forks": 305,
-      "currentPeriodStars": 304,
+      "stars": 3338,
+      "forks": 304,
+      "currentPeriodStars": 303,
       "builtBy": [
         {
           "username": "kolaente",
@@ -473,9 +473,9 @@
       "description": "Cloud Native Policy Management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7396,
-      "forks": 1232,
-      "currentPeriodStars": 121,
+      "stars": 7400,
+      "forks": 1234,
+      "currentPeriodStars": 124,
       "builtBy": [
         {
           "username": "realshuting",
@@ -508,9 +508,9 @@
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28304,
-      "forks": 2285,
-      "currentPeriodStars": 1125,
+      "stars": 28323,
+      "forks": 2288,
+      "currentPeriodStars": 1141,
       "builtBy": [
         {
           "username": "bradfitz",
@@ -543,9 +543,9 @@
       "description": "An open source, self-hosted implementation of the Tailscale control server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35380,
-      "forks": 1898,
-      "currentPeriodStars": 1159,
+      "stars": 35402,
+      "forks": 1900,
+      "currentPeriodStars": 1174,
       "builtBy": [
         {
           "username": "kradalby",
@@ -574,9 +574,9 @@
       "description": "GitHub's official MCP Server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26941,
-      "forks": 3579,
-      "currentPeriodStars": 1121,
+      "stars": 26954,
+      "forks": 3581,
+      "currentPeriodStars": 1109,
       "builtBy": [
         {
           "username": "SamMorrowDrums",
@@ -609,7 +609,7 @@
       "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 980,
+      "stars": 984,
       "forks": 113,
       "currentPeriodStars": 285,
       "builtBy": [
@@ -645,8 +645,8 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": 8838,
-      "forks": 1226,
-      "currentPeriodStars": 84,
+      "forks": 1225,
+      "currentPeriodStars": 83,
       "builtBy": [
         {
           "username": "lkysow",

@@ -1,7 +1,7 @@
 {
   "count": 18,
   "since": "weekly",
-  "captured_at": "2026-02-15 12:19:26",
+  "captured_at": "2026-02-16 00:18:44",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Software simulation for Android hardware-backed key pairs with key attestation",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 814,
+      "stars": 817,
       "forks": 80,
-      "currentPeriodStars": 128,
+      "currentPeriodStars": 129,
       "builtBy": [
         {
           "username": "JingMatrix",
@@ -46,9 +46,9 @@
       "description": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 18731,
-      "forks": 1485,
-      "currentPeriodStars": 164,
+      "stars": 18735,
+      "forks": 1486,
+      "currentPeriodStars": 163,
       "builtBy": [
         {
           "username": "arm64v8a",
@@ -81,9 +81,9 @@
       "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 35984,
+      "stars": 35994,
       "forks": 1748,
-      "currentPeriodStars": 214,
+      "currentPeriodStars": 222,
       "builtBy": [
         {
           "username": "lisonge",
@@ -116,9 +116,9 @@
       "description": "privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2820,
-      "forks": 201,
-      "currentPeriodStars": 95,
+      "stars": 2833,
+      "forks": 203,
+      "currentPeriodStars": 100,
       "builtBy": [
         {
           "username": "theovilardo",
@@ -151,9 +151,9 @@
       "description": "Lightweight unofficial Steam client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2601,
-      "forks": 104,
-      "currentPeriodStars": 226,
+      "stars": 2612,
+      "forks": 105,
+      "currentPeriodStars": 180,
       "builtBy": [
         {
           "username": "utkarshdalal",
@@ -186,7 +186,7 @@
       "description": "A Download Manager that speeds up your downloads",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 13401,
+      "stars": 13411,
       "forks": 690,
       "currentPeriodStars": 156,
       "builtBy": [
@@ -221,9 +221,9 @@
       "description": "A feature-rich weather app with good visualizations and more than 50 sources.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 9308,
+      "stars": 9314,
       "forks": 309,
-      "currentPeriodStars": 93,
+      "currentPeriodStars": 89,
       "builtBy": [
         {
           "username": "papjul",
@@ -256,9 +256,9 @@
       "description": "Android app for streaming and downloading media.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 8889,
-      "forks": 778,
-      "currentPeriodStars": 78,
+      "stars": 8891,
+      "forks": 779,
+      "currentPeriodStars": 83,
       "builtBy": [
         {
           "username": "LagradOst",
@@ -328,7 +328,7 @@
       "languageColor": "#A97BFF",
       "stars": 36661,
       "forks": 11541,
-      "currentPeriodStars": 34,
+      "currentPeriodStars": 35,
       "builtBy": [
         {
           "username": "Mygod",
@@ -361,9 +361,9 @@
       "description": "AirPods liberated from Apple's ecosystem.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 25384,
+      "stars": 25392,
       "forks": 1353,
-      "currentPeriodStars": 181,
+      "currentPeriodStars": 182,
       "builtBy": [
         {
           "username": "kavishdevar",
@@ -396,9 +396,9 @@
       "description": "Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3281,
-      "forks": 387,
-      "currentPeriodStars": 32,
+      "stars": 3282,
+      "forks": 386,
+      "currentPeriodStars": 23,
       "builtBy": [
         {
           "username": "tanujnotes",
@@ -431,9 +431,9 @@
       "description": "The cutest Material 3 Expressive music streaming client for Android, built for performance and extensibility.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 665,
+      "stars": 683,
       "forks": 21,
-      "currentPeriodStars": 91,
+      "currentPeriodStars": 101,
       "builtBy": [
         {
           "username": "koiverse",
@@ -466,9 +466,9 @@
       "description": "SD Maid 2/SE is Android's most thorough cleaning tool.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6149,
+      "stars": 6152,
       "forks": 777,
-      "currentPeriodStars": 67,
+      "currentPeriodStars": 62,
       "builtBy": [
         {
           "username": "d4rken",
@@ -501,9 +501,9 @@
       "description": "Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1858,
-      "forks": 403,
-      "currentPeriodStars": 33,
+      "stars": 1863,
+      "forks": 404,
+      "currentPeriodStars": 37,
       "builtBy": [
         {
           "username": "bmarty",
@@ -536,9 +536,9 @@
       "description": "More Expressive InstallerX !",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3641,
-      "forks": 135,
-      "currentPeriodStars": 109,
+      "stars": 3648,
+      "forks": 136,
+      "currentPeriodStars": 111,
       "builtBy": [
         {
           "username": "wxxsfxyzm",
@@ -571,7 +571,7 @@
       "description": "🧩 Patches for ReVanced",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1479,
+      "stars": 1486,
       "forks": 77,
       "currentPeriodStars": 27,
       "builtBy": [
@@ -606,9 +606,9 @@
       "description": "Bringing Astrid Tasks back from the dead",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 4923,
+      "stars": 4922,
       "forks": 600,
-      "currentPeriodStars": 44,
+      "currentPeriodStars": 41,
       "builtBy": [
         {
           "username": "abaker",

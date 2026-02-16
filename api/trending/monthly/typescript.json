@@ -1,7 +1,7 @@
 {
   "count": 15,
   "since": "monthly",
-  "captured_at": "2026-02-15 12:19:54",
+  "captured_at": "2026-02-16 00:19:16",
   "data": [
     {
       "rank": 1,
@@ -11,29 +11,29 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 195580,
-      "forks": 33848,
-      "currentPeriodStars": 189974,
+      "stars": 197145,
+      "forks": 34301,
+      "currentPeriodStars": 191849,
       "builtBy": [
         {
           "username": "steipete",
           "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
         },
         {
-          "username": "thewilloftheshadow",
-          "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
           "username": "vignesh07",
           "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&v=4"
         },
         {
+          "username": "thewilloftheshadow",
+          "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&v=4"
+        },
+        {
           "username": "gumadeiras",
           "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
       "aiSummaries": [
@@ -57,9 +57,9 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12217,
-      "forks": 1223,
-      "currentPeriodStars": 10225,
+      "stars": 12372,
+      "forks": 1241,
+      "currentPeriodStars": 10495,
       "builtBy": [
         {
           "username": "badlogic",
@@ -92,9 +92,9 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 22215,
-      "forks": 2232,
-      "currentPeriodStars": 18284,
+      "stars": 22438,
+      "forks": 2248,
+      "currentPeriodStars": 18511,
       "builtBy": [
         {
           "username": "ajmallesh",
@@ -127,9 +127,9 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 36645,
-      "forks": 2231,
-      "currentPeriodStars": 11382,
+      "stars": 36705,
+      "forks": 2235,
+      "currentPeriodStars": 11463,
       "builtBy": [
         {
           "username": "JonnyBurger",
@@ -162,9 +162,9 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15908,
-      "forks": 1200,
-      "currentPeriodStars": 12330,
+      "stars": 15975,
+      "forks": 1205,
+      "currentPeriodStars": 12236,
       "builtBy": [
         {
           "username": "kuishou68",
@@ -202,9 +202,9 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8521,
-      "forks": 454,
-      "currentPeriodStars": 6822,
+      "stars": 8590,
+      "forks": 464,
+      "currentPeriodStars": 6900,
       "builtBy": [
         {
           "username": "tobi",
@@ -237,9 +237,9 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 104865,
-      "forks": 10191,
-      "currentPeriodStars": 36517,
+      "stars": 105106,
+      "forks": 10217,
+      "currentPeriodStars": 35045,
       "builtBy": [
         {
           "username": "thdxr",
@@ -272,9 +272,9 @@
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9954,
-      "forks": 482,
-      "currentPeriodStars": 8032,
+      "stars": 10152,
+      "forks": 493,
+      "currentPeriodStars": 8046,
       "builtBy": [
         {
           "username": "apps/dependabot",
@@ -317,9 +317,9 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 28302,
-      "forks": 1899,
-      "currentPeriodStars": 14718,
+      "stars": 28422,
+      "forks": 1909,
+      "currentPeriodStars": 14703,
       "builtBy": [
         {
           "username": "thedotmack",
@@ -352,9 +352,9 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15254,
-      "forks": 1825,
-      "currentPeriodStars": 8192,
+      "stars": 15356,
+      "forks": 1826,
+      "currentPeriodStars": 8341,
       "builtBy": [
         {
           "username": "virattt",
@@ -365,16 +365,16 @@
           "avatar": "https://avatars.githubusercontent.com/u/94194147?s=40&v=4"
         },
         {
+          "username": "cursoragent",
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
+        },
+        {
           "username": "gupta-8",
           "avatar": "https://avatars.githubusercontent.com/u/215169640?s=40&v=4"
         },
         {
           "username": "sjhddh",
           "avatar": "https://avatars.githubusercontent.com/u/5778228?s=40&v=4"
-        },
-        {
-          "username": "cursoragent",
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -387,9 +387,9 @@
       "description": "the best agent harness",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 31526,
-      "forks": 2354,
-      "currentPeriodStars": 15155,
+      "stars": 31617,
+      "forks": 2366,
+      "currentPeriodStars": 14698,
       "builtBy": [
         {
           "username": "code-yeongyu",
@@ -422,9 +422,9 @@
       "description": "A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents. 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4460,
+      "stars": 4466,
       "forks": 1131,
-      "currentPeriodStars": 2701,
+      "currentPeriodStars": 2661,
       "builtBy": [
         {
           "username": "hellodigua",
@@ -457,9 +457,9 @@
       "description": "Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8391,
-      "forks": 562,
-      "currentPeriodStars": 5531,
+      "stars": 8405,
+      "forks": 563,
+      "currentPeriodStars": 5365,
       "builtBy": [
         {
           "username": "NoeFabris",
@@ -492,9 +492,9 @@
       "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1493,
+      "stars": 1496,
       "forks": 174,
-      "currentPeriodStars": 1137,
+      "currentPeriodStars": 1140,
       "builtBy": [
         {
           "username": "ochafik",
@@ -527,9 +527,9 @@
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 2370,
-      "forks": 155,
-      "currentPeriodStars": 1572,
+      "stars": 2390,
+      "forks": 157,
+      "currentPeriodStars": 1575,
       "builtBy": [
         {
           "username": "YishenTu",
