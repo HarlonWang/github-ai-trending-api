@@ -1,7 +1,7 @@
 {
-  "count": 22,
+  "count": 21,
   "since": "monthly",
-  "captured_at": "2026-02-16 12:19:43",
+  "captured_at": "2026-02-17 00:19:18",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 162688,
-      "forks": 14588,
-      "currentPeriodStars": 3644,
+      "stars": 162712,
+      "forks": 14594,
+      "currentPeriodStars": 3625,
       "builtBy": [
         {
           "username": "mxyng",
@@ -32,8 +32,8 @@
           "avatar": "https://avatars.githubusercontent.com/u/5853428?s=40&v=4"
         },
         {
-          "username": "jessegross",
-          "avatar": "https://avatars.githubusercontent.com/u/6468499?s=40&v=4"
+          "username": "pdevine",
+          "avatar": "https://avatars.githubusercontent.com/u/75239?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -46,9 +46,9 @@
       "description": "Gas Town - multi-agent workspace manager",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 9477,
-      "forks": 730,
-      "currentPeriodStars": 5634,
+      "stars": 9530,
+      "forks": 734,
+      "currentPeriodStars": 5535,
       "builtBy": [
         {
           "username": "steveyegge",
@@ -63,12 +63,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/8082291?s=40&v=4"
         },
         {
-          "username": "aleiby",
-          "avatar": "https://avatars.githubusercontent.com/u/3761351?s=40&v=4"
-        },
-        {
           "username": "seanbearden",
           "avatar": "https://avatars.githubusercontent.com/u/72461227?s=40&v=4"
+        },
+        {
+          "username": "aleiby",
+          "avatar": "https://avatars.githubusercontent.com/u/3761351?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -81,9 +81,9 @@
       "description": "A tool for secrets management, encryption as a service, and privileged access management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35036,
+      "stars": 35037,
       "forks": 4596,
-      "currentPeriodStars": 1267,
+      "currentPeriodStars": 1261,
       "builtBy": [
         {
           "username": "jefferai",
@@ -116,9 +116,9 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16399,
-      "forks": 981,
-      "currentPeriodStars": 6093,
+      "stars": 16439,
+      "forks": 985,
+      "currentPeriodStars": 5986,
       "builtBy": [
         {
           "username": "steveyegge",
@@ -151,9 +151,9 @@
       "description": "Ultimate camera streaming application",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12334,
+      "stars": 12337,
       "forks": 950,
-      "currentPeriodStars": 1153,
+      "currentPeriodStars": 1160,
       "builtBy": [
         {
           "username": "AlexxIT",
@@ -186,9 +186,9 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3245,
-      "forks": 280,
-      "currentPeriodStars": 2376,
+      "stars": 3490,
+      "forks": 298,
+      "currentPeriodStars": 2895,
       "builtBy": [
         {
           "username": "steipete",
@@ -232,9 +232,9 @@
       "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22514,
-      "forks": 1101,
-      "currentPeriodStars": 1506,
+      "stars": 22531,
+      "forks": 1103,
+      "currentPeriodStars": 1508,
       "builtBy": [
         {
           "username": "mlsmaycon",
@@ -267,9 +267,9 @@
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15227,
+      "stars": 15230,
       "forks": 1892,
-      "currentPeriodStars": 1936,
+      "currentPeriodStars": 1924,
       "builtBy": [
         {
           "username": "putyy",
@@ -298,9 +298,9 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 42499,
-      "forks": 7940,
-      "currentPeriodStars": 542,
+      "stars": 42506,
+      "forks": 7941,
+      "currentPeriodStars": 549,
       "builtBy": [
         {
           "username": "mislav",
@@ -327,50 +327,15 @@
     },
     {
       "rank": 10,
-      "author": "modu-ai",
-      "repoName": "moai-adk",
-      "url": "https://github.com/modu-ai/moai-adk",
-      "description": "MoAI - Agentic Development Kit",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 723,
-      "forks": 120,
-      "currentPeriodStars": 220,
-      "builtBy": [
-        {
-          "username": "GoosLab",
-          "avatar": "https://avatars.githubusercontent.com/u/6458969?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "boojongmin",
-          "avatar": "https://avatars.githubusercontent.com/u/9567723?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 11,
       "author": "aquasecurity",
       "repoName": "trivy",
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 31924,
-      "forks": 2945,
-      "currentPeriodStars": 1016,
+      "stars": 31934,
+      "forks": 2946,
+      "currentPeriodStars": 1019,
       "builtBy": [
         {
           "username": "knqyf263",
@@ -396,7 +361,7 @@
       "aiSummaries": null
     },
     {
-      "rank": 12,
+      "rank": 11,
       "author": "hashicorp",
       "repoName": "terraform-provider-aws",
       "url": "https://github.com/hashicorp/terraform-provider-aws",
@@ -404,7 +369,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": 10745,
-      "forks": 9959,
+      "forks": 9958,
       "currentPeriodStars": 68,
       "builtBy": [
         {
@@ -431,16 +396,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 13,
+      "rank": 12,
       "author": "korotovsky",
       "repoName": "slack-mcp-server",
       "url": "https://github.com/korotovsky/slack-mcp-server",
       "description": "The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1360,
-      "forks": 236,
-      "currentPeriodStars": 234,
+      "stars": 1361,
+      "forks": 239,
+      "currentPeriodStars": 233,
       "builtBy": [
         {
           "username": "korotovsky",
@@ -466,16 +431,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 14,
+      "rank": 13,
       "author": "tailscale",
       "repoName": "tailscale",
       "url": "https://github.com/tailscale/tailscale",
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28338,
-      "forks": 2289,
-      "currentPeriodStars": 1141,
+      "stars": 28362,
+      "forks": 2288,
+      "currentPeriodStars": 1154,
       "builtBy": [
         {
           "username": "bradfitz",
@@ -501,16 +466,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 15,
+      "rank": 14,
       "author": "juanfont",
       "repoName": "headscale",
       "url": "https://github.com/juanfont/headscale",
       "description": "An open source, self-hosted implementation of the Tailscale control server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35417,
-      "forks": 1900,
-      "currentPeriodStars": 1174,
+      "stars": 35437,
+      "forks": 1901,
+      "currentPeriodStars": 1187,
       "builtBy": [
         {
           "username": "kradalby",
@@ -532,16 +497,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 16,
+      "rank": 15,
       "author": "go-vikunja",
       "repoName": "vikunja",
       "url": "https://github.com/go-vikunja/vikunja",
       "description": "The to-do app to organize your life.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3339,
-      "forks": 304,
-      "currentPeriodStars": 303,
+      "stars": 3340,
+      "forks": 307,
+      "currentPeriodStars": 298,
       "builtBy": [
         {
           "username": "kolaente",
@@ -567,16 +532,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 17,
+      "rank": 16,
       "author": "gosom",
       "repoName": "google-maps-scraper",
       "url": "https://github.com/gosom/google-maps-scraper",
       "description": "scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3117,
-      "forks": 427,
-      "currentPeriodStars": 446,
+      "stars": 3133,
+      "forks": 429,
+      "currentPeriodStars": 453,
       "builtBy": [
         {
           "username": "gosom",
@@ -602,16 +567,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 18,
+      "rank": 17,
       "author": "golangci",
       "repoName": "golangci-lint",
       "url": "https://github.com/golangci/golangci-lint",
       "description": "Fast linters runner for Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 18498,
+      "stars": 18502,
       "forks": 1546,
-      "currentPeriodStars": 196,
+      "currentPeriodStars": 197,
       "builtBy": [
         {
           "username": "ldez",
@@ -637,16 +602,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 19,
+      "rank": 18,
       "author": "kubernetes-sigs",
       "repoName": "agent-sandbox",
       "url": "https://github.com/kubernetes-sigs/agent-sandbox",
       "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 986,
-      "forks": 113,
-      "currentPeriodStars": 285,
+      "stars": 988,
+      "forks": 114,
+      "currentPeriodStars": 286,
       "builtBy": [
         {
           "username": "k8s-ci-robot",
@@ -672,16 +637,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 20,
+      "rank": 19,
       "author": "charmbracelet",
       "repoName": "bubbletea",
       "url": "https://github.com/charmbracelet/bubbletea",
       "description": "A powerful little TUI framework 🏗",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 39430,
-      "forks": 1092,
-      "currentPeriodStars": 1198,
+      "stars": 39455,
+      "forks": 1093,
+      "currentPeriodStars": 1205,
       "builtBy": [
         {
           "username": "meowgorithm",
@@ -707,16 +672,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 21,
+      "rank": 20,
       "author": "charmbracelet",
       "repoName": "lipgloss",
       "url": "https://github.com/charmbracelet/lipgloss",
       "description": "Style definitions for nice terminal layouts 👄",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 10555,
+      "stars": 10564,
       "forks": 310,
-      "currentPeriodStars": 221,
+      "currentPeriodStars": 222,
       "builtBy": [
         {
           "username": "meowgorithm",
@@ -742,16 +707,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 22,
+      "rank": 21,
       "author": "maximhq",
       "repoName": "bifrost",
       "url": "https://github.com/maximhq/bifrost",
       "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2359,
-      "forks": 243,
-      "currentPeriodStars": 662,
+      "stars": 2365,
+      "forks": 245,
+      "currentPeriodStars": 657,
       "builtBy": [
         {
           "username": "apps/github-actions",

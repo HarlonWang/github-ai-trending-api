@@ -1,7 +1,7 @@
 {
   "count": 24,
   "since": "daily",
-  "captured_at": "2026-02-16 12:18:14",
+  "captured_at": "2026-02-17 00:17:45",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2782,
-      "forks": 139,
+      "stars": 3577,
+      "forks": 186,
       "currentPeriodStars": 1094,
       "builtBy": [
         {
@@ -56,9 +56,9 @@
       "description": "Production ready toolkit to run AI locally",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8195,
-      "forks": 250,
-      "currentPeriodStars": 241,
+      "stars": 8271,
+      "forks": 253,
+      "currentPeriodStars": 379,
       "builtBy": [
         {
           "username": "sanchitmonga22",
@@ -91,9 +91,9 @@
       "description": "The ultimate Geometry Dash modding framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1651,
-      "forks": 298,
-      "currentPeriodStars": 11,
+      "stars": 1664,
+      "forks": 300,
+      "currentPeriodStars": 12,
       "builtBy": [
         {
           "username": "altalk23",
@@ -126,9 +126,9 @@
       "description": "Compatibility tool for Steam Play based on Wine and additional components",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 30149,
+      "stars": 30159,
       "forks": 1325,
-      "currentPeriodStars": 20,
+      "currentPeriodStars": 18,
       "builtBy": [
         {
           "username": "aeikum",
@@ -161,9 +161,9 @@
       "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12581,
-      "forks": 1748,
-      "currentPeriodStars": 25,
+      "stars": 12589,
+      "forks": 1749,
+      "currentPeriodStars": 17,
       "builtBy": [
         {
           "username": "SoftFever",
@@ -196,9 +196,9 @@
       "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 45906,
-      "forks": 8080,
-      "currentPeriodStars": 33,
+      "stars": 45916,
+      "forks": 8081,
+      "currentPeriodStars": 20,
       "builtBy": [
         {
           "username": "alexey-milovidov",
@@ -231,9 +231,9 @@
       "description": "The Swift Programming Language",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 69674,
-      "forks": 10659,
-      "currentPeriodStars": 8,
+      "stars": 69678,
+      "forks": 10660,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "swift-ci",
@@ -266,9 +266,9 @@
       "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 17526,
-      "forks": 4017,
-      "currentPeriodStars": 12,
+      "stars": 17529,
+      "forks": 4019,
+      "currentPeriodStars": 16,
       "builtBy": [
         {
           "username": "blazoncek",
@@ -301,9 +301,9 @@
       "description": "Experimental PlayStation Vita emulator",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5022,
+      "stars": 5023,
       "forks": 475,
-      "currentPeriodStars": 8,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "Zangetsu38",
@@ -336,9 +336,9 @@
       "description": "A free and strong UCI chess engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14775,
-      "forks": 2778,
-      "currentPeriodStars": 18,
+      "stars": 14781,
+      "forks": 2779,
+      "currentPeriodStars": 21,
       "builtBy": [
         {
           "username": "mcostalba",
@@ -371,9 +371,9 @@
       "description": "Self-hosted game stream host for Moonlight.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 34506,
-      "forks": 1700,
-      "currentPeriodStars": 29,
+      "stars": 34525,
+      "forks": 1699,
+      "currentPeriodStars": 43,
       "builtBy": [
         {
           "username": "ReenigneArcher",
@@ -406,9 +406,9 @@
       "description": "Android real-time display control software",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28289,
-      "forks": 3441,
-      "currentPeriodStars": 144,
+      "stars": 28331,
+      "forks": 3442,
+      "currentPeriodStars": 162,
       "builtBy": [
         {
           "username": "barry-ran",
@@ -441,8 +441,8 @@
       "description": "An open-source 3DS emulator project based on Citra.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 6521,
-      "forks": 412,
+      "stars": 6531,
+      "forks": 413,
       "currentPeriodStars": 6,
       "builtBy": [
         {
@@ -476,9 +476,9 @@
       "description": "Black hole simulation project:",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2180,
+      "stars": 2191,
       "forks": 329,
-      "currentPeriodStars": 19,
+      "currentPeriodStars": 25,
       "builtBy": [
         {
           "username": "kavan010",
@@ -503,9 +503,9 @@
       "description": "LÖVE is an awesome 2D game framework for Lua.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7733,
+      "stars": 7737,
       "forks": 554,
-      "currentPeriodStars": 4,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "slime73",
@@ -538,9 +538,9 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 106705,
-      "forks": 24343,
-      "currentPeriodStars": 25,
+      "stars": 106719,
+      "forks": 24350,
+      "currentPeriodStars": 34,
       "builtBy": [
         {
           "username": "akien-mga",
@@ -573,9 +573,9 @@
       "description": "Private, fast, and honest web browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 11325,
-      "forks": 232,
-      "currentPeriodStars": 42,
+      "stars": 11360,
+      "forks": 233,
+      "currentPeriodStars": 43,
       "builtBy": [
         {
           "username": "wukko",
@@ -608,9 +608,9 @@
       "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9733,
+      "stars": 9736,
       "forks": 883,
-      "currentPeriodStars": 8,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "stenzek",
@@ -643,9 +643,9 @@
       "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 6865,
-      "forks": 2040,
-      "currentPeriodStars": 18,
+      "stars": 6870,
+      "forks": 2044,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
           "username": "thebentern",
@@ -678,9 +678,9 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10024,
-      "forks": 705,
-      "currentPeriodStars": 20,
+      "stars": 10033,
+      "forks": 707,
+      "currentPeriodStars": 17,
       "builtBy": [
         {
           "username": "pokamest",
@@ -713,9 +713,9 @@
       "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12057,
+      "stars": 12058,
       "forks": 4437,
-      "currentPeriodStars": 5,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "ZhilkinSerg",
@@ -748,9 +748,9 @@
       "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 20193,
-      "forks": 3196,
-      "currentPeriodStars": 6,
+      "stars": 20194,
+      "forks": 3198,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "horenmar",
@@ -783,9 +783,9 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2728,
+      "stars": 2734,
       "forks": 214,
-      "currentPeriodStars": 37,
+      "currentPeriodStars": 19,
       "builtBy": [
         {
           "username": "geo-tp",
@@ -818,9 +818,9 @@
       "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 13351,
-      "forks": 2416,
-      "currentPeriodStars": 11,
+      "stars": 13357,
+      "forks": 2417,
+      "currentPeriodStars": 10,
       "builtBy": [
         {
           "username": "hrydgard",

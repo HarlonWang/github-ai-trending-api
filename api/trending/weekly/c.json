@@ -1,7 +1,7 @@
 {
   "count": 23,
   "since": "weekly",
-  "captured_at": "2026-02-16 12:19:11",
+  "captured_at": "2026-02-17 00:18:46",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "This project aims to enhance the working environment on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 31567,
-      "forks": 1282,
-      "currentPeriodStars": 124,
+      "stars": 31569,
+      "forks": 1281,
+      "currentPeriodStars": 120,
       "builtBy": [
         {
           "username": "valinet",
@@ -46,9 +46,9 @@
       "description": "anti-dpi software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1655,
+      "stars": 1669,
       "forks": 52,
-      "currentPeriodStars": 158,
+      "currentPeriodStars": 161,
       "builtBy": [
         {
           "username": "bol-van",
@@ -69,9 +69,9 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5973,
-      "forks": 1002,
-      "currentPeriodStars": 327,
+      "stars": 5982,
+      "forks": 1003,
+      "currentPeriodStars": 337,
       "builtBy": [
         {
           "username": "levlam",
@@ -109,7 +109,7 @@
       "description": "DPI bypass multi platform",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14376,
+      "stars": 14378,
       "forks": 991,
       "currentPeriodStars": 104,
       "builtBy": [
@@ -144,9 +144,9 @@
       "description": "Display and control your Android device",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 135738,
-      "forks": 12653,
-      "currentPeriodStars": 389,
+      "stars": 135751,
+      "forks": 12654,
+      "currentPeriodStars": 393,
       "builtBy": [
         {
           "username": "rom1v",
@@ -179,9 +179,9 @@
       "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12404,
-      "forks": 2740,
-      "currentPeriodStars": 57,
+      "stars": 12408,
+      "forks": 2744,
+      "currentPeriodStars": 47,
       "builtBy": [
         {
           "username": "bonsaiviking",
@@ -214,9 +214,9 @@
       "description": "Android application for running Windows applications with Wine and Box86/Box64",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 16542,
-      "forks": 1219,
-      "currentPeriodStars": 86,
+      "stars": 16553,
+      "forks": 1220,
+      "currentPeriodStars": 91,
       "builtBy": [
         {
           "username": "brunodev85",
@@ -251,7 +251,7 @@
       "languageColor": "#555555",
       "stars": 2358,
       "forks": 375,
-      "currentPeriodStars": 40,
+      "currentPeriodStars": 39,
       "builtBy": [
         {
           "username": "a1batross",
@@ -284,9 +284,9 @@
       "description": "Inference Llama 2 in one file of pure C",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 19172,
+      "stars": 19173,
       "forks": 2446,
-      "currentPeriodStars": 27,
+      "currentPeriodStars": 26,
       "builtBy": [
         {
           "username": "karpathy",
@@ -321,7 +321,7 @@
       "languageColor": "#555555",
       "stars": 10628,
       "forks": 2586,
-      "currentPeriodStars": 29,
+      "currentPeriodStars": 27,
       "builtBy": [
         {
           "username": "ralight",
@@ -354,9 +354,9 @@
       "description": "tmux source code",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 41807,
-      "forks": 2414,
-      "currentPeriodStars": 287,
+      "stars": 41825,
+      "forks": 2416,
+      "currentPeriodStars": 271,
       "builtBy": [
         {
           "username": "nicm",
@@ -389,9 +389,9 @@
       "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14737,
+      "stars": 14741,
       "forks": 2157,
-      "currentPeriodStars": 82,
+      "currentPeriodStars": 79,
       "builtBy": [
         {
           "username": "vikman90",
@@ -424,9 +424,9 @@
       "description": "A new bootable USB solution.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 74520,
-      "forks": 4701,
-      "currentPeriodStars": 169,
+      "stars": 74525,
+      "forks": 4702,
+      "currentPeriodStars": 159,
       "builtBy": [
         {
           "username": "ventoy",
@@ -459,9 +459,9 @@
       "description": "XLibre Xserver",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4214,
+      "stars": 4215,
       "forks": 217,
-      "currentPeriodStars": 55,
+      "currentPeriodStars": 50,
       "builtBy": [
         {
           "username": "metux",
@@ -494,9 +494,9 @@
       "description": "Custom firmware for the HackRF+PortaPack H1/H2/H4",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4875,
-      "forks": 829,
-      "currentPeriodStars": 31,
+      "stars": 4877,
+      "forks": 830,
+      "currentPeriodStars": 29,
       "builtBy": [
         {
           "username": "jboone",
@@ -529,9 +529,9 @@
       "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 72938,
+      "stars": 72945,
       "forks": 24491,
-      "currentPeriodStars": 137,
+      "currentPeriodStars": 126,
       "builtBy": [
         {
           "username": "antirez",
@@ -564,9 +564,9 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14475,
-      "forks": 8654,
-      "currentPeriodStars": 65,
+      "stars": 14477,
+      "forks": 8657,
+      "currentPeriodStars": 61,
       "builtBy": [
         {
           "username": "nashif",
@@ -599,9 +599,9 @@
       "description": "A vector search SQLite extension that runs anywhere!",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6918,
-      "forks": 278,
-      "currentPeriodStars": 63,
+      "stars": 6923,
+      "forks": 279,
+      "currentPeriodStars": 66,
       "builtBy": [
         {
           "username": "asg017",
@@ -634,9 +634,9 @@
       "description": "ehviewer，用爱发电，快乐前行",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 22423,
+      "stars": 22426,
       "forks": 594,
-      "currentPeriodStars": 141,
+      "currentPeriodStars": 127,
       "builtBy": [
         {
           "username": "xiaojieonly",
@@ -669,9 +669,9 @@
       "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 27911,
-      "forks": 2130,
-      "currentPeriodStars": 65,
+      "stars": 27912,
+      "forks": 2131,
+      "currentPeriodStars": 63,
       "builtBy": [
         {
           "username": "ValdikSS",
@@ -704,9 +704,9 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 40713,
-      "forks": 7060,
-      "currentPeriodStars": 90,
+      "stars": 40718,
+      "forks": 7061,
+      "currentPeriodStars": 88,
       "builtBy": [
         {
           "username": "bagder",
@@ -739,9 +739,9 @@
       "description": "darktable is an open source photography workflow application and raw developer",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12015,
-      "forks": 1275,
-      "currentPeriodStars": 43,
+      "stars": 12016,
+      "forks": 1274,
+      "currentPeriodStars": 39,
       "builtBy": [
         {
           "username": "TurboGit",
@@ -774,9 +774,9 @@
       "description": "🎥 Command line media player",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 34058,
-      "forks": 3227,
-      "currentPeriodStars": 130,
+      "stars": 34073,
+      "forks": 3228,
+      "currentPeriodStars": 138,
       "builtBy": [
         {
           "username": "kasper93",

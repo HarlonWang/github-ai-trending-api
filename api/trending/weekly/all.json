@@ -1,7 +1,7 @@
 {
   "count": 15,
   "since": "weekly",
-  "captured_at": "2026-02-16 12:18:31",
+  "captured_at": "2026-02-17 00:18:06",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2851,
-      "forks": 206,
-      "currentPeriodStars": 2106,
+      "stars": 2929,
+      "forks": 212,
+      "currentPeriodStars": 2199,
       "builtBy": [
         {
           "username": "apps/copilot-swe-agent",
@@ -56,9 +56,9 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32625,
-      "forks": 2185,
-      "currentPeriodStars": 7964,
+      "stars": 32712,
+      "forks": 2187,
+      "currentPeriodStars": 7658,
       "builtBy": [
         {
           "username": "aksg87",
@@ -96,9 +96,9 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2770,
-      "forks": 178,
-      "currentPeriodStars": 2265,
+      "stars": 2852,
+      "forks": 180,
+      "currentPeriodStars": 2342,
       "builtBy": [
         {
           "username": "Jeffallan",
@@ -136,9 +136,9 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 22626,
-      "forks": 2262,
-      "currentPeriodStars": 10987,
+      "stars": 22809,
+      "forks": 2276,
+      "currentPeriodStars": 6966,
       "builtBy": [
         {
           "username": "ajmallesh",
@@ -171,9 +171,9 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12694,
-      "forks": 1270,
-      "currentPeriodStars": 4244,
+      "stars": 12869,
+      "forks": 1291,
+      "currentPeriodStars": 4425,
       "builtBy": [
         {
           "username": "badlogic",
@@ -206,9 +206,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 25569,
-      "forks": 1508,
-      "currentPeriodStars": 1767,
+      "stars": 25638,
+      "forks": 1512,
+      "currentPeriodStars": 2041,
       "builtBy": [
         {
           "username": "OrKoN",
@@ -251,9 +251,9 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17349,
-      "forks": 3730,
-      "currentPeriodStars": 1412,
+      "stars": 17367,
+      "forks": 3732,
+      "currentPeriodStars": 1299,
       "builtBy": [
         {
           "username": "hsliuping",
@@ -286,9 +286,9 @@
       "description": "A minimal, secure Python interpreter written in Rust for use by AI",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5356,
-      "forks": 196,
-      "currentPeriodStars": 3113,
+      "stars": 5401,
+      "forks": 197,
+      "currentPeriodStars": 1854,
       "builtBy": [
         {
           "username": "samuelcolvin",
@@ -307,8 +307,8 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "DouweM",
-          "avatar": "https://avatars.githubusercontent.com/u/159434?s=40&v=4"
+          "username": "Bl3f",
+          "avatar": "https://avatars.githubusercontent.com/u/2658211?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -321,9 +321,9 @@
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 10225,
-      "forks": 499,
-      "currentPeriodStars": 2070,
+      "stars": 10372,
+      "forks": 505,
+      "currentPeriodStars": 2273,
       "builtBy": [
         {
           "username": "apps/dependabot",
@@ -366,9 +366,9 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19359,
+      "stars": 19381,
       "forks": 842,
-      "currentPeriodStars": 1192,
+      "currentPeriodStars": 840,
       "builtBy": [
         {
           "username": "krlvi",
@@ -401,9 +401,9 @@
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8493,
-      "forks": 1175,
-      "currentPeriodStars": 2102,
+      "stars": 8553,
+      "forks": 1184,
+      "currentPeriodStars": 2207,
       "builtBy": [
         {
           "username": "danielmiessler",
@@ -441,9 +441,9 @@
       "description": "Interactive course teaching Product Managers how to use Claude Code effectively",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 1328,
-      "forks": 204,
-      "currentPeriodStars": 716,
+      "stars": 1363,
+      "forks": 206,
+      "currentPeriodStars": 698,
       "builtBy": [
         {
           "username": "carlvellotti",
@@ -468,9 +468,9 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8964,
-      "forks": 698,
-      "currentPeriodStars": 1462,
+      "stars": 9028,
+      "forks": 704,
+      "currentPeriodStars": 1346,
       "builtBy": [
         {
           "username": "kieranklaassen",
@@ -503,9 +503,9 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15443,
-      "forks": 1839,
-      "currentPeriodStars": 3258,
+      "stars": 15511,
+      "forks": 1850,
+      "currentPeriodStars": 2276,
       "builtBy": [
         {
           "username": "virattt",
@@ -538,9 +538,9 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3245,
-      "forks": 280,
-      "currentPeriodStars": 1235,
+      "stars": 3490,
+      "forks": 298,
+      "currentPeriodStars": 1769,
       "builtBy": [
         {
           "username": "steipete",

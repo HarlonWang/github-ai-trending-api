@@ -1,7 +1,7 @@
 {
   "count": 20,
   "since": "weekly",
-  "captured_at": "2026-02-16 12:19:05",
+  "captured_at": "2026-02-17 00:18:40",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2783,
-      "forks": 139,
-      "currentPeriodStars": 1804,
+      "stars": 3579,
+      "forks": 186,
+      "currentPeriodStars": 2830,
       "builtBy": [
         {
           "username": "iaojnh",
@@ -56,9 +56,9 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2728,
+      "stars": 2734,
       "forks": 214,
-      "currentPeriodStars": 174,
+      "currentPeriodStars": 169,
       "builtBy": [
         {
           "username": "geo-tp",
@@ -91,9 +91,9 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 95107,
-      "forks": 14923,
-      "currentPeriodStars": 500,
+      "stars": 95140,
+      "forks": 14937,
+      "currentPeriodStars": 492,
       "builtBy": [
         {
           "username": "ggerganov",
@@ -126,9 +126,9 @@
       "description": "Android real-time display control software",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28289,
-      "forks": 3441,
-      "currentPeriodStars": 239,
+      "stars": 28331,
+      "forks": 3442,
+      "currentPeriodStars": 333,
       "builtBy": [
         {
           "username": "barry-ran",
@@ -161,9 +161,9 @@
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 193732,
-      "forks": 75231,
-      "currentPeriodStars": 148,
+      "stars": 193741,
+      "forks": 75234,
+      "currentPeriodStars": 145,
       "builtBy": [
         {
           "username": "tensorflower-gardener",
@@ -196,9 +196,9 @@
       "description": "Production ready toolkit to run AI locally",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8195,
-      "forks": 250,
-      "currentPeriodStars": 1505,
+      "stars": 8271,
+      "forks": 253,
+      "currentPeriodStars": 1639,
       "builtBy": [
         {
           "username": "sanchitmonga22",
@@ -231,9 +231,9 @@
       "description": "Self-hosted game stream host for Moonlight.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 34506,
-      "forks": 1700,
-      "currentPeriodStars": 216,
+      "stars": 34525,
+      "forks": 1699,
+      "currentPeriodStars": 225,
       "builtBy": [
         {
           "username": "ReenigneArcher",
@@ -266,9 +266,9 @@
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19582,
-      "forks": 2486,
-      "currentPeriodStars": 166,
+      "stars": 19585,
+      "forks": 2488,
+      "currentPeriodStars": 164,
       "builtBy": [
         {
           "username": "MistEO",
@@ -301,9 +301,9 @@
       "description": "Mumble is an open-source, low-latency, high quality voice chat software.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7716,
+      "stars": 7724,
       "forks": 1280,
-      "currentPeriodStars": 134,
+      "currentPeriodStars": 139,
       "builtBy": [
         {
           "username": "thorvald",
@@ -336,8 +336,8 @@
       "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1353,
-      "forks": 346,
+      "stars": 1354,
+      "forks": 347,
       "currentPeriodStars": 12,
       "builtBy": [
         {
@@ -371,8 +371,8 @@
       "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12581,
-      "forks": 1748,
+      "stars": 12589,
+      "forks": 1749,
       "currentPeriodStars": 92,
       "builtBy": [
         {
@@ -406,8 +406,8 @@
       "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14257,
-      "forks": 3072,
+      "stars": 14258,
+      "forks": 3074,
       "currentPeriodStars": 32,
       "builtBy": [
         {
@@ -441,9 +441,9 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10024,
-      "forks": 705,
-      "currentPeriodStars": 129,
+      "stars": 10033,
+      "forks": 707,
+      "currentPeriodStars": 136,
       "builtBy": [
         {
           "username": "pokamest",
@@ -476,9 +476,9 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 38235,
-      "forks": 10690,
-      "currentPeriodStars": 36,
+      "stars": 38231,
+      "forks": 10691,
+      "currentPeriodStars": 35,
       "builtBy": [
         {
           "username": "gennadiycivil",
@@ -507,9 +507,9 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29856,
-      "forks": 6271,
-      "currentPeriodStars": 94,
+      "stars": 29861,
+      "forks": 6272,
+      "currentPeriodStars": 93,
       "builtBy": [
         {
           "username": "john-preston",
@@ -542,8 +542,8 @@
       "description": "Tesseract Open Source OCR Engine (main repository)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 72409,
-      "forks": 10502,
+      "stars": 72413,
+      "forks": 10505,
       "currentPeriodStars": 118,
       "builtBy": [
         {
@@ -577,9 +577,9 @@
       "description": "Behavior Trees Library in C++. Batteries included.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3832,
-      "forks": 804,
-      "currentPeriodStars": 22,
+      "stars": 3833,
+      "forks": 805,
+      "currentPeriodStars": 17,
       "builtBy": [
         {
           "username": "facontidavide",
@@ -612,9 +612,9 @@
       "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19635,
+      "stars": 19639,
       "forks": 2113,
-      "currentPeriodStars": 142,
+      "currentPeriodStars": 135,
       "builtBy": [
         {
           "username": "pixelflinger",
@@ -647,9 +647,9 @@
       "description": "CUDA Templates and Python DSLs for High-Performance Linear Algebra",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9283,
+      "stars": 9286,
       "forks": 1686,
-      "currentPeriodStars": 40,
+      "currentPeriodStars": 39,
       "builtBy": [
         {
           "username": "hwu36",
@@ -682,9 +682,9 @@
       "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 45906,
-      "forks": 8080,
-      "currentPeriodStars": 188,
+      "stars": 45916,
+      "forks": 8081,
+      "currentPeriodStars": 182,
       "builtBy": [
         {
           "username": "alexey-milovidov",

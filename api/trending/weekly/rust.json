@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "weekly",
-  "captured_at": "2026-02-16 12:18:55",
+  "captured_at": "2026-02-17 00:18:29",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A minimal, secure Python interpreter written in Rust for use by AI",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5356,
-      "forks": 196,
-      "currentPeriodStars": 3113,
+      "stars": 5401,
+      "forks": 197,
+      "currentPeriodStars": 1854,
       "builtBy": [
         {
           "username": "samuelcolvin",
@@ -32,8 +32,8 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "DouweM",
-          "avatar": "https://avatars.githubusercontent.com/u/159434?s=40&v=4"
+          "username": "Bl3f",
+          "avatar": "https://avatars.githubusercontent.com/u/2658211?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -46,9 +46,9 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19359,
+      "stars": 19381,
       "forks": 842,
-      "currentPeriodStars": 1192,
+      "currentPeriodStars": 840,
       "builtBy": [
         {
           "username": "krlvi",
@@ -81,9 +81,9 @@
       "description": "A security-focused library OS supporting kernel- and user-mode execution",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2182,
+      "stars": 2205,
       "forks": 90,
-      "currentPeriodStars": 872,
+      "currentPeriodStars": 547,
       "builtBy": [
         {
           "username": "jaybosamiya-ms",
@@ -116,9 +116,9 @@
       "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8353,
+      "stars": 8355,
       "forks": 577,
-      "currentPeriodStars": 497,
+      "currentPeriodStars": 251,
       "builtBy": [
         {
           "username": "apps/dependabot-preview",
@@ -151,9 +151,9 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60592,
-      "forks": 7995,
-      "currentPeriodStars": 987,
+      "stars": 60689,
+      "forks": 8012,
+      "currentPeriodStars": 1049,
       "builtBy": [
         {
           "username": "bolinfest",
@@ -186,9 +186,9 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 55065,
-      "forks": 2554,
-      "currentPeriodStars": 394,
+      "stars": 55087,
+      "forks": 2558,
+      "currentPeriodStars": 383,
       "builtBy": [
         {
           "username": "dani-garcia",
@@ -221,9 +221,9 @@
       "description": "Build fast web applications with Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 20083,
+      "stars": 20097,
       "forks": 841,
-      "currentPeriodStars": 148,
+      "currentPeriodStars": 149,
       "builtBy": [
         {
           "username": "gbj",
@@ -257,8 +257,8 @@
       "language": "Rust",
       "languageColor": "#dea584",
       "stars": 16060,
-      "forks": 1950,
-      "currentPeriodStars": 41,
+      "forks": 1951,
+      "currentPeriodStars": 42,
       "builtBy": [
         {
           "username": "apps/bors",
@@ -291,9 +291,9 @@
       "description": "A simple, decentralized mesh VPN with WireGuard support.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10014,
+      "stars": 10018,
       "forks": 949,
-      "currentPeriodStars": 254,
+      "currentPeriodStars": 240,
       "builtBy": [
         {
           "username": "KKRainbow",
@@ -328,7 +328,7 @@
       "languageColor": "#dea584",
       "stars": 5438,
       "forks": 669,
-      "currentPeriodStars": 40,
+      "currentPeriodStars": 46,
       "builtBy": [
         {
           "username": "jrose-signal",
@@ -361,9 +361,9 @@
       "description": "A fast type checker and language server for Python",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5357,
-      "forks": 273,
-      "currentPeriodStars": 68,
+      "stars": 5361,
+      "forks": 274,
+      "currentPeriodStars": 67,
       "builtBy": [
         {
           "username": "ndmitchell",
@@ -396,9 +396,9 @@
       "description": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 21756,
+      "stars": 21759,
       "forks": 818,
-      "currentPeriodStars": 73,
+      "currentPeriodStars": 70,
       "builtBy": [
         {
           "username": "tronical",
@@ -431,7 +431,7 @@
       "description": "A Spotify player in the terminal with full feature parity",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6203,
+      "stars": 6208,
       "forks": 312,
       "currentPeriodStars": 37,
       "builtBy": [
@@ -466,9 +466,9 @@
       "description": "🦎 a tool to build and deploy software on many servers 🦎",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10239,
-      "forks": 271,
-      "currentPeriodStars": 132,
+      "stars": 10245,
+      "forks": 272,
+      "currentPeriodStars": 127,
       "builtBy": [
         {
           "username": "mbecker20",
@@ -501,9 +501,9 @@
       "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32768,
+      "stars": 32780,
       "forks": 1205,
-      "currentPeriodStars": 198,
+      "currentPeriodStars": 204,
       "builtBy": [
         {
           "username": "GyulyVGC",
@@ -536,9 +536,9 @@
       "description": "CLI to manage emails",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5412,
+      "stars": 5423,
       "forks": 155,
-      "currentPeriodStars": 55,
+      "currentPeriodStars": 66,
       "builtBy": [
         {
           "username": "soywod",
@@ -571,9 +571,9 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9837,
-      "forks": 883,
-      "currentPeriodStars": 143,
+      "stars": 9842,
+      "forks": 885,
+      "currentPeriodStars": 139,
       "builtBy": [
         {
           "username": "sujithatzackriya",
@@ -606,9 +606,9 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 107594,
-      "forks": 15991,
-      "currentPeriodStars": 501,
+      "stars": 107618,
+      "forks": 15997,
+      "currentPeriodStars": 490,
       "builtBy": [
         {
           "username": "rustdesk",
@@ -641,9 +641,9 @@
       "description": "☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2485,
-      "forks": 96,
-      "currentPeriodStars": 211,
+      "stars": 2493,
+      "forks": 97,
+      "currentPeriodStars": 227,
       "builtBy": [
         {
           "username": "DioCrafts",
@@ -676,9 +676,9 @@
       "description": "Official successor to conduwuit",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1408,
+      "stars": 1417,
       "forks": 93,
-      "currentPeriodStars": 173,
+      "currentPeriodStars": 190,
       "builtBy": [
         {
           "username": "jevolk",
@@ -711,9 +711,9 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 75426,
-      "forks": 6962,
-      "currentPeriodStars": 492,
+      "stars": 75453,
+      "forks": 6969,
+      "currentPeriodStars": 480,
       "builtBy": [
         {
           "username": "as-cii",

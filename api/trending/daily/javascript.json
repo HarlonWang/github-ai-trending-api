@@ -1,7 +1,7 @@
 {
   "count": 12,
   "since": "daily",
-  "captured_at": "2026-02-16 12:17:51",
+  "captured_at": "2026-02-17 00:17:25",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 873,
-      "forks": 303,
+      "stars": 983,
+      "forks": 348,
       "currentPeriodStars": 205,
       "builtBy": [
         {
@@ -56,9 +56,9 @@
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 14626,
-      "forks": 1374,
-      "currentPeriodStars": 368,
+      "stars": 14893,
+      "forks": 1386,
+      "currentPeriodStars": 436,
       "builtBy": [
         {
           "username": "glittercowboy",
@@ -91,9 +91,9 @@
       "description": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 5140,
-      "forks": 591,
-      "currentPeriodStars": 211,
+      "stars": 5158,
+      "forks": 592,
+      "currentPeriodStars": 64,
       "builtBy": [
         {
           "username": "pshenok",
@@ -126,9 +126,9 @@
       "description": "🤪 A list of funny and tricky JavaScript examples",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 37695,
-      "forks": 2679,
-      "currentPeriodStars": 20,
+      "stars": 37701,
+      "forks": 2680,
+      "currentPeriodStars": 17,
       "builtBy": [
         {
           "username": "denysdovhan",
@@ -161,9 +161,9 @@
       "description": "Source Code for Sigma Web Development Course",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 11009,
+      "stars": 11010,
       "forks": 3061,
-      "currentPeriodStars": 7,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "CodeWithHarry",
@@ -184,9 +184,9 @@
       "description": "LLM Frontend for Power Users.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 23134,
-      "forks": 4736,
-      "currentPeriodStars": 32,
+      "stars": 23153,
+      "forks": 4737,
+      "currentPeriodStars": 33,
       "builtBy": [
         {
           "username": "Cohee1207",
@@ -219,9 +219,9 @@
       "description": "mailcow: dockerized - 🐮 + 🐋 = 💕",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 12154,
-      "forks": 1607,
-      "currentPeriodStars": 11,
+      "stars": 12161,
+      "forks": 1610,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
           "username": "andryyy",
@@ -254,9 +254,9 @@
       "description": "✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 27627,
-      "forks": 4164,
-      "currentPeriodStars": 15,
+      "stars": 27632,
+      "forks": 4163,
+      "currentPeriodStars": 21,
       "builtBy": [
         {
           "username": "apps/github-actions",
@@ -289,7 +289,7 @@
       "description": "Create Minecraft bots with a powerful, stable, and high level JavaScript API.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 6621,
+      "stars": 6622,
       "forks": 1190,
       "currentPeriodStars": 5,
       "builtBy": [
@@ -324,9 +324,9 @@
       "description": "PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 9767,
+      "stars": 9770,
       "forks": 586,
-      "currentPeriodStars": 13,
+      "currentPeriodStars": 9,
       "builtBy": [
         {
           "username": "schlagmichdoch",
@@ -359,9 +359,9 @@
       "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5js.org",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 23440,
+      "stars": 23443,
       "forks": 3709,
-      "currentPeriodStars": 8,
+      "currentPeriodStars": 9,
       "builtBy": [
         {
           "username": "apps/allcontributors",
@@ -394,9 +394,9 @@
       "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 8097,
+      "stars": 8101,
       "forks": 3008,
-      "currentPeriodStars": 36,
+      "currentPeriodStars": 28,
       "builtBy": [
         {
           "username": "gaotianliuyun",

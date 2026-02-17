@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "daily",
-  "captured_at": "2026-02-16 12:18:19",
+  "captured_at": "2026-02-17 00:17:51",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4034,
-      "forks": 191,
+      "stars": 4108,
+      "forks": 198,
       "currentPeriodStars": 475,
       "builtBy": [
         {
@@ -57,9 +57,9 @@
       "description": "A simple and easy-to-use library to enjoy videogames programming",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 30984,
+      "stars": 30991,
       "forks": 2931,
-      "currentPeriodStars": 23,
+      "currentPeriodStars": 22,
       "builtBy": [
         {
           "username": "raysan5",
@@ -92,9 +92,9 @@
       "description": "Custom and repackaged Snapmaker U1 firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 338,
-      "forks": 41,
-      "currentPeriodStars": 9,
+      "stars": 340,
+      "forks": 43,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "paxx12",
@@ -127,9 +127,9 @@
       "description": "ZMK Firmware Repository",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3844,
-      "forks": 3790,
-      "currentPeriodStars": 4,
+      "stars": 3845,
+      "forks": 3793,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "petejohanson",
@@ -162,9 +162,9 @@
       "description": "A framework + installer to (very) quickly install Windows 98 on anything from a 486 up to a modern system",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1123,
+      "stars": 1135,
       "forks": 29,
-      "currentPeriodStars": 60,
+      "currentPeriodStars": 50,
       "builtBy": [
         {
           "username": "oerg866",
@@ -185,7 +185,7 @@
       "description": "Modern audio compression for the internet.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3027,
+      "stars": 3029,
       "forks": 745,
       "currentPeriodStars": 6,
       "builtBy": [
@@ -220,9 +220,9 @@
       "description": "Multicast RTP/RTSP to Unicast HTTP stream converter, optimized for China IPTV",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1315,
+      "stars": 1317,
       "forks": 220,
-      "currentPeriodStars": 26,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
           "username": "stackia",
@@ -255,9 +255,9 @@
       "description": "IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel virtualization layer for those apps.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 516,
+      "stars": 518,
       "forks": 50,
-      "currentPeriodStars": 14,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
           "username": "cr4zyengineer",
@@ -278,7 +278,7 @@
       "description": "Klipper is a 3d-printer firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 11283,
+      "stars": 11285,
       "forks": 5781,
       "currentPeriodStars": 2,
       "builtBy": [
@@ -313,9 +313,9 @@
       "description": "Open Source Flight Controller Firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 10607,
-      "forks": 3608,
-      "currentPeriodStars": 2,
+      "stars": 10611,
+      "forks": 3609,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "mikeller",
@@ -348,9 +348,9 @@
       "description": "Multi-format archive and compression library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3407,
-      "forks": 879,
-      "currentPeriodStars": 2,
+      "stars": 3409,
+      "forks": 880,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "kientzle",
@@ -383,9 +383,9 @@
       "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3408,
+      "stars": 3413,
       "forks": 267,
-      "currentPeriodStars": 35,
+      "currentPeriodStars": 24,
       "builtBy": [
         {
           "username": "swilly22",
@@ -418,7 +418,7 @@
       "description": "Iceman Fork - Proxmark3",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5217,
+      "stars": 5226,
       "forks": 1268,
       "currentPeriodStars": 9,
       "builtBy": [
@@ -453,9 +453,9 @@
       "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 20137,
-      "forks": 43524,
-      "currentPeriodStars": 5,
+      "stars": 20138,
+      "forks": 43527,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "fauxpark",
@@ -488,9 +488,9 @@
       "description": "我的电视 电视直播软件，安装即可使用",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 32251,
+      "stars": 32255,
       "forks": 3620,
-      "currentPeriodStars": 16,
+      "currentPeriodStars": 18,
       "builtBy": [
         {
           "username": "lizongying",
@@ -523,9 +523,9 @@
       "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 15697,
+      "stars": 15704,
       "forks": 1542,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "dlemstra",
@@ -559,7 +559,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 6272,
-      "forks": 1184,
+      "forks": 1185,
       "currentPeriodStars": 7,
       "builtBy": [
         {
@@ -593,7 +593,7 @@
       "description": "GhostESP: Revival turns your ESP32 into a cheap and powerful wireless testing tool.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 429,
+      "stars": 431,
       "forks": 78,
       "currentPeriodStars": 3,
       "builtBy": [
@@ -628,9 +628,9 @@
       "description": "The Amsterdam Compiler Kit",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 634,
+      "stars": 640,
       "forks": 76,
-      "currentPeriodStars": 30,
+      "currentPeriodStars": 19,
       "builtBy": [
         {
           "username": "davidgiven",

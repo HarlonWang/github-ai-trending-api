@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "weekly",
-  "captured_at": "2026-02-16 12:19:16",
+  "captured_at": "2026-02-17 00:18:53",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 24502,
-      "forks": 647,
-      "currentPeriodStars": 345,
+      "stars": 24519,
+      "forks": 649,
+      "currentPeriodStars": 288,
       "builtBy": [
         {
           "username": "jglogan",
@@ -46,9 +46,9 @@
       "description": "AeroSpace is an i3-like tiling window manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 18896,
+      "stars": 18907,
       "forks": 419,
-      "currentPeriodStars": 167,
+      "currentPeriodStars": 168,
       "builtBy": [
         {
           "username": "nikitabobko",
@@ -81,9 +81,9 @@
       "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 7109,
+      "stars": 7122,
       "forks": 499,
-      "currentPeriodStars": 205,
+      "currentPeriodStars": 201,
       "builtBy": [
         {
           "username": "Alexander5015",
@@ -116,8 +116,8 @@
       "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 32429,
-      "forks": 931,
+      "stars": 32435,
+      "forks": 930,
       "currentPeriodStars": 87,
       "builtBy": [
         {
@@ -151,9 +151,9 @@
       "description": "Telegram-iOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8007,
-      "forks": 2410,
-      "currentPeriodStars": 29,
+      "stars": 8008,
+      "forks": 2412,
+      "currentPeriodStars": 27,
       "builtBy": [
         {
           "username": "laktyushin",
@@ -186,9 +186,9 @@
       "description": "RSS reader for macOS and iOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 9682,
-      "forks": 645,
-      "currentPeriodStars": 94,
+      "stars": 9683,
+      "forks": 644,
+      "currentPeriodStars": 84,
       "builtBy": [
         {
           "username": "brentsimmons",
@@ -223,7 +223,7 @@
       "languageColor": "#F05138",
       "stars": 19450,
       "forks": 2280,
-      "currentPeriodStars": 23,
+      "currentPeriodStars": 22,
       "builtBy": [
         {
           "username": "jpsim",
@@ -256,9 +256,9 @@
       "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14345,
+      "stars": 14346,
       "forks": 1636,
-      "currentPeriodStars": 27,
+      "currentPeriodStars": 26,
       "builtBy": [
         {
           "username": "stephencelis",
@@ -293,7 +293,7 @@
       "languageColor": "#F05138",
       "stars": 14896,
       "forks": 473,
-      "currentPeriodStars": 30,
+      "currentPeriodStars": 28,
       "builtBy": [
         {
           "username": "IsaacMarovitz",
@@ -326,9 +326,9 @@
       "description": "A modular Swift SDK for audio processing with MLX on Apple Silicon",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 211,
+      "stars": 212,
       "forks": 27,
-      "currentPeriodStars": 82,
+      "currentPeriodStars": 76,
       "builtBy": [
         {
           "username": "Blaizzy",
@@ -361,9 +361,9 @@
       "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1098,
-      "forks": 60,
-      "currentPeriodStars": 83,
+      "stars": 1101,
+      "forks": 61,
+      "currentPeriodStars": 81,
       "builtBy": [
         {
           "username": "altic-dev",
@@ -396,9 +396,9 @@
       "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3761,
-      "forks": 481,
-      "currentPeriodStars": 123,
+      "stars": 3779,
+      "forks": 484,
+      "currentPeriodStars": 117,
       "builtBy": [
         {
           "username": "Beingpax",
@@ -466,8 +466,8 @@
       "description": "Virtual machines for iOS and macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 32832,
-      "forks": 1649,
+      "stars": 32838,
+      "forks": 1650,
       "currentPeriodStars": 106,
       "builtBy": [
         {
@@ -501,9 +501,9 @@
       "description": "Privacy oriented video player for iOS, tvOS and macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3312,
+      "stars": 3316,
       "forks": 129,
-      "currentPeriodStars": 19,
+      "currentPeriodStars": 16,
       "builtBy": [
         {
           "username": "arekf",
@@ -536,9 +536,9 @@
       "description": "Windows alt-tab on macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14779,
-      "forks": 485,
-      "currentPeriodStars": 129,
+      "stars": 14788,
+      "forks": 486,
+      "currentPeriodStars": 128,
       "builtBy": [
         {
           "username": "lwouis",
@@ -571,7 +571,7 @@
       "description": "📸 Delightful Swift snapshot testing.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 4144,
+      "stars": 4146,
       "forks": 654,
       "currentPeriodStars": 4,
       "builtBy": [
@@ -606,9 +606,9 @@
       "description": "A toolkit to make debugging iOS applications easier 🚀",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1573,
+      "stars": 1576,
       "forks": 133,
-      "currentPeriodStars": 429,
+      "currentPeriodStars": 424,
       "builtBy": [
         {
           "username": "MaatheusGois",
@@ -646,9 +646,9 @@
       "description": "Elegant HTTP Networking in Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 42347,
+      "stars": 42348,
       "forks": 7672,
-      "currentPeriodStars": 18,
+      "currentPeriodStars": 19,
       "builtBy": [
         {
           "username": "cnoon",

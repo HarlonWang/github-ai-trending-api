@@ -1,7 +1,7 @@
 {
   "count": 14,
   "since": "daily",
-  "captured_at": "2026-02-16 12:18:27",
+  "captured_at": "2026-02-17 00:18:02",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2843,
+      "stars": 2854,
       "forks": 203,
-      "currentPeriodStars": 31,
+      "currentPeriodStars": 23,
       "builtBy": [
         {
           "username": "theovilardo",
@@ -28,12 +28,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/136324426?s=40&v=4"
         },
         {
-          "username": "ColbyCabrera",
-          "avatar": "https://avatars.githubusercontent.com/u/77089439?s=40&v=4"
+          "username": "Dv1101",
+          "avatar": "https://avatars.githubusercontent.com/u/86505071?s=40&v=4"
         },
         {
-          "username": "BeanVortex",
-          "avatar": "https://avatars.githubusercontent.com/u/47008296?s=40&v=4"
+          "username": "ColbyCabrera",
+          "avatar": "https://avatars.githubusercontent.com/u/77089439?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -46,9 +46,9 @@
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 21937,
-      "forks": 2018,
-      "currentPeriodStars": 47,
+      "stars": 21951,
+      "forks": 2019,
+      "currentPeriodStars": 38,
       "builtBy": [
         {
           "username": "RikkaW",
@@ -81,9 +81,9 @@
       "description": "The cutest Material 3 Expressive music streaming client for Android, built for performance and extensibility.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 688,
+      "stars": 695,
       "forks": 21,
-      "currentPeriodStars": 24,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
           "username": "koiverse",
@@ -116,9 +116,9 @@
       "description": "去广告、占用低、AI大模型powered的新时代知乎安卓端体验。",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1172,
-      "forks": 29,
-      "currentPeriodStars": 69,
+      "stars": 1177,
+      "forks": 30,
+      "currentPeriodStars": 25,
       "builtBy": [
         {
           "username": "zly2006",
@@ -151,9 +151,9 @@
       "description": "An advanced Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3160,
+      "stars": 3165,
       "forks": 778,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "tiann",
@@ -186,7 +186,7 @@
       "description": "Android app for streaming and downloading media.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 8895,
+      "stars": 8899,
       "forks": 779,
       "currentPeriodStars": 6,
       "builtBy": [
@@ -221,9 +221,9 @@
       "description": "An alternative frontend for YouTube, for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 11398,
+      "stars": 11403,
       "forks": 579,
-      "currentPeriodStars": 10,
+      "currentPeriodStars": 8,
       "builtBy": [
         {
           "username": "Bnyro",
@@ -256,9 +256,9 @@
       "description": "The Kotlin Programming Language.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 52321,
+      "stars": 52324,
       "forks": 6217,
-      "currentPeriodStars": 13,
+      "currentPeriodStars": 9,
       "builtBy": [
         {
           "username": "udalov",
@@ -293,7 +293,7 @@
       "languageColor": "#A97BFF",
       "stars": 181,
       "forks": 18,
-      "currentPeriodStars": 3,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "siddharthsky",
@@ -322,9 +322,9 @@
       "description": "Full-featured audio/video downloader for Android using yt-dlp",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 7704,
+      "stars": 7708,
       "forks": 320,
-      "currentPeriodStars": 10,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
           "username": "deniscerri",
@@ -353,9 +353,9 @@
       "description": "🧩 Patches for ReVanced",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1487,
+      "stars": 1488,
       "forks": 77,
-      "currentPeriodStars": 8,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "inotia00",
@@ -388,9 +388,9 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 51026,
-      "forks": 6932,
-      "currentPeriodStars": 35,
+      "stars": 51033,
+      "forks": 6938,
+      "currentPeriodStars": 20,
       "builtBy": [
         {
           "username": "2dust",
@@ -423,9 +423,9 @@
       "description": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 20590,
-      "forks": 4187,
-      "currentPeriodStars": 3,
+      "stars": 20592,
+      "forks": 4188,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "dturner",
@@ -460,7 +460,7 @@
       "languageColor": "#A97BFF",
       "stars": 4691,
       "forks": 561,
-      "currentPeriodStars": 6,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "lizongying",

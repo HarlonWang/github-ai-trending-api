@@ -1,7 +1,7 @@
 {
   "count": 12,
   "since": "daily",
-  "captured_at": "2026-02-16 12:17:47",
+  "captured_at": "2026-02-17 00:17:22",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6644,
-      "forks": 579,
+      "stars": 6794,
+      "forks": 584,
       "currentPeriodStars": 344,
       "builtBy": [
         {
@@ -44,9 +44,9 @@
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 16225,
-      "forks": 4365,
-      "currentPeriodStars": 315,
+      "stars": 16545,
+      "forks": 4384,
+      "currentPeriodStars": 339,
       "builtBy": [
         {
           "username": "cardosofede",
@@ -90,9 +90,9 @@
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14184,
-      "forks": 2404,
-      "currentPeriodStars": 162,
+      "stars": 14227,
+      "forks": 2412,
+      "currentPeriodStars": 165,
       "builtBy": [
         {
           "username": "x5a",
@@ -125,9 +125,9 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6040,
-      "forks": 597,
-      "currentPeriodStars": 852,
+      "stars": 6449,
+      "forks": 644,
+      "currentPeriodStars": 891,
       "builtBy": [
         {
           "username": "p-e-w",
@@ -160,9 +160,9 @@
       "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 23877,
-      "forks": 1406,
-      "currentPeriodStars": 140,
+      "stars": 23931,
+      "forks": 1412,
+      "currentPeriodStars": 133,
       "builtBy": [
         {
           "username": "apps/github-actions",
@@ -195,9 +195,9 @@
       "description": "The best ChatGPT that $100 can buy.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 43437,
-      "forks": 5657,
-      "currentPeriodStars": 102,
+      "stars": 43481,
+      "forks": 5666,
+      "currentPeriodStars": 100,
       "builtBy": [
         {
           "username": "karpathy",
@@ -230,9 +230,9 @@
       "description": "🏡 Open source home automation that puts local control and privacy first.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 84838,
-      "forks": 36756,
-      "currentPeriodStars": 19,
+      "stars": 84853,
+      "forks": 36763,
+      "currentPeriodStars": 27,
       "builtBy": [
         {
           "username": "bdraco",
@@ -265,7 +265,7 @@
       "description": "Focus on prompting and generating",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 47705,
+      "stars": 47711,
       "forks": 7787,
       "currentPeriodStars": 8,
       "builtBy": [
@@ -296,9 +296,9 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 20497,
-      "forks": 1913,
-      "currentPeriodStars": 215,
+      "stars": 20554,
+      "forks": 1923,
+      "currentPeriodStars": 216,
       "builtBy": [
         {
           "username": "davila7",
@@ -331,9 +331,9 @@
       "description": "Free, open source crypto trading bot",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 46828,
-      "forks": 9775,
-      "currentPeriodStars": 90,
+      "stars": 46867,
+      "forks": 9786,
+      "currentPeriodStars": 96,
       "builtBy": [
         {
           "username": "xmatthias",
@@ -366,8 +366,8 @@
       "description": "Open Source Algo Trading Platform for Everyone",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1300,
-      "forks": 635,
+      "stars": 1305,
+      "forks": 642,
       "currentPeriodStars": 10,
       "builtBy": [
         {
@@ -401,9 +401,9 @@
       "description": "Moshi is a speech-text foundation model and full-duplex spoken dialogue framework. It uses Mimi, a state-of-the-art streaming neural audio codec.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9625,
-      "forks": 880,
-      "currentPeriodStars": 14,
+      "stars": 9636,
+      "forks": 881,
+      "currentPeriodStars": 15,
       "builtBy": [
         {
           "username": "LaurentMazare",

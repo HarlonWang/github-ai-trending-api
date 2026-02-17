@@ -1,7 +1,7 @@
 {
   "count": 20,
   "since": "daily",
-  "captured_at": "2026-02-16 12:18:00",
+  "captured_at": "2026-02-17 00:17:33",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3245,
-      "forks": 280,
-      "currentPeriodStars": 636,
+      "stars": 3490,
+      "forks": 298,
+      "currentPeriodStars": 637,
       "builtBy": [
         {
           "username": "steipete",
@@ -57,8 +57,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2851,
-      "forks": 206,
+      "stars": 2929,
+      "forks": 212,
       "currentPeriodStars": 374,
       "builtBy": [
         {
@@ -102,9 +102,9 @@
       "description": "scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3117,
-      "forks": 427,
-      "currentPeriodStars": 135,
+      "stars": 3133,
+      "forks": 429,
+      "currentPeriodStars": 41,
       "builtBy": [
         {
           "username": "gosom",
@@ -137,9 +137,9 @@
       "description": "A modern and intuitive terminal-based text editor",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 27952,
+      "stars": 27955,
       "forks": 1281,
-      "currentPeriodStars": 14,
+      "currentPeriodStars": 10,
       "builtBy": [
         {
           "username": "zyedidia",
@@ -172,9 +172,9 @@
       "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22815,
-      "forks": 575,
-      "currentPeriodStars": 17,
+      "stars": 22826,
+      "forks": 576,
+      "currentPeriodStars": 24,
       "builtBy": [
         {
           "username": "meowgorithm",
@@ -207,9 +207,9 @@
       "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 39099,
-      "forks": 3896,
-      "currentPeriodStars": 29,
+      "stars": 39111,
+      "forks": 3900,
+      "currentPeriodStars": 28,
       "builtBy": [
         {
           "username": "danielmiessler",
@@ -242,9 +242,9 @@
       "description": "Information gathering framework for phone numbers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15848,
-      "forks": 4791,
-      "currentPeriodStars": 6,
+      "stars": 15859,
+      "forks": 4792,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "sundowndev",
@@ -277,9 +277,9 @@
       "description": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3182,
+      "stars": 3192,
       "forks": 92,
-      "currentPeriodStars": 15,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
           "username": "s0up4200",
@@ -312,9 +312,9 @@
       "description": "Github Agentic Workflows MCP Gateway",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 38,
+      "stars": 39,
       "forks": 9,
-      "currentPeriodStars": 6,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "lpcox",
@@ -329,12 +329,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/4175913?s=40&v=4"
         },
         {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
           "username": "apps/anthropic-code-agent",
           "avatar": "https://avatars.githubusercontent.com/in/2246796?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -347,9 +347,9 @@
       "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5065,
-      "forks": 655,
-      "currentPeriodStars": 4,
+      "stars": 5066,
+      "forks": 656,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "joe-elliott",
@@ -382,7 +382,7 @@
       "description": "Go library for accessing the GitHub v3 API",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 11132,
+      "stars": 11133,
       "forks": 2209,
       "currentPeriodStars": 0,
       "builtBy": [
@@ -417,9 +417,9 @@
       "description": "WhatsApp CLI",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 410,
-      "forks": 66,
-      "currentPeriodStars": 9,
+      "stars": 425,
+      "forks": 68,
+      "currentPeriodStars": 21,
       "builtBy": [
         {
           "username": "steipete",
@@ -452,9 +452,9 @@
       "description": "The world’s fastest framework for building websites.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 86612,
-      "forks": 8193,
-      "currentPeriodStars": 28,
+      "stars": 86625,
+      "forks": 8192,
+      "currentPeriodStars": 26,
       "builtBy": [
         {
           "username": "bep",
@@ -487,9 +487,9 @@
       "description": "Pure Go implementation of the WebRTC API",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16035,
+      "stars": 16038,
       "forks": 1820,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "Sean-Der",
@@ -522,9 +522,9 @@
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28338,
-      "forks": 2289,
-      "currentPeriodStars": 34,
+      "stars": 28362,
+      "forks": 2288,
+      "currentPeriodStars": 38,
       "builtBy": [
         {
           "username": "bradfitz",
@@ -557,9 +557,9 @@
       "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 60311,
-      "forks": 7036,
-      "currentPeriodStars": 89,
+      "stars": 60310,
+      "forks": 7044,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "harshavardhana",
@@ -602,9 +602,9 @@
       "description": "Lightweight Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 32190,
-      "forks": 2597,
-      "currentPeriodStars": 8,
+      "stars": 32194,
+      "forks": 2598,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "brandond",
@@ -637,9 +637,9 @@
       "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15599,
+      "stars": 15603,
       "forks": 1192,
-      "currentPeriodStars": 9,
+      "currentPeriodStars": 8,
       "builtBy": [
         {
           "username": "antas-marcin",
@@ -672,9 +672,9 @@
       "description": "Pretty fancy and modern terminal file manager",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16646,
+      "stars": 16651,
       "forks": 440,
-      "currentPeriodStars": 8,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "yorukot",
@@ -707,9 +707,9 @@
       "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22514,
-      "forks": 1101,
-      "currentPeriodStars": 29,
+      "stars": 22531,
+      "forks": 1103,
+      "currentPeriodStars": 34,
       "builtBy": [
         {
           "username": "mlsmaycon",

@@ -1,7 +1,7 @@
 {
-  "count": 11,
+  "count": 10,
   "since": "daily",
-  "captured_at": "2026-02-16 12:17:21",
+  "captured_at": "2026-02-17 00:17:17",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2781,
-      "forks": 139,
+      "stars": 3576,
+      "forks": 186,
       "currentPeriodStars": 1094,
       "builtBy": [
         {
@@ -56,9 +56,9 @@
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19573,
-      "forks": 2311,
-      "currentPeriodStars": 545,
+      "stars": 19770,
+      "forks": 2320,
+      "currentPeriodStars": 546,
       "builtBy": [
         {
           "username": "cjdsellers",
@@ -102,9 +102,9 @@
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 7079,
-      "forks": 607,
-      "currentPeriodStars": 701,
+      "stars": 7317,
+      "forks": 620,
+      "currentPeriodStars": 700,
       "builtBy": [
         {
           "username": "ramnique",
@@ -147,9 +147,9 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3244,
-      "forks": 280,
-      "currentPeriodStars": 636,
+      "stars": 3490,
+      "forks": 298,
+      "currentPeriodStars": 637,
       "builtBy": [
         {
           "username": "steipete",
@@ -193,8 +193,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 199396,
-      "forks": 35235,
+      "stars": 201571,
+      "forks": 36112,
       "currentPeriodStars": 3873,
       "builtBy": [
         {
@@ -239,8 +239,8 @@
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 873,
-      "forks": 303,
+      "stars": 983,
+      "forks": 348,
       "currentPeriodStars": 205,
       "builtBy": [
         {
@@ -284,9 +284,9 @@
       "description": "The memory-first coding agent",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1329,
-      "forks": 149,
-      "currentPeriodStars": 192,
+      "stars": 1442,
+      "forks": 155,
+      "currentPeriodStars": 22,
       "builtBy": [
         {
           "username": "cpacker",
@@ -329,8 +329,8 @@
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6644,
-      "forks": 579,
+      "stars": 6794,
+      "forks": 584,
       "currentPeriodStars": 344,
       "builtBy": [
         {
@@ -356,61 +356,15 @@
     },
     {
       "rank": 9,
-      "author": "maxritter",
-      "repoName": "claude-pilot",
-      "url": "https://github.com/maxritter/claude-pilot",
-      "description": "Claude Code is powerful. Pilot makes it reliable. Start a task, grab a coffee, come back to production-grade code. Tests enforced. Context preserved. Quality automated.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 1082,
-      "forks": 84,
-      "currentPeriodStars": 131,
-      "builtBy": [
-        {
-          "username": "maxritter",
-          "avatar": "https://avatars.githubusercontent.com/u/12452009?s=40&v=4"
-        },
-        {
-          "username": "semantic-release-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "mavogel",
-          "avatar": "https://avatars.githubusercontent.com/u/8409778?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "claude-pilot 利用 TypeScript 构建自动化编码工作流，将 Claude Code 的能力包装为可重复的工程化流程。它通过任务编排、上下文持续管理与强制测试执行，减少人工干预，让开发者能稳定产出接近生产级质量的代码。",
-          "en": "claude-pilot turns Claude Code into a reliable, automated coding workflow with task orchestration, persistent context, and enforced tests, reducing manual oversight while consistently generating production-grade code."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "Claude Pilot 是一个基于 Claude Code 的自动化开发工具，旨在将 AI 代码生成提升至生产级别。它通过强制测试、保持上下文和自动化质量检查，让开发者能可靠地启动任务并获取高质量代码，显著提升开发效率与代码可靠性。",
-          "en": "Claude Pilot automates AI-driven coding to production-grade standards. It enforces tests, preserves context, and automates quality checks, enabling developers to reliably generate high-quality code with minimal supervision."
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "author": "seerr-team",
       "repoName": "seerr",
       "url": "https://github.com/seerr-team/seerr",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8895,
-      "forks": 592,
-      "currentPeriodStars": 185,
+      "stars": 9058,
+      "forks": 601,
+      "currentPeriodStars": 182,
       "builtBy": [
         {
           "username": "fallenbagel",
@@ -447,16 +401,16 @@
       ]
     },
     {
-      "rank": 11,
+      "rank": 10,
       "author": "hummingbot",
       "repoName": "hummingbot",
       "url": "https://github.com/hummingbot/hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 16225,
-      "forks": 4365,
-      "currentPeriodStars": 315,
+      "stars": 16545,
+      "forks": 4384,
+      "currentPeriodStars": 339,
       "builtBy": [
         {
           "username": "cardosofede",

@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "weekly",
-  "captured_at": "2026-02-16 12:18:35",
+  "captured_at": "2026-02-17 00:18:11",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32625,
-      "forks": 2185,
-      "currentPeriodStars": 7964,
+      "stars": 32712,
+      "forks": 2187,
+      "currentPeriodStars": 7658,
       "builtBy": [
         {
           "username": "aksg87",
@@ -51,9 +51,9 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2770,
-      "forks": 178,
-      "currentPeriodStars": 2265,
+      "stars": 2852,
+      "forks": 180,
+      "currentPeriodStars": 2342,
       "builtBy": [
         {
           "username": "Jeffallan",
@@ -91,9 +91,9 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17349,
-      "forks": 3731,
-      "currentPeriodStars": 1412,
+      "stars": 17367,
+      "forks": 3732,
+      "currentPeriodStars": 1299,
       "builtBy": [
         {
           "username": "hsliuping",
@@ -126,9 +126,9 @@
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 13429,
-      "forks": 1606,
-      "currentPeriodStars": 627,
+      "stars": 13475,
+      "forks": 1612,
+      "currentPeriodStars": 697,
       "builtBy": [
         {
           "username": "LarFii",
@@ -161,9 +161,9 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 95425,
-      "forks": 13813,
-      "currentPeriodStars": 2481,
+      "stars": 95524,
+      "forks": 13831,
+      "currentPeriodStars": 2565,
       "builtBy": [
         {
           "username": "Shubhamsaboo",
@@ -201,9 +201,9 @@
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6644,
-      "forks": 579,
-      "currentPeriodStars": 820,
+      "stars": 6794,
+      "forks": 584,
+      "currentPeriodStars": 889,
       "builtBy": [
         {
           "username": "ruvnet",
@@ -234,9 +234,9 @@
       "description": "The best ChatGPT that $100 can buy.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 43437,
-      "forks": 5657,
-      "currentPeriodStars": 788,
+      "stars": 43481,
+      "forks": 5666,
+      "currentPeriodStars": 803,
       "builtBy": [
         {
           "username": "karpathy",
@@ -269,9 +269,9 @@
       "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 94682,
-      "forks": 11761,
-      "currentPeriodStars": 364,
+      "stars": 94707,
+      "forks": 11765,
+      "currentPeriodStars": 358,
       "builtBy": [
         {
           "username": "jongwook",
@@ -304,9 +304,9 @@
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 16225,
-      "forks": 4365,
-      "currentPeriodStars": 374,
+      "stars": 16546,
+      "forks": 4384,
+      "currentPeriodStars": 506,
       "builtBy": [
         {
           "username": "cardosofede",
@@ -350,9 +350,9 @@
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11243,
-      "forks": 1101,
-      "currentPeriodStars": 2925,
+      "stars": 11302,
+      "forks": 1106,
+      "currentPeriodStars": 2924,
       "builtBy": [
         {
           "username": "cheahjs",
@@ -390,9 +390,9 @@
       "description": "Automated Penetration Testing Agentic Framework Powered by Large Language Models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11638,
-      "forks": 1942,
-      "currentPeriodStars": 149,
+      "stars": 11647,
+      "forks": 1944,
+      "currentPeriodStars": 150,
       "builtBy": [
         {
           "username": "GreyDGL",
@@ -425,9 +425,9 @@
       "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 18179,
+      "stars": 18185,
       "forks": 1475,
-      "currentPeriodStars": 622,
+      "currentPeriodStars": 448,
       "builtBy": [
         {
           "username": "ROBERT-MCDOWELL",
@@ -460,9 +460,9 @@
       "description": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 12481,
-      "forks": 2615,
-      "currentPeriodStars": 135,
+      "stars": 12492,
+      "forks": 2617,
+      "currentPeriodStars": 142,
       "builtBy": [
         {
           "username": "coleam00",
@@ -483,9 +483,9 @@
       "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 81107,
-      "forks": 18597,
-      "currentPeriodStars": 235,
+      "stars": 81121,
+      "forks": 18606,
+      "currentPeriodStars": 242,
       "builtBy": [
         {
           "username": "surister",
@@ -518,9 +518,9 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 398629,
-      "forks": 42651,
-      "currentPeriodStars": 2237,
+      "stars": 398695,
+      "forks": 42658,
+      "currentPeriodStars": 1871,
       "builtBy": [
         {
           "username": "matheusfelipeog",
@@ -553,9 +553,9 @@
       "description": "slime is an LLM post-training framework for RL Scaling.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4196,
-      "forks": 542,
-      "currentPeriodStars": 468,
+      "stars": 4206,
+      "forks": 543,
+      "currentPeriodStars": 481,
       "builtBy": [
         {
           "username": "zhuzilin",
@@ -593,9 +593,9 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8660,
-      "forks": 481,
-      "currentPeriodStars": 1808,
+      "stars": 8719,
+      "forks": 486,
+      "currentPeriodStars": 1293,
       "builtBy": [
         {
           "username": "gverma-openai",
@@ -628,9 +628,9 @@
       "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 53291,
-      "forks": 9020,
-      "currentPeriodStars": 538,
+      "stars": 53317,
+      "forks": 9025,
+      "currentPeriodStars": 555,
       "builtBy": [
         {
           "username": "karpathy",
@@ -663,9 +663,9 @@
       "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 52265,
-      "forks": 4319,
-      "currentPeriodStars": 538,
+      "stars": 52275,
+      "forks": 4320,
+      "currentPeriodStars": 546,
       "builtBy": [
         {
           "username": "danielhanchen",

@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "monthly",
-  "captured_at": "2026-02-16 12:19:49",
+  "captured_at": "2026-02-17 00:19:23",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19359,
+      "stars": 19381,
       "forks": 842,
-      "currentPeriodStars": 1904,
+      "currentPeriodStars": 1942,
       "builtBy": [
         {
           "username": "krlvi",
@@ -46,9 +46,9 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60593,
-      "forks": 7995,
-      "currentPeriodStars": 4580,
+      "stars": 60689,
+      "forks": 8012,
+      "currentPeriodStars": 4701,
       "builtBy": [
         {
           "username": "bolinfest",
@@ -81,9 +81,9 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30514,
-      "forks": 2764,
-      "currentPeriodStars": 4628,
+      "stars": 30530,
+      "forks": 2762,
+      "currentPeriodStars": 4640,
       "builtBy": [
         {
           "username": "angiejones",
@@ -116,9 +116,9 @@
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 23435,
-      "forks": 2645,
-      "currentPeriodStars": 9964,
+      "stars": 23454,
+      "forks": 2647,
+      "currentPeriodStars": 9608,
       "builtBy": [
         {
           "username": "lbjlaq",
@@ -151,9 +151,9 @@
       "description": "An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1809,
+      "stars": 1811,
       "forks": 182,
-      "currentPeriodStars": 1156,
+      "currentPeriodStars": 1128,
       "builtBy": [
         {
           "username": "mikeyobrien",
@@ -186,9 +186,9 @@
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6925,
-      "forks": 430,
-      "currentPeriodStars": 497,
+      "stars": 6932,
+      "forks": 432,
+      "currentPeriodStars": 489,
       "builtBy": [
         {
           "username": "Snowiiii",
@@ -221,9 +221,9 @@
       "description": "⚡ Better `pre-commit`, re-engineered in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6215,
+      "stars": 6229,
       "forks": 165,
-      "currentPeriodStars": 2719,
+      "currentPeriodStars": 2686,
       "builtBy": [
         {
           "username": "j178",
@@ -256,9 +256,9 @@
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19574,
-      "forks": 2311,
-      "currentPeriodStars": 1986,
+      "stars": 19770,
+      "forks": 2320,
+      "currentPeriodStars": 2471,
       "builtBy": [
         {
           "username": "cjdsellers",
@@ -302,9 +302,9 @@
       "description": "screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16894,
+      "stars": 16900,
       "forks": 1399,
-      "currentPeriodStars": 523,
+      "currentPeriodStars": 539,
       "builtBy": [
         {
           "username": "louis030195",
@@ -337,9 +337,9 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2117,
-      "forks": 79,
-      "currentPeriodStars": 961,
+      "stars": 2140,
+      "forks": 80,
+      "currentPeriodStars": 972,
       "builtBy": [
         {
           "username": "max-sixty",
@@ -372,9 +372,9 @@
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 102746,
-      "forks": 3392,
-      "currentPeriodStars": 1576,
+      "stars": 102763,
+      "forks": 3391,
+      "currentPeriodStars": 1557,
       "builtBy": [
         {
           "username": "lucasfernog",
@@ -407,9 +407,9 @@
       "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29809,
-      "forks": 2251,
-      "currentPeriodStars": 313,
+      "stars": 29813,
+      "forks": 2250,
+      "currentPeriodStars": 308,
       "builtBy": [
         {
           "username": "sokra",
@@ -442,9 +442,9 @@
       "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29254,
-      "forks": 964,
-      "currentPeriodStars": 1215,
+      "stars": 29264,
+      "forks": 965,
+      "currentPeriodStars": 1213,
       "builtBy": [
         {
           "username": "qarmin",
@@ -477,9 +477,9 @@
       "description": "A terminal workspace with batteries included",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29065,
+      "stars": 29072,
       "forks": 961,
-      "currentPeriodStars": 923,
+      "currentPeriodStars": 910,
       "builtBy": [
         {
           "username": "imsnif",
@@ -512,9 +512,9 @@
       "description": "dev tools, env vars, task runner",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 24600,
-      "forks": 884,
-      "currentPeriodStars": 1587,
+      "stars": 24627,
+      "forks": 885,
+      "currentPeriodStars": 1576,
       "builtBy": [
         {
           "username": "jdx",
@@ -547,9 +547,9 @@
       "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 24170,
-      "forks": 1197,
-      "currentPeriodStars": 767,
+      "stars": 24184,
+      "forks": 1198,
+      "currentPeriodStars": 761,
       "builtBy": [
         {
           "username": "wez",
@@ -582,9 +582,9 @@
       "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 26447,
-      "forks": 2810,
-      "currentPeriodStars": 733,
+      "stars": 26452,
+      "forks": 2811,
+      "currentPeriodStars": 736,
       "builtBy": [
         {
           "username": "dae",
@@ -617,9 +617,9 @@
       "description": "The user-friendly command line shell.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32570,
+      "stars": 32572,
       "forks": 2226,
-      "currentPeriodStars": 538,
+      "currentPeriodStars": 537,
       "builtBy": [
         {
           "username": "ridiculousfish",
@@ -652,9 +652,9 @@
       "description": "Lightning-fast and Powerful Code Editor written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 38073,
+      "stars": 38074,
       "forks": 1233,
-      "currentPeriodStars": 353,
+      "currentPeriodStars": 354,
       "builtBy": [
         {
           "username": "dzhou121",
@@ -687,9 +687,9 @@
       "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 55929,
-      "forks": 2375,
-      "currentPeriodStars": 604,
+      "stars": 55934,
+      "forks": 2376,
+      "currentPeriodStars": 594,
       "builtBy": [
         {
           "username": "Kerollmops",
