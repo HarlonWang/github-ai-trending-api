@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "monthly",
-  "captured_at": "2026-02-17 00:19:23",
+  "captured_at": "2026-02-17 12:19:58",
   "data": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19381,
+      "stars": 19415,
       "forks": 842,
       "currentPeriodStars": 1942,
       "builtBy": [
@@ -46,8 +46,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60689,
-      "forks": 8012,
+      "stars": 60767,
+      "forks": 8031,
       "currentPeriodStars": 4701,
       "builtBy": [
         {
@@ -81,7 +81,7 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30530,
+      "stars": 30546,
       "forks": 2762,
       "currentPeriodStars": 4640,
       "builtBy": [
@@ -116,8 +116,8 @@
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 23454,
-      "forks": 2647,
+      "stars": 23487,
+      "forks": 2654,
       "currentPeriodStars": 9608,
       "builtBy": [
         {
@@ -151,8 +151,8 @@
       "description": "An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1811,
-      "forks": 182,
+      "stars": 1817,
+      "forks": 183,
       "currentPeriodStars": 1128,
       "builtBy": [
         {
@@ -180,49 +180,14 @@
     },
     {
       "rank": 6,
-      "author": "Pumpkin-MC",
-      "repoName": "Pumpkin",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 6932,
-      "forks": 432,
-      "currentPeriodStars": 489,
-      "builtBy": [
-        {
-          "username": "Snowiiii",
-          "avatar": "https://avatars.githubusercontent.com/u/71594357?s=40&v=4"
-        },
-        {
-          "username": "kralverde",
-          "avatar": "https://avatars.githubusercontent.com/u/80051564?s=40&v=4"
-        },
-        {
-          "username": "Bryntet",
-          "avatar": "https://avatars.githubusercontent.com/u/39092238?s=40&v=4"
-        },
-        {
-          "username": "lukas0008",
-          "avatar": "https://avatars.githubusercontent.com/u/70709598?s=40&v=4"
-        },
-        {
-          "username": "Commandcracker",
-          "avatar": "https://avatars.githubusercontent.com/u/49335821?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 7,
       "author": "j178",
       "repoName": "prek",
       "url": "https://github.com/j178/prek",
       "description": "⚡ Better `pre-commit`, re-engineered in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6229,
-      "forks": 165,
+      "stars": 6236,
+      "forks": 166,
       "currentPeriodStars": 2686,
       "builtBy": [
         {
@@ -249,6 +214,41 @@
       "aiSummaries": null
     },
     {
+      "rank": 7,
+      "author": "Pumpkin-MC",
+      "repoName": "Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 6939,
+      "forks": 435,
+      "currentPeriodStars": 489,
+      "builtBy": [
+        {
+          "username": "Snowiiii",
+          "avatar": "https://avatars.githubusercontent.com/u/71594357?s=40&v=4"
+        },
+        {
+          "username": "kralverde",
+          "avatar": "https://avatars.githubusercontent.com/u/80051564?s=40&v=4"
+        },
+        {
+          "username": "Bryntet",
+          "avatar": "https://avatars.githubusercontent.com/u/39092238?s=40&v=4"
+        },
+        {
+          "username": "lukas0008",
+          "avatar": "https://avatars.githubusercontent.com/u/70709598?s=40&v=4"
+        },
+        {
+          "username": "Commandcracker",
+          "avatar": "https://avatars.githubusercontent.com/u/49335821?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
       "rank": 8,
       "author": "nautechsystems",
       "repoName": "nautilus_trader",
@@ -256,8 +256,8 @@
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19770,
-      "forks": 2320,
+      "stars": 19929,
+      "forks": 2343,
       "currentPeriodStars": 2471,
       "builtBy": [
         {
@@ -296,84 +296,14 @@
     },
     {
       "rank": 9,
-      "author": "screenpipe",
-      "repoName": "screenpipe",
-      "url": "https://github.com/screenpipe/screenpipe",
-      "description": "screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 16900,
-      "forks": 1399,
-      "currentPeriodStars": 539,
-      "builtBy": [
-        {
-          "username": "louis030195",
-          "avatar": "https://avatars.githubusercontent.com/u/25003283?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "m13v",
-          "avatar": "https://avatars.githubusercontent.com/u/104702220?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "Neptune650",
-          "avatar": "https://avatars.githubusercontent.com/u/62727185?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 10,
-      "author": "max-sixty",
-      "repoName": "worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2140,
-      "forks": 80,
-      "currentPeriodStars": 972,
-      "builtBy": [
-        {
-          "username": "max-sixty",
-          "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "worktrunk-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/254187624?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 11,
       "author": "tauri-apps",
       "repoName": "tauri",
       "url": "https://github.com/tauri-apps/tauri",
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 102763,
-      "forks": 3391,
+      "stars": 102781,
+      "forks": 3393,
       "currentPeriodStars": 1557,
       "builtBy": [
         {
@@ -400,14 +330,49 @@
       "aiSummaries": null
     },
     {
-      "rank": 12,
+      "rank": 10,
+      "author": "screenpipe",
+      "repoName": "screenpipe",
+      "url": "https://github.com/screenpipe/screenpipe",
+      "description": "screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 16907,
+      "forks": 1402,
+      "currentPeriodStars": 539,
+      "builtBy": [
+        {
+          "username": "louis030195",
+          "avatar": "https://avatars.githubusercontent.com/u/25003283?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "m13v",
+          "avatar": "https://avatars.githubusercontent.com/u/104702220?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        },
+        {
+          "username": "Neptune650",
+          "avatar": "https://avatars.githubusercontent.com/u/62727185?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 11,
       "author": "vercel",
       "repoName": "turborepo",
       "url": "https://github.com/vercel/turborepo",
       "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29813,
+      "stars": 29814,
       "forks": 2250,
       "currentPeriodStars": 308,
       "builtBy": [
@@ -435,14 +400,14 @@
       "aiSummaries": null
     },
     {
-      "rank": 13,
+      "rank": 12,
       "author": "qarmin",
       "repoName": "czkawka",
       "url": "https://github.com/qarmin/czkawka",
       "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29264,
+      "stars": 29276,
       "forks": 965,
       "currentPeriodStars": 1213,
       "builtBy": [
@@ -470,6 +435,41 @@
       "aiSummaries": null
     },
     {
+      "rank": 13,
+      "author": "wezterm",
+      "repoName": "wezterm",
+      "url": "https://github.com/wezterm/wezterm",
+      "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 24190,
+      "forks": 1201,
+      "currentPeriodStars": 761,
+      "builtBy": [
+        {
+          "username": "wez",
+          "avatar": "https://avatars.githubusercontent.com/u/117777?s=40&v=4"
+        },
+        {
+          "username": "bew",
+          "avatar": "https://avatars.githubusercontent.com/u/9730330?s=40&v=4"
+        },
+        {
+          "username": "tzx",
+          "avatar": "https://avatars.githubusercontent.com/u/34635512?s=40&v=4"
+        },
+        {
+          "username": "chipsenkbeil",
+          "avatar": "https://avatars.githubusercontent.com/u/2481802?s=40&v=4"
+        },
+        {
+          "username": "jsgf",
+          "avatar": "https://avatars.githubusercontent.com/u/147966?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
       "rank": 14,
       "author": "zellij-org",
       "repoName": "zellij",
@@ -477,7 +477,7 @@
       "description": "A terminal workspace with batteries included",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29072,
+      "stars": 29082,
       "forks": 961,
       "currentPeriodStars": 910,
       "builtBy": [
@@ -506,118 +506,13 @@
     },
     {
       "rank": 15,
-      "author": "jdx",
-      "repoName": "mise",
-      "url": "https://github.com/jdx/mise",
-      "description": "dev tools, env vars, task runner",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 24627,
-      "forks": 885,
-      "currentPeriodStars": 1576,
-      "builtBy": [
-        {
-          "username": "jdx",
-          "avatar": "https://avatars.githubusercontent.com/u/216188?s=40&v=4"
-        },
-        {
-          "username": "mise-en-dev",
-          "avatar": "https://avatars.githubusercontent.com/u/123107610?s=40&v=4"
-        },
-        {
-          "username": "apps/renovate",
-          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "apps/autofix-ci",
-          "avatar": "https://avatars.githubusercontent.com/in/243519?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 16,
-      "author": "wezterm",
-      "repoName": "wezterm",
-      "url": "https://github.com/wezterm/wezterm",
-      "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 24184,
-      "forks": 1198,
-      "currentPeriodStars": 761,
-      "builtBy": [
-        {
-          "username": "wez",
-          "avatar": "https://avatars.githubusercontent.com/u/117777?s=40&v=4"
-        },
-        {
-          "username": "bew",
-          "avatar": "https://avatars.githubusercontent.com/u/9730330?s=40&v=4"
-        },
-        {
-          "username": "tzx",
-          "avatar": "https://avatars.githubusercontent.com/u/34635512?s=40&v=4"
-        },
-        {
-          "username": "chipsenkbeil",
-          "avatar": "https://avatars.githubusercontent.com/u/2481802?s=40&v=4"
-        },
-        {
-          "username": "jsgf",
-          "avatar": "https://avatars.githubusercontent.com/u/147966?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 17,
-      "author": "ankitects",
-      "repoName": "anki",
-      "url": "https://github.com/ankitects/anki",
-      "description": "Anki is a smart spaced repetition flashcard program",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 26452,
-      "forks": 2811,
-      "currentPeriodStars": 736,
-      "builtBy": [
-        {
-          "username": "dae",
-          "avatar": "https://avatars.githubusercontent.com/u/180542?s=40&v=4"
-        },
-        {
-          "username": "hgiesel",
-          "avatar": "https://avatars.githubusercontent.com/u/7188844?s=40&v=4"
-        },
-        {
-          "username": "RumovZ",
-          "avatar": "https://avatars.githubusercontent.com/u/48286681?s=40&v=4"
-        },
-        {
-          "username": "abdnh",
-          "avatar": "https://avatars.githubusercontent.com/u/41397710?s=40&v=4"
-        },
-        {
-          "username": "Arthur-Milchior",
-          "avatar": "https://avatars.githubusercontent.com/u/357361?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 18,
       "author": "fish-shell",
       "repoName": "fish-shell",
       "url": "https://github.com/fish-shell/fish-shell",
       "description": "The user-friendly command line shell.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32572,
+      "stars": 32583,
       "forks": 2226,
       "currentPeriodStars": 537,
       "builtBy": [
@@ -645,36 +540,141 @@
       "aiSummaries": null
     },
     {
-      "rank": 19,
-      "author": "lapce",
-      "repoName": "lapce",
-      "url": "https://github.com/lapce/lapce",
-      "description": "Lightning-fast and Powerful Code Editor written in Rust",
+      "rank": 16,
+      "author": "tokio-rs",
+      "repoName": "tokio",
+      "url": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 38074,
-      "forks": 1233,
-      "currentPeriodStars": 354,
+      "stars": 31105,
+      "forks": 2940,
+      "currentPeriodStars": 364,
       "builtBy": [
         {
-          "username": "dzhou121",
-          "avatar": "https://avatars.githubusercontent.com/u/1169480?s=40&v=4"
+          "username": "traviscibot",
+          "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4"
         },
         {
-          "username": "panekj",
-          "avatar": "https://avatars.githubusercontent.com/u/50457605?s=40&v=4"
+          "username": "carllerche",
+          "avatar": "https://avatars.githubusercontent.com/u/6180?s=40&v=4"
         },
         {
-          "username": "bugadani",
-          "avatar": "https://avatars.githubusercontent.com/u/977627?s=40&v=4"
+          "username": "Darksonn",
+          "avatar": "https://avatars.githubusercontent.com/u/928074?s=40&v=4"
+        },
+        {
+          "username": "alexcrichton",
+          "avatar": "https://avatars.githubusercontent.com/u/64996?s=40&v=4"
+        },
+        {
+          "username": "taiki-e",
+          "avatar": "https://avatars.githubusercontent.com/u/43724913?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 17,
+      "author": "ankitects",
+      "repoName": "anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 26458,
+      "forks": 2812,
+      "currentPeriodStars": 736,
+      "builtBy": [
+        {
+          "username": "dae",
+          "avatar": "https://avatars.githubusercontent.com/u/180542?s=40&v=4"
+        },
+        {
+          "username": "hgiesel",
+          "avatar": "https://avatars.githubusercontent.com/u/7188844?s=40&v=4"
+        },
+        {
+          "username": "RumovZ",
+          "avatar": "https://avatars.githubusercontent.com/u/48286681?s=40&v=4"
+        },
+        {
+          "username": "abdnh",
+          "avatar": "https://avatars.githubusercontent.com/u/41397710?s=40&v=4"
+        },
+        {
+          "username": "Arthur-Milchior",
+          "avatar": "https://avatars.githubusercontent.com/u/357361?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 18,
+      "author": "max-sixty",
+      "repoName": "worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2151,
+      "forks": 80,
+      "currentPeriodStars": 972,
+      "builtBy": [
+        {
+          "username": "max-sixty",
+          "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
           "username": "apps/dependabot",
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "MinusGix",
-          "avatar": "https://avatars.githubusercontent.com/u/13157904?s=40&v=4"
+          "username": "worktrunk-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/254187624?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 19,
+      "author": "jdx",
+      "repoName": "mise",
+      "url": "https://github.com/jdx/mise",
+      "description": "dev tools, env vars, task runner",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 24641,
+      "forks": 885,
+      "currentPeriodStars": 1576,
+      "builtBy": [
+        {
+          "username": "jdx",
+          "avatar": "https://avatars.githubusercontent.com/u/216188?s=40&v=4"
+        },
+        {
+          "username": "mise-en-dev",
+          "avatar": "https://avatars.githubusercontent.com/u/123107610?s=40&v=4"
+        },
+        {
+          "username": "apps/renovate",
+          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "apps/autofix-ci",
+          "avatar": "https://avatars.githubusercontent.com/in/243519?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -687,8 +687,8 @@
       "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 55934,
-      "forks": 2376,
+      "stars": 55944,
+      "forks": 2378,
       "currentPeriodStars": 594,
       "builtBy": [
         {
@@ -722,8 +722,8 @@
       "description": "Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5438,
-      "forks": 669,
+      "stars": 5440,
+      "forks": 671,
       "currentPeriodStars": 166,
       "builtBy": [
         {

@@ -1,88 +1,18 @@
 {
-  "count": 16,
+  "count": 12,
   "since": "weekly",
-  "captured_at": "2026-02-17 00:18:35",
+  "captured_at": "2026-02-17 12:19:09",
   "data": [
     {
       "rank": 1,
-      "author": "KeygraphHQ",
-      "repoName": "shannon",
-      "url": "https://github.com/KeygraphHQ/shannon",
-      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 22810,
-      "forks": 2276,
-      "currentPeriodStars": 6966,
-      "builtBy": [
-        {
-          "username": "ajmallesh",
-          "avatar": "https://avatars.githubusercontent.com/u/178829317?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "keygraphVarun",
-          "avatar": "https://avatars.githubusercontent.com/u/182007681?s=40&v=4"
-        },
-        {
-          "username": "Khaushik-keygraph",
-          "avatar": "https://avatars.githubusercontent.com/u/197124057?s=40&v=4"
-        },
-        {
-          "username": "nelliekeygraph",
-          "avatar": "https://avatars.githubusercontent.com/u/212406850?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 2,
-      "author": "badlogic",
-      "repoName": "pi-mono",
-      "url": "https://github.com/badlogic/pi-mono",
-      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 12869,
-      "forks": 1291,
-      "currentPeriodStars": 4425,
-      "builtBy": [
-        {
-          "username": "badlogic",
-          "avatar": "https://avatars.githubusercontent.com/u/514052?s=40&v=4"
-        },
-        {
-          "username": "hjanuschka",
-          "avatar": "https://avatars.githubusercontent.com/u/2891702?s=40&v=4"
-        },
-        {
-          "username": "markusylisiurunen",
-          "avatar": "https://avatars.githubusercontent.com/u/8409947?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "aliou",
-          "avatar": "https://avatars.githubusercontent.com/u/980367?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 3,
       "author": "ChromeDevTools",
       "repoName": "chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 25638,
-      "forks": 1512,
+      "stars": 25692,
+      "forks": 1514,
       "currentPeriodStars": 2041,
       "builtBy": [
         {
@@ -119,6 +49,81 @@
       ]
     },
     {
+      "rank": 2,
+      "author": "danielmiessler",
+      "repoName": "Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 8611,
+      "forks": 1190,
+      "currentPeriodStars": 2207,
+      "builtBy": [
+        {
+          "username": "danielmiessler",
+          "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "ksylvan",
+          "avatar": "https://avatars.githubusercontent.com/u/1226059?s=40&v=4"
+        },
+        {
+          "username": "mvoehringer",
+          "avatar": "https://avatars.githubusercontent.com/u/2719466?s=40&v=4"
+        },
+        {
+          "username": "m4nt0de4",
+          "avatar": "https://avatars.githubusercontent.com/u/176330864?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "danielmiessler/Personal_AI_Infrastructure 是一个基于 TypeScript 的智能体化 AI 基础设施项目。其核心目标是构建一个能扩展和增强人类能力的自动化代理系统，通过编排多个 AI 智能体协同工作，解决个人在信息处理、任务执行与决策支持等方面的效率瓶颈，实现人机能力的深度融合与放大。"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "author": "badlogic",
+      "repoName": "pi-mono",
+      "url": "https://github.com/badlogic/pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 13011,
+      "forks": 1309,
+      "currentPeriodStars": 4425,
+      "builtBy": [
+        {
+          "username": "badlogic",
+          "avatar": "https://avatars.githubusercontent.com/u/514052?s=40&v=4"
+        },
+        {
+          "username": "hjanuschka",
+          "avatar": "https://avatars.githubusercontent.com/u/2891702?s=40&v=4"
+        },
+        {
+          "username": "markusylisiurunen",
+          "avatar": "https://avatars.githubusercontent.com/u/8409947?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        },
+        {
+          "username": "aliou",
+          "avatar": "https://avatars.githubusercontent.com/u/980367?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
       "rank": 4,
       "author": "tambo-ai",
       "repoName": "tambo",
@@ -126,8 +131,8 @@
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 10372,
-      "forks": 505,
+      "stars": 10501,
+      "forks": 510,
       "currentPeriodStars": 2273,
       "builtBy": [
         {
@@ -165,43 +170,38 @@
     },
     {
       "rank": 5,
-      "author": "danielmiessler",
-      "repoName": "Personal_AI_Infrastructure",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "author": "KeygraphHQ",
+      "repoName": "shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8553,
-      "forks": 1184,
-      "currentPeriodStars": 2207,
+      "stars": 23047,
+      "forks": 2303,
+      "currentPeriodStars": 6966,
       "builtBy": [
         {
-          "username": "danielmiessler",
-          "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&v=4"
+          "username": "ajmallesh",
+          "avatar": "https://avatars.githubusercontent.com/u/178829317?s=40&v=4"
         },
         {
           "username": "claude",
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "ksylvan",
-          "avatar": "https://avatars.githubusercontent.com/u/1226059?s=40&v=4"
+          "username": "keygraphVarun",
+          "avatar": "https://avatars.githubusercontent.com/u/182007681?s=40&v=4"
         },
         {
-          "username": "mvoehringer",
-          "avatar": "https://avatars.githubusercontent.com/u/2719466?s=40&v=4"
+          "username": "ezl-keygraph",
+          "avatar": "https://avatars.githubusercontent.com/u/252853768?s=40&v=4"
         },
         {
-          "username": "m4nt0de4",
-          "avatar": "https://avatars.githubusercontent.com/u/176330864?s=40&v=4"
+          "username": "Khaushik-keygraph",
+          "avatar": "https://avatars.githubusercontent.com/u/197124057?s=40&v=4"
         }
       ],
-      "aiSummaries": [
-        {
-          "provider": "deepseek",
-          "zh": "danielmiessler/Personal_AI_Infrastructure 是一个基于 TypeScript 的智能体化 AI 基础设施项目。其核心目标是构建一个能扩展和增强人类能力的自动化代理系统，通过编排多个 AI 智能体协同工作，解决个人在信息处理、任务执行与决策支持等方面的效率瓶颈，实现人机能力的深度融合与放大。"
-        }
-      ]
+      "aiSummaries": null
     },
     {
       "rank": 6,
@@ -211,8 +211,8 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9028,
-      "forks": 704,
+      "stars": 9084,
+      "forks": 711,
       "currentPeriodStars": 1346,
       "builtBy": [
         {
@@ -240,48 +240,13 @@
     },
     {
       "rank": 7,
-      "author": "virattt",
-      "repoName": "dexter",
-      "url": "https://github.com/virattt/dexter",
-      "description": "An autonomous agent for deep financial research",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 15511,
-      "forks": 1850,
-      "currentPeriodStars": 2276,
-      "builtBy": [
-        {
-          "username": "virattt",
-          "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&v=4"
-        },
-        {
-          "username": "MkDev11",
-          "avatar": "https://avatars.githubusercontent.com/u/94194147?s=40&v=4"
-        },
-        {
-          "username": "cursoragent",
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
-        },
-        {
-          "username": "gupta-8",
-          "avatar": "https://avatars.githubusercontent.com/u/215169640?s=40&v=4"
-        },
-        {
-          "username": "sjhddh",
-          "avatar": "https://avatars.githubusercontent.com/u/5778228?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 8,
       "author": "jezweb",
       "repoName": "claude-skills",
       "url": "https://github.com/jezweb/claude-skills",
       "description": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 485,
+      "stars": 488,
       "forks": 36,
       "currentPeriodStars": 191,
       "builtBy": [
@@ -297,50 +262,15 @@
       "aiSummaries": null
     },
     {
-      "rank": 9,
-      "author": "thedotmack",
-      "repoName": "claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 28617,
-      "forks": 1915,
-      "currentPeriodStars": 2560,
-      "builtBy": [
-        {
-          "username": "thedotmack",
-          "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "apps/copilot-swe-agent",
-          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
-        },
-        {
-          "username": "rodboev",
-          "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "author": "letta-ai",
       "repoName": "letta-code",
       "url": "https://github.com/letta-ai/letta-code",
       "description": "The memory-first coding agent",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1442,
-      "forks": 155,
+      "stars": 1547,
+      "forks": 158,
       "currentPeriodStars": 355,
       "builtBy": [
         {
@@ -377,90 +307,50 @@
       ]
     },
     {
-      "rank": 11,
-      "author": "tobi",
-      "repoName": "qmd",
-      "url": "https://github.com/tobi/qmd",
-      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+      "rank": 9,
+      "author": "microsoft",
+      "repoName": "vscode-copilot-chat",
+      "url": "https://github.com/microsoft/vscode-copilot-chat",
+      "description": "Copilot Chat extension for VS Code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8834,
-      "forks": 477,
-      "currentPeriodStars": 1235,
+      "stars": 9467,
+      "forks": 1653,
+      "currentPeriodStars": 57,
       "builtBy": [
         {
-          "username": "tobi",
-          "avatar": "https://avatars.githubusercontent.com/u/347?s=40&v=4"
+          "username": "DonJayamanne",
+          "avatar": "https://avatars.githubusercontent.com/u/1948812?s=40&v=4"
         },
         {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+          "username": "roblourens",
+          "avatar": "https://avatars.githubusercontent.com/u/323878?s=40&v=4"
         },
         {
-          "username": "burke",
-          "avatar": "https://avatars.githubusercontent.com/u/1284?s=40&v=4"
+          "username": "ulugbekna",
+          "avatar": "https://avatars.githubusercontent.com/u/16353531?s=40&v=4"
         },
         {
-          "username": "mbrendan",
-          "avatar": "https://avatars.githubusercontent.com/u/25271154?s=40&v=4"
+          "username": "apps/copilot-pull-request-reviewer",
+          "avatar": "https://avatars.githubusercontent.com/in/946600?s=40&v=4"
         },
         {
-          "username": "sh54",
-          "avatar": "https://avatars.githubusercontent.com/u/906180?s=40&v=4"
+          "username": "bhavyaus",
+          "avatar": "https://avatars.githubusercontent.com/u/25044782?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
-      "rank": 12,
-      "author": "iOfficeAI",
-      "repoName": "AionUi",
-      "url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 16100,
-      "forks": 1212,
-      "currentPeriodStars": 2524,
-      "builtBy": [
-        {
-          "username": "kuishou68",
-          "avatar": "https://avatars.githubusercontent.com/u/54054995?s=40&v=4"
-        },
-        {
-          "username": "IceyLiu",
-          "avatar": "https://avatars.githubusercontent.com/u/10683426?s=40&v=4"
-        },
-        {
-          "username": "halvee-tech",
-          "avatar": "https://avatars.githubusercontent.com/u/224486645?s=40&v=4"
-        },
-        {
-          "username": "goworm",
-          "avatar": "https://avatars.githubusercontent.com/u/28083037?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "deepseek",
-          "zh": "AionUi 是一款免费、本地化、开源的 AI 协作工具，支持 Gemini CLI、Claude Code 等多种主流 AI 模型。其核心解决了用户需频繁切换不同 AI 工具界面的痛点，通过统一界面提供 24/7 不间断的集成化编程与对话协作体验。"
-        }
-      ]
-    },
-    {
-      "rank": 13,
+      "rank": 10,
       "author": "seerr-team",
       "repoName": "seerr",
       "url": "https://github.com/seerr-team/seerr",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9060,
-      "forks": 601,
+      "stars": 9169,
+      "forks": 608,
       "currentPeriodStars": 441,
       "builtBy": [
         {
@@ -498,106 +388,71 @@
       ]
     },
     {
-      "rank": 14,
-      "author": "microsoft",
-      "repoName": "vscode-copilot-chat",
-      "url": "https://github.com/microsoft/vscode-copilot-chat",
-      "description": "Copilot Chat extension for VS Code",
+      "rank": 11,
+      "author": "linshenkx",
+      "repoName": "prompt-optimizer",
+      "url": "https://github.com/linshenkx/prompt-optimizer",
+      "description": "一款提示词优化器，助力于编写高质量的提示词",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9465,
-      "forks": 1654,
-      "currentPeriodStars": 57,
+      "stars": 21354,
+      "forks": 2583,
+      "currentPeriodStars": 884,
       "builtBy": [
         {
-          "username": "DonJayamanne",
-          "avatar": "https://avatars.githubusercontent.com/u/1948812?s=40&v=4"
+          "username": "linshenkx",
+          "avatar": "https://avatars.githubusercontent.com/u/32978552?s=40&v=4"
         },
         {
-          "username": "roblourens",
-          "avatar": "https://avatars.githubusercontent.com/u/323878?s=40&v=4"
-        },
-        {
-          "username": "ulugbekna",
-          "avatar": "https://avatars.githubusercontent.com/u/16353531?s=40&v=4"
-        },
-        {
-          "username": "apps/copilot-pull-request-reviewer",
-          "avatar": "https://avatars.githubusercontent.com/in/946600?s=40&v=4"
-        },
-        {
-          "username": "bhavyaus",
-          "avatar": "https://avatars.githubusercontent.com/u/25044782?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 15,
-      "author": "getsentry",
-      "repoName": "XcodeBuildMCP",
-      "url": "https://github.com/getsentry/XcodeBuildMCP",
-      "description": "A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 4314,
-      "forks": 201,
-      "currentPeriodStars": 139,
-      "builtBy": [
-        {
-          "username": "cameroncooke",
-          "avatar": "https://avatars.githubusercontent.com/u/630601?s=40&v=4"
+          "username": "hexart",
+          "avatar": "https://avatars.githubusercontent.com/u/5528016?s=40&v=4"
         },
         {
           "username": "claude",
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "cursoragent",
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
+          "username": "lanyuanxiaoyao",
+          "avatar": "https://avatars.githubusercontent.com/u/15119304?s=40&v=4"
         },
         {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "apps/claude",
-          "avatar": "https://avatars.githubusercontent.com/in/1236702?s=40&v=4"
+          "username": "prazjain",
+          "avatar": "https://avatars.githubusercontent.com/u/1950036?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
-      "rank": 16,
-      "author": "wg-easy",
-      "repoName": "wg-easy",
-      "url": "https://github.com/wg-easy/wg-easy",
-      "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+      "rank": 12,
+      "author": "virattt",
+      "repoName": "dexter",
+      "url": "https://github.com/virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24600,
-      "forks": 2341,
-      "currentPeriodStars": 247,
+      "stars": 15576,
+      "forks": 1860,
+      "currentPeriodStars": 2276,
       "builtBy": [
         {
-          "username": "pheiduck",
-          "avatar": "https://avatars.githubusercontent.com/u/47042125?s=40&v=4"
+          "username": "virattt",
+          "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&v=4"
         },
         {
-          "username": "kaaax0815",
-          "avatar": "https://avatars.githubusercontent.com/u/32197462?s=40&v=4"
+          "username": "MkDev11",
+          "avatar": "https://avatars.githubusercontent.com/u/94194147?s=40&v=4"
         },
         {
-          "username": "peterlewis",
-          "avatar": "https://avatars.githubusercontent.com/u/820394?s=40&v=4"
+          "username": "cursoragent",
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
         },
         {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+          "username": "gupta-8",
+          "avatar": "https://avatars.githubusercontent.com/u/215169640?s=40&v=4"
         },
         {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+          "username": "sjhddh",
+          "avatar": "https://avatars.githubusercontent.com/u/5778228?s=40&v=4"
         }
       ],
       "aiSummaries": null

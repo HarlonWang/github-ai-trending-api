@@ -1,7 +1,7 @@
 {
   "count": 14,
   "since": "monthly",
-  "captured_at": "2026-02-17 00:19:28",
+  "captured_at": "2026-02-17 12:20:03",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 201573,
-      "forks": 36113,
+      "stars": 203411,
+      "forks": 36726,
       "currentPeriodStars": 195873,
       "builtBy": [
         {
@@ -57,8 +57,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12869,
-      "forks": 1291,
+      "stars": 13011,
+      "forks": 1309,
       "currentPeriodStars": 10950,
       "builtBy": [
         {
@@ -92,8 +92,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 22810,
-      "forks": 2277,
+      "stars": 23047,
+      "forks": 2303,
       "currentPeriodStars": 18901,
       "builtBy": [
         {
@@ -109,12 +109,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/182007681?s=40&v=4"
         },
         {
-          "username": "Khaushik-keygraph",
-          "avatar": "https://avatars.githubusercontent.com/u/197124057?s=40&v=4"
+          "username": "ezl-keygraph",
+          "avatar": "https://avatars.githubusercontent.com/u/252853768?s=40&v=4"
         },
         {
-          "username": "nelliekeygraph",
-          "avatar": "https://avatars.githubusercontent.com/u/212406850?s=40&v=4"
+          "username": "Khaushik-keygraph",
+          "avatar": "https://avatars.githubusercontent.com/u/197124057?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -127,8 +127,8 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 36835,
-      "forks": 2248,
+      "stars": 36894,
+      "forks": 2253,
       "currentPeriodStars": 11574,
       "builtBy": [
         {
@@ -162,8 +162,8 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8835,
-      "forks": 477,
+      "stars": 8951,
+      "forks": 482,
       "currentPeriodStars": 6893,
       "builtBy": [
         {
@@ -197,8 +197,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 16100,
-      "forks": 1212,
+      "stars": 16158,
+      "forks": 1219,
       "currentPeriodStars": 12145,
       "builtBy": [
         {
@@ -237,8 +237,8 @@
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 10372,
-      "forks": 506,
+      "stars": 10501,
+      "forks": 510,
       "currentPeriodStars": 8333,
       "builtBy": [
         {
@@ -282,8 +282,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 28617,
-      "forks": 1915,
+      "stars": 28712,
+      "forks": 1927,
       "currentPeriodStars": 14725,
       "builtBy": [
         {
@@ -311,49 +311,14 @@
     },
     {
       "rank": 9,
-      "author": "anomalyco",
-      "repoName": "opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 105594,
-      "forks": 10308,
-      "currentPeriodStars": 33216,
-      "builtBy": [
-        {
-          "username": "thdxr",
-          "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&v=4"
-        },
-        {
-          "username": "adamdotdevin",
-          "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&v=4"
-        },
-        {
-          "username": "rekram1-node",
-          "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&v=4"
-        },
-        {
-          "username": "actions-user",
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4"
-        },
-        {
-          "username": "iamdavidhill",
-          "avatar": "https://avatars.githubusercontent.com/u/1879069?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 10,
       "author": "virattt",
       "repoName": "dexter",
       "url": "https://github.com/virattt/dexter",
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15512,
-      "forks": 1850,
+      "stars": 15576,
+      "forks": 1860,
       "currentPeriodStars": 8496,
       "builtBy": [
         {
@@ -380,36 +345,71 @@
       "aiSummaries": null
     },
     {
-      "rank": 11,
-      "author": "hellodigua",
-      "repoName": "ChatLab",
-      "url": "https://github.com/hellodigua/ChatLab",
-      "description": "A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents. 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。",
+      "rank": 10,
+      "author": "anomalyco",
+      "repoName": "opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4477,
-      "forks": 1132,
-      "currentPeriodStars": 2615,
+      "stars": 105830,
+      "forks": 10343,
+      "currentPeriodStars": 33216,
       "builtBy": [
         {
-          "username": "hellodigua",
-          "avatar": "https://avatars.githubusercontent.com/u/9943164?s=40&v=4"
+          "username": "thdxr",
+          "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&v=4"
         },
         {
-          "username": "n-WN",
-          "avatar": "https://avatars.githubusercontent.com/u/30841158?s=40&v=4"
+          "username": "adamdotdevin",
+          "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&v=4"
         },
         {
-          "username": "xunchahaha",
-          "avatar": "https://avatars.githubusercontent.com/u/102988462?s=40&v=4"
+          "username": "rekram1-node",
+          "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&v=4"
         },
         {
-          "username": "JiQingzhe2004",
-          "avatar": "https://avatars.githubusercontent.com/u/128445439?s=40&v=4"
+          "username": "actions-user",
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4"
         },
         {
-          "username": "binbin1213",
-          "avatar": "https://avatars.githubusercontent.com/u/32067712?s=40&v=4"
+          "username": "iamdavidhill",
+          "avatar": "https://avatars.githubusercontent.com/u/1879069?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 11,
+      "author": "steipete",
+      "repoName": "summarize",
+      "url": "https://github.com/steipete/summarize",
+      "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 3237,
+      "forks": 213,
+      "currentPeriodStars": 2439,
+      "builtBy": [
+        {
+          "username": "steipete",
+          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
+        },
+        {
+          "username": "mvance",
+          "avatar": "https://avatars.githubusercontent.com/u/82473?s=40&v=4"
+        },
+        {
+          "username": "vlnd0",
+          "avatar": "https://avatars.githubusercontent.com/u/42946292?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "philippb",
+          "avatar": "https://avatars.githubusercontent.com/u/374326?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -422,8 +422,8 @@
       "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1509,
-      "forks": 174,
+      "stars": 1513,
+      "forks": 175,
       "currentPeriodStars": 1146,
       "builtBy": [
         {
@@ -451,70 +451,70 @@
     },
     {
       "rank": 13,
-      "author": "code-yeongyu",
-      "repoName": "oh-my-opencode",
-      "url": "https://github.com/code-yeongyu/oh-my-opencode",
-      "description": "the best agent harness",
+      "author": "hellodigua",
+      "repoName": "ChatLab",
+      "url": "https://github.com/hellodigua/ChatLab",
+      "description": "A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents. 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 31803,
-      "forks": 2380,
-      "currentPeriodStars": 14197,
+      "stars": 4487,
+      "forks": 1133,
+      "currentPeriodStars": 2615,
       "builtBy": [
         {
-          "username": "code-yeongyu",
-          "avatar": "https://avatars.githubusercontent.com/u/11153873?s=40&v=4"
+          "username": "hellodigua",
+          "avatar": "https://avatars.githubusercontent.com/u/9943164?s=40&v=4"
         },
         {
-          "username": "sisyphus-dev-ai",
-          "avatar": "https://avatars.githubusercontent.com/u/238992291?s=40&v=4"
+          "username": "n-WN",
+          "avatar": "https://avatars.githubusercontent.com/u/30841158?s=40&v=4"
         },
         {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+          "username": "xunchahaha",
+          "avatar": "https://avatars.githubusercontent.com/u/102988462?s=40&v=4"
         },
         {
-          "username": "justsisyphus",
-          "avatar": "https://avatars.githubusercontent.com/u/254807767?s=40&v=4"
+          "username": "JiQingzhe2004",
+          "avatar": "https://avatars.githubusercontent.com/u/128445439?s=40&v=4"
         },
         {
-          "username": "kdcokenny",
-          "avatar": "https://avatars.githubusercontent.com/u/99611484?s=40&v=4"
+          "username": "binbin1213",
+          "avatar": "https://avatars.githubusercontent.com/u/32067712?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 14,
-      "author": "NoeFabris",
-      "repoName": "opencode-antigravity-auth",
-      "url": "https://github.com/NoeFabris/opencode-antigravity-auth",
-      "description": "Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.",
+      "author": "supermemoryai",
+      "repoName": "supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8444,
-      "forks": 566,
-      "currentPeriodStars": 5151,
+      "stars": 16474,
+      "forks": 1650,
+      "currentPeriodStars": 2391,
       "builtBy": [
         {
-          "username": "NoeFabris",
-          "avatar": "https://avatars.githubusercontent.com/u/77154054?s=40&v=4"
+          "username": "Dhravya",
+          "avatar": "https://avatars.githubusercontent.com/u/63950637?s=40&v=4"
         },
         {
-          "username": "tctinh",
-          "avatar": "https://avatars.githubusercontent.com/u/88414894?s=40&v=4"
+          "username": "MaheshtheDev",
+          "avatar": "https://avatars.githubusercontent.com/u/38828053?s=40&v=4"
         },
         {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+          "username": "yxshv",
+          "avatar": "https://avatars.githubusercontent.com/u/93475253?s=40&v=4"
         },
         {
-          "username": "ariane-emory",
-          "avatar": "https://avatars.githubusercontent.com/u/97994360?s=40&v=4"
+          "username": "CodeTorso",
+          "avatar": "https://avatars.githubusercontent.com/u/129188028?s=40&v=4"
         },
         {
-          "username": "PhucTruong-ctrl",
-          "avatar": "https://avatars.githubusercontent.com/u/21700150?s=40&v=4"
+          "username": "Kinfe123",
+          "avatar": "https://avatars.githubusercontent.com/u/65047246?s=40&v=4"
         }
       ],
       "aiSummaries": null

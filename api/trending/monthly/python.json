@@ -1,7 +1,7 @@
 {
-  "count": 16,
+  "count": 17,
   "since": "monthly",
-  "captured_at": "2026-02-17 00:19:05",
+  "captured_at": "2026-02-17 12:19:38",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 15294,
-      "forks": 1108,
+      "stars": 15366,
+      "forks": 1113,
       "currentPeriodStars": 9900,
       "builtBy": [
         {
@@ -38,8 +38,8 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8719,
-      "forks": 486,
+      "stars": 8769,
+      "forks": 488,
       "currentPeriodStars": 7082,
       "builtBy": [
         {
@@ -73,8 +73,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 70654,
-      "forks": 7190,
+      "stars": 70869,
+      "forks": 7222,
       "currentPeriodStars": 28042,
       "builtBy": [
         {
@@ -102,83 +102,13 @@
     },
     {
       "rank": 4,
-      "author": "NevaMind-AI",
-      "repoName": "memU",
-      "url": "https://github.com/NevaMind-AI/memU",
-      "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 9301,
-      "forks": 715,
-      "currentPeriodStars": 4620,
-      "builtBy": [
-        {
-          "username": "sairin1202",
-          "avatar": "https://avatars.githubusercontent.com/u/5654879?s=40&v=4"
-        },
-        {
-          "username": "evan-ak",
-          "avatar": "https://avatars.githubusercontent.com/u/33013709?s=40&v=4"
-        },
-        {
-          "username": "ankaisen",
-          "avatar": "https://avatars.githubusercontent.com/u/51148505?s=40&v=4"
-        },
-        {
-          "username": "Koimiao-zz",
-          "avatar": "https://avatars.githubusercontent.com/u/224523934?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 5,
-      "author": "MoonshotAI",
-      "repoName": "kimi-cli",
-      "url": "https://github.com/MoonshotAI/kimi-cli",
-      "description": "Kimi Code CLI is your next CLI agent.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 6438,
-      "forks": 609,
-      "currentPeriodStars": 2609,
-      "builtBy": [
-        {
-          "username": "stdrc",
-          "avatar": "https://avatars.githubusercontent.com/u/5317095?s=40&v=4"
-        },
-        {
-          "username": "xxchan",
-          "avatar": "https://avatars.githubusercontent.com/u/37948597?s=40&v=4"
-        },
-        {
-          "username": "RealKai42",
-          "avatar": "https://avatars.githubusercontent.com/u/44634134?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "Epsirom",
-          "avatar": "https://avatars.githubusercontent.com/u/3744223?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 6,
       "author": "OpenBMB",
       "repoName": "UltraRAG",
       "url": "https://github.com/OpenBMB/UltraRAG",
       "description": "A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 5205,
+      "stars": 5208,
       "forks": 368,
       "currentPeriodStars": 2818,
       "builtBy": [
@@ -206,15 +136,120 @@
       "aiSummaries": null
     },
     {
+      "rank": 5,
+      "author": "MoonshotAI",
+      "repoName": "kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 6450,
+      "forks": 612,
+      "currentPeriodStars": 2609,
+      "builtBy": [
+        {
+          "username": "stdrc",
+          "avatar": "https://avatars.githubusercontent.com/u/5317095?s=40&v=4"
+        },
+        {
+          "username": "xxchan",
+          "avatar": "https://avatars.githubusercontent.com/u/37948597?s=40&v=4"
+        },
+        {
+          "username": "RealKai42",
+          "avatar": "https://avatars.githubusercontent.com/u/44634134?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "Epsirom",
+          "avatar": "https://avatars.githubusercontent.com/u/3744223?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 6,
+      "author": "NevaMind-AI",
+      "repoName": "memU",
+      "url": "https://github.com/NevaMind-AI/memU",
+      "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 9328,
+      "forks": 717,
+      "currentPeriodStars": 4620,
+      "builtBy": [
+        {
+          "username": "sairin1202",
+          "avatar": "https://avatars.githubusercontent.com/u/5654879?s=40&v=4"
+        },
+        {
+          "username": "evan-ak",
+          "avatar": "https://avatars.githubusercontent.com/u/33013709?s=40&v=4"
+        },
+        {
+          "username": "ankaisen",
+          "avatar": "https://avatars.githubusercontent.com/u/51148505?s=40&v=4"
+        },
+        {
+          "username": "Koimiao-zz",
+          "avatar": "https://avatars.githubusercontent.com/u/224523934?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
       "rank": 7,
+      "author": "microsoft",
+      "repoName": "BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 28480,
+      "forks": 2330,
+      "currentPeriodStars": 2805,
+      "builtBy": [
+        {
+          "username": "potassiummmm",
+          "avatar": "https://avatars.githubusercontent.com/u/54800242?s=40&v=4"
+        },
+        {
+          "username": "younesbelkada",
+          "avatar": "https://avatars.githubusercontent.com/u/49240599?s=40&v=4"
+        },
+        {
+          "username": "tsong-ms",
+          "avatar": "https://avatars.githubusercontent.com/u/84831885?s=40&v=4"
+        },
+        {
+          "username": "XsquirrelC",
+          "avatar": "https://avatars.githubusercontent.com/u/178687198?s=40&v=4"
+        },
+        {
+          "username": "dawnmsg",
+          "avatar": "https://avatars.githubusercontent.com/u/23658399?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 8,
       "author": "ComposioHQ",
       "repoName": "awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 35293,
-      "forks": 3424,
+      "stars": 35407,
+      "forks": 3438,
       "currentPeriodStars": 15213,
       "builtBy": [
         {
@@ -241,15 +276,50 @@
       "aiSummaries": null
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "author": "OpenBMB",
+      "repoName": "ChatDev",
+      "url": "https://github.com/OpenBMB/ChatDev",
+      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 31005,
+      "forks": 3820,
+      "currentPeriodStars": 2380,
+      "builtBy": [
+        {
+          "username": "thinkwee",
+          "avatar": "https://avatars.githubusercontent.com/u/11889052?s=40&v=4"
+        },
+        {
+          "username": "Alphamasterliu",
+          "avatar": "https://avatars.githubusercontent.com/u/110011045?s=40&v=4"
+        },
+        {
+          "username": "NA-Wen",
+          "avatar": "https://avatars.githubusercontent.com/u/92134380?s=40&v=4"
+        },
+        {
+          "username": "LaansDole",
+          "avatar": "https://avatars.githubusercontent.com/u/85084360?s=40&v=4"
+        },
+        {
+          "username": "qianc62",
+          "avatar": "https://avatars.githubusercontent.com/u/48988402?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 10,
       "author": "google",
       "repoName": "langextract",
       "url": "https://github.com/google/langextract",
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32712,
-      "forks": 2187,
+      "stars": 32781,
+      "forks": 2190,
       "currentPeriodStars": 11753,
       "builtBy": [
         {
@@ -281,85 +351,84 @@
       ]
     },
     {
-      "rank": 9,
-      "author": "microsoft",
-      "repoName": "BitNet",
-      "url": "https://github.com/microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 28469,
-      "forks": 2327,
-      "currentPeriodStars": 2805,
-      "builtBy": [
-        {
-          "username": "potassiummmm",
-          "avatar": "https://avatars.githubusercontent.com/u/54800242?s=40&v=4"
-        },
-        {
-          "username": "younesbelkada",
-          "avatar": "https://avatars.githubusercontent.com/u/49240599?s=40&v=4"
-        },
-        {
-          "username": "tsong-ms",
-          "avatar": "https://avatars.githubusercontent.com/u/84831885?s=40&v=4"
-        },
-        {
-          "username": "XsquirrelC",
-          "avatar": "https://avatars.githubusercontent.com/u/178687198?s=40&v=4"
-        },
-        {
-          "username": "dawnmsg",
-          "avatar": "https://avatars.githubusercontent.com/u/23658399?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 10,
-      "author": "OpenBMB",
-      "repoName": "ChatDev",
-      "url": "https://github.com/OpenBMB/ChatDev",
-      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 30999,
-      "forks": 3819,
-      "currentPeriodStars": 2380,
-      "builtBy": [
-        {
-          "username": "thinkwee",
-          "avatar": "https://avatars.githubusercontent.com/u/11889052?s=40&v=4"
-        },
-        {
-          "username": "Alphamasterliu",
-          "avatar": "https://avatars.githubusercontent.com/u/110011045?s=40&v=4"
-        },
-        {
-          "username": "NA-Wen",
-          "avatar": "https://avatars.githubusercontent.com/u/92134380?s=40&v=4"
-        },
-        {
-          "username": "LaansDole",
-          "avatar": "https://avatars.githubusercontent.com/u/85084360?s=40&v=4"
-        },
-        {
-          "username": "qianc62",
-          "avatar": "https://avatars.githubusercontent.com/u/48988402?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
       "rank": 11,
+      "author": "disler",
+      "repoName": "claude-code-hooks-mastery",
+      "url": "https://github.com/disler/claude-code-hooks-mastery",
+      "description": "Master Claude Code Hooks",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 3060,
+      "forks": 552,
+      "currentPeriodStars": 999,
+      "builtBy": [
+        {
+          "username": "disler",
+          "avatar": "https://avatars.githubusercontent.com/u/7570811?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 12,
+      "author": "p-e-w",
+      "repoName": "heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 6695,
+      "forks": 667,
+      "currentPeriodStars": 2438,
+      "builtBy": [
+        {
+          "username": "p-e-w",
+          "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&v=4"
+        },
+        {
+          "username": "anrp",
+          "avatar": "https://avatars.githubusercontent.com/u/1325515?s=40&v=4"
+        },
+        {
+          "username": "spikymoth",
+          "avatar": "https://avatars.githubusercontent.com/u/133602907?s=40&v=4"
+        },
+        {
+          "username": "red40maxxer",
+          "avatar": "https://avatars.githubusercontent.com/u/113548315?s=40&v=4"
+        },
+        {
+          "username": "kldzj",
+          "avatar": "https://avatars.githubusercontent.com/u/7687617?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "heretic 是一个基于 Python 的自动化工具，旨在移除大语言模型回复中的审查与过滤逻辑。通过对模型提示与系统约束进行自动重写和绕过，它帮助研究者与开发者在技术与安全边界内评估模型的真实能力与行为表现。",
+          "en": "heretic is a Python-based tool for fully automating removal of censorship and safety filters from language model interactions, enabling researchers and developers to systematically bypass guardrails, rewrite prompts, and observe models’ uncensored capabilities for analysis and evaluation."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "Heretic 是一个用 Python 开发的工具，旨在为大型语言模型提供全自动的审查移除功能。它解决了模型因安全策略而过度自我审查、拒绝回答合理请求的痛点，通过技术手段恢复模型的完整表达能力。",
+          "en": "Heretic is a Python tool that enables fully automatic censorship removal for large language models. It addresses the issue of models over-censoring or refusing legitimate requests, aiming to restore their full expressive capabilities."
+        }
+      ]
+    },
+    {
+      "rank": 13,
       "author": "microsoft",
       "repoName": "agent-lightning",
       "url": "https://github.com/microsoft/agent-lightning",
       "description": "The absolute trainer to light up AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14791,
-      "forks": 1259,
+      "stars": 14805,
+      "forks": 1258,
       "currentPeriodStars": 4549,
       "builtBy": [
         {
@@ -386,37 +455,14 @@
       "aiSummaries": null
     },
     {
-      "rank": 12,
-      "author": "disler",
-      "repoName": "claude-code-hooks-mastery",
-      "url": "https://github.com/disler/claude-code-hooks-mastery",
-      "description": "Master Claude Code Hooks",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 3056,
-      "forks": 550,
-      "currentPeriodStars": 999,
-      "builtBy": [
-        {
-          "username": "disler",
-          "avatar": "https://avatars.githubusercontent.com/u/7570811?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 13,
+      "rank": 14,
       "author": "alirezarezvani",
       "repoName": "claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "description": "A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1836,
+      "stars": 1841,
       "forks": 223,
       "currentPeriodStars": 1110,
       "builtBy": [
@@ -444,111 +490,106 @@
       "aiSummaries": null
     },
     {
-      "rank": 14,
-      "author": "Shubhamsaboo",
-      "repoName": "awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 95524,
-      "forks": 13831,
-      "currentPeriodStars": 7802,
-      "builtBy": [
-        {
-          "username": "Shubhamsaboo",
-          "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&v=4"
-        },
-        {
-          "username": "Madhuvod",
-          "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&v=4"
-        },
-        {
-          "username": "libw0430",
-          "avatar": "https://avatars.githubusercontent.com/u/102198332?s=40&v=4"
-        },
-        {
-          "username": "awesomekoder",
-          "avatar": "https://avatars.githubusercontent.com/u/258367783?s=40&v=4"
-        },
-        {
-          "username": "AndrewHoh",
-          "avatar": "https://avatars.githubusercontent.com/u/774516?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "deepseek",
-          "zh": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。"
-        }
-      ]
-    },
-    {
       "rank": 15,
-      "author": "ahujasid",
-      "repoName": "blender-mcp",
-      "url": "https://github.com/ahujasid/blender-mcp",
-      "description": "",
+      "author": "KellerJordan",
+      "repoName": "modded-nanogpt",
+      "url": "https://github.com/KellerJordan/modded-nanogpt",
+      "description": "NanoGPT (124M) in 2 minutes",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17095,
-      "forks": 1628,
-      "currentPeriodStars": 1716,
+      "stars": 4640,
+      "forks": 627,
+      "currentPeriodStars": 503,
       "builtBy": [
         {
-          "username": "ahujasid",
-          "avatar": "https://avatars.githubusercontent.com/u/11807284?s=40&v=4"
+          "username": "KellerJordan",
+          "avatar": "https://avatars.githubusercontent.com/u/18433116?s=40&v=4"
         },
         {
-          "username": "ElgoogUdiab",
-          "avatar": "https://avatars.githubusercontent.com/u/28426666?s=40&v=4"
+          "username": "ClassicLarry",
+          "avatar": "https://avatars.githubusercontent.com/u/42926649?s=40&v=4"
         },
         {
-          "username": "siddikisahil47",
-          "avatar": "https://avatars.githubusercontent.com/u/134954614?s=40&v=4"
+          "username": "YouJiacheng",
+          "avatar": "https://avatars.githubusercontent.com/u/83971976?s=40&v=4"
         },
         {
-          "username": "harrywang",
-          "avatar": "https://avatars.githubusercontent.com/u/595772?s=40&v=4"
+          "username": "varunneal",
+          "avatar": "https://avatars.githubusercontent.com/u/32204417?s=40&v=4"
         },
         {
-          "username": "satishgoda",
-          "avatar": "https://avatars.githubusercontent.com/u/536008?s=40&v=4"
+          "username": "leloykun",
+          "avatar": "https://avatars.githubusercontent.com/u/14250344?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 16,
-      "author": "hesreallyhim",
-      "repoName": "awesome-claude-code",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code",
-      "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
+      "author": "yt-dlp",
+      "repoName": "yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 23931,
-      "forks": 1412,
-      "currentPeriodStars": 3361,
+      "stars": 147444,
+      "forks": 11940,
+      "currentPeriodStars": 5742,
       "builtBy": [
         {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+          "username": "dstftw",
+          "avatar": "https://avatars.githubusercontent.com/u/1908898?s=40&v=4"
         },
         {
-          "username": "hesreallyhim",
-          "avatar": "https://avatars.githubusercontent.com/u/172150522?s=40&v=4"
+          "username": "phihag",
+          "avatar": "https://avatars.githubusercontent.com/u/779568?s=40&v=4"
+        },
+        {
+          "username": "pukkandan",
+          "avatar": "https://avatars.githubusercontent.com/u/6623388?s=40&v=4"
+        },
+        {
+          "username": "remitamine",
+          "avatar": "https://avatars.githubusercontent.com/u/10879694?s=40&v=4"
+        },
+        {
+          "username": "jaimeMF",
+          "avatar": "https://avatars.githubusercontent.com/u/1239727?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 17,
+      "author": "shareAI-lab",
+      "repoName": "learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description": "A nano Claude Code–like agent, built from 0 to 1",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 17153,
+      "forks": 3631,
+      "currentPeriodStars": 2813,
+      "builtBy": [
+        {
+          "username": "CrazyBoyM",
+          "avatar": "https://avatars.githubusercontent.com/u/35400185?s=40&v=4"
         },
         {
           "username": "claude",
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "apps/copilot-pull-request-reviewer",
-          "avatar": "https://avatars.githubusercontent.com/in/946600?s=40&v=4"
+          "username": "bansalkanav",
+          "avatar": "https://avatars.githubusercontent.com/u/13186335?s=40&v=4"
         },
         {
-          "username": "tninja",
-          "avatar": "https://avatars.githubusercontent.com/u/714625?s=40&v=4"
+          "username": "Octane0411",
+          "avatar": "https://avatars.githubusercontent.com/u/88922959?s=40&v=4"
+        },
+        {
+          "username": "synix",
+          "avatar": "https://avatars.githubusercontent.com/u/3198234?s=40&v=4"
         }
       ],
       "aiSummaries": null

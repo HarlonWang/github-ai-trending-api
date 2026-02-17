@@ -1,7 +1,7 @@
 {
-  "count": 17,
+  "count": 14,
   "since": "monthly",
-  "captured_at": "2026-02-17 00:19:02",
+  "captured_at": "2026-02-17 12:19:33",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 201573,
-      "forks": 36113,
+      "stars": 203410,
+      "forks": 36726,
       "currentPeriodStars": 195873,
       "builtBy": [
         {
@@ -28,12 +28,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&v=4"
         },
         {
-          "username": "gumadeiras",
-          "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
-        },
-        {
           "username": "claude",
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "gumadeiras",
+          "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
         }
       ],
       "aiSummaries": [
@@ -57,8 +57,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12869,
-      "forks": 1291,
+      "stars": 13011,
+      "forks": 1309,
       "currentPeriodStars": 10950,
       "builtBy": [
         {
@@ -92,8 +92,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 22810,
-      "forks": 2277,
+      "stars": 23047,
+      "forks": 2303,
       "currentPeriodStars": 18901,
       "builtBy": [
         {
@@ -109,53 +109,26 @@
           "avatar": "https://avatars.githubusercontent.com/u/182007681?s=40&v=4"
         },
         {
-          "username": "Khaushik-keygraph",
-          "avatar": "https://avatars.githubusercontent.com/u/197124057?s=40&v=4"
+          "username": "ezl-keygraph",
+          "avatar": "https://avatars.githubusercontent.com/u/252853768?s=40&v=4"
         },
         {
-          "username": "nelliekeygraph",
-          "avatar": "https://avatars.githubusercontent.com/u/212406850?s=40&v=4"
+          "username": "Khaushik-keygraph",
+          "avatar": "https://avatars.githubusercontent.com/u/197124057?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 4,
-      "author": "VectifyAI",
-      "repoName": "PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 15294,
-      "forks": 1108,
-      "currentPeriodStars": 9900,
-      "builtBy": [
-        {
-          "username": "rejojer",
-          "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&v=4"
-        },
-        {
-          "username": "zmtomorrow",
-          "avatar": "https://avatars.githubusercontent.com/u/13518252?s=40&v=4"
-        },
-        {
-          "username": "clarenceluo78",
-          "avatar": "https://avatars.githubusercontent.com/u/71917860?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 5,
       "author": "remotion-dev",
       "repoName": "remotion",
       "url": "https://github.com/remotion-dev/remotion",
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 36835,
-      "forks": 2248,
+      "stars": 36894,
+      "forks": 2253,
       "currentPeriodStars": 11574,
       "builtBy": [
         {
@@ -182,85 +155,42 @@
       "aiSummaries": null
     },
     {
+      "rank": 5,
+      "author": "VectifyAI",
+      "repoName": "PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 15366,
+      "forks": 1113,
+      "currentPeriodStars": 9900,
+      "builtBy": [
+        {
+          "username": "rejojer",
+          "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&v=4"
+        },
+        {
+          "username": "zmtomorrow",
+          "avatar": "https://avatars.githubusercontent.com/u/13518252?s=40&v=4"
+        },
+        {
+          "username": "clarenceluo78",
+          "avatar": "https://avatars.githubusercontent.com/u/71917860?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
       "rank": 6,
-      "author": "tobi",
-      "repoName": "qmd",
-      "url": "https://github.com/tobi/qmd",
-      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 8834,
-      "forks": 477,
-      "currentPeriodStars": 6893,
-      "builtBy": [
-        {
-          "username": "tobi",
-          "avatar": "https://avatars.githubusercontent.com/u/347?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "burke",
-          "avatar": "https://avatars.githubusercontent.com/u/1284?s=40&v=4"
-        },
-        {
-          "username": "mbrendan",
-          "avatar": "https://avatars.githubusercontent.com/u/25271154?s=40&v=4"
-        },
-        {
-          "username": "sh54",
-          "avatar": "https://avatars.githubusercontent.com/u/906180?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 7,
-      "author": "asgeirtj",
-      "repoName": "system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": 31736,
-      "forks": 5065,
-      "currentPeriodStars": 6667,
-      "builtBy": [
-        {
-          "username": "asgeirtj",
-          "avatar": "https://avatars.githubusercontent.com/u/27446620?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "awrreny",
-          "avatar": "https://avatars.githubusercontent.com/u/46632417?s=40&v=4"
-        },
-        {
-          "username": "bgauryy",
-          "avatar": "https://avatars.githubusercontent.com/u/4633839?s=40&v=4"
-        },
-        {
-          "username": "MaloneFreak",
-          "avatar": "https://avatars.githubusercontent.com/u/21204817?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 8,
       "author": "openai",
       "repoName": "skills",
       "url": "https://github.com/openai/skills",
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8719,
-      "forks": 486,
+      "stars": 8769,
+      "forks": 488,
       "currentPeriodStars": 7082,
       "builtBy": [
         {
@@ -287,15 +217,212 @@
       "aiSummaries": null
     },
     {
+      "rank": 7,
+      "author": "tobi",
+      "repoName": "qmd",
+      "url": "https://github.com/tobi/qmd",
+      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 8951,
+      "forks": 482,
+      "currentPeriodStars": 6893,
+      "builtBy": [
+        {
+          "username": "tobi",
+          "avatar": "https://avatars.githubusercontent.com/u/347?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "burke",
+          "avatar": "https://avatars.githubusercontent.com/u/1284?s=40&v=4"
+        },
+        {
+          "username": "mbrendan",
+          "avatar": "https://avatars.githubusercontent.com/u/25271154?s=40&v=4"
+        },
+        {
+          "username": "sh54",
+          "avatar": "https://avatars.githubusercontent.com/u/906180?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 8,
+      "author": "asgeirtj",
+      "repoName": "system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 31806,
+      "forks": 5074,
+      "currentPeriodStars": 6667,
+      "builtBy": [
+        {
+          "username": "asgeirtj",
+          "avatar": "https://avatars.githubusercontent.com/u/27446620?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "awrreny",
+          "avatar": "https://avatars.githubusercontent.com/u/46632417?s=40&v=4"
+        },
+        {
+          "username": "bgauryy",
+          "avatar": "https://avatars.githubusercontent.com/u/4633839?s=40&v=4"
+        },
+        {
+          "username": "MaloneFreak",
+          "avatar": "https://avatars.githubusercontent.com/u/21204817?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
       "rank": 9,
+      "author": "steipete",
+      "repoName": "gogcli",
+      "url": "https://github.com/steipete/gogcli",
+      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3700,
+      "forks": 313,
+      "currentPeriodStars": 2895,
+      "builtBy": [
+        {
+          "username": "steipete",
+          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
+        },
+        {
+          "username": "salmonumbrella",
+          "avatar": "https://avatars.githubusercontent.com/u/182032677?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "jeanregisser",
+          "avatar": "https://avatars.githubusercontent.com/u/57791?s=40&v=4"
+        },
+        {
+          "username": "antons",
+          "avatar": "https://avatars.githubusercontent.com/u/129705?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "gogcli 是一个基于 Go 的 Google 套件命令行工具，统一管理 Gmail、日历、云端硬盘与联系人。它通过脚本化与自动化操作，减少频繁切换网页界面的低效流程，适合集成到运维脚本和工作流中。",
+          "en": "gogcli is a Go-based CLI for Google Suite, unifying Gmail, Calendar, Drive, and Contacts management. It streamlines scripted and automated workflows, removing reliance on web UI for routine operations."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "gogcli 是一个用 Go 编写的 Google 套件命令行工具，集成了 Gmail、日历、网盘和联系人管理。它解决了用户需要通过单一命令行界面高效访问和管理多个 Google 服务的痛点，提升了自动化与脚本操作的效率。",
+          "en": "gogcli is a Go-based CLI tool for Google Suite, integrating Gmail, Calendar, Drive, and Contacts. It addresses the need for efficient access and management of multiple Google services through a unified command-line interface, enhancing automation and scripting capabilities."
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "author": "obra",
+      "repoName": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 53136,
+      "forks": 4034,
+      "currentPeriodStars": 27434,
+      "builtBy": [
+        {
+          "username": "obra",
+          "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "arittr",
+          "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&v=4"
+        },
+        {
+          "username": "clkao",
+          "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&v=4"
+        },
+        {
+          "username": "jjshanks",
+          "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "obra/superpowers 提供一套可落地的 agentic 技能框架与软件开发方法论，聚焦将抽象的 AI 代理能力系统化为可复用脚本与流程，帮助团队在 Shell 驱动环境中更高效地组织自动化任务、协作与迭代交付。",
+          "en": "obra/superpowers is a practical agentic skills framework and development methodology that systematizes AI-like agent capabilities into reusable shell-based scripts and workflows, improving automation, collaboration, and iteration efficiency."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "Superpowers 是一个基于代理（Agentic）的技能框架与软件开发方法论。它旨在解决传统开发流程中自动化程度低、任务协作效率不高等痛点，通过定义可组合的技能单元，赋能开发者构建更智能、自主的软件系统。",
+          "en": "Superpowers is an agentic skills framework and software development methodology. It addresses inefficiencies in traditional workflows by enabling developers to build more intelligent and autonomous systems through composable skill units."
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "author": "anthropics",
+      "repoName": "skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 70869,
+      "forks": 7222,
+      "currentPeriodStars": 28042,
+      "builtBy": [
+        {
+          "username": "klazuka",
+          "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "maheshmurag",
+          "avatar": "https://avatars.githubusercontent.com/u/5667029?s=40&v=4"
+        },
+        {
+          "username": "mattpic-ant",
+          "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&v=4"
+        },
+        {
+          "username": "camaris",
+          "avatar": "https://avatars.githubusercontent.com/u/1184736?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 12,
       "author": "iOfficeAI",
       "repoName": "AionUi",
       "url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 16100,
-      "forks": 1212,
+      "stars": 16158,
+      "forks": 1219,
       "currentPeriodStars": 12145,
       "builtBy": [
         {
@@ -327,85 +454,15 @@
       ]
     },
     {
-      "rank": 10,
-      "author": "obra",
-      "repoName": "superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 52880,
-      "forks": 4013,
-      "currentPeriodStars": 27434,
-      "builtBy": [
-        {
-          "username": "obra",
-          "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "arittr",
-          "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&v=4"
-        },
-        {
-          "username": "clkao",
-          "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&v=4"
-        },
-        {
-          "username": "jjshanks",
-          "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 11,
-      "author": "anthropics",
-      "repoName": "skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 70654,
-      "forks": 7190,
-      "currentPeriodStars": 28042,
-      "builtBy": [
-        {
-          "username": "klazuka",
-          "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "maheshmurag",
-          "avatar": "https://avatars.githubusercontent.com/u/5667029?s=40&v=4"
-        },
-        {
-          "username": "mattpic-ant",
-          "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&v=4"
-        },
-        {
-          "username": "camaris",
-          "avatar": "https://avatars.githubusercontent.com/u/1184736?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 12,
+      "rank": 13,
       "author": "gsd-build",
       "repoName": "get-shit-done",
       "url": "https://github.com/gsd-build/get-shit-done",
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 14893,
-      "forks": 1386,
+      "stars": 15083,
+      "forks": 1399,
       "currentPeriodStars": 11626,
       "builtBy": [
         {
@@ -432,15 +489,15 @@
       "aiSummaries": null
     },
     {
-      "rank": 13,
+      "rank": 14,
       "author": "tambo-ai",
       "repoName": "tambo",
       "url": "https://github.com/tambo-ai/tambo",
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 10372,
-      "forks": 505,
+      "stars": 10501,
+      "forks": 510,
       "currentPeriodStars": 8333,
       "builtBy": [
         {
@@ -475,146 +532,6 @@
           "zh": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，解决了手动处理流式输出与状态同步的复杂度，提升了开发效率。"
         }
       ]
-    },
-    {
-      "rank": 14,
-      "author": "thedotmack",
-      "repoName": "claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 28617,
-      "forks": 1915,
-      "currentPeriodStars": 14725,
-      "builtBy": [
-        {
-          "username": "thedotmack",
-          "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "apps/copilot-swe-agent",
-          "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4"
-        },
-        {
-          "username": "rodboev",
-          "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 15,
-      "author": "ThePrimeagen",
-      "repoName": "99",
-      "url": "https://github.com/ThePrimeagen/99",
-      "description": "Neovim AI agent done right",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 3824,
-      "forks": 182,
-      "currentPeriodStars": 2803,
-      "builtBy": [
-        {
-          "username": "ThePrimeagen",
-          "avatar": "https://avatars.githubusercontent.com/u/4458174?s=40&v=4"
-        },
-        {
-          "username": "SearidangPa",
-          "avatar": "https://avatars.githubusercontent.com/u/40446468?s=40&v=4"
-        },
-        {
-          "username": "codegirl-007",
-          "avatar": "https://avatars.githubusercontent.com/u/7044310?s=40&v=4"
-        },
-        {
-          "username": "ramonasuncion",
-          "avatar": "https://avatars.githubusercontent.com/u/40077628?s=40&v=4"
-        },
-        {
-          "username": "aleDsz",
-          "avatar": "https://avatars.githubusercontent.com/u/6402997?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 16,
-      "author": "anomalyco",
-      "repoName": "opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 105594,
-      "forks": 10307,
-      "currentPeriodStars": 33216,
-      "builtBy": [
-        {
-          "username": "thdxr",
-          "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&v=4"
-        },
-        {
-          "username": "adamdotdevin",
-          "avatar": "https://avatars.githubusercontent.com/u/2363879?s=40&v=4"
-        },
-        {
-          "username": "rekram1-node",
-          "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&v=4"
-        },
-        {
-          "username": "actions-user",
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4"
-        },
-        {
-          "username": "iamdavidhill",
-          "avatar": "https://avatars.githubusercontent.com/u/1879069?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 17,
-      "author": "virattt",
-      "repoName": "dexter",
-      "url": "https://github.com/virattt/dexter",
-      "description": "An autonomous agent for deep financial research",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 15512,
-      "forks": 1850,
-      "currentPeriodStars": 8496,
-      "builtBy": [
-        {
-          "username": "virattt",
-          "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&v=4"
-        },
-        {
-          "username": "MkDev11",
-          "avatar": "https://avatars.githubusercontent.com/u/94194147?s=40&v=4"
-        },
-        {
-          "username": "cursoragent",
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
-        },
-        {
-          "username": "gupta-8",
-          "avatar": "https://avatars.githubusercontent.com/u/215169640?s=40&v=4"
-        },
-        {
-          "username": "sjhddh",
-          "avatar": "https://avatars.githubusercontent.com/u/5778228?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
     }
   ]
 }

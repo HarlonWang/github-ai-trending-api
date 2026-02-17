@@ -1,7 +1,7 @@
 {
-  "count": 13,
+  "count": 11,
   "since": "weekly",
-  "captured_at": "2026-02-17 00:18:15",
+  "captured_at": "2026-02-17 12:18:50",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 931,
-      "forks": 88,
+      "stars": 943,
+      "forks": 89,
       "currentPeriodStars": 177,
       "builtBy": [
         {
@@ -46,8 +46,8 @@
       "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 8101,
-      "forks": 3008,
+      "stars": 8111,
+      "forks": 3010,
       "currentPeriodStars": 204,
       "builtBy": [
         {
@@ -75,189 +75,14 @@
     },
     {
       "rank": 3,
-      "author": "drawdb-io",
-      "repoName": "drawdb",
-      "url": "https://github.com/drawdb-io/drawdb",
-      "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 36611,
-      "forks": 2850,
-      "currentPeriodStars": 653,
-      "builtBy": [
-        {
-          "username": "1ilit",
-          "avatar": "https://avatars.githubusercontent.com/u/96800776?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "picimako",
-          "avatar": "https://avatars.githubusercontent.com/u/5739987?s=40&v=4"
-        },
-        {
-          "username": "haecheonlee",
-          "avatar": "https://avatars.githubusercontent.com/u/16802605?s=40&v=4"
-        },
-        {
-          "username": "KARM99",
-          "avatar": "https://avatars.githubusercontent.com/u/21248684?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 4,
-      "author": "poloclub",
-      "repoName": "transformer-explainer",
-      "url": "https://github.com/poloclub/transformer-explainer",
-      "description": "Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 6775,
-      "forks": 723,
-      "currentPeriodStars": 74,
-      "builtBy": [
-        {
-          "username": "aereeeee",
-          "avatar": "https://avatars.githubusercontent.com/u/29801123?s=40&v=4"
-        },
-        {
-          "username": "karpekov",
-          "avatar": "https://avatars.githubusercontent.com/u/19506611?s=40&v=4"
-        },
-        {
-          "username": "polochau",
-          "avatar": "https://avatars.githubusercontent.com/u/5067740?s=40&v=4"
-        },
-        {
-          "username": "DennisTraub",
-          "avatar": "https://avatars.githubusercontent.com/u/604796?s=40&v=4"
-        },
-        {
-          "username": "CasterWx",
-          "avatar": "https://avatars.githubusercontent.com/u/30624750?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 5,
-      "author": "tangly1024",
-      "repoName": "NotionNext",
-      "url": "https://github.com/tangly1024/NotionNext",
-      "description": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 11114,
-      "forks": 14416,
-      "currentPeriodStars": 62,
-      "builtBy": [
-        {
-          "username": "tangly1024",
-          "avatar": "https://avatars.githubusercontent.com/u/15920488?s=40&v=4"
-        },
-        {
-          "username": "qixing-jk",
-          "avatar": "https://avatars.githubusercontent.com/u/125447674?s=40&v=4"
-        },
-        {
-          "username": "Vixcity",
-          "avatar": "https://avatars.githubusercontent.com/u/57704177?s=40&v=4"
-        },
-        {
-          "username": "LooseLi",
-          "avatar": "https://avatars.githubusercontent.com/u/66111974?s=40&v=4"
-        },
-        {
-          "username": "ghlerrix",
-          "avatar": "https://avatars.githubusercontent.com/u/114851291?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 6,
-      "author": "GitSquared",
-      "repoName": "edex-ui",
-      "url": "https://github.com/GitSquared/edex-ui",
-      "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 44241,
-      "forks": 3001,
-      "currentPeriodStars": 95,
-      "builtBy": [
-        {
-          "username": "GitSquared",
-          "avatar": "https://avatars.githubusercontent.com/u/24496417?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot-preview",
-          "avatar": "https://avatars.githubusercontent.com/in/2141?s=40&v=4"
-        },
-        {
-          "username": "dependabot-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/36207117?s=40&v=4"
-        },
-        {
-          "username": "apps/greenkeeper",
-          "avatar": "https://avatars.githubusercontent.com/in/505?s=40&v=4"
-        },
-        {
-          "username": "greenkeeperio-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/14790466?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 7,
-      "author": "anuraghazra",
-      "repoName": "github-readme-stats",
-      "url": "https://github.com/anuraghazra/github-readme-stats",
-      "description": "⚡ Dynamically generated stats for your github readmes",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 78391,
-      "forks": 30555,
-      "currentPeriodStars": 133,
-      "builtBy": [
-        {
-          "username": "qwerty541",
-          "avatar": "https://avatars.githubusercontent.com/u/53787217?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "anuraghazra",
-          "avatar": "https://avatars.githubusercontent.com/u/35374649?s=40&v=4"
-        },
-        {
-          "username": "rickstaa",
-          "avatar": "https://avatars.githubusercontent.com/u/17570430?s=40&v=4"
-        },
-        {
-          "username": "opheliagoldstein",
-          "avatar": "https://avatars.githubusercontent.com/u/159258143?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 8,
       "author": "pshenok",
       "repoName": "server-survival",
       "url": "https://github.com/pshenok/server-survival",
       "description": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 5158,
-      "forks": 592,
+      "stars": 5169,
+      "forks": 593,
       "currentPeriodStars": 538,
       "builtBy": [
         {
@@ -284,7 +109,42 @@
       "aiSummaries": null
     },
     {
-      "rank": 9,
+      "rank": 4,
+      "author": "anuraghazra",
+      "repoName": "github-readme-stats",
+      "url": "https://github.com/anuraghazra/github-readme-stats",
+      "description": "⚡ Dynamically generated stats for your github readmes",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 78403,
+      "forks": 30572,
+      "currentPeriodStars": 133,
+      "builtBy": [
+        {
+          "username": "qwerty541",
+          "avatar": "https://avatars.githubusercontent.com/u/53787217?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "anuraghazra",
+          "avatar": "https://avatars.githubusercontent.com/u/35374649?s=40&v=4"
+        },
+        {
+          "username": "rickstaa",
+          "avatar": "https://avatars.githubusercontent.com/u/17570430?s=40&v=4"
+        },
+        {
+          "username": "opheliagoldstein",
+          "avatar": "https://avatars.githubusercontent.com/u/159258143?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 5,
       "author": "qeeqbox",
       "repoName": "social-analyzer",
       "url": "https://github.com/qeeqbox/social-analyzer",
@@ -292,7 +152,7 @@
       "language": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": 21103,
-      "forks": 1960,
+      "forks": 1961,
       "currentPeriodStars": 278,
       "builtBy": [
         {
@@ -319,85 +179,50 @@
       "aiSummaries": null
     },
     {
-      "rank": 10,
-      "author": "sohzm",
-      "repoName": "cheating-daddy",
-      "url": "https://github.com/sohzm/cheating-daddy",
-      "description": "a free and opensource app that lets you gain an unfair advantage",
+      "rank": 6,
+      "author": "drawdb-io",
+      "repoName": "drawdb",
+      "url": "https://github.com/drawdb-io/drawdb",
+      "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 5063,
-      "forks": 859,
-      "currentPeriodStars": 21,
+      "stars": 36616,
+      "forks": 2851,
+      "currentPeriodStars": 653,
       "builtBy": [
         {
-          "username": "sohzm",
-          "avatar": "https://avatars.githubusercontent.com/u/68921363?s=40&v=4"
-        },
-        {
-          "username": "byigitt",
-          "avatar": "https://avatars.githubusercontent.com/u/137426514?s=40&v=4"
-        },
-        {
-          "username": "sandys",
-          "avatar": "https://avatars.githubusercontent.com/u/76883?s=40&v=4"
-        },
-        {
-          "username": "ManojINaik",
-          "avatar": "https://avatars.githubusercontent.com/u/68473696?s=40&v=4"
-        },
-        {
-          "username": "mayur1377",
-          "avatar": "https://avatars.githubusercontent.com/u/74107137?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 11,
-      "author": "plankanban",
-      "repoName": "planka",
-      "url": "https://github.com/plankanban/planka",
-      "description": "PLANKA is the Kanban-style project mastering tool for everyone",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 11551,
-      "forks": 1181,
-      "currentPeriodStars": 67,
-      "builtBy": [
-        {
-          "username": "meltyshev",
-          "avatar": "https://avatars.githubusercontent.com/u/5564188?s=40&v=4"
+          "username": "1ilit",
+          "avatar": "https://avatars.githubusercontent.com/u/96800776?s=40&v=4"
         },
         {
           "username": "apps/dependabot",
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "daniel-hiller",
-          "avatar": "https://avatars.githubusercontent.com/u/46579393?s=40&v=4"
+          "username": "picimako",
+          "avatar": "https://avatars.githubusercontent.com/u/5739987?s=40&v=4"
         },
         {
-          "username": "symonbaikov",
-          "avatar": "https://avatars.githubusercontent.com/u/115481136?s=40&v=4"
+          "username": "haecheonlee",
+          "avatar": "https://avatars.githubusercontent.com/u/16802605?s=40&v=4"
         },
         {
-          "username": "HannesOberreiter",
-          "avatar": "https://avatars.githubusercontent.com/u/16878981?s=40&v=4"
+          "username": "KARM99",
+          "avatar": "https://avatars.githubusercontent.com/u/21248684?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
-      "rank": 12,
+      "rank": 7,
       "author": "SynkraAI",
       "repoName": "aios-core",
       "url": "https://github.com/SynkraAI/aios-core",
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 983,
-      "forks": 348,
+      "stars": 1064,
+      "forks": 368,
       "currentPeriodStars": 770,
       "builtBy": [
         {
@@ -434,15 +259,15 @@
       ]
     },
     {
-      "rank": 13,
+      "rank": 8,
       "author": "aandrew-me",
       "repoName": "ytDownloader",
       "url": "https://github.com/aandrew-me/ytDownloader",
       "description": "Desktop App for downloading Videos and Audios from hundreds of sites",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 8158,
-      "forks": 691,
+      "stars": 8169,
+      "forks": 694,
       "currentPeriodStars": 440,
       "builtBy": [
         {
@@ -464,6 +289,111 @@
         {
           "username": "candrapersada",
           "avatar": "https://avatars.githubusercontent.com/u/36833664?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 9,
+      "author": "louislam",
+      "repoName": "uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 82905,
+      "forks": 7404,
+      "currentPeriodStars": 315,
+      "builtBy": [
+        {
+          "username": "louislam",
+          "avatar": "https://avatars.githubusercontent.com/u/1336778?s=40&v=4"
+        },
+        {
+          "username": "CommanderStorm",
+          "avatar": "https://avatars.githubusercontent.com/u/26258709?s=40&v=4"
+        },
+        {
+          "username": "chakflying",
+          "avatar": "https://avatars.githubusercontent.com/u/3271800?s=40&v=4"
+        },
+        {
+          "username": "Saibamen",
+          "avatar": "https://avatars.githubusercontent.com/u/905878?s=40&v=4"
+        },
+        {
+          "username": "Computroniks",
+          "avatar": "https://avatars.githubusercontent.com/u/67638596?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 10,
+      "author": "Stremio",
+      "repoName": "stremio-web",
+      "url": "https://github.com/Stremio/stremio-web",
+      "description": "Stremio - Freedom to Stream",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 8994,
+      "forks": 1001,
+      "currentPeriodStars": 41,
+      "builtBy": [
+        {
+          "username": "nklhtv",
+          "avatar": "https://avatars.githubusercontent.com/u/5950722?s=40&v=4"
+        },
+        {
+          "username": "tymmesyde",
+          "avatar": "https://avatars.githubusercontent.com/u/7889816?s=40&v=4"
+        },
+        {
+          "username": "kKaskak",
+          "avatar": "https://avatars.githubusercontent.com/u/117831817?s=40&v=4"
+        },
+        {
+          "username": "swetlasg",
+          "avatar": "https://avatars.githubusercontent.com/u/15102316?s=40&v=4"
+        },
+        {
+          "username": "Botsy",
+          "avatar": "https://avatars.githubusercontent.com/u/10400528?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 11,
+      "author": "processing",
+      "repoName": "p5.js",
+      "url": "https://github.com/processing/p5.js",
+      "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5js.org",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 23444,
+      "forks": 3709,
+      "currentPeriodStars": 33,
+      "builtBy": [
+        {
+          "username": "apps/allcontributors",
+          "avatar": "https://avatars.githubusercontent.com/in/23186?s=40&v=4"
+        },
+        {
+          "username": "lmccart",
+          "avatar": "https://avatars.githubusercontent.com/u/191056?s=40&v=4"
+        },
+        {
+          "username": "davepagurek",
+          "avatar": "https://avatars.githubusercontent.com/u/5315059?s=40&v=4"
+        },
+        {
+          "username": "Qianqianye",
+          "avatar": "https://avatars.githubusercontent.com/u/18587130?s=40&v=4"
+        },
+        {
+          "username": "outofambit",
+          "avatar": "https://avatars.githubusercontent.com/u/964912?s=40&v=4"
         }
       ],
       "aiSummaries": null

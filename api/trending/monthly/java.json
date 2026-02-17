@@ -1,7 +1,7 @@
 {
-  "count": 20,
+  "count": 18,
   "since": "monthly",
-  "captured_at": "2026-02-17 00:19:13",
+  "captured_at": "2026-02-17 12:19:49",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 37209,
-      "forks": 3465,
+      "stars": 37214,
+      "forks": 3467,
       "currentPeriodStars": 997,
       "builtBy": [
         {
@@ -46,8 +46,8 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32411,
-      "forks": 7256,
+      "stars": 32574,
+      "forks": 7280,
       "currentPeriodStars": 3240,
       "builtBy": [
         {
@@ -67,53 +67,29 @@
           "avatar": "https://avatars.githubusercontent.com/u/89011337?s=40&v=4"
         }
       ],
-      "aiSummaries": null
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "该项目系统整理高质量的系统设计学习与面试资源，聚合分布式系统、可扩展性与高可用等核心概念，帮助开发者以零成本构建系统设计知识体系，并高效备战技术面试，解决资料分散、难以筛选与系统化学习不足的痛点。",
+          "en": "This project curates high‑quality, free system design resources, centralizing key concepts like scalability, distributed systems, and high availability to streamline learning and interview preparation, solving the pain of scattered, hard‑to‑filter materials."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "该项目收集了丰富的免费系统设计学习资源，旨在帮助开发者掌握核心概念并高效准备技术面试。它解决了学习资料分散、质量参差不齐的痛点，提供了结构化的知识路径。",
+          "en": "This project curates comprehensive free resources for learning System Design concepts and preparing for technical interviews. It addresses the pain point of scattered, inconsistent study materials by offering a structured knowledge path."
+        }
+      ]
     },
     {
       "rank": 3,
-      "author": "ashishps1",
-      "repoName": "awesome-low-level-design",
-      "url": "https://github.com/ashishps1/awesome-low-level-design",
-      "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 22175,
-      "forks": 5435,
-      "currentPeriodStars": 1191,
-      "builtBy": [
-        {
-          "username": "ashishps1",
-          "avatar": "https://avatars.githubusercontent.com/u/8646889?s=40&v=4"
-        },
-        {
-          "username": "mukulagarwal08",
-          "avatar": "https://avatars.githubusercontent.com/u/39495643?s=40&v=4"
-        },
-        {
-          "username": "VishalMCF",
-          "avatar": "https://avatars.githubusercontent.com/u/70262922?s=40&v=4"
-        },
-        {
-          "username": "PrasanthVijayy",
-          "avatar": "https://avatars.githubusercontent.com/u/121619324?s=40&v=4"
-        },
-        {
-          "username": "Hardvan",
-          "avatar": "https://avatars.githubusercontent.com/u/97388607?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 4,
       "author": "kunal-kushwaha",
       "repoName": "DSA-Bootcamp-Java",
       "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22069,
-      "forks": 13097,
+      "stars": 22073,
+      "forks": 13098,
       "currentPeriodStars": 518,
       "builtBy": [
         {
@@ -140,6 +116,41 @@
       "aiSummaries": null
     },
     {
+      "rank": 4,
+      "author": "ashishps1",
+      "repoName": "awesome-low-level-design",
+      "url": "https://github.com/ashishps1/awesome-low-level-design",
+      "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 22191,
+      "forks": 5438,
+      "currentPeriodStars": 1191,
+      "builtBy": [
+        {
+          "username": "ashishps1",
+          "avatar": "https://avatars.githubusercontent.com/u/8646889?s=40&v=4"
+        },
+        {
+          "username": "mukulagarwal08",
+          "avatar": "https://avatars.githubusercontent.com/u/39495643?s=40&v=4"
+        },
+        {
+          "username": "VishalMCF",
+          "avatar": "https://avatars.githubusercontent.com/u/70262922?s=40&v=4"
+        },
+        {
+          "username": "PrasanthVijayy",
+          "avatar": "https://avatars.githubusercontent.com/u/121619324?s=40&v=4"
+        },
+        {
+          "username": "Hardvan",
+          "avatar": "https://avatars.githubusercontent.com/u/97388607?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
       "rank": 5,
       "author": "TheAlgorithms",
       "repoName": "Java",
@@ -147,7 +158,7 @@
       "description": "All Algorithms implemented in Java",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 65057,
+      "stars": 65061,
       "forks": 20974,
       "currentPeriodStars": 410,
       "builtBy": [
@@ -182,7 +193,7 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 50688,
+      "stars": 50719,
       "forks": 6024,
       "currentPeriodStars": 1923,
       "builtBy": [
@@ -217,8 +228,8 @@
       "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8697,
-      "forks": 1844,
+      "stars": 8699,
+      "forks": 1847,
       "currentPeriodStars": 105,
       "builtBy": [
         {
@@ -246,13 +257,48 @@
     },
     {
       "rank": 8,
+      "author": "microg",
+      "repoName": "GmsCore",
+      "url": "https://github.com/microg/GmsCore",
+      "description": "Free implementation of Play Services",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 12253,
+      "forks": 2575,
+      "currentPeriodStars": 364,
+      "builtBy": [
+        {
+          "username": "mar-v-in",
+          "avatar": "https://avatars.githubusercontent.com/u/994036?s=40&v=4"
+        },
+        {
+          "username": "DaVinci9196",
+          "avatar": "https://avatars.githubusercontent.com/u/150454414?s=40&v=4"
+        },
+        {
+          "username": "fynngodau",
+          "avatar": "https://avatars.githubusercontent.com/u/16943720?s=40&v=4"
+        },
+        {
+          "username": "ale5000-git",
+          "avatar": "https://avatars.githubusercontent.com/u/15793015?s=40&v=4"
+        },
+        {
+          "username": "emlove",
+          "avatar": "https://avatars.githubusercontent.com/u/1386547?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 9,
       "author": "AsamK",
       "repoName": "signal-cli",
       "url": "https://github.com/AsamK/signal-cli",
       "description": "signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4172,
+      "stars": 4175,
       "forks": 373,
       "currentPeriodStars": 195,
       "builtBy": [
@@ -280,154 +326,49 @@
       "aiSummaries": null
     },
     {
-      "rank": 9,
-      "author": "plantuml",
-      "repoName": "plantuml",
-      "url": "https://github.com/plantuml/plantuml",
-      "description": "Generate diagrams from textual description",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 12669,
-      "forks": 1141,
-      "currentPeriodStars": 165,
-      "builtBy": [
-        {
-          "username": "arnaudroques",
-          "avatar": "https://avatars.githubusercontent.com/u/467517?s=40&v=4"
-        },
-        {
-          "username": "The-Lum",
-          "avatar": "https://avatars.githubusercontent.com/u/86879521?s=40&v=4"
-        },
-        {
-          "username": "matthew16550",
-          "avatar": "https://avatars.githubusercontent.com/u/39400458?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "soloturn",
-          "avatar": "https://avatars.githubusercontent.com/u/825568?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
       "rank": 10,
-      "author": "TeamNewPipe",
-      "repoName": "NewPipeExtractor",
-      "url": "https://github.com/TeamNewPipe/NewPipeExtractor",
-      "description": "NewPipe's core library for extracting data from streaming sites",
+      "author": "NationalSecurityAgency",
+      "repoName": "ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 1757,
-      "forks": 524,
-      "currentPeriodStars": 68,
+      "stars": 64662,
+      "forks": 7153,
+      "currentPeriodStars": 993,
       "builtBy": [
         {
-          "username": "TobiGr",
-          "avatar": "https://avatars.githubusercontent.com/u/17365767?s=40&v=4"
+          "username": "ryanmkurtz",
+          "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&v=4"
         },
         {
-          "username": "Stypox",
-          "avatar": "https://avatars.githubusercontent.com/u/36421898?s=40&v=4"
+          "username": "ghidra1",
+          "avatar": "https://avatars.githubusercontent.com/u/48333017?s=40&v=4"
         },
         {
-          "username": "AudricV",
-          "avatar": "https://avatars.githubusercontent.com/u/74829229?s=40&v=4"
+          "username": "dragonmacher",
+          "avatar": "https://avatars.githubusercontent.com/u/48328597?s=40&v=4"
         },
         {
-          "username": "litetex",
-          "avatar": "https://avatars.githubusercontent.com/u/40789489?s=40&v=4"
+          "username": "nsadeveloper789",
+          "avatar": "https://avatars.githubusercontent.com/u/46821332?s=40&v=4"
         },
         {
-          "username": "theScrabi",
-          "avatar": "https://avatars.githubusercontent.com/u/1891273?s=40&v=4"
+          "username": "caheckman",
+          "avatar": "https://avatars.githubusercontent.com/u/48068198?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 11,
-      "author": "signalapp",
-      "repoName": "Signal-Server",
-      "url": "https://github.com/signalapp/Signal-Server",
-      "description": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 10380,
-      "forks": 2426,
-      "currentPeriodStars": 107,
-      "builtBy": [
-        {
-          "username": "jon-signal",
-          "avatar": "https://avatars.githubusercontent.com/u/63609320?s=40&v=4"
-        },
-        {
-          "username": "eager-signal",
-          "avatar": "https://avatars.githubusercontent.com/u/79161849?s=40&v=4"
-        },
-        {
-          "username": "ehrenkret-signal",
-          "avatar": "https://avatars.githubusercontent.com/u/62033421?s=40&v=4"
-        },
-        {
-          "username": "ravi-signal",
-          "avatar": "https://avatars.githubusercontent.com/u/99042880?s=40&v=4"
-        },
-        {
-          "username": "moxie0",
-          "avatar": "https://avatars.githubusercontent.com/u/512439?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 12,
-      "author": "DrKLO",
-      "repoName": "Telegram",
-      "url": "https://github.com/DrKLO/Telegram",
-      "description": "Telegram for Android source",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 28550,
-      "forks": 9287,
-      "currentPeriodStars": 264,
-      "builtBy": [
-        {
-          "username": "xaxtix",
-          "avatar": "https://avatars.githubusercontent.com/u/7038595?s=40&v=4"
-        },
-        {
-          "username": "DrKLO",
-          "avatar": "https://avatars.githubusercontent.com/u/69369?s=40&v=4"
-        },
-        {
-          "username": "dkaraush",
-          "avatar": "https://avatars.githubusercontent.com/u/10834227?s=40&v=4"
-        },
-        {
-          "username": "Arseny271",
-          "avatar": "https://avatars.githubusercontent.com/u/56611696?s=40&v=4"
-        },
-        {
-          "username": "jsonchi",
-          "avatar": "https://avatars.githubusercontent.com/u/3435533?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 13,
       "author": "JingMatrix",
       "repoName": "LSPosed",
       "url": "https://github.com/JingMatrix/LSPosed",
       "description": "LSPosed Framework resuscitated",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9601,
+      "stars": 9608,
       "forks": 601,
       "currentPeriodStars": 442,
       "builtBy": [
@@ -455,50 +396,85 @@
       "aiSummaries": null
     },
     {
-      "rank": 14,
-      "author": "microg",
-      "repoName": "GmsCore",
-      "url": "https://github.com/microg/GmsCore",
-      "description": "Free implementation of Play Services",
+      "rank": 12,
+      "author": "DrKLO",
+      "repoName": "Telegram",
+      "url": "https://github.com/DrKLO/Telegram",
+      "description": "Telegram for Android source",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12246,
-      "forks": 2571,
-      "currentPeriodStars": 364,
+      "stars": 28551,
+      "forks": 9288,
+      "currentPeriodStars": 264,
       "builtBy": [
         {
-          "username": "mar-v-in",
-          "avatar": "https://avatars.githubusercontent.com/u/994036?s=40&v=4"
+          "username": "xaxtix",
+          "avatar": "https://avatars.githubusercontent.com/u/7038595?s=40&v=4"
         },
         {
-          "username": "DaVinci9196",
-          "avatar": "https://avatars.githubusercontent.com/u/150454414?s=40&v=4"
+          "username": "DrKLO",
+          "avatar": "https://avatars.githubusercontent.com/u/69369?s=40&v=4"
         },
         {
-          "username": "fynngodau",
-          "avatar": "https://avatars.githubusercontent.com/u/16943720?s=40&v=4"
+          "username": "dkaraush",
+          "avatar": "https://avatars.githubusercontent.com/u/10834227?s=40&v=4"
         },
         {
-          "username": "ale5000-git",
-          "avatar": "https://avatars.githubusercontent.com/u/15793015?s=40&v=4"
+          "username": "Arseny271",
+          "avatar": "https://avatars.githubusercontent.com/u/56611696?s=40&v=4"
         },
         {
-          "username": "emlove",
-          "avatar": "https://avatars.githubusercontent.com/u/1386547?s=40&v=4"
+          "username": "jsonchi",
+          "avatar": "https://avatars.githubusercontent.com/u/3435533?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "author": "TeamNewPipe",
+      "repoName": "NewPipeExtractor",
+      "url": "https://github.com/TeamNewPipe/NewPipeExtractor",
+      "description": "NewPipe's core library for extracting data from streaming sites",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 1758,
+      "forks": 524,
+      "currentPeriodStars": 68,
+      "builtBy": [
+        {
+          "username": "TobiGr",
+          "avatar": "https://avatars.githubusercontent.com/u/17365767?s=40&v=4"
+        },
+        {
+          "username": "Stypox",
+          "avatar": "https://avatars.githubusercontent.com/u/36421898?s=40&v=4"
+        },
+        {
+          "username": "AudricV",
+          "avatar": "https://avatars.githubusercontent.com/u/74829229?s=40&v=4"
+        },
+        {
+          "username": "litetex",
+          "avatar": "https://avatars.githubusercontent.com/u/40789489?s=40&v=4"
+        },
+        {
+          "username": "theScrabi",
+          "avatar": "https://avatars.githubusercontent.com/u/1891273?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 14,
       "author": "keycloak",
       "repoName": "keycloak",
       "url": "https://github.com/keycloak/keycloak",
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32863,
-      "forks": 8054,
+      "stars": 32873,
+      "forks": 8055,
       "currentPeriodStars": 649,
       "builtBy": [
         {
@@ -525,50 +501,112 @@
       "aiSummaries": null
     },
     {
-      "rank": 16,
-      "author": "dbeaver",
-      "repoName": "dbeaver",
-      "url": "https://github.com/dbeaver/dbeaver",
-      "description": "Free universal database tool and SQL client",
+      "rank": 15,
+      "author": "Archmage83",
+      "repoName": "tvapk",
+      "url": "https://github.com/Archmage83/tvapk",
+      "description": "收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 48695,
-      "forks": 4041,
-      "currentPeriodStars": 510,
+      "stars": 5744,
+      "forks": 551,
+      "currentPeriodStars": 222,
       "builtBy": [
         {
-          "username": "serge-rider",
-          "avatar": "https://avatars.githubusercontent.com/u/6398845?s=40&v=4"
+          "username": "Archmage83",
+          "avatar": "https://avatars.githubusercontent.com/u/68944642?s=40&v=4"
         },
         {
-          "username": "ShadelessFox",
-          "avatar": "https://avatars.githubusercontent.com/u/35821147?s=40&v=4"
+          "username": "czl0325",
+          "avatar": "https://avatars.githubusercontent.com/u/2100549?s=40&v=4"
         },
         {
-          "username": "LonwoLonwo",
-          "avatar": "https://avatars.githubusercontent.com/u/45152336?s=40&v=4"
+          "username": "cowB0Y-0",
+          "avatar": "https://avatars.githubusercontent.com/u/99273309?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 16,
+      "author": "signalapp",
+      "repoName": "Signal-Server",
+      "url": "https://github.com/signalapp/Signal-Server",
+      "description": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 10381,
+      "forks": 2427,
+      "currentPeriodStars": 107,
+      "builtBy": [
+        {
+          "username": "jon-signal",
+          "avatar": "https://avatars.githubusercontent.com/u/63609320?s=40&v=4"
         },
         {
-          "username": "E1izabeth",
-          "avatar": "https://avatars.githubusercontent.com/u/28875055?s=40&v=4"
+          "username": "eager-signal",
+          "avatar": "https://avatars.githubusercontent.com/u/79161849?s=40&v=4"
         },
         {
-          "username": "MashaKorax",
-          "avatar": "https://avatars.githubusercontent.com/u/84867187?s=40&v=4"
+          "username": "ehrenkret-signal",
+          "avatar": "https://avatars.githubusercontent.com/u/62033421?s=40&v=4"
+        },
+        {
+          "username": "ravi-signal",
+          "avatar": "https://avatars.githubusercontent.com/u/99042880?s=40&v=4"
+        },
+        {
+          "username": "moxie0",
+          "avatar": "https://avatars.githubusercontent.com/u/512439?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 17,
+      "author": "HMCL-dev",
+      "repoName": "HMCL",
+      "url": "https://github.com/HMCL-dev/HMCL",
+      "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 8847,
+      "forks": 832,
+      "currentPeriodStars": 183,
+      "builtBy": [
+        {
+          "username": "huanghongxun",
+          "avatar": "https://avatars.githubusercontent.com/u/5411982?s=40&v=4"
+        },
+        {
+          "username": "Glavo",
+          "avatar": "https://avatars.githubusercontent.com/u/20694662?s=40&v=4"
+        },
+        {
+          "username": "yushijinhun",
+          "avatar": "https://avatars.githubusercontent.com/u/8373027?s=40&v=4"
+        },
+        {
+          "username": "zkitefly",
+          "avatar": "https://avatars.githubusercontent.com/u/64117916?s=40&v=4"
+        },
+        {
+          "username": "3gf8jv4dv",
+          "avatar": "https://avatars.githubusercontent.com/u/158490944?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 18,
       "author": "TGX-Android",
       "repoName": "Telegram-X",
       "url": "https://github.com/TGX-Android/Telegram-X",
       "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5261,
-      "forks": 929,
+      "stars": 5264,
+      "forks": 930,
       "currentPeriodStars": 178,
       "builtBy": [
         {
@@ -590,103 +628,6 @@
         {
           "username": "nikita-toropov",
           "avatar": "https://avatars.githubusercontent.com/u/4970595?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 18,
-      "author": "Archmage83",
-      "repoName": "tvapk",
-      "url": "https://github.com/Archmage83/tvapk",
-      "description": "收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 5741,
-      "forks": 549,
-      "currentPeriodStars": 222,
-      "builtBy": [
-        {
-          "username": "Archmage83",
-          "avatar": "https://avatars.githubusercontent.com/u/68944642?s=40&v=4"
-        },
-        {
-          "username": "czl0325",
-          "avatar": "https://avatars.githubusercontent.com/u/2100549?s=40&v=4"
-        },
-        {
-          "username": "cowB0Y-0",
-          "avatar": "https://avatars.githubusercontent.com/u/99273309?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 19,
-      "author": "vespa-engine",
-      "repoName": "vespa",
-      "url": "https://github.com/vespa-engine/vespa",
-      "description": "AI + Data, online. https://vespa.ai",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 6781,
-      "forks": 694,
-      "currentPeriodStars": 62,
-      "builtBy": [
-        {
-          "username": "baldersheim",
-          "avatar": "https://avatars.githubusercontent.com/u/19857788?s=40&v=4"
-        },
-        {
-          "username": "bjorncs",
-          "avatar": "https://avatars.githubusercontent.com/u/798335?s=40&v=4"
-        },
-        {
-          "username": "arnej27959",
-          "avatar": "https://avatars.githubusercontent.com/u/19730911?s=40&v=4"
-        },
-        {
-          "username": "jonmv",
-          "avatar": "https://avatars.githubusercontent.com/u/7009557?s=40&v=4"
-        },
-        {
-          "username": "mpolden",
-          "avatar": "https://avatars.githubusercontent.com/u/174496?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 20,
-      "author": "NationalSecurityAgency",
-      "repoName": "ghidra",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 64582,
-      "forks": 7147,
-      "currentPeriodStars": 993,
-      "builtBy": [
-        {
-          "username": "ryanmkurtz",
-          "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&v=4"
-        },
-        {
-          "username": "ghidra1",
-          "avatar": "https://avatars.githubusercontent.com/u/48333017?s=40&v=4"
-        },
-        {
-          "username": "dragonmacher",
-          "avatar": "https://avatars.githubusercontent.com/u/48328597?s=40&v=4"
-        },
-        {
-          "username": "nsadeveloper789",
-          "avatar": "https://avatars.githubusercontent.com/u/46821332?s=40&v=4"
-        },
-        {
-          "username": "caheckman",
-          "avatar": "https://avatars.githubusercontent.com/u/48068198?s=40&v=4"
         }
       ],
       "aiSummaries": null

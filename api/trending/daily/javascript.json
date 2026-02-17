@@ -1,7 +1,7 @@
 {
-  "count": 12,
+  "count": 11,
   "since": "daily",
-  "captured_at": "2026-02-17 00:17:25",
+  "captured_at": "2026-02-17 12:17:59",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 983,
-      "forks": 348,
-      "currentPeriodStars": 205,
+      "stars": 1064,
+      "forks": 368,
+      "currentPeriodStars": 194,
       "builtBy": [
         {
           "username": "claude",
@@ -56,8 +56,8 @@
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 14893,
-      "forks": 1386,
+      "stars": 15082,
+      "forks": 1399,
       "currentPeriodStars": 436,
       "builtBy": [
         {
@@ -85,177 +85,84 @@
     },
     {
       "rank": 3,
-      "author": "pshenok",
-      "repoName": "server-survival",
-      "url": "https://github.com/pshenok/server-survival",
-      "description": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
+      "author": "harvard-edge",
+      "repoName": "cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Introduction to Machine Learning Systems",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 5158,
-      "forks": 592,
-      "currentPeriodStars": 64,
+      "stars": 18594,
+      "forks": 2189,
+      "currentPeriodStars": 334,
       "builtBy": [
         {
-          "username": "pshenok",
-          "avatar": "https://avatars.githubusercontent.com/u/42213409?s=40&v=4"
+          "username": "profvjreddi",
+          "avatar": "https://avatars.githubusercontent.com/u/6807956?s=40&v=4"
         },
         {
-          "username": "kant2002",
-          "avatar": "https://avatars.githubusercontent.com/u/4257079?s=40&v=4"
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         },
         {
-          "username": "velosojonathan5",
-          "avatar": "https://avatars.githubusercontent.com/u/16419310?s=40&v=4"
-        },
-        {
-          "username": "TraxionRPh",
-          "avatar": "https://avatars.githubusercontent.com/u/103160824?s=40&v=4"
+          "username": "hzeljko",
+          "avatar": "https://avatars.githubusercontent.com/u/36451783?s=40&v=4"
         },
         {
           "username": "claude",
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "Mjrovai",
+          "avatar": "https://avatars.githubusercontent.com/u/17109416?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 4,
-      "author": "denysdovhan",
-      "repoName": "wtfjs",
-      "url": "https://github.com/denysdovhan/wtfjs",
-      "description": "🤪 A list of funny and tricky JavaScript examples",
+      "author": "thalesgroup-cert",
+      "repoName": "Watcher",
+      "url": "https://github.com/thalesgroup-cert/Watcher",
+      "description": "Watcher - Open Source AI-powered Cyber Threat Intelligence & Hunting Platform. Developed with Django & React JS.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 37701,
-      "forks": 2680,
-      "currentPeriodStars": 17,
+      "stars": 1224,
+      "forks": 179,
+      "currentPeriodStars": 16,
       "builtBy": [
         {
-          "username": "denysdovhan",
-          "avatar": "https://avatars.githubusercontent.com/u/3459374?s=40&v=4"
+          "username": "Felix83000",
+          "avatar": "https://avatars.githubusercontent.com/u/16541780?s=40&v=4"
+        },
+        {
+          "username": "ygalnezri",
+          "avatar": "https://avatars.githubusercontent.com/u/155719988?s=40&v=4"
         },
         {
           "username": "apps/dependabot",
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         },
         {
-          "username": "semantic-release-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4"
+          "username": "0xlildoudou",
+          "avatar": "https://avatars.githubusercontent.com/u/67382584?s=40&v=4"
         },
         {
-          "username": "mbiesiad",
-          "avatar": "https://avatars.githubusercontent.com/u/18367606?s=40&v=4"
-        },
-        {
-          "username": "pero5ar",
-          "avatar": "https://avatars.githubusercontent.com/u/15316407?s=40&v=4"
+          "username": "eciavatta",
+          "avatar": "https://avatars.githubusercontent.com/u/4194510?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 5,
-      "author": "CodeWithHarry",
-      "repoName": "Sigma-Web-Dev-Course",
-      "url": "https://github.com/CodeWithHarry/Sigma-Web-Dev-Course",
-      "description": "Source Code for Sigma Web Development Course",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 11010,
-      "forks": 3061,
-      "currentPeriodStars": 5,
-      "builtBy": [
-        {
-          "username": "CodeWithHarry",
-          "avatar": "https://avatars.githubusercontent.com/u/48705673?s=40&v=4"
-        },
-        {
-          "username": "it-is-Aman",
-          "avatar": "https://avatars.githubusercontent.com/u/125397128?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 6,
-      "author": "SillyTavern",
-      "repoName": "SillyTavern",
-      "url": "https://github.com/SillyTavern/SillyTavern",
-      "description": "LLM Frontend for Power Users.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 23153,
-      "forks": 4737,
-      "currentPeriodStars": 33,
-      "builtBy": [
-        {
-          "username": "Cohee1207",
-          "avatar": "https://avatars.githubusercontent.com/u/18619528?s=40&v=4"
-        },
-        {
-          "username": "Wolfsblvt",
-          "avatar": "https://avatars.githubusercontent.com/u/9962104?s=40&v=4"
-        },
-        {
-          "username": "RossAscends",
-          "avatar": "https://avatars.githubusercontent.com/u/124905043?s=40&v=4"
-        },
-        {
-          "username": "LenAnderson",
-          "avatar": "https://avatars.githubusercontent.com/u/7149120?s=40&v=4"
-        },
-        {
-          "username": "valadaptive",
-          "avatar": "https://avatars.githubusercontent.com/u/79560998?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 7,
-      "author": "mailcow",
-      "repoName": "mailcow-dockerized",
-      "url": "https://github.com/mailcow/mailcow-dockerized",
-      "description": "mailcow: dockerized - 🐮 + 🐋 = 💕",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 12161,
-      "forks": 1610,
-      "currentPeriodStars": 13,
-      "builtBy": [
-        {
-          "username": "andryyy",
-          "avatar": "https://avatars.githubusercontent.com/u/2972950?s=40&v=4"
-        },
-        {
-          "username": "FreddleSpl0it",
-          "avatar": "https://avatars.githubusercontent.com/u/75116288?s=40&v=4"
-        },
-        {
-          "username": "DerLinkman",
-          "avatar": "https://avatars.githubusercontent.com/u/62480600?s=40&v=4"
-        },
-        {
-          "username": "milkmaker",
-          "avatar": "https://avatars.githubusercontent.com/u/91863860?s=40&v=4"
-        },
-        {
-          "username": "MAGICCC",
-          "avatar": "https://avatars.githubusercontent.com/u/3279213?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 8,
       "author": "fanmingming",
       "repoName": "live",
       "url": "https://github.com/fanmingming/live",
       "description": "✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 27632,
-      "forks": 4163,
+      "stars": 27639,
+      "forks": 4164,
       "currentPeriodStars": 21,
       "builtBy": [
         {
@@ -282,141 +189,199 @@
       "aiSummaries": null
     },
     {
-      "rank": 9,
-      "author": "PrismarineJS",
-      "repoName": "mineflayer",
-      "url": "https://github.com/PrismarineJS/mineflayer",
-      "description": "Create Minecraft bots with a powerful, stable, and high level JavaScript API.",
+      "rank": 6,
+      "author": "atom",
+      "repoName": "atom",
+      "url": "https://github.com/atom/atom",
+      "description": "The hackable text editor",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 6622,
-      "forks": 1190,
-      "currentPeriodStars": 5,
+      "stars": 61016,
+      "forks": 17300,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
-          "username": "rom1504",
-          "avatar": "https://avatars.githubusercontent.com/u/2346494?s=40&v=4"
+          "username": "kevinsawicki",
+          "avatar": "https://avatars.githubusercontent.com/u/671378?s=40&v=4"
         },
         {
-          "username": "andrewrk",
-          "avatar": "https://avatars.githubusercontent.com/u/106511?s=40&v=4"
+          "username": "nathansobo",
+          "avatar": "https://avatars.githubusercontent.com/u/1789?s=40&v=4"
         },
         {
-          "username": "thejoshwolfe",
-          "avatar": "https://avatars.githubusercontent.com/u/87436?s=40&v=4"
+          "username": "as-cii",
+          "avatar": "https://avatars.githubusercontent.com/u/482957?s=40&v=4"
         },
         {
-          "username": "Darthfett",
-          "avatar": "https://avatars.githubusercontent.com/u/412436?s=40&v=4"
+          "username": "benogle",
+          "avatar": "https://avatars.githubusercontent.com/u/69169?s=40&v=4"
         },
         {
-          "username": "u9g",
-          "avatar": "https://avatars.githubusercontent.com/u/43508353?s=40&v=4"
+          "username": "maxbrunsfeld",
+          "avatar": "https://avatars.githubusercontent.com/u/326587?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 7,
+      "author": "meteor",
+      "repoName": "meteor",
+      "url": "https://github.com/meteor/meteor",
+      "description": "Meteor, the JavaScript App Platform",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 44784,
+      "forks": 5265,
+      "currentPeriodStars": 3,
+      "builtBy": [
+        {
+          "username": "benjamn",
+          "avatar": "https://avatars.githubusercontent.com/u/5750?s=40&v=4"
+        },
+        {
+          "username": "glasser",
+          "avatar": "https://avatars.githubusercontent.com/u/16724?s=40&v=4"
+        },
+        {
+          "username": "nachocodoner",
+          "avatar": "https://avatars.githubusercontent.com/u/2581993?s=40&v=4"
+        },
+        {
+          "username": "Grubba27",
+          "avatar": "https://avatars.githubusercontent.com/u/70247653?s=40&v=4"
+        },
+        {
+          "username": "dgreensp",
+          "avatar": "https://avatars.githubusercontent.com/u/155814?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 8,
+      "author": "thedevs-network",
+      "repoName": "kutt",
+      "url": "https://github.com/thedevs-network/kutt",
+      "description": "Free Modern URL Shortener.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 10582,
+      "forks": 1426,
+      "currentPeriodStars": 4,
+      "builtBy": [
+        {
+          "username": "poeti8",
+          "avatar": "https://avatars.githubusercontent.com/u/23660003?s=40&v=4"
+        },
+        {
+          "username": "marvin-wtt",
+          "avatar": "https://avatars.githubusercontent.com/u/31454580?s=40&v=4"
+        },
+        {
+          "username": "trgwii",
+          "avatar": "https://avatars.githubusercontent.com/u/11262022?s=40&v=4"
+        },
+        {
+          "username": "akash-joshi",
+          "avatar": "https://avatars.githubusercontent.com/u/22196279?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 9,
+      "author": "usebruno",
+      "repoName": "bruno",
+      "url": "https://github.com/usebruno/bruno",
+      "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 40912,
+      "forks": 2116,
+      "currentPeriodStars": 29,
+      "builtBy": [
+        {
+          "username": "helloanoop",
+          "avatar": "https://avatars.githubusercontent.com/u/9350733?s=40&v=4"
+        },
+        {
+          "username": "lohxt1",
+          "avatar": "https://avatars.githubusercontent.com/u/25679466?s=40&v=4"
+        },
+        {
+          "username": "lohit-bruno",
+          "avatar": "https://avatars.githubusercontent.com/u/159901171?s=40&v=4"
+        },
+        {
+          "username": "pooja-bruno",
+          "avatar": "https://avatars.githubusercontent.com/u/191850912?s=40&v=4"
+        },
+        {
+          "username": "Pragadesh-45",
+          "avatar": "https://avatars.githubusercontent.com/u/54320162?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 10,
-      "author": "schlagmichdoch",
-      "repoName": "PairDrop",
-      "url": "https://github.com/schlagmichdoch/PairDrop",
-      "description": "PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.",
+      "author": "airbnb",
+      "repoName": "javascript",
+      "url": "https://github.com/airbnb/javascript",
+      "description": "JavaScript Style Guide",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 9770,
-      "forks": 586,
-      "currentPeriodStars": 9,
+      "stars": 148095,
+      "forks": 26762,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
-          "username": "schlagmichdoch",
-          "avatar": "https://avatars.githubusercontent.com/u/52242352?s=40&v=4"
+          "username": "ljharb",
+          "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&v=4"
         },
         {
-          "username": "RobinLinus",
-          "avatar": "https://avatars.githubusercontent.com/u/12780394?s=40&v=4"
+          "username": "hshoff",
+          "avatar": "https://avatars.githubusercontent.com/u/339208?s=40&v=4"
         },
         {
-          "username": "weblate",
-          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4"
+          "username": "lencioni",
+          "avatar": "https://avatars.githubusercontent.com/u/195534?s=40&v=4"
         },
         {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+          "username": "goatslacker",
+          "avatar": "https://avatars.githubusercontent.com/u/10632?s=40&v=4"
         },
         {
-          "username": "PaulSzymanski",
-          "avatar": "https://avatars.githubusercontent.com/u/519954?s=40&v=4"
+          "username": "justjake",
+          "avatar": "https://avatars.githubusercontent.com/u/296279?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 11,
-      "author": "processing",
-      "repoName": "p5.js",
-      "url": "https://github.com/processing/p5.js",
-      "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5js.org",
+      "author": "2hacc",
+      "repoName": "TVBox",
+      "url": "https://github.com/2hacc/TVBox",
+      "description": "TVBox 网络接口，更新速度快，接口访问速度快且稳定！",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 23443,
-      "forks": 3709,
-      "currentPeriodStars": 9,
+      "stars": 5715,
+      "forks": 690,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
-          "username": "apps/allcontributors",
-          "avatar": "https://avatars.githubusercontent.com/in/23186?s=40&v=4"
+          "username": "2hacc",
+          "avatar": "https://avatars.githubusercontent.com/u/113243127?s=40&v=4"
         },
         {
-          "username": "lmccart",
-          "avatar": "https://avatars.githubusercontent.com/u/191056?s=40&v=4"
-        },
-        {
-          "username": "davepagurek",
-          "avatar": "https://avatars.githubusercontent.com/u/5315059?s=40&v=4"
-        },
-        {
-          "username": "Qianqianye",
-          "avatar": "https://avatars.githubusercontent.com/u/18587130?s=40&v=4"
-        },
-        {
-          "username": "outofambit",
-          "avatar": "https://avatars.githubusercontent.com/u/964912?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 12,
-      "author": "qist",
-      "repoName": "tvbox",
-      "url": "https://github.com/qist/tvbox",
-      "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 8101,
-      "forks": 3008,
-      "currentPeriodStars": 28,
-      "builtBy": [
-        {
-          "username": "gaotianliuyun",
-          "avatar": "https://avatars.githubusercontent.com/u/58679624?s=40&v=4"
-        },
-        {
-          "username": "qist",
-          "avatar": "https://avatars.githubusercontent.com/u/7844620?s=40&v=4"
-        },
-        {
-          "username": "st7833232",
-          "avatar": "https://avatars.githubusercontent.com/u/46182664?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "taomi",
-          "avatar": "https://avatars.githubusercontent.com/u/1817451?s=40&v=4"
+          "username": "jjm2473",
+          "avatar": "https://avatars.githubusercontent.com/u/3896703?s=40&v=4"
         }
       ],
       "aiSummaries": null

@@ -1,7 +1,7 @@
 {
-  "count": 24,
+  "count": 25,
   "since": "monthly",
-  "captured_at": "2026-02-17 00:19:34",
+  "captured_at": "2026-02-17 12:20:08",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12490,
-      "forks": 985,
+      "stars": 12491,
+      "forks": 986,
       "currentPeriodStars": 537,
       "builtBy": [
         {
@@ -46,7 +46,7 @@
       "description": "MLX: An array framework for Apple silicon",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 23953,
+      "stars": 23962,
       "forks": 1515,
       "currentPeriodStars": 512,
       "builtBy": [
@@ -75,48 +75,13 @@
     },
     {
       "rank": 3,
-      "author": "k4yt3x",
-      "repoName": "video2x",
-      "url": "https://github.com/k4yt3x/video2x",
-      "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 18709,
-      "forks": 1654,
-      "currentPeriodStars": 1811,
-      "builtBy": [
-        {
-          "username": "k4yt3x",
-          "avatar": "https://avatars.githubusercontent.com/u/21986859?s=40&v=4"
-        },
-        {
-          "username": "BrianPetkovsek",
-          "avatar": "https://avatars.githubusercontent.com/u/16124109?s=40&v=4"
-        },
-        {
-          "username": "sat3ll",
-          "avatar": "https://avatars.githubusercontent.com/u/37741639?s=40&v=4"
-        },
-        {
-          "username": "Integral-Tech",
-          "avatar": "https://avatars.githubusercontent.com/u/71180087?s=40&v=4"
-        },
-        {
-          "username": "snixon",
-          "avatar": "https://avatars.githubusercontent.com/u/1184344?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 4,
       "author": "geode-sdk",
       "repoName": "geode",
       "url": "https://github.com/geode-sdk/geode",
       "description": "The ultimate Geometry Dash modding framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1664,
+      "stars": 1675,
       "forks": 300,
       "currentPeriodStars": 293,
       "builtBy": [
@@ -144,6 +109,41 @@
       "aiSummaries": null
     },
     {
+      "rank": 4,
+      "author": "k4yt3x",
+      "repoName": "video2x",
+      "url": "https://github.com/k4yt3x/video2x",
+      "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 18714,
+      "forks": 1655,
+      "currentPeriodStars": 1811,
+      "builtBy": [
+        {
+          "username": "k4yt3x",
+          "avatar": "https://avatars.githubusercontent.com/u/21986859?s=40&v=4"
+        },
+        {
+          "username": "BrianPetkovsek",
+          "avatar": "https://avatars.githubusercontent.com/u/16124109?s=40&v=4"
+        },
+        {
+          "username": "sat3ll",
+          "avatar": "https://avatars.githubusercontent.com/u/37741639?s=40&v=4"
+        },
+        {
+          "username": "Integral-Tech",
+          "avatar": "https://avatars.githubusercontent.com/u/71180087?s=40&v=4"
+        },
+        {
+          "username": "snixon",
+          "avatar": "https://avatars.githubusercontent.com/u/1184344?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
       "rank": 5,
       "author": "bambulab",
       "repoName": "BambuStudio",
@@ -151,7 +151,7 @@
       "description": "PC Software for BambuLab and other 3D printers",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4022,
+      "stars": 4024,
       "forks": 620,
       "currentPeriodStars": 358,
       "builtBy": [
@@ -180,13 +180,48 @@
     },
     {
       "rank": 6,
+      "author": "microsoft",
+      "repoName": "terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 101829,
+      "forks": 9077,
+      "currentPeriodStars": 589,
+      "builtBy": [
+        {
+          "username": "DHowett",
+          "avatar": "https://avatars.githubusercontent.com/u/189190?s=40&v=4"
+        },
+        {
+          "username": "zadjii-msft",
+          "avatar": "https://avatars.githubusercontent.com/u/18356694?s=40&v=4"
+        },
+        {
+          "username": "lhecker",
+          "avatar": "https://avatars.githubusercontent.com/u/2256941?s=40&v=4"
+        },
+        {
+          "username": "carlos-zamora",
+          "avatar": "https://avatars.githubusercontent.com/u/11050425?s=40&v=4"
+        },
+        {
+          "username": "miniksa",
+          "avatar": "https://avatars.githubusercontent.com/u/18221333?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 7,
       "author": "notepad-plus-plus",
       "repoName": "notepad-plus-plus",
       "url": "https://github.com/notepad-plus-plus/notepad-plus-plus",
       "description": "Notepad++ official repository",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 27157,
+      "stars": 27162,
       "forks": 5106,
       "currentPeriodStars": 485,
       "builtBy": [
@@ -214,85 +249,15 @@
       "aiSummaries": null
     },
     {
-      "rank": 7,
-      "author": "ggml-org",
-      "repoName": "whisper.cpp",
-      "url": "https://github.com/ggml-org/whisper.cpp",
-      "description": "Port of OpenAI's Whisper model in C/C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 46769,
-      "forks": 5215,
-      "currentPeriodStars": 1037,
-      "builtBy": [
-        {
-          "username": "ggerganov",
-          "avatar": "https://avatars.githubusercontent.com/u/1991296?s=40&v=4"
-        },
-        {
-          "username": "jeffbolznv",
-          "avatar": "https://avatars.githubusercontent.com/u/8260565?s=40&v=4"
-        },
-        {
-          "username": "JohannesGaessler",
-          "avatar": "https://avatars.githubusercontent.com/u/18492268?s=40&v=4"
-        },
-        {
-          "username": "slaren",
-          "avatar": "https://avatars.githubusercontent.com/u/2141330?s=40&v=4"
-        },
-        {
-          "username": "danbev",
-          "avatar": "https://avatars.githubusercontent.com/u/432351?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
       "rank": 8,
-      "author": "microsoft",
-      "repoName": "terminal",
-      "url": "https://github.com/microsoft/terminal",
-      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 101827,
-      "forks": 9076,
-      "currentPeriodStars": 589,
-      "builtBy": [
-        {
-          "username": "DHowett",
-          "avatar": "https://avatars.githubusercontent.com/u/189190?s=40&v=4"
-        },
-        {
-          "username": "zadjii-msft",
-          "avatar": "https://avatars.githubusercontent.com/u/18356694?s=40&v=4"
-        },
-        {
-          "username": "lhecker",
-          "avatar": "https://avatars.githubusercontent.com/u/2256941?s=40&v=4"
-        },
-        {
-          "username": "carlos-zamora",
-          "avatar": "https://avatars.githubusercontent.com/u/11050425?s=40&v=4"
-        },
-        {
-          "username": "miniksa",
-          "avatar": "https://avatars.githubusercontent.com/u/18221333?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 9,
       "author": "godotengine",
       "repoName": "godot",
       "url": "https://github.com/godotengine/godot",
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 106719,
-      "forks": 24350,
+      "stars": 106731,
+      "forks": 24355,
       "currentPeriodStars": 1450,
       "builtBy": [
         {
@@ -319,189 +284,14 @@
       "aiSummaries": null
     },
     {
-      "rank": 10,
-      "author": "dail8859",
-      "repoName": "NotepadNext",
-      "url": "https://github.com/dail8859/NotepadNext",
-      "description": "A cross-platform, reimplementation of Notepad++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 13454,
-      "forks": 810,
-      "currentPeriodStars": 373,
-      "builtBy": [
-        {
-          "username": "dail8859",
-          "avatar": "https://avatars.githubusercontent.com/u/3694843?s=40&v=4"
-        },
-        {
-          "username": "matthewyang204",
-          "avatar": "https://avatars.githubusercontent.com/u/141765903?s=40&v=4"
-        },
-        {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
-        },
-        {
-          "username": "actions-user",
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4"
-        },
-        {
-          "username": "hugok79",
-          "avatar": "https://avatars.githubusercontent.com/u/16929048?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 11,
-      "author": "transmission",
-      "repoName": "transmission",
-      "url": "https://github.com/transmission/transmission",
-      "description": "Official Transmission BitTorrent client repository",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 14268,
-      "forks": 1341,
-      "currentPeriodStars": 369,
-      "builtBy": [
-        {
-          "username": "ckerr",
-          "avatar": "https://avatars.githubusercontent.com/u/70381?s=40&v=4"
-        },
-        {
-          "username": "mikedld",
-          "avatar": "https://avatars.githubusercontent.com/u/298203?s=40&v=4"
-        },
-        {
-          "username": "tearfur",
-          "avatar": "https://avatars.githubusercontent.com/u/46261767?s=40&v=4"
-        },
-        {
-          "username": "jre",
-          "avatar": "https://avatars.githubusercontent.com/u/107666?s=40&v=4"
-        },
-        {
-          "username": "titer",
-          "avatar": "https://avatars.githubusercontent.com/u/22149508?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 12,
-      "author": "RPCS3",
-      "repoName": "rpcs3",
-      "url": "https://github.com/RPCS3/rpcs3",
-      "description": "PlayStation 3 emulator and debugger",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 18176,
-      "forks": 2222,
-      "currentPeriodStars": 222,
-      "builtBy": [
-        {
-          "username": "Megamouse",
-          "avatar": "https://avatars.githubusercontent.com/u/23019877?s=40&v=4"
-        },
-        {
-          "username": "kd-11",
-          "avatar": "https://avatars.githubusercontent.com/u/15904127?s=40&v=4"
-        },
-        {
-          "username": "elad335",
-          "avatar": "https://avatars.githubusercontent.com/u/18193363?s=40&v=4"
-        },
-        {
-          "username": "vlj",
-          "avatar": "https://avatars.githubusercontent.com/u/6413475?s=40&v=4"
-        },
-        {
-          "username": "RipleyTom",
-          "avatar": "https://avatars.githubusercontent.com/u/6031700?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 13,
-      "author": "daijro",
-      "repoName": "camoufox",
-      "url": "https://github.com/daijro/camoufox",
-      "description": "🦊 Anti-detect browser",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 5377,
-      "forks": 494,
-      "currentPeriodStars": 598,
-      "builtBy": [
-        {
-          "username": "daijro",
-          "avatar": "https://avatars.githubusercontent.com/u/72637910?s=40&v=4"
-        },
-        {
-          "username": "heydryft",
-          "avatar": "https://avatars.githubusercontent.com/u/48842933?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "icepaq",
-          "avatar": "https://avatars.githubusercontent.com/u/62949848?s=40&v=4"
-        },
-        {
-          "username": "D4Vinci",
-          "avatar": "https://avatars.githubusercontent.com/u/20604835?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 14,
-      "author": "ggml-org",
-      "repoName": "llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 95140,
-      "forks": 14937,
-      "currentPeriodStars": 2344,
-      "builtBy": [
-        {
-          "username": "ggerganov",
-          "avatar": "https://avatars.githubusercontent.com/u/1991296?s=40&v=4"
-        },
-        {
-          "username": "slaren",
-          "avatar": "https://avatars.githubusercontent.com/u/2141330?s=40&v=4"
-        },
-        {
-          "username": "ngxson",
-          "avatar": "https://avatars.githubusercontent.com/u/7702203?s=40&v=4"
-        },
-        {
-          "username": "JohannesGaessler",
-          "avatar": "https://avatars.githubusercontent.com/u/18492268?s=40&v=4"
-        },
-        {
-          "username": "CISC",
-          "avatar": "https://avatars.githubusercontent.com/u/1629204?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 15,
+      "rank": 9,
       "author": "maplibre",
       "repoName": "maplibre-native",
       "url": "https://github.com/maplibre/maplibre-native",
       "description": "MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1787,
+      "stars": 1789,
       "forks": 470,
       "currentPeriodStars": 92,
       "builtBy": [
@@ -529,84 +319,259 @@
       "aiSummaries": null
     },
     {
-      "rank": 16,
-      "author": "ArduPilot",
-      "repoName": "ardupilot",
-      "url": "https://github.com/ArduPilot/ardupilot",
-      "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+      "rank": 10,
+      "author": "ggml-org",
+      "repoName": "whisper.cpp",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14515,
-      "forks": 20259,
-      "currentPeriodStars": 185,
+      "stars": 46775,
+      "forks": 5217,
+      "currentPeriodStars": 1037,
       "builtBy": [
         {
-          "username": "peterbarker",
-          "avatar": "https://avatars.githubusercontent.com/u/7077857?s=40&v=4"
+          "username": "ggerganov",
+          "avatar": "https://avatars.githubusercontent.com/u/1991296?s=40&v=4"
         },
         {
-          "username": "tridge",
-          "avatar": "https://avatars.githubusercontent.com/u/831867?s=40&v=4"
+          "username": "jeffbolznv",
+          "avatar": "https://avatars.githubusercontent.com/u/8260565?s=40&v=4"
         },
         {
-          "username": "rmackay9",
-          "avatar": "https://avatars.githubusercontent.com/u/1498098?s=40&v=4"
+          "username": "JohannesGaessler",
+          "avatar": "https://avatars.githubusercontent.com/u/18492268?s=40&v=4"
         },
         {
-          "username": "IamPete1",
-          "avatar": "https://avatars.githubusercontent.com/u/33176108?s=40&v=4"
+          "username": "slaren",
+          "avatar": "https://avatars.githubusercontent.com/u/2141330?s=40&v=4"
         },
         {
-          "username": "andyp1per",
-          "avatar": "https://avatars.githubusercontent.com/u/2893260?s=40&v=4"
+          "username": "danbev",
+          "avatar": "https://avatars.githubusercontent.com/u/432351?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 11,
+      "author": "ggml-org",
+      "repoName": "llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 95171,
+      "forks": 14942,
+      "currentPeriodStars": 2344,
+      "builtBy": [
+        {
+          "username": "ggerganov",
+          "avatar": "https://avatars.githubusercontent.com/u/1991296?s=40&v=4"
+        },
+        {
+          "username": "slaren",
+          "avatar": "https://avatars.githubusercontent.com/u/2141330?s=40&v=4"
+        },
+        {
+          "username": "ngxson",
+          "avatar": "https://avatars.githubusercontent.com/u/7702203?s=40&v=4"
+        },
+        {
+          "username": "JohannesGaessler",
+          "avatar": "https://avatars.githubusercontent.com/u/18492268?s=40&v=4"
+        },
+        {
+          "username": "CISC",
+          "avatar": "https://avatars.githubusercontent.com/u/1629204?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 12,
+      "author": "dail8859",
+      "repoName": "NotepadNext",
+      "url": "https://github.com/dail8859/NotepadNext",
+      "description": "A cross-platform, reimplementation of Notepad++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 13459,
+      "forks": 811,
+      "currentPeriodStars": 373,
+      "builtBy": [
+        {
+          "username": "dail8859",
+          "avatar": "https://avatars.githubusercontent.com/u/3694843?s=40&v=4"
+        },
+        {
+          "username": "matthewyang204",
+          "avatar": "https://avatars.githubusercontent.com/u/141765903?s=40&v=4"
+        },
+        {
+          "username": "apps/dependabot",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+        },
+        {
+          "username": "actions-user",
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4"
+        },
+        {
+          "username": "hugok79",
+          "avatar": "https://avatars.githubusercontent.com/u/16929048?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 13,
+      "author": "transmission",
+      "repoName": "transmission",
+      "url": "https://github.com/transmission/transmission",
+      "description": "Official Transmission BitTorrent client repository",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 14269,
+      "forks": 1340,
+      "currentPeriodStars": 369,
+      "builtBy": [
+        {
+          "username": "ckerr",
+          "avatar": "https://avatars.githubusercontent.com/u/70381?s=40&v=4"
+        },
+        {
+          "username": "mikedld",
+          "avatar": "https://avatars.githubusercontent.com/u/298203?s=40&v=4"
+        },
+        {
+          "username": "tearfur",
+          "avatar": "https://avatars.githubusercontent.com/u/46261767?s=40&v=4"
+        },
+        {
+          "username": "jre",
+          "avatar": "https://avatars.githubusercontent.com/u/107666?s=40&v=4"
+        },
+        {
+          "username": "titer",
+          "avatar": "https://avatars.githubusercontent.com/u/22149508?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 14,
+      "author": "RPCS3",
+      "repoName": "rpcs3",
+      "url": "https://github.com/RPCS3/rpcs3",
+      "description": "PlayStation 3 emulator and debugger",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 18178,
+      "forks": 2222,
+      "currentPeriodStars": 222,
+      "builtBy": [
+        {
+          "username": "Megamouse",
+          "avatar": "https://avatars.githubusercontent.com/u/23019877?s=40&v=4"
+        },
+        {
+          "username": "kd-11",
+          "avatar": "https://avatars.githubusercontent.com/u/15904127?s=40&v=4"
+        },
+        {
+          "username": "elad335",
+          "avatar": "https://avatars.githubusercontent.com/u/18193363?s=40&v=4"
+        },
+        {
+          "username": "vlj",
+          "avatar": "https://avatars.githubusercontent.com/u/6413475?s=40&v=4"
+        },
+        {
+          "username": "RipleyTom",
+          "avatar": "https://avatars.githubusercontent.com/u/6031700?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 15,
+      "author": "flameshot-org",
+      "repoName": "flameshot",
+      "url": "https://github.com/flameshot-org/flameshot",
+      "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 29316,
+      "forks": 1853,
+      "currentPeriodStars": 709,
+      "builtBy": [
+        {
+          "username": "lupoDharkael",
+          "avatar": "https://avatars.githubusercontent.com/u/14951430?s=40&v=4"
+        },
+        {
+          "username": "borgmanJeremy",
+          "avatar": "https://avatars.githubusercontent.com/u/46930769?s=40&v=4"
+        },
+        {
+          "username": "weblate",
+          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4"
+        },
+        {
+          "username": "panpuchkov",
+          "avatar": "https://avatars.githubusercontent.com/u/15923484?s=40&v=4"
+        },
+        {
+          "username": "veracioux",
+          "avatar": "https://avatars.githubusercontent.com/u/29044423?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 16,
+      "author": "daijro",
+      "repoName": "camoufox",
+      "url": "https://github.com/daijro/camoufox",
+      "description": "🦊 Anti-detect browser",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 5384,
+      "forks": 495,
+      "currentPeriodStars": 598,
+      "builtBy": [
+        {
+          "username": "daijro",
+          "avatar": "https://avatars.githubusercontent.com/u/72637910?s=40&v=4"
+        },
+        {
+          "username": "heydryft",
+          "avatar": "https://avatars.githubusercontent.com/u/48842933?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "icepaq",
+          "avatar": "https://avatars.githubusercontent.com/u/62949848?s=40&v=4"
+        },
+        {
+          "username": "D4Vinci",
+          "avatar": "https://avatars.githubusercontent.com/u/20604835?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 17,
-      "author": "telegramdesktop",
-      "repoName": "tdesktop",
-      "url": "https://github.com/telegramdesktop/tdesktop",
-      "description": "Telegram Desktop messaging app",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 29861,
-      "forks": 6272,
-      "currentPeriodStars": 345,
-      "builtBy": [
-        {
-          "username": "john-preston",
-          "avatar": "https://avatars.githubusercontent.com/u/17900494?s=40&v=4"
-        },
-        {
-          "username": "23rd",
-          "avatar": "https://avatars.githubusercontent.com/u/4051126?s=40&v=4"
-        },
-        {
-          "username": "ilya-fedin",
-          "avatar": "https://avatars.githubusercontent.com/u/17829319?s=40&v=4"
-        },
-        {
-          "username": "auchri",
-          "avatar": "https://avatars.githubusercontent.com/u/5092164?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 18,
       "author": "google",
       "repoName": "filament",
       "url": "https://github.com/google/filament",
       "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19639,
+      "stars": 19641,
       "forks": 2113,
       "currentPeriodStars": 296,
       "builtBy": [
@@ -634,50 +599,50 @@
       "aiSummaries": null
     },
     {
-      "rank": 19,
-      "author": "ClickHouse",
-      "repoName": "ClickHouse",
-      "url": "https://github.com/ClickHouse/ClickHouse",
-      "description": "ClickHouse® is a real-time analytics database management system",
+      "rank": 18,
+      "author": "amnezia-vpn",
+      "repoName": "amnezia-client",
+      "url": "https://github.com/amnezia-vpn/amnezia-client",
+      "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 45916,
-      "forks": 8081,
-      "currentPeriodStars": 768,
+      "stars": 10042,
+      "forks": 709,
+      "currentPeriodStars": 479,
       "builtBy": [
         {
-          "username": "alexey-milovidov",
-          "avatar": "https://avatars.githubusercontent.com/u/18581488?s=40&v=4"
+          "username": "pokamest",
+          "avatar": "https://avatars.githubusercontent.com/u/23482029?s=40&v=4"
         },
         {
-          "username": "alesapin",
-          "avatar": "https://avatars.githubusercontent.com/u/3684697?s=40&v=4"
+          "username": "Nethius",
+          "avatar": "https://avatars.githubusercontent.com/u/15364855?s=40&v=4"
         },
         {
-          "username": "KochetovNicolai",
-          "avatar": "https://avatars.githubusercontent.com/u/4092911?s=40&v=4"
+          "username": "albexk",
+          "avatar": "https://avatars.githubusercontent.com/u/141177744?s=40&v=4"
         },
         {
-          "username": "azat",
-          "avatar": "https://avatars.githubusercontent.com/u/430798?s=40&v=4"
+          "username": "outspace",
+          "avatar": "https://avatars.githubusercontent.com/u/5472761?s=40&v=4"
         },
         {
-          "username": "Avogar",
-          "avatar": "https://avatars.githubusercontent.com/u/48961922?s=40&v=4"
+          "username": "kolobchanin",
+          "avatar": "https://avatars.githubusercontent.com/u/1857572?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
-      "rank": 20,
+      "rank": 19,
       "author": "RunanywhereAI",
       "repoName": "runanywhere-sdks",
       "url": "https://github.com/RunanywhereAI/runanywhere-sdks",
       "description": "Production ready toolkit to run AI locally",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8271,
-      "forks": 253,
+      "stars": 8316,
+      "forks": 254,
       "currentPeriodStars": 4618,
       "builtBy": [
         {
@@ -704,7 +669,77 @@
       "aiSummaries": null
     },
     {
+      "rank": 20,
+      "author": "telegramdesktop",
+      "repoName": "tdesktop",
+      "url": "https://github.com/telegramdesktop/tdesktop",
+      "description": "Telegram Desktop messaging app",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 29868,
+      "forks": 6273,
+      "currentPeriodStars": 345,
+      "builtBy": [
+        {
+          "username": "john-preston",
+          "avatar": "https://avatars.githubusercontent.com/u/17900494?s=40&v=4"
+        },
+        {
+          "username": "23rd",
+          "avatar": "https://avatars.githubusercontent.com/u/4051126?s=40&v=4"
+        },
+        {
+          "username": "ilya-fedin",
+          "avatar": "https://avatars.githubusercontent.com/u/17829319?s=40&v=4"
+        },
+        {
+          "username": "auchri",
+          "avatar": "https://avatars.githubusercontent.com/u/5092164?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
       "rank": 21,
+      "author": "azahar-emu",
+      "repoName": "azahar",
+      "url": "https://github.com/azahar-emu/azahar",
+      "description": "An open-source 3DS emulator project based on Citra.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 6535,
+      "forks": 414,
+      "currentPeriodStars": 317,
+      "builtBy": [
+        {
+          "username": "bunnei",
+          "avatar": "https://avatars.githubusercontent.com/u/6956688?s=40&v=4"
+        },
+        {
+          "username": "wwylele",
+          "avatar": "https://avatars.githubusercontent.com/u/4592895?s=40&v=4"
+        },
+        {
+          "username": "lioncash",
+          "avatar": "https://avatars.githubusercontent.com/u/712067?s=40&v=4"
+        },
+        {
+          "username": "yuriks",
+          "avatar": "https://avatars.githubusercontent.com/u/341401?s=40&v=4"
+        },
+        {
+          "username": "OpenSauce04",
+          "avatar": "https://avatars.githubusercontent.com/u/48618519?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 22,
       "author": "nomic-ai",
       "repoName": "gpt4all",
       "url": "https://github.com/nomic-ai/gpt4all",
@@ -739,14 +774,14 @@
       "aiSummaries": null
     },
     {
-      "rank": 22,
+      "rank": 23,
       "author": "N64Recomp",
       "repoName": "N64Recomp",
       "url": "https://github.com/N64Recomp/N64Recomp",
       "description": "Tool to statically recompile N64 games into native executables",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7693,
+      "stars": 7695,
       "forks": 417,
       "currentPeriodStars": 252,
       "builtBy": [
@@ -774,15 +809,15 @@
       "aiSummaries": null
     },
     {
-      "rank": 23,
+      "rank": 24,
       "author": "geo-tp",
       "repoName": "ESP32-Bus-Pirate",
       "url": "https://github.com/geo-tp/ESP32-Bus-Pirate",
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2734,
-      "forks": 214,
+      "stars": 2743,
+      "forks": 216,
       "currentPeriodStars": 469,
       "builtBy": [
         {
@@ -809,36 +844,36 @@
       "aiSummaries": null
     },
     {
-      "rank": 24,
-      "author": "amnezia-vpn",
-      "repoName": "amnezia-client",
-      "url": "https://github.com/amnezia-vpn/amnezia-client",
-      "description": "Amnezia VPN Client (Desktop+Mobile)",
+      "rank": 25,
+      "author": "ClickHouse",
+      "repoName": "ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10033,
-      "forks": 707,
-      "currentPeriodStars": 479,
+      "stars": 45925,
+      "forks": 8083,
+      "currentPeriodStars": 768,
       "builtBy": [
         {
-          "username": "pokamest",
-          "avatar": "https://avatars.githubusercontent.com/u/23482029?s=40&v=4"
+          "username": "alexey-milovidov",
+          "avatar": "https://avatars.githubusercontent.com/u/18581488?s=40&v=4"
         },
         {
-          "username": "Nethius",
-          "avatar": "https://avatars.githubusercontent.com/u/15364855?s=40&v=4"
+          "username": "alesapin",
+          "avatar": "https://avatars.githubusercontent.com/u/3684697?s=40&v=4"
         },
         {
-          "username": "albexk",
-          "avatar": "https://avatars.githubusercontent.com/u/141177744?s=40&v=4"
+          "username": "KochetovNicolai",
+          "avatar": "https://avatars.githubusercontent.com/u/4092911?s=40&v=4"
         },
         {
-          "username": "outspace",
-          "avatar": "https://avatars.githubusercontent.com/u/5472761?s=40&v=4"
+          "username": "azat",
+          "avatar": "https://avatars.githubusercontent.com/u/430798?s=40&v=4"
         },
         {
-          "username": "kolobchanin",
-          "avatar": "https://avatars.githubusercontent.com/u/1857572?s=40&v=4"
+          "username": "Avogar",
+          "avatar": "https://avatars.githubusercontent.com/u/48961922?s=40&v=4"
         }
       ],
       "aiSummaries": null

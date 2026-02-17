@@ -1,369 +1,64 @@
 {
-  "count": 10,
+  "count": 12,
   "since": "daily",
-  "captured_at": "2026-02-17 00:17:17",
+  "captured_at": "2026-02-17 12:17:16",
   "data": [
     {
       "rank": 1,
-      "author": "alibaba",
-      "repoName": "zvec",
-      "url": "https://github.com/alibaba/zvec",
-      "description": "A lightweight, lightning-fast, in-process vector database",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 3576,
-      "forks": 186,
-      "currentPeriodStars": 1094,
+      "author": "p-e-w",
+      "repoName": "heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 6692,
+      "forks": 667,
+      "currentPeriodStars": 891,
       "builtBy": [
         {
-          "username": "iaojnh",
-          "avatar": "https://avatars.githubusercontent.com/u/38692278?s=40&v=4"
+          "username": "p-e-w",
+          "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&v=4"
         },
         {
-          "username": "feihongxu0824",
-          "avatar": "https://avatars.githubusercontent.com/u/237691413?s=40&v=4"
+          "username": "anrp",
+          "avatar": "https://avatars.githubusercontent.com/u/1325515?s=40&v=4"
         },
         {
-          "username": "egolearner",
-          "avatar": "https://avatars.githubusercontent.com/u/45122959?s=40&v=4"
+          "username": "spikymoth",
+          "avatar": "https://avatars.githubusercontent.com/u/133602907?s=40&v=4"
         },
         {
-          "username": "Cuiyus",
-          "avatar": "https://avatars.githubusercontent.com/u/42903451?s=40&v=4"
+          "username": "red40maxxer",
+          "avatar": "https://avatars.githubusercontent.com/u/113548315?s=40&v=4"
         },
         {
-          "username": "zhourrr",
-          "avatar": "https://avatars.githubusercontent.com/u/78126249?s=40&v=4"
+          "username": "kldzj",
+          "avatar": "https://avatars.githubusercontent.com/u/7687617?s=40&v=4"
         }
       ],
       "aiSummaries": [
         {
           "provider": "chatgpt",
-          "zh": "zvec 是阿里巴巴开源的轻量级 C++ 向量数据库，专注进程内高性能向量检索与相似度搜索。它以极低延迟和小内存占用解决在线推理、个性化推荐等场景下的嵌入向量高效查询与管理问题。",
-          "en": "zvec is a lightweight C++ in-process vector database delivering ultra-fast similarity search with low memory overhead, targeting efficient embedding retrieval for online inference and recommendation workloads."
+          "zh": "heretic 是一个基于 Python 的自动化工具，旨在移除大语言模型回复中的审查与过滤逻辑。通过对模型提示与系统约束进行自动重写和绕过，它帮助研究者与开发者在技术与安全边界内评估模型的真实能力与行为表现。",
+          "en": "heretic is a Python-based tool for fully automating removal of censorship and safety filters from language model interactions, enabling researchers and developers to systematically bypass guardrails, rewrite prompts, and observe models’ uncensored capabilities for analysis and evaluation."
         },
         {
           "provider": "deepseek",
-          "zh": "zvec 是阿里巴巴开源的轻量级、极速进程内向量数据库。它专为需要高性能向量相似性搜索的场景设计，通过消除网络开销和复杂部署，实现了低延迟、高吞吐量的近似最近邻检索。"
+          "zh": "Heretic 是一个用 Python 开发的工具，旨在为大型语言模型提供全自动的审查移除功能。它解决了模型因安全策略而过度自我审查、拒绝回答合理请求的痛点，通过技术手段恢复模型的完整表达能力。",
+          "en": "Heretic is a Python tool that enables fully automatic censorship removal for large language models. It addresses the issue of models over-censoring or refusing legitimate requests, aiming to restore their full expressive capabilities."
         }
       ]
     },
     {
       "rank": 2,
-      "author": "nautechsystems",
-      "repoName": "nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "description": "A high-performance algorithmic trading platform and event-driven backtester",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 19770,
-      "forks": 2320,
-      "currentPeriodStars": 546,
-      "builtBy": [
-        {
-          "username": "cjdsellers",
-          "avatar": "https://avatars.githubusercontent.com/u/22510164?s=40&v=4"
-        },
-        {
-          "username": "limx0",
-          "avatar": "https://avatars.githubusercontent.com/u/4816153?s=40&v=4"
-        },
-        {
-          "username": "filipmacek",
-          "avatar": "https://avatars.githubusercontent.com/u/16453976?s=40&v=4"
-        },
-        {
-          "username": "faysou",
-          "avatar": "https://avatars.githubusercontent.com/u/893862?s=40&v=4"
-        },
-        {
-          "username": "davidsblom",
-          "avatar": "https://avatars.githubusercontent.com/u/49148?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "nautilus_trader 是一个以 Rust 为核心的高性能算法交易平台和事件驱动回测框架，解决传统交易系统在低延迟、大规模订单处理和策略回测方面的性能瓶颈，支持构建可扩展、可复用的量化交易基础设施。",
-          "en": "nautilus_trader is a Rust-centric high-performance algorithmic trading platform and event-driven backtester that tackles latency and scalability limits in traditional systems, enabling robust, reusable quantitative trading infrastructure."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "Nautilus Trader 是一个用 Rust 编写的高性能算法交易平台和事件驱动回测器。它解决了传统 Python 平台在低延迟和高频交易场景下的性能瓶颈，为交易策略的研发与实盘部署提供了强大且可靠的基础设施。",
-          "en": "Nautilus Trader is a high-performance algorithmic trading platform and event-driven backtester written in Rust. It addresses the performance limitations of traditional Python platforms for low-latency and high-frequency trading, providing a robust infrastructure for strategy development and live deployment."
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "author": "rowboatlabs",
-      "repoName": "rowboat",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 7317,
-      "forks": 620,
-      "currentPeriodStars": 700,
-      "builtBy": [
-        {
-          "username": "ramnique",
-          "avatar": "https://avatars.githubusercontent.com/u/30795890?s=40&v=4"
-        },
-        {
-          "username": "akhisud3195",
-          "avatar": "https://avatars.githubusercontent.com/u/55130408?s=40&v=4"
-        },
-        {
-          "username": "arkml",
-          "avatar": "https://avatars.githubusercontent.com/u/6592213?s=40&v=4"
-        },
-        {
-          "username": "tusharmagar",
-          "avatar": "https://avatars.githubusercontent.com/u/47842976?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "rowboat 是一款开源的 AI 协作助手，通过持久化记忆与上下文管理，帮助团队在日常开发与知识工作中减少重复沟通和信息查找成本，实现更连续、更智能的协同工作流程。",
-          "en": "rowboat is an open-source AI coworker that uses persistent memory and context management to reduce repetitive communication and information lookup, enabling more continuous and intelligent collaboration in everyday development and knowledge work."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "Rowboat 是一个开源的 AI 协作者，基于 TypeScript 开发。其核心在于为 AI 助手配备了长期记忆能力，解决了传统 AI 对话中上下文信息易丢失的痛点，能持续记忆用户偏好与历史交互，从而实现更连贯、个性化的协作体验。"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "author": "steipete",
-      "repoName": "gogcli",
-      "url": "https://github.com/steipete/gogcli",
-      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 3490,
-      "forks": 298,
-      "currentPeriodStars": 637,
-      "builtBy": [
-        {
-          "username": "steipete",
-          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
-        },
-        {
-          "username": "salmonumbrella",
-          "avatar": "https://avatars.githubusercontent.com/u/182032677?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "jeanregisser",
-          "avatar": "https://avatars.githubusercontent.com/u/57791?s=40&v=4"
-        },
-        {
-          "username": "antons",
-          "avatar": "https://avatars.githubusercontent.com/u/129705?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "gogcli 是一个基于 Go 的 Google 套件命令行工具，统一管理 Gmail、日历、云端硬盘与联系人。它通过脚本化与自动化操作，减少频繁切换网页界面的低效流程，适合集成到运维脚本和工作流中。",
-          "en": "gogcli is a Go-based CLI for Google Suite, unifying Gmail, Calendar, Drive, and Contacts management. It streamlines scripted and automated workflows, removing reliance on web UI for routine operations."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "gogcli 是一个用 Go 编写的 Google 套件命令行工具，集成了 Gmail、日历、网盘和联系人管理。它解决了用户需要通过单一命令行界面高效访问和管理多个 Google 服务的痛点，提升了自动化与脚本操作的效率。",
-          "en": "gogcli is a Go-based CLI tool for Google Suite, integrating Gmail, Calendar, Drive, and Contacts. It addresses the need for efficient access and management of multiple Google services through a unified command-line interface, enhancing automation and scripting capabilities."
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "author": "openclaw",
-      "repoName": "openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 201571,
-      "forks": 36112,
-      "currentPeriodStars": 3873,
-      "builtBy": [
-        {
-          "username": "steipete",
-          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
-        },
-        {
-          "username": "vignesh07",
-          "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&v=4"
-        },
-        {
-          "username": "thewilloftheshadow",
-          "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&v=4"
-        },
-        {
-          "username": "gumadeiras",
-          "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "openclaw 是一款跨平台的本地化 AI 助手框架，基于 TypeScript 构建，专注于在任意操作系统与平台上统一管理对话、插件和模型接入，帮助开发者快速搭建可扩展、可定制的个人智能助理应用。",
-          "en": "openclaw is a TypeScript-based, cross-platform framework for building personal AI assistants, unifying dialogue, plugins, and model integration to help developers rapidly create extensible, customizable assistant applications on any OS or platform."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "OpenClaw 是一个跨平台个人 AI 助手，旨在解决用户在不同操作系统和设备上缺乏统一智能工具的问题。它通过 TypeScript 实现，提供灵活、可定制的 AI 辅助功能，以“龙虾方式”强调其适应性和独特性。",
-          "en": "OpenClaw is a cross-platform personal AI assistant built with TypeScript. It addresses the lack of a unified AI tool across different operating systems and devices, offering flexible and customizable assistance in a unique 'lobster way'."
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "author": "SynkraAI",
-      "repoName": "aios-core",
-      "url": "https://github.com/SynkraAI/aios-core",
-      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 983,
-      "forks": 348,
-      "currentPeriodStars": 205,
-      "builtBy": [
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "Pedrovaleriolopez",
-          "avatar": "https://avatars.githubusercontent.com/u/124090200?s=40&v=4"
-        },
-        {
-          "username": "oalanicolas",
-          "avatar": "https://avatars.githubusercontent.com/u/895889?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "semantic-release-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "Synkra AIOS Core 以 JavaScript 提供全栈开发的智能编排框架，通过统一管理代码生成、集成与自动化流程，降低开发复杂度与协作成本，加速从需求到交付的端到端实现。",
-          "en": "Synkra AIOS Core is a JavaScript-based AI-orchestrated framework that unifies code generation, integration, and automation, reducing full-stack development complexity and accelerating end-to-end delivery."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "Synkra AIOS Core 是一个基于 JavaScript 的 AI 编排系统核心框架，旨在通过 AI 智能体协同工作，自动化处理全栈开发中的复杂任务流程，从而显著提升开发效率并降低人工编排成本。"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "author": "letta-ai",
-      "repoName": "letta-code",
-      "url": "https://github.com/letta-ai/letta-code",
-      "description": "The memory-first coding agent",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 1442,
-      "forks": 155,
-      "currentPeriodStars": 22,
-      "builtBy": [
-        {
-          "username": "cpacker",
-          "avatar": "https://avatars.githubusercontent.com/u/5475622?s=40&v=4"
-        },
-        {
-          "username": "letta-code",
-          "avatar": "https://avatars.githubusercontent.com/u/248085862?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "jnjpng",
-          "avatar": "https://avatars.githubusercontent.com/u/13899997?s=40&v=4"
-        },
-        {
-          "username": "kl2806",
-          "avatar": "https://avatars.githubusercontent.com/u/9100255?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "letta-code 是一个以记忆为核心的 TypeScript 智能编码代理，通过持续积累与检索上下文记忆，理解大型代码库的演化与依赖关系，从而在复杂开发场景中提供更精准的代码生成、重构与协作支持，降低认知负担并提升开发效率。",
-          "en": "letta-code is a memory-first TypeScript coding agent that persistently builds and retrieves rich project context, enabling more accurate code generation, refactoring, and navigation in large, evolving codebases, thereby reducing cognitive load and improving developer productivity."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "Letta-Code 是一个基于记忆优先理念的 TypeScript 编码智能体。它通过持久化记忆上下文，有效解决了传统AI编码助手在多轮复杂对话中遗忘历史、上下文丢失的核心痛点，从而能更连贯、精准地理解和执行长期开发任务。"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "author": "ruvnet",
-      "repoName": "wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 6794,
-      "forks": 584,
-      "currentPeriodStars": 344,
-      "builtBy": [
-        {
-          "username": "ruvnet",
-          "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "wifi-densepose 提供 InvisPose 的生产级实现，仅依赖普通 WiFi Mesh 路由器即可穿墙实时获取人体全身致密姿态。它解决了传统视觉方案对摄像头、光照和视线无遮挡的依赖，为隐私友好的人体追踪与交互应用奠定基础。",
-          "en": "wifi-densepose is a production-ready implementation of InvisPose, enabling real-time, through-wall dense human pose estimation using commodity WiFi mesh routers, removing reliance on cameras and lighting for full-body tracking."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "Ruvnet/Wifi-DensePose 实现了 InvisPose 系统，利用普通家用网状路由器发出的 WiFi 信号，实现了穿墙的实时密集人体姿态估计。该系统解决了传统视觉方法在遮挡或无光环境下失效的痛点，无需穿戴设备即可进行全身动作追踪。"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "author": "seerr-team",
       "repoName": "seerr",
       "url": "https://github.com/seerr-team/seerr",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9058,
-      "forks": 601,
+      "stars": 9169,
+      "forks": 608,
       "currentPeriodStars": 182,
       "builtBy": [
         {
@@ -401,15 +96,285 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 3,
+      "author": "obra",
+      "repoName": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 53133,
+      "forks": 4034,
+      "currentPeriodStars": 725,
+      "builtBy": [
+        {
+          "username": "obra",
+          "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "arittr",
+          "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&v=4"
+        },
+        {
+          "username": "clkao",
+          "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&v=4"
+        },
+        {
+          "username": "jjshanks",
+          "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "obra/superpowers 提供一套可落地的 agentic 技能框架与软件开发方法论，聚焦将抽象的 AI 代理能力系统化为可复用脚本与流程，帮助团队在 Shell 驱动环境中更高效地组织自动化任务、协作与迭代交付。",
+          "en": "obra/superpowers is a practical agentic skills framework and development methodology that systematizes AI-like agent capabilities into reusable shell-based scripts and workflows, improving automation, collaboration, and iteration efficiency."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "Superpowers 是一个基于代理（Agentic）的技能框架与软件开发方法论。它旨在解决传统开发流程中自动化程度低、任务协作效率不高等痛点，通过定义可组合的技能单元，赋能开发者构建更智能、自主的软件系统。",
+          "en": "Superpowers is an agentic skills framework and software development methodology. It addresses inefficiencies in traditional workflows by enabling developers to build more intelligent and autonomous systems through composable skill units."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "author": "steipete",
+      "repoName": "gogcli",
+      "url": "https://github.com/steipete/gogcli",
+      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3699,
+      "forks": 313,
+      "currentPeriodStars": 469,
+      "builtBy": [
+        {
+          "username": "steipete",
+          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
+        },
+        {
+          "username": "salmonumbrella",
+          "avatar": "https://avatars.githubusercontent.com/u/182032677?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "jeanregisser",
+          "avatar": "https://avatars.githubusercontent.com/u/57791?s=40&v=4"
+        },
+        {
+          "username": "antons",
+          "avatar": "https://avatars.githubusercontent.com/u/129705?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "gogcli 是一个基于 Go 的 Google 套件命令行工具，统一管理 Gmail、日历、云端硬盘与联系人。它通过脚本化与自动化操作，减少频繁切换网页界面的低效流程，适合集成到运维脚本和工作流中。",
+          "en": "gogcli is a Go-based CLI for Google Suite, unifying Gmail, Calendar, Drive, and Contacts management. It streamlines scripted and automated workflows, removing reliance on web UI for routine operations."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "gogcli 是一个用 Go 编写的 Google 套件命令行工具，集成了 Gmail、日历、网盘和联系人管理。它解决了用户需要通过单一命令行界面高效访问和管理多个 Google 服务的痛点，提升了自动化与脚本操作的效率。",
+          "en": "gogcli is a Go-based CLI tool for Google Suite, integrating Gmail, Calendar, Drive, and Contacts. It addresses the need for efficient access and management of multiple Google services through a unified command-line interface, enhancing automation and scripting capabilities."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "author": "alibaba",
+      "repoName": "zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 4209,
+      "forks": 222,
+      "currentPeriodStars": 1473,
+      "builtBy": [
+        {
+          "username": "iaojnh",
+          "avatar": "https://avatars.githubusercontent.com/u/38692278?s=40&v=4"
+        },
+        {
+          "username": "feihongxu0824",
+          "avatar": "https://avatars.githubusercontent.com/u/237691413?s=40&v=4"
+        },
+        {
+          "username": "egolearner",
+          "avatar": "https://avatars.githubusercontent.com/u/45122959?s=40&v=4"
+        },
+        {
+          "username": "Cuiyus",
+          "avatar": "https://avatars.githubusercontent.com/u/42903451?s=40&v=4"
+        },
+        {
+          "username": "zhourrr",
+          "avatar": "https://avatars.githubusercontent.com/u/78126249?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "zvec 是阿里巴巴开源的轻量级 C++ 向量数据库，专注进程内高性能向量检索与相似度搜索。它以极低延迟和小内存占用解决在线推理、个性化推荐等场景下的嵌入向量高效查询与管理问题。",
+          "en": "zvec is a lightweight C++ in-process vector database delivering ultra-fast similarity search with low memory overhead, targeting efficient embedding retrieval for online inference and recommendation workloads."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "zvec 是阿里巴巴开源的轻量级、极速进程内向量数据库。它专为需要高性能向量相似性搜索的场景设计，通过消除网络开销和复杂部署，实现了低延迟、高吞吐量的近似最近邻检索。"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "author": "openclaw",
+      "repoName": "openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 203403,
+      "forks": 36726,
+      "currentPeriodStars": 4201,
+      "builtBy": [
+        {
+          "username": "steipete",
+          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
+        },
+        {
+          "username": "vignesh07",
+          "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&v=4"
+        },
+        {
+          "username": "thewilloftheshadow",
+          "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&v=4"
+        },
+        {
+          "username": "gumadeiras",
+          "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "openclaw 是一款跨平台的本地化 AI 助手框架，基于 TypeScript 构建，专注于在任意操作系统与平台上统一管理对话、插件和模型接入，帮助开发者快速搭建可扩展、可定制的个人智能助理应用。",
+          "en": "openclaw is a TypeScript-based, cross-platform framework for building personal AI assistants, unifying dialogue, plugins, and model integration to help developers rapidly create extensible, customizable assistant applications on any OS or platform."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "OpenClaw 是一个跨平台个人 AI 助手，旨在解决用户在不同操作系统和设备上缺乏统一智能工具的问题。它通过 TypeScript 实现，提供灵活、可定制的 AI 辅助功能，以“龙虾方式”强调其适应性和独特性。",
+          "en": "OpenClaw is a cross-platform personal AI assistant built with TypeScript. It addresses the lack of a unified AI tool across different operating systems and devices, offering flexible and customizable assistance in a unique 'lobster way'."
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "author": "SynkraAI",
+      "repoName": "aios-core",
+      "url": "https://github.com/SynkraAI/aios-core",
+      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 1064,
+      "forks": 368,
+      "currentPeriodStars": 194,
+      "builtBy": [
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "Pedrovaleriolopez",
+          "avatar": "https://avatars.githubusercontent.com/u/124090200?s=40&v=4"
+        },
+        {
+          "username": "oalanicolas",
+          "avatar": "https://avatars.githubusercontent.com/u/895889?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        },
+        {
+          "username": "semantic-release-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "Synkra AIOS Core 以 JavaScript 提供全栈开发的智能编排框架，通过统一管理代码生成、集成与自动化流程，降低开发复杂度与协作成本，加速从需求到交付的端到端实现。",
+          "en": "Synkra AIOS Core is a JavaScript-based AI-orchestrated framework that unifies code generation, integration, and automation, reducing full-stack development complexity and accelerating end-to-end delivery."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "Synkra AIOS Core 是一个基于 JavaScript 的 AI 编排系统核心框架，旨在通过 AI 智能体协同工作，自动化处理全栈开发中的复杂任务流程，从而显著提升开发效率并降低人工编排成本。"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "author": "ashishps1",
+      "repoName": "awesome-system-design-resources",
+      "url": "https://github.com/ashishps1/awesome-system-design-resources",
+      "description": "Learn System Design concepts and prepare for interviews using free resources.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 32572,
+      "forks": 7280,
+      "currentPeriodStars": 1097,
+      "builtBy": [
+        {
+          "username": "ashishps1",
+          "avatar": "https://avatars.githubusercontent.com/u/8646889?s=40&v=4"
+        },
+        {
+          "username": "systemdesign42",
+          "avatar": "https://avatars.githubusercontent.com/u/118598641?s=40&v=4"
+        },
+        {
+          "username": "ajitzero",
+          "avatar": "https://avatars.githubusercontent.com/u/19947758?s=40&v=4"
+        },
+        {
+          "username": "abdulrahim2002",
+          "avatar": "https://avatars.githubusercontent.com/u/89011337?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "该项目系统整理高质量的系统设计学习与面试资源，聚合分布式系统、可扩展性与高可用等核心概念，帮助开发者以零成本构建系统设计知识体系，并高效备战技术面试，解决资料分散、难以筛选与系统化学习不足的痛点。",
+          "en": "This project curates high‑quality, free system design resources, centralizing key concepts like scalability, distributed systems, and high availability to streamline learning and interview preparation, solving the pain of scattered, hard‑to‑filter materials."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "该项目收集了丰富的免费系统设计学习资源，旨在帮助开发者掌握核心概念并高效准备技术面试。它解决了学习资料分散、质量参差不齐的痛点，提供了结构化的知识路径。",
+          "en": "This project curates comprehensive free resources for learning System Design concepts and preparing for technical interviews. It addresses the pain point of scattered, inconsistent study materials by offering a structured knowledge path."
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "author": "hummingbot",
       "repoName": "hummingbot",
       "url": "https://github.com/hummingbot/hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 16545,
-      "forks": 4384,
+      "stars": 16777,
+      "forks": 4407,
       "currentPeriodStars": 339,
       "builtBy": [
         {
@@ -443,6 +408,144 @@
           "provider": "deepseek",
           "zh": "Hummingbot 是一个开源的 Python 项目，旨在帮助用户创建和部署高频加密货币交易机器人。它解决了手动交易效率低下和定制化交易策略开发复杂的问题，核心功能是提供一套自动化交易框架和多种市场连接器。",
           "en": "Hummingbot is an open-source Python project designed to help users create and deploy high-frequency cryptocurrency trading bots. It addresses the inefficiency of manual trading and the complexity of developing custom strategies by providing an automated trading framework with multiple exchange connectors."
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "author": "anthropics",
+      "repoName": "claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 14279,
+      "forks": 2423,
+      "currentPeriodStars": 165,
+      "builtBy": [
+        {
+          "username": "x5a",
+          "avatar": "https://avatars.githubusercontent.com/u/4421754?s=40&v=4"
+        },
+        {
+          "username": "alexalbertt",
+          "avatar": "https://avatars.githubusercontent.com/u/34638987?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "zealoushacker",
+          "avatar": "https://avatars.githubusercontent.com/u/346275?s=40&v=4"
+        },
+        {
+          "username": "zckly",
+          "avatar": "https://avatars.githubusercontent.com/u/11340449?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "anthropics/claude-quickstarts 提供一系列基于 Python 的示例与模板，帮助开发者快速上手 Claude API，降低集成门槛，加速从原型到可部署应用的落地，解决文档分散、示例零散导致的开发效率低下问题。",
+          "en": "anthropics/claude-quickstarts offers Python-based examples and templates to help developers rapidly integrate the Claude API and move from prototype to deployable applications, reducing integration friction and scattered documentation overhead."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "该项目是Anthropic官方提供的Claude API快速入门示例集合，旨在帮助开发者快速上手并构建可部署的应用程序。它解决了开发者从零开始集成Claude API时的学习曲线问题，提供了实用的代码模板和最佳实践。",
+          "en": "This official Anthropic repository provides quickstart examples for the Claude API, enabling developers to rapidly build and deploy applications. It reduces the initial learning curve by offering practical code templates and integration best practices."
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "author": "davila7",
+      "repoName": "claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 20599,
+      "forks": 1926,
+      "currentPeriodStars": 216,
+      "builtBy": [
+        {
+          "username": "davila7",
+          "avatar": "https://avatars.githubusercontent.com/u/6216945?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        },
+        {
+          "username": "actions-user",
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4"
+        },
+        {
+          "username": "odoldotol",
+          "avatar": "https://avatars.githubusercontent.com/u/90089610?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "该项目提供一个基于 Python 的命令行工具，用于快速配置和监控 Claude Code。通过统一管理模板与运行状态，简化多环境配置流程，降低手动维护成本，提升团队在使用 Claude Code 进行开发与调试时的效率与可控性。",
+          "en": "A Python-based CLI tool to configure and monitor Claude Code, centralizing template and runtime management to simplify multi-environment setup, reduce manual maintenance, and improve development and debugging efficiency."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "该项目是一个用于配置和监控 Claude Code 的 Python CLI 工具。它简化了 Claude Code 的设置流程，并提供了实时监控功能，帮助开发者高效管理和调试其 Claude Code 实例。",
+          "en": "This project is a Python CLI tool for configuring and monitoring Claude Code. It streamlines the setup process and provides real-time monitoring, enabling developers to efficiently manage and debug their Claude Code instances."
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "author": "OpenCTI-Platform",
+      "repoName": "opencti",
+      "url": "https://github.com/OpenCTI-Platform/opencti",
+      "description": "Open Cyber Threat Intelligence Platform",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 8251,
+      "forks": 1221,
+      "currentPeriodStars": 13,
+      "builtBy": [
+        {
+          "username": "SamuelHassine",
+          "avatar": "https://avatars.githubusercontent.com/u/1334279?s=40&v=4"
+        },
+        {
+          "username": "apps/renovate",
+          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+        },
+        {
+          "username": "richard-julien",
+          "avatar": "https://avatars.githubusercontent.com/u/285555?s=40&v=4"
+        },
+        {
+          "username": "Archidoit",
+          "avatar": "https://avatars.githubusercontent.com/u/75783086?s=40&v=4"
+        },
+        {
+          "username": "Filigran-Automation",
+          "avatar": "https://avatars.githubusercontent.com/u/130652934?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "OpenCTI 是一款开源网络威胁情报平台，通过结构化建模与可视化关联分析，集中管理多源威胁情报数据，实现情报采集、整合、查询与共享，帮助安全团队构建统一情报视图并支撑检测与响应决策。",
+          "en": "OpenCTI is an open-source cyber threat intelligence platform that centralizes multi-source intelligence, offering structured modeling, correlation and visualization to streamline collection, enrichment, querying and sharing, enabling a unified intelligence view for security operations."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "OpenCTI 是一个开源的网络威胁情报平台，旨在解决威胁情报数据分散、格式不一和难以共享的痛点。它通过标准化数据模型和自动化工作流，帮助组织高效地收集、分析、关联和可视化威胁信息，从而提升网络安全防御能力。",
+          "en": "OpenCTI is an open-source cyber threat intelligence platform that addresses the fragmentation and inconsistent formats of threat data. It enables organizations to efficiently collect, analyze, correlate, and visualize threat information through standardized data models and automated workflows, enhancing cybersecurity defenses."
         }
       ]
     }

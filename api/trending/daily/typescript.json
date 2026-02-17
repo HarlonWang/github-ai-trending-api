@@ -1,154 +1,18 @@
 {
-  "count": 10,
+  "count": 8,
   "since": "daily",
-  "captured_at": "2026-02-17 00:17:41",
+  "captured_at": "2026-02-17 12:18:16",
   "data": [
     {
       "rank": 1,
-      "author": "rowboatlabs",
-      "repoName": "rowboat",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 7317,
-      "forks": 620,
-      "currentPeriodStars": 700,
-      "builtBy": [
-        {
-          "username": "ramnique",
-          "avatar": "https://avatars.githubusercontent.com/u/30795890?s=40&v=4"
-        },
-        {
-          "username": "akhisud3195",
-          "avatar": "https://avatars.githubusercontent.com/u/55130408?s=40&v=4"
-        },
-        {
-          "username": "arkml",
-          "avatar": "https://avatars.githubusercontent.com/u/6592213?s=40&v=4"
-        },
-        {
-          "username": "tusharmagar",
-          "avatar": "https://avatars.githubusercontent.com/u/47842976?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "rowboat 是一款开源的 AI 协作助手，通过持久化记忆与上下文管理，帮助团队在日常开发与知识工作中减少重复沟通和信息查找成本，实现更连续、更智能的协同工作流程。",
-          "en": "rowboat is an open-source AI coworker that uses persistent memory and context management to reduce repetitive communication and information lookup, enabling more continuous and intelligent collaboration in everyday development and knowledge work."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "Rowboat 是一个开源的 AI 协作者，基于 TypeScript 开发。其核心在于为 AI 助手配备了长期记忆能力，解决了传统 AI 对话中上下文信息易丢失的痛点，能持续记忆用户偏好与历史交互，从而实现更连贯、个性化的协作体验。"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "author": "openclaw",
-      "repoName": "openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 201572,
-      "forks": 36113,
-      "currentPeriodStars": 3873,
-      "builtBy": [
-        {
-          "username": "steipete",
-          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
-        },
-        {
-          "username": "vignesh07",
-          "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&v=4"
-        },
-        {
-          "username": "thewilloftheshadow",
-          "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&v=4"
-        },
-        {
-          "username": "gumadeiras",
-          "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "openclaw 是一款跨平台的本地化 AI 助手框架，基于 TypeScript 构建，专注于在任意操作系统与平台上统一管理对话、插件和模型接入，帮助开发者快速搭建可扩展、可定制的个人智能助理应用。",
-          "en": "openclaw is a TypeScript-based, cross-platform framework for building personal AI assistants, unifying dialogue, plugins, and model integration to help developers rapidly create extensible, customizable assistant applications on any OS or platform."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "OpenClaw 是一个跨平台个人 AI 助手，旨在解决用户在不同操作系统和设备上缺乏统一智能工具的问题。它通过 TypeScript 实现，提供灵活、可定制的 AI 辅助功能，以“龙虾方式”强调其适应性和独特性。",
-          "en": "OpenClaw is a cross-platform personal AI assistant built with TypeScript. It addresses the lack of a unified AI tool across different operating systems and devices, offering flexible and customizable assistance in a unique 'lobster way'."
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "author": "letta-ai",
-      "repoName": "letta-code",
-      "url": "https://github.com/letta-ai/letta-code",
-      "description": "The memory-first coding agent",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 1442,
-      "forks": 155,
-      "currentPeriodStars": 22,
-      "builtBy": [
-        {
-          "username": "cpacker",
-          "avatar": "https://avatars.githubusercontent.com/u/5475622?s=40&v=4"
-        },
-        {
-          "username": "letta-code",
-          "avatar": "https://avatars.githubusercontent.com/u/248085862?s=40&v=4"
-        },
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "jnjpng",
-          "avatar": "https://avatars.githubusercontent.com/u/13899997?s=40&v=4"
-        },
-        {
-          "username": "kl2806",
-          "avatar": "https://avatars.githubusercontent.com/u/9100255?s=40&v=4"
-        }
-      ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "letta-code 是一个以记忆为核心的 TypeScript 智能编码代理，通过持续积累与检索上下文记忆，理解大型代码库的演化与依赖关系，从而在复杂开发场景中提供更精准的代码生成、重构与协作支持，降低认知负担并提升开发效率。",
-          "en": "letta-code is a memory-first TypeScript coding agent that persistently builds and retrieves rich project context, enabling more accurate code generation, refactoring, and navigation in large, evolving codebases, thereby reducing cognitive load and improving developer productivity."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "Letta-Code 是一个基于记忆优先理念的 TypeScript 编码智能体。它通过持久化记忆上下文，有效解决了传统AI编码助手在多轮复杂对话中遗忘历史、上下文丢失的核心痛点，从而能更连贯、精准地理解和执行长期开发任务。"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "author": "seerr-team",
       "repoName": "seerr",
       "url": "https://github.com/seerr-team/seerr",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9058,
-      "forks": 601,
+      "stars": 9169,
+      "forks": 608,
       "currentPeriodStars": 182,
       "builtBy": [
         {
@@ -186,231 +50,278 @@
       ]
     },
     {
-      "rank": 5,
-      "author": "ChromeDevTools",
-      "repoName": "chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
+      "rank": 2,
+      "author": "openclaw",
+      "repoName": "openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 25638,
-      "forks": 1512,
-      "currentPeriodStars": 345,
+      "stars": 203406,
+      "forks": 36725,
+      "currentPeriodStars": 4201,
       "builtBy": [
         {
-          "username": "OrKoN",
-          "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4"
+          "username": "steipete",
+          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
         },
         {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+          "username": "vignesh07",
+          "avatar": "https://avatars.githubusercontent.com/u/1436853?s=40&v=4"
         },
         {
-          "username": "Lightning00Blade",
-          "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&v=4"
+          "username": "thewilloftheshadow",
+          "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&v=4"
         },
         {
-          "username": "browser-automation-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&v=4"
+          "username": "gumadeiras",
+          "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
         },
         {
-          "username": "szuend",
-          "avatar": "https://avatars.githubusercontent.com/u/325588?s=40&v=4"
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
       "aiSummaries": [
         {
           "provider": "chatgpt",
-          "zh": "chrome-devtools-mcp 利用 TypeScript 将 Chrome DevTools 能力以 MCP 接口暴露给编码智能体，使其可自动化调试、性能分析与页面检查。项目解决了代理难以直接操控浏览器调试工具的痛点，提升自动化诊断与前端问题定位效率。",
-          "en": "chrome-devtools-mcp exposes Chrome DevTools via the MCP protocol for coding agents, enabling automated debugging, profiling, and page inspection. It solves the difficulty of programmatically using DevTools, improving automated diagnosis and front-end issue resolution."
+          "zh": "openclaw 是一款跨平台的本地化 AI 助手框架，基于 TypeScript 构建，专注于在任意操作系统与平台上统一管理对话、插件和模型接入，帮助开发者快速搭建可扩展、可定制的个人智能助理应用。",
+          "en": "openclaw is a TypeScript-based, cross-platform framework for building personal AI assistants, unifying dialogue, plugins, and model integration to help developers rapidly create extensible, customizable assistant applications on any OS or platform."
         },
         {
           "provider": "deepseek",
-          "zh": "该项目为AI编码助手提供了Chrome DevTools的MCP（模型上下文协议）服务器，使其能够直接操作浏览器开发者工具。核心解决了AI代理无法直接调试和分析网页的痛点，实现了通过标准化协议控制DevTools进行页面检查、性能分析和DOM操作等功能。"
+          "zh": "OpenClaw 是一个跨平台个人 AI 助手，旨在解决用户在不同操作系统和设备上缺乏统一智能工具的问题。它通过 TypeScript 实现，提供灵活、可定制的 AI 辅助功能，以“龙虾方式”强调其适应性和独特性。",
+          "en": "OpenClaw is a cross-platform personal AI assistant built with TypeScript. It addresses the lack of a unified AI tool across different operating systems and devices, offering flexible and customizable assistance in a unique 'lobster way'."
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "author": "OpenCTI-Platform",
+      "repoName": "opencti",
+      "url": "https://github.com/OpenCTI-Platform/opencti",
+      "description": "Open Cyber Threat Intelligence Platform",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 8251,
+      "forks": 1221,
+      "currentPeriodStars": 13,
+      "builtBy": [
+        {
+          "username": "SamuelHassine",
+          "avatar": "https://avatars.githubusercontent.com/u/1334279?s=40&v=4"
+        },
+        {
+          "username": "apps/renovate",
+          "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4"
+        },
+        {
+          "username": "richard-julien",
+          "avatar": "https://avatars.githubusercontent.com/u/285555?s=40&v=4"
+        },
+        {
+          "username": "Archidoit",
+          "avatar": "https://avatars.githubusercontent.com/u/75783086?s=40&v=4"
+        },
+        {
+          "username": "Filigran-Automation",
+          "avatar": "https://avatars.githubusercontent.com/u/130652934?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "OpenCTI 是一款开源网络威胁情报平台，通过结构化建模与可视化关联分析，集中管理多源威胁情报数据，实现情报采集、整合、查询与共享，帮助安全团队构建统一情报视图并支撑检测与响应决策。",
+          "en": "OpenCTI is an open-source cyber threat intelligence platform that centralizes multi-source intelligence, offering structured modeling, correlation and visualization to streamline collection, enrichment, querying and sharing, enabling a unified intelligence view for security operations."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "OpenCTI 是一个开源的网络威胁情报平台，旨在解决威胁情报数据分散、格式不一和难以共享的痛点。它通过标准化数据模型和自动化工作流，帮助组织高效地收集、分析、关联和可视化威胁信息，从而提升网络安全防御能力。",
+          "en": "OpenCTI is an open-source cyber threat intelligence platform that addresses the fragmentation and inconsistent formats of threat data. It enables organizations to efficiently collect, analyze, correlate, and visualize threat information through standardized data models and automated workflows, enhancing cybersecurity defenses."
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "author": "Open-Dev-Society",
+      "repoName": "OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 8693,
+      "forks": 1125,
+      "currentPeriodStars": 59,
+      "builtBy": [
+        {
+          "username": "ravixalgorithm",
+          "avatar": "https://avatars.githubusercontent.com/u/148683640?s=40&v=4"
+        },
+        {
+          "username": "apps/coderabbitai",
+          "avatar": "https://avatars.githubusercontent.com/in/347564?s=40&v=4"
+        },
+        {
+          "username": "koevoet1221",
+          "avatar": "https://avatars.githubusercontent.com/u/76625701?s=40&v=4"
+        },
+        {
+          "username": "chinnsenn",
+          "avatar": "https://avatars.githubusercontent.com/u/13096352?s=40&v=4"
+        },
+        {
+          "username": "apps/vercel",
+          "avatar": "https://avatars.githubusercontent.com/in/8329?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 5,
+      "author": "rowboatlabs",
+      "repoName": "rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 7500,
+      "forks": 634,
+      "currentPeriodStars": 432,
+      "builtBy": [
+        {
+          "username": "ramnique",
+          "avatar": "https://avatars.githubusercontent.com/u/30795890?s=40&v=4"
+        },
+        {
+          "username": "akhisud3195",
+          "avatar": "https://avatars.githubusercontent.com/u/55130408?s=40&v=4"
+        },
+        {
+          "username": "arkml",
+          "avatar": "https://avatars.githubusercontent.com/u/6592213?s=40&v=4"
+        },
+        {
+          "username": "tusharmagar",
+          "avatar": "https://avatars.githubusercontent.com/u/47842976?s=40&v=4"
+        },
+        {
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "rowboat 是一款开源的 AI 协作助手，通过持久化记忆与上下文管理，帮助团队在日常开发与知识工作中减少重复沟通和信息查找成本，实现更连续、更智能的协同工作流程。",
+          "en": "rowboat is an open-source AI coworker that uses persistent memory and context management to reduce repetitive communication and information lookup, enabling more continuous and intelligent collaboration in everyday development and knowledge work."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "Rowboat 是一个开源的 AI 协作者，基于 TypeScript 开发。其核心在于为 AI 助手配备了长期记忆能力，解决了传统 AI 对话中上下文信息易丢失的痛点，能持续记忆用户偏好与历史交互，从而实现更连贯、个性化的协作体验。"
         }
       ]
     },
     {
       "rank": 6,
-      "author": "tambo-ai",
-      "repoName": "tambo",
-      "url": "https://github.com/tambo-ai/tambo",
-      "description": "Generative UI SDK for React",
+      "author": "supermemoryai",
+      "repoName": "supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 10372,
-      "forks": 505,
-      "currentPeriodStars": 225,
+      "stars": 16474,
+      "forks": 1650,
+      "currentPeriodStars": 22,
       "builtBy": [
         {
-          "username": "apps/dependabot",
-          "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+          "username": "Dhravya",
+          "avatar": "https://avatars.githubusercontent.com/u/63950637?s=40&v=4"
         },
         {
-          "username": "alecf",
-          "avatar": "https://avatars.githubusercontent.com/u/135340?s=40&v=4"
+          "username": "MaheshtheDev",
+          "avatar": "https://avatars.githubusercontent.com/u/38828053?s=40&v=4"
         },
         {
-          "username": "MichaelMilstead",
-          "avatar": "https://avatars.githubusercontent.com/u/8498335?s=40&v=4"
+          "username": "yxshv",
+          "avatar": "https://avatars.githubusercontent.com/u/93475253?s=40&v=4"
         },
         {
-          "username": "tambo-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/230265268?s=40&v=4"
+          "username": "CodeTorso",
+          "avatar": "https://avatars.githubusercontent.com/u/129188028?s=40&v=4"
         },
         {
-          "username": "akhileshrangani4",
-          "avatar": "https://avatars.githubusercontent.com/u/70284178?s=40&v=4"
+          "username": "Kinfe123",
+          "avatar": "https://avatars.githubusercontent.com/u/65047246?s=40&v=4"
         }
       ],
-      "aiSummaries": [
-        {
-          "provider": "chatgpt",
-          "zh": "tambo 是基于 TypeScript 的 React 生成式 UI SDK，通过将自然语言与组件配置结合，简化界面构建与动态布局生成。它帮助团队快速迭代产品原型，降低手写样板代码成本，并提升复杂交互界面的开发效率与可维护性。",
-          "en": "tambo is a TypeScript-based generative UI SDK for React that turns natural language and structured config into dynamic interfaces. It reduces boilerplate, accelerates prototyping, and improves development efficiency for complex, interactive UIs."
-        },
-        {
-          "provider": "deepseek",
-          "zh": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，解决了手动处理流式输出与状态同步的复杂度，提升了开发效率。"
-        }
-      ]
+      "aiSummaries": null
     },
     {
       "rank": 7,
-      "author": "bytedance",
-      "repoName": "deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+      "author": "open-mercato",
+      "repoName": "open-mercato",
+      "url": "https://github.com/open-mercato/open-mercato",
+      "description": "AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 19929,
-      "forks": 2498,
-      "currentPeriodStars": 29,
+      "stars": 431,
+      "forks": 73,
+      "currentPeriodStars": 15,
       "builtBy": [
         {
-          "username": "MagicCube",
-          "avatar": "https://avatars.githubusercontent.com/u/1003147?s=40&v=4"
+          "username": "pkarw",
+          "avatar": "https://avatars.githubusercontent.com/u/211899?s=40&v=4"
         },
         {
-          "username": "henry-byted",
-          "avatar": "https://avatars.githubusercontent.com/u/209858577?s=40&v=4"
+          "username": "MStaniaszek1998",
+          "avatar": "https://avatars.githubusercontent.com/u/36333115?s=40&v=4"
         },
         {
-          "username": "hetaoBackend",
-          "avatar": "https://avatars.githubusercontent.com/u/45447813?s=40&v=4"
+          "username": "andrzejewsky",
+          "avatar": "https://avatars.githubusercontent.com/u/7943292?s=40&v=4"
         },
         {
-          "username": "WillemJiang",
-          "avatar": "https://avatars.githubusercontent.com/u/219644?s=40&v=4"
+          "username": "pat-lewczuk",
+          "avatar": "https://avatars.githubusercontent.com/u/173491928?s=40&v=4"
         },
         {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+          "username": "apps/copilot-pull-request-reviewer",
+          "avatar": "https://avatars.githubusercontent.com/in/946600?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 8,
-      "author": "gitroomhq",
-      "repoName": "postiz-app",
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "description": "📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",
+      "author": "tobi",
+      "repoName": "qmd",
+      "url": "https://github.com/tobi/qmd",
+      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 26626,
-      "forks": 4588,
-      "currentPeriodStars": 34,
+      "stars": 8950,
+      "forks": 482,
+      "currentPeriodStars": 266,
       "builtBy": [
         {
-          "username": "nevo-david",
-          "avatar": "https://avatars.githubusercontent.com/u/100117126?s=40&v=4"
-        },
-        {
-          "username": "egelhaus",
-          "avatar": "https://avatars.githubusercontent.com/u/156946629?s=40&v=4"
-        },
-        {
-          "username": "jamesread",
-          "avatar": "https://avatars.githubusercontent.com/u/2025715?s=40&v=4"
-        },
-        {
-          "username": "jonathan-irvin",
-          "avatar": "https://avatars.githubusercontent.com/u/2481437?s=40&v=4"
-        },
-        {
-          "username": "weblate",
-          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 9,
-      "author": "ComposioHQ",
-      "repoName": "composio",
-      "url": "https://github.com/ComposioHQ/composio",
-      "description": "Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 26586,
-      "forks": 4408,
-      "currentPeriodStars": 24,
-      "builtBy": [
-        {
-          "username": "Sushmithamallesh",
-          "avatar": "https://avatars.githubusercontent.com/u/19796925?s=40&v=4"
-        },
-        {
-          "username": "haxzie",
-          "avatar": "https://avatars.githubusercontent.com/u/53584487?s=40&v=4"
+          "username": "tobi",
+          "avatar": "https://avatars.githubusercontent.com/u/347?s=40&v=4"
         },
         {
           "username": "claude",
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "jkomyno",
-          "avatar": "https://avatars.githubusercontent.com/u/12381818?s=40&v=4"
+          "username": "burke",
+          "avatar": "https://avatars.githubusercontent.com/u/1284?s=40&v=4"
         },
         {
-          "username": "alt-glitch",
-          "avatar": "https://avatars.githubusercontent.com/u/52913345?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 10,
-      "author": "afkarxyz",
-      "repoName": "SpotiFLAC",
-      "url": "https://github.com/afkarxyz/SpotiFLAC",
-      "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 4546,
-      "forks": 270,
-      "currentPeriodStars": 51,
-      "builtBy": [
-        {
-          "username": "afkarxyz",
-          "avatar": "https://avatars.githubusercontent.com/u/173781715?s=40&v=4"
+          "username": "mbrendan",
+          "avatar": "https://avatars.githubusercontent.com/u/25271154?s=40&v=4"
         },
         {
-          "username": "exyezed",
-          "avatar": "https://avatars.githubusercontent.com/u/185352121?s=40&v=4"
-        },
-        {
-          "username": "value1338",
-          "avatar": "https://avatars.githubusercontent.com/u/212730926?s=40&v=4"
-        },
-        {
-          "username": "zarzet",
-          "avatar": "https://avatars.githubusercontent.com/u/42882290?s=40&v=4"
-        },
-        {
-          "username": "Lukas200301",
-          "avatar": "https://avatars.githubusercontent.com/u/69511007?s=40&v=4"
+          "username": "sh54",
+          "avatar": "https://avatars.githubusercontent.com/u/906180?s=40&v=4"
         }
       ],
       "aiSummaries": null

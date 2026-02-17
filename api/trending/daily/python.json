@@ -1,38 +1,51 @@
 {
-  "count": 12,
+  "count": 14,
   "since": "daily",
-  "captured_at": "2026-02-17 00:17:22",
+  "captured_at": "2026-02-17 12:17:55",
   "data": [
     {
       "rank": 1,
-      "author": "ruvnet",
-      "repoName": "wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+      "author": "p-e-w",
+      "repoName": "heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6794,
-      "forks": 584,
-      "currentPeriodStars": 344,
+      "stars": 6692,
+      "forks": 667,
+      "currentPeriodStars": 891,
       "builtBy": [
         {
-          "username": "ruvnet",
-          "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4"
+          "username": "p-e-w",
+          "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&v=4"
         },
         {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+          "username": "anrp",
+          "avatar": "https://avatars.githubusercontent.com/u/1325515?s=40&v=4"
+        },
+        {
+          "username": "spikymoth",
+          "avatar": "https://avatars.githubusercontent.com/u/133602907?s=40&v=4"
+        },
+        {
+          "username": "red40maxxer",
+          "avatar": "https://avatars.githubusercontent.com/u/113548315?s=40&v=4"
+        },
+        {
+          "username": "kldzj",
+          "avatar": "https://avatars.githubusercontent.com/u/7687617?s=40&v=4"
         }
       ],
       "aiSummaries": [
         {
           "provider": "chatgpt",
-          "zh": "wifi-densepose 提供 InvisPose 的生产级实现，仅依赖普通 WiFi Mesh 路由器即可穿墙实时获取人体全身致密姿态。它解决了传统视觉方案对摄像头、光照和视线无遮挡的依赖，为隐私友好的人体追踪与交互应用奠定基础。",
-          "en": "wifi-densepose is a production-ready implementation of InvisPose, enabling real-time, through-wall dense human pose estimation using commodity WiFi mesh routers, removing reliance on cameras and lighting for full-body tracking."
+          "zh": "heretic 是一个基于 Python 的自动化工具，旨在移除大语言模型回复中的审查与过滤逻辑。通过对模型提示与系统约束进行自动重写和绕过，它帮助研究者与开发者在技术与安全边界内评估模型的真实能力与行为表现。",
+          "en": "heretic is a Python-based tool for fully automating removal of censorship and safety filters from language model interactions, enabling researchers and developers to systematically bypass guardrails, rewrite prompts, and observe models’ uncensored capabilities for analysis and evaluation."
         },
         {
           "provider": "deepseek",
-          "zh": "Ruvnet/Wifi-DensePose 实现了 InvisPose 系统，利用普通家用网状路由器发出的 WiFi 信号，实现了穿墙的实时密集人体姿态估计。该系统解决了传统视觉方法在遮挡或无光环境下失效的痛点，无需穿戴设备即可进行全身动作追踪。"
+          "zh": "Heretic 是一个用 Python 开发的工具，旨在为大型语言模型提供全自动的审查移除功能。它解决了模型因安全策略而过度自我审查、拒绝回答合理请求的痛点，通过技术手段恢复模型的完整表达能力。",
+          "en": "Heretic is a Python tool that enables fully automatic censorship removal for large language models. It addresses the issue of models over-censoring or refusing legitimate requests, aiming to restore their full expressive capabilities."
         }
       ]
     },
@@ -44,8 +57,8 @@
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 16545,
-      "forks": 4384,
+      "stars": 16777,
+      "forks": 4407,
       "currentPeriodStars": 339,
       "builtBy": [
         {
@@ -90,8 +103,8 @@
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14227,
-      "forks": 2412,
+      "stars": 14279,
+      "forks": 2423,
       "currentPeriodStars": 165,
       "builtBy": [
         {
@@ -115,189 +128,29 @@
           "avatar": "https://avatars.githubusercontent.com/u/11340449?s=40&v=4"
         }
       ],
-      "aiSummaries": null
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "anthropics/claude-quickstarts 提供一系列基于 Python 的示例与模板，帮助开发者快速上手 Claude API，降低集成门槛，加速从原型到可部署应用的落地，解决文档分散、示例零散导致的开发效率低下问题。",
+          "en": "anthropics/claude-quickstarts offers Python-based examples and templates to help developers rapidly integrate the Claude API and move from prototype to deployable applications, reducing integration friction and scattered documentation overhead."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "该项目是Anthropic官方提供的Claude API快速入门示例集合，旨在帮助开发者快速上手并构建可部署的应用程序。它解决了开发者从零开始集成Claude API时的学习曲线问题，提供了实用的代码模板和最佳实践。",
+          "en": "This official Anthropic repository provides quickstart examples for the Claude API, enabling developers to rapidly build and deploy applications. It reduces the initial learning curve by offering practical code templates and integration best practices."
+        }
+      ]
     },
     {
       "rank": 4,
-      "author": "p-e-w",
-      "repoName": "heretic",
-      "url": "https://github.com/p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 6449,
-      "forks": 644,
-      "currentPeriodStars": 891,
-      "builtBy": [
-        {
-          "username": "p-e-w",
-          "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&v=4"
-        },
-        {
-          "username": "anrp",
-          "avatar": "https://avatars.githubusercontent.com/u/1325515?s=40&v=4"
-        },
-        {
-          "username": "spikymoth",
-          "avatar": "https://avatars.githubusercontent.com/u/133602907?s=40&v=4"
-        },
-        {
-          "username": "red40maxxer",
-          "avatar": "https://avatars.githubusercontent.com/u/113548315?s=40&v=4"
-        },
-        {
-          "username": "kldzj",
-          "avatar": "https://avatars.githubusercontent.com/u/7687617?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 5,
-      "author": "hesreallyhim",
-      "repoName": "awesome-claude-code",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code",
-      "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 23931,
-      "forks": 1412,
-      "currentPeriodStars": 133,
-      "builtBy": [
-        {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
-        },
-        {
-          "username": "hesreallyhim",
-          "avatar": "https://avatars.githubusercontent.com/u/172150522?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "apps/copilot-pull-request-reviewer",
-          "avatar": "https://avatars.githubusercontent.com/in/946600?s=40&v=4"
-        },
-        {
-          "username": "tninja",
-          "avatar": "https://avatars.githubusercontent.com/u/714625?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 6,
-      "author": "karpathy",
-      "repoName": "nanochat",
-      "url": "https://github.com/karpathy/nanochat",
-      "description": "The best ChatGPT that $100 can buy.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 43481,
-      "forks": 5666,
-      "currentPeriodStars": 100,
-      "builtBy": [
-        {
-          "username": "karpathy",
-          "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4"
-        },
-        {
-          "username": "svlandeg",
-          "avatar": "https://avatars.githubusercontent.com/u/8796347?s=40&v=4"
-        },
-        {
-          "username": "lukestanley",
-          "avatar": "https://avatars.githubusercontent.com/u/306671?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "ericsilberstein",
-          "avatar": "https://avatars.githubusercontent.com/u/10590453?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 7,
-      "author": "home-assistant",
-      "repoName": "core",
-      "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 84853,
-      "forks": 36763,
-      "currentPeriodStars": 27,
-      "builtBy": [
-        {
-          "username": "bdraco",
-          "avatar": "https://avatars.githubusercontent.com/u/663432?s=40&v=4"
-        },
-        {
-          "username": "balloob",
-          "avatar": "https://avatars.githubusercontent.com/u/1444314?s=40&v=4"
-        },
-        {
-          "username": "epenet",
-          "avatar": "https://avatars.githubusercontent.com/u/6771947?s=40&v=4"
-        },
-        {
-          "username": "frenck",
-          "avatar": "https://avatars.githubusercontent.com/u/195327?s=40&v=4"
-        },
-        {
-          "username": "emontnemery",
-          "avatar": "https://avatars.githubusercontent.com/u/14281572?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 8,
-      "author": "lllyasviel",
-      "repoName": "Fooocus",
-      "url": "https://github.com/lllyasviel/Fooocus",
-      "description": "Focus on prompting and generating",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 47711,
-      "forks": 7787,
-      "currentPeriodStars": 8,
-      "builtBy": [
-        {
-          "username": "lllyasviel",
-          "avatar": "https://avatars.githubusercontent.com/u/19834515?s=40&v=4"
-        },
-        {
-          "username": "mashb1t",
-          "avatar": "https://avatars.githubusercontent.com/u/9307310?s=40&v=4"
-        },
-        {
-          "username": "MoonRide303",
-          "avatar": "https://avatars.githubusercontent.com/u/130458190?s=40&v=4"
-        },
-        {
-          "username": "xhoxye",
-          "avatar": "https://avatars.githubusercontent.com/u/129571231?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 9,
       "author": "davila7",
       "repoName": "claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 20554,
-      "forks": 1923,
+      "stars": 20599,
+      "forks": 1926,
       "currentPeriodStars": 216,
       "builtBy": [
         {
@@ -321,18 +174,128 @@
           "avatar": "https://avatars.githubusercontent.com/u/90089610?s=40&v=4"
         }
       ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "该项目提供一个基于 Python 的命令行工具，用于快速配置和监控 Claude Code。通过统一管理模板与运行状态，简化多环境配置流程，降低手动维护成本，提升团队在使用 Claude Code 进行开发与调试时的效率与可控性。",
+          "en": "A Python-based CLI tool to configure and monitor Claude Code, centralizing template and runtime management to simplify multi-environment setup, reduce manual maintenance, and improve development and debugging efficiency."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "该项目是一个用于配置和监控 Claude Code 的 Python CLI 工具。它简化了 Claude Code 的设置流程，并提供了实时监控功能，帮助开发者高效管理和调试其 Claude Code 实例。",
+          "en": "This project is a Python CLI tool for configuring and monitoring Claude Code. It streamlines the setup process and provides real-time monitoring, enabling developers to efficiently manage and debug their Claude Code instances."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "author": "ruvnet",
+      "repoName": "wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 6932,
+      "forks": 597,
+      "currentPeriodStars": 300,
+      "builtBy": [
+        {
+          "username": "ruvnet",
+          "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "wifi-densepose 提供 InvisPose 的生产级实现，仅依赖普通 WiFi Mesh 路由器即可穿墙实时获取人体全身致密姿态。它解决了传统视觉方案对摄像头、光照和视线无遮挡的依赖，为隐私友好的人体追踪与交互应用奠定基础。",
+          "en": "wifi-densepose is a production-ready implementation of InvisPose, enabling real-time, through-wall dense human pose estimation using commodity WiFi mesh routers, removing reliance on cameras and lighting for full-body tracking."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "Ruvnet/Wifi-DensePose 实现了 InvisPose 系统，利用普通家用网状路由器发出的 WiFi 信号，实现了穿墙的实时密集人体姿态估计。该系统解决了传统视觉方法在遮挡或无光环境下失效的痛点，无需穿戴设备即可进行全身动作追踪。"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "author": "GH05TCREW",
+      "repoName": "pentestagent",
+      "url": "https://github.com/GH05TCREW/pentestagent",
+      "description": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 1575,
+      "forks": 352,
+      "currentPeriodStars": 25,
+      "builtBy": [
+        {
+          "username": "GH05TCREW",
+          "avatar": "https://avatars.githubusercontent.com/u/183985551?s=40&v=4"
+        },
+        {
+          "username": "giveen",
+          "avatar": "https://avatars.githubusercontent.com/u/1180939?s=40&v=4"
+        },
+        {
+          "username": "famez",
+          "avatar": "https://avatars.githubusercontent.com/u/11182522?s=40&v=4"
+        },
+        {
+          "username": "jumpcom",
+          "avatar": "https://avatars.githubusercontent.com/u/600443?s=40&v=4"
+        }
+      ],
       "aiSummaries": null
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "author": "kaifcodec",
+      "repoName": "user-scanner",
+      "url": "https://github.com/kaifcodec/user-scanner",
+      "description": "🕵️🫆 (2-in-1) Emaill and Username OSINT tool that analyzes username and email presence across multiple platforms, intended for security research, investigations, legitimate analysis",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 708,
+      "forks": 72,
+      "currentPeriodStars": 33,
+      "builtBy": [
+        {
+          "username": "kaifcodec",
+          "avatar": "https://avatars.githubusercontent.com/u/98528577?s=40&v=4"
+        },
+        {
+          "username": "VamatoHD",
+          "avatar": "https://avatars.githubusercontent.com/u/62358492?s=40&v=4"
+        },
+        {
+          "username": "json-hunter07",
+          "avatar": "https://avatars.githubusercontent.com/u/208832952?s=40&v=4"
+        },
+        {
+          "username": "moh-saidi",
+          "avatar": "https://avatars.githubusercontent.com/u/153085410?s=40&v=4"
+        },
+        {
+          "username": "vmi98",
+          "avatar": "https://avatars.githubusercontent.com/u/67827551?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 8,
       "author": "freqtrade",
       "repoName": "freqtrade",
       "url": "https://github.com/freqtrade/freqtrade",
       "description": "Free, open source crypto trading bot",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 46867,
-      "forks": 9786,
+      "stars": 46891,
+      "forks": 9790,
       "currentPeriodStars": 96,
       "builtBy": [
         {
@@ -359,71 +322,199 @@
       "aiSummaries": null
     },
     {
-      "rank": 11,
-      "author": "marketcalls",
-      "repoName": "openalgo",
-      "url": "https://github.com/marketcalls/openalgo",
-      "description": "Open Source Algo Trading Platform for Everyone",
+      "rank": 9,
+      "author": "0x4m4",
+      "repoName": "hexstrike-ai",
+      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1305,
-      "forks": 642,
-      "currentPeriodStars": 10,
+      "stars": 6872,
+      "forks": 1529,
+      "currentPeriodStars": 22,
       "builtBy": [
         {
-          "username": "marketcalls",
-          "avatar": "https://avatars.githubusercontent.com/u/8728989?s=40&v=4"
+          "username": "0x4m4",
+          "avatar": "https://avatars.githubusercontent.com/u/127080303?s=40&v=4"
         },
         {
-          "username": "Kalaiviswa",
-          "avatar": "https://avatars.githubusercontent.com/u/12083597?s=40&v=4"
+          "username": "aoxley",
+          "avatar": "https://avatars.githubusercontent.com/u/24130283?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 10,
+      "author": "HKUDS",
+      "repoName": "AI-Trader",
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "description": "\"AI-Trader: Can AI Beat the Market?\" Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 11272,
+      "forks": 1886,
+      "currentPeriodStars": 54,
+      "builtBy": [
+        {
+          "username": "TianyuFan0504",
+          "avatar": "https://avatars.githubusercontent.com/u/87062283?s=40&v=4"
         },
         {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+          "username": "Dennis-yxchen",
+          "avatar": "https://avatars.githubusercontent.com/u/99672513?s=40&v=4"
         },
         {
-          "username": "crypt0inf0",
-          "avatar": "https://avatars.githubusercontent.com/u/84570125?s=40&v=4"
+          "username": "chaohuang-ai",
+          "avatar": "https://avatars.githubusercontent.com/u/204865953?s=40&v=4"
         },
         {
-          "username": "apps/github-actions",
-          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
+          "username": "Hoder-zyf",
+          "avatar": "https://avatars.githubusercontent.com/u/73508057?s=40&v=4"
+        },
+        {
+          "username": "yuh-yang",
+          "avatar": "https://avatars.githubusercontent.com/u/43330997?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 11,
+      "author": "Cinnamon",
+      "repoName": "kotaemon",
+      "url": "https://github.com/Cinnamon/kotaemon",
+      "description": "An open-source RAG-based tool for chatting with your documents.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 25097,
+      "forks": 2092,
+      "currentPeriodStars": 25,
+      "builtBy": [
+        {
+          "username": "taprosoft",
+          "avatar": "https://avatars.githubusercontent.com/u/15842122?s=40&v=4"
+        },
+        {
+          "username": "trducng",
+          "avatar": "https://avatars.githubusercontent.com/u/35283585?s=40&v=4"
+        },
+        {
+          "username": "cin-albert",
+          "avatar": "https://avatars.githubusercontent.com/u/146712897?s=40&v=4"
+        },
+        {
+          "username": "phv2312",
+          "avatar": "https://avatars.githubusercontent.com/u/57749972?s=40&v=4"
+        },
+        {
+          "username": "cin-niko",
+          "avatar": "https://avatars.githubusercontent.com/u/146712657?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
       "rank": 12,
-      "author": "kyutai-labs",
-      "repoName": "moshi",
-      "url": "https://github.com/kyutai-labs/moshi",
-      "description": "Moshi is a speech-text foundation model and full-duplex spoken dialogue framework. It uses Mimi, a state-of-the-art streaming neural audio codec.",
+      "author": "hesreallyhim",
+      "repoName": "awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9636,
-      "forks": 881,
-      "currentPeriodStars": 15,
+      "stars": 23985,
+      "forks": 1415,
+      "currentPeriodStars": 133,
       "builtBy": [
         {
-          "username": "LaurentMazare",
-          "avatar": "https://avatars.githubusercontent.com/u/1041292?s=40&v=4"
+          "username": "apps/github-actions",
+          "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4"
         },
         {
-          "username": "adefossez",
-          "avatar": "https://avatars.githubusercontent.com/u/1990078?s=40&v=4"
+          "username": "hesreallyhim",
+          "avatar": "https://avatars.githubusercontent.com/u/172150522?s=40&v=4"
         },
         {
-          "username": "FL33TW00D",
-          "avatar": "https://avatars.githubusercontent.com/u/45471420?s=40&v=4"
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "eugene-kharitonov",
-          "avatar": "https://avatars.githubusercontent.com/u/22791636?s=40&v=4"
+          "username": "apps/copilot-pull-request-reviewer",
+          "avatar": "https://avatars.githubusercontent.com/in/946600?s=40&v=4"
         },
         {
-          "username": "vvolhejn",
-          "avatar": "https://avatars.githubusercontent.com/u/8401624?s=40&v=4"
+          "username": "tninja",
+          "avatar": "https://avatars.githubusercontent.com/u/714625?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 13,
+      "author": "google",
+      "repoName": "adk-python",
+      "url": "https://github.com/google/adk-python",
+      "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 17755,
+      "forks": 2920,
+      "currentPeriodStars": 67,
+      "builtBy": [
+        {
+          "username": "seanzhougoogle",
+          "avatar": "https://avatars.githubusercontent.com/u/69162095?s=40&v=4"
+        },
+        {
+          "username": "google-genai-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/194307901?s=40&v=4"
+        },
+        {
+          "username": "GWeale",
+          "avatar": "https://avatars.githubusercontent.com/u/51099682?s=40&v=4"
+        },
+        {
+          "username": "Jacksunwei",
+          "avatar": "https://avatars.githubusercontent.com/u/1281348?s=40&v=4"
+        },
+        {
+          "username": "hangfei",
+          "avatar": "https://avatars.githubusercontent.com/u/5482153?s=40&v=4"
+        }
+      ],
+      "aiSummaries": null
+    },
+    {
+      "rank": 14,
+      "author": "GodsScion",
+      "repoName": "Auto_job_applier_linkedIn",
+      "url": "https://github.com/GodsScion/Auto_job_applier_linkedIn",
+      "description": "Make your job hunt easy by automating your application process with this Auto Applier",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 1547,
+      "forks": 436,
+      "currentPeriodStars": 26,
+      "builtBy": [
+        {
+          "username": "GodsScion",
+          "avatar": "https://avatars.githubusercontent.com/u/100998531?s=40&v=4"
+        },
+        {
+          "username": "WINDY-WINDWARD",
+          "avatar": "https://avatars.githubusercontent.com/u/20145130?s=40&v=4"
+        },
+        {
+          "username": "tozeon",
+          "avatar": "https://avatars.githubusercontent.com/u/43763078?s=40&v=4"
+        },
+        {
+          "username": "Dheeraj9811",
+          "avatar": "https://avatars.githubusercontent.com/u/88787692?s=40&v=4"
+        },
+        {
+          "username": "ArshCypherZ",
+          "avatar": "https://avatars.githubusercontent.com/u/87128542?s=40&v=4"
         }
       ],
       "aiSummaries": null
