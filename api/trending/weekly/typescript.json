@@ -1,7 +1,7 @@
 {
-  "count": 12,
+  "count": 13,
   "since": "weekly",
-  "captured_at": "2026-02-17 12:19:09",
+  "captured_at": "2026-02-18 00:18:39",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 25692,
-      "forks": 1514,
-      "currentPeriodStars": 2041,
+      "stars": 25782,
+      "forks": 1517,
+      "currentPeriodStars": 2059,
       "builtBy": [
         {
           "username": "OrKoN",
@@ -56,9 +56,9 @@
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8611,
-      "forks": 1190,
-      "currentPeriodStars": 2207,
+      "stars": 8669,
+      "forks": 1197,
+      "currentPeriodStars": 2263,
       "builtBy": [
         {
           "username": "danielmiessler",
@@ -69,16 +69,16 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
+          "username": "kaimagnus",
+          "avatar": "https://avatars.githubusercontent.com/u/260860065?s=40&v=4"
+        },
+        {
           "username": "ksylvan",
           "avatar": "https://avatars.githubusercontent.com/u/1226059?s=40&v=4"
         },
         {
           "username": "mvoehringer",
           "avatar": "https://avatars.githubusercontent.com/u/2719466?s=40&v=4"
-        },
-        {
-          "username": "m4nt0de4",
-          "avatar": "https://avatars.githubusercontent.com/u/176330864?s=40&v=4"
         }
       ],
       "aiSummaries": [
@@ -96,9 +96,9 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 13011,
-      "forks": 1309,
-      "currentPeriodStars": 4425,
+      "stars": 13162,
+      "forks": 1323,
+      "currentPeriodStars": 3326,
       "builtBy": [
         {
           "username": "badlogic",
@@ -125,15 +125,61 @@
     },
     {
       "rank": 4,
+      "author": "steipete",
+      "repoName": "summarize",
+      "url": "https://github.com/steipete/summarize",
+      "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 3430,
+      "forks": 217,
+      "currentPeriodStars": 1628,
+      "builtBy": [
+        {
+          "username": "steipete",
+          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
+        },
+        {
+          "username": "mvance",
+          "avatar": "https://avatars.githubusercontent.com/u/82473?s=40&v=4"
+        },
+        {
+          "username": "vlnd0",
+          "avatar": "https://avatars.githubusercontent.com/u/42946292?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "philippb",
+          "avatar": "https://avatars.githubusercontent.com/u/374326?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "summarize 是一个基于 TypeScript 的内容提炼工具，支持命令行与 Chrome 扩展。用户只需提供任意网页、YouTube 视频、播客或文件链接，即可快速获取要点摘要，大幅减少信息筛选时间，提升内容理解与决策效率。",
+          "en": "summarize is a TypeScript-based tool offering CLI and Chrome extension to extract concise summaries from URLs, YouTube videos, podcasts, or files, reducing information overload and speeding up content understanding."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "该项目是一个基于 TypeScript 开发的工具，提供 CLI 和 Chrome 扩展。它允许用户通过指向任何 URL、YouTube 视频、播客或文件，快速获取其核心内容摘要，解决了信息过载时高效提取要点的痛点。",
+          "en": "This TypeScript-based tool offers a CLI and Chrome extension. It enables users to quickly obtain summaries from any URL, YouTube video, podcast, or file, addressing the pain point of efficiently extracting key information from content overload."
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "author": "tambo-ai",
       "repoName": "tambo",
       "url": "https://github.com/tambo-ai/tambo",
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 10501,
-      "forks": 510,
-      "currentPeriodStars": 2273,
+      "stars": 10585,
+      "forks": 513,
+      "currentPeriodStars": 2540,
       "builtBy": [
         {
           "username": "apps/dependabot",
@@ -169,16 +215,16 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "author": "KeygraphHQ",
       "repoName": "shannon",
       "url": "https://github.com/KeygraphHQ/shannon",
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 23047,
-      "forks": 2303,
-      "currentPeriodStars": 6966,
+      "stars": 23207,
+      "forks": 2316,
+      "currentPeriodStars": 4055,
       "builtBy": [
         {
           "username": "ajmallesh",
@@ -204,16 +250,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 6,
+      "rank": 7,
       "author": "EveryInc",
       "repoName": "compound-engineering-plugin",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9084,
-      "forks": 711,
-      "currentPeriodStars": 1346,
+      "stars": 9116,
+      "forks": 713,
+      "currentPeriodStars": 1036,
       "builtBy": [
         {
           "username": "kieranklaassen",
@@ -228,27 +274,27 @@
           "avatar": "https://avatars.githubusercontent.com/u/517103?s=40&v=4"
         },
         {
-          "username": "julik",
-          "avatar": "https://avatars.githubusercontent.com/u/16446?s=40&v=4"
+          "username": "brayanjuls",
+          "avatar": "https://avatars.githubusercontent.com/u/7233005?s=40&v=4"
         },
         {
-          "username": "dshipper",
-          "avatar": "https://avatars.githubusercontent.com/u/263564?s=40&v=4"
+          "username": "julik",
+          "avatar": "https://avatars.githubusercontent.com/u/16446?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
-      "rank": 7,
+      "rank": 8,
       "author": "jezweb",
       "repoName": "claude-skills",
       "url": "https://github.com/jezweb/claude-skills",
       "description": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 488,
-      "forks": 36,
-      "currentPeriodStars": 191,
+      "stars": 495,
+      "forks": 37,
+      "currentPeriodStars": 134,
       "builtBy": [
         {
           "username": "claude",
@@ -262,16 +308,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 8,
+      "rank": 9,
       "author": "letta-ai",
       "repoName": "letta-code",
       "url": "https://github.com/letta-ai/letta-code",
       "description": "The memory-first coding agent",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1547,
+      "stars": 1556,
       "forks": 158,
-      "currentPeriodStars": 355,
+      "currentPeriodStars": 542,
       "builtBy": [
         {
           "username": "cpacker",
@@ -307,16 +353,16 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "author": "microsoft",
       "repoName": "vscode-copilot-chat",
       "url": "https://github.com/microsoft/vscode-copilot-chat",
       "description": "Copilot Chat extension for VS Code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9467,
-      "forks": 1653,
-      "currentPeriodStars": 57,
+      "stars": 9469,
+      "forks": 1652,
+      "currentPeriodStars": 51,
       "builtBy": [
         {
           "username": "DonJayamanne",
@@ -331,27 +377,27 @@
           "avatar": "https://avatars.githubusercontent.com/u/16353531?s=40&v=4"
         },
         {
-          "username": "apps/copilot-pull-request-reviewer",
-          "avatar": "https://avatars.githubusercontent.com/in/946600?s=40&v=4"
-        },
-        {
           "username": "bhavyaus",
           "avatar": "https://avatars.githubusercontent.com/u/25044782?s=40&v=4"
+        },
+        {
+          "username": "apps/copilot-pull-request-reviewer",
+          "avatar": "https://avatars.githubusercontent.com/in/946600?s=40&v=4"
         }
       ],
       "aiSummaries": null
     },
     {
-      "rank": 10,
+      "rank": 11,
       "author": "seerr-team",
       "repoName": "seerr",
       "url": "https://github.com/seerr-team/seerr",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9169,
-      "forks": 608,
-      "currentPeriodStars": 441,
+      "stars": 9319,
+      "forks": 611,
+      "currentPeriodStars": 728,
       "builtBy": [
         {
           "username": "fallenbagel",
@@ -388,16 +434,16 @@
       ]
     },
     {
-      "rank": 11,
+      "rank": 12,
       "author": "linshenkx",
       "repoName": "prompt-optimizer",
       "url": "https://github.com/linshenkx/prompt-optimizer",
       "description": "一款提示词优化器，助力于编写高质量的提示词",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21354,
-      "forks": 2583,
-      "currentPeriodStars": 884,
+      "stars": 21373,
+      "forks": 2587,
+      "currentPeriodStars": 850,
       "builtBy": [
         {
           "username": "linshenkx",
@@ -423,16 +469,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 12,
+      "rank": 13,
       "author": "virattt",
       "repoName": "dexter",
       "url": "https://github.com/virattt/dexter",
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15576,
-      "forks": 1860,
-      "currentPeriodStars": 2276,
+      "stars": 15600,
+      "forks": 1865,
+      "currentPeriodStars": 1655,
       "builtBy": [
         {
           "username": "virattt",

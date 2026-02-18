@@ -1,7 +1,7 @@
 {
-  "count": 18,
+  "count": 19,
   "since": "weekly",
-  "captured_at": "2026-02-17 12:18:46",
+  "captured_at": "2026-02-18 00:18:16",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2942,
-      "forks": 183,
-      "currentPeriodStars": 2342,
+      "stars": 3012,
+      "forks": 191,
+      "currentPeriodStars": 2461,
       "builtBy": [
         {
           "username": "Jeffallan",
@@ -51,9 +51,9 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32781,
-      "forks": 2190,
-      "currentPeriodStars": 7658,
+      "stars": 32874,
+      "forks": 2194,
+      "currentPeriodStars": 6121,
       "builtBy": [
         {
           "username": "aksg87",
@@ -91,9 +91,9 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6693,
-      "forks": 667,
-      "currentPeriodStars": 1697,
+      "stars": 7188,
+      "forks": 722,
+      "currentPeriodStars": 1778,
       "builtBy": [
         {
           "username": "p-e-w",
@@ -137,9 +137,9 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17386,
-      "forks": 3735,
-      "currentPeriodStars": 1299,
+      "stars": 17409,
+      "forks": 3740,
+      "currentPeriodStars": 849,
       "builtBy": [
         {
           "username": "hsliuping",
@@ -172,9 +172,9 @@
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6932,
-      "forks": 597,
-      "currentPeriodStars": 889,
+      "stars": 6959,
+      "forks": 602,
+      "currentPeriodStars": 1111,
       "builtBy": [
         {
           "username": "ruvnet",
@@ -205,9 +205,9 @@
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 13507,
-      "forks": 1616,
-      "currentPeriodStars": 697,
+      "stars": 13519,
+      "forks": 1619,
+      "currentPeriodStars": 714,
       "builtBy": [
         {
           "username": "LarFii",
@@ -234,15 +234,55 @@
     },
     {
       "rank": 7,
+      "author": "Shubhamsaboo",
+      "repoName": "awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 95693,
+      "forks": 13869,
+      "currentPeriodStars": 2218,
+      "builtBy": [
+        {
+          "username": "Shubhamsaboo",
+          "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&v=4"
+        },
+        {
+          "username": "Madhuvod",
+          "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&v=4"
+        },
+        {
+          "username": "libw0430",
+          "avatar": "https://avatars.githubusercontent.com/u/102198332?s=40&v=4"
+        },
+        {
+          "username": "awesomekoder",
+          "avatar": "https://avatars.githubusercontent.com/u/258367783?s=40&v=4"
+        },
+        {
+          "username": "AndrewHoh",
+          "avatar": "https://avatars.githubusercontent.com/u/774516?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "author": "karpathy",
       "repoName": "nanochat",
       "url": "https://github.com/karpathy/nanochat",
       "description": "The best ChatGPT that $100 can buy.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 43522,
-      "forks": 5671,
-      "currentPeriodStars": 803,
+      "stars": 43557,
+      "forks": 5676,
+      "currentPeriodStars": 763,
       "builtBy": [
         {
           "username": "karpathy",
@@ -268,16 +308,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 8,
+      "rank": 9,
       "author": "unslothai",
       "repoName": "unsloth",
       "url": "https://github.com/unslothai/unsloth",
       "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 52294,
-      "forks": 4322,
-      "currentPeriodStars": 546,
+      "stars": 52312,
+      "forks": 4326,
+      "currentPeriodStars": 548,
       "builtBy": [
         {
           "username": "danielhanchen",
@@ -308,16 +348,16 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "author": "hummingbot",
       "repoName": "hummingbot",
       "url": "https://github.com/hummingbot/hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 16777,
-      "forks": 4407,
-      "currentPeriodStars": 506,
+      "stars": 17024,
+      "forks": 4416,
+      "currentPeriodStars": 1032,
       "builtBy": [
         {
           "username": "cardosofede",
@@ -354,16 +394,16 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 11,
       "author": "cheahjs",
       "repoName": "free-llm-api-resources",
       "url": "https://github.com/cheahjs/free-llm-api-resources",
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11359,
-      "forks": 1120,
-      "currentPeriodStars": 2924,
+      "stars": 11416,
+      "forks": 1127,
+      "currentPeriodStars": 2855,
       "builtBy": [
         {
           "username": "cheahjs",
@@ -394,16 +434,16 @@
       ]
     },
     {
-      "rank": 11,
+      "rank": 12,
       "author": "element-hq",
       "repoName": "synapse",
       "url": "https://github.com/element-hq/synapse",
       "description": "Synapse: Matrix homeserver written in Python/Twisted + Rust",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3636,
-      "forks": 463,
-      "currentPeriodStars": 141,
+      "stars": 3647,
+      "forks": 464,
+      "currentPeriodStars": 134,
       "builtBy": [
         {
           "username": "erikjohnston",
@@ -429,16 +469,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 12,
+      "rank": 13,
       "author": "bregman-arie",
       "repoName": "devops-exercises",
       "url": "https://github.com/bregman-arie/devops-exercises",
       "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 81129,
-      "forks": 18615,
-      "currentPeriodStars": 242,
+      "stars": 81138,
+      "forks": 18627,
+      "currentPeriodStars": 230,
       "builtBy": [
         {
           "username": "surister",
@@ -464,16 +504,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 13,
+      "rank": 14,
       "author": "karpathy",
       "repoName": "nanoGPT",
       "url": "https://github.com/karpathy/nanoGPT",
       "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 53332,
-      "forks": 9027,
-      "currentPeriodStars": 555,
+      "stars": 53366,
+      "forks": 9033,
+      "currentPeriodStars": 531,
       "builtBy": [
         {
           "username": "karpathy",
@@ -499,16 +539,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 14,
+      "rank": 15,
       "author": "coleam00",
       "repoName": "context-engineering-intro",
       "url": "https://github.com/coleam00/context-engineering-intro",
       "description": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 12499,
-      "forks": 2617,
-      "currentPeriodStars": 142,
+      "stars": 12502,
+      "forks": 2615,
+      "currentPeriodStars": 140,
       "builtBy": [
         {
           "username": "coleam00",
@@ -522,16 +562,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 15,
+      "rank": 16,
       "author": "THUDM",
       "repoName": "slime",
       "url": "https://github.com/THUDM/slime",
       "description": "slime is an LLM post-training framework for RL Scaling.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4215,
-      "forks": 546,
-      "currentPeriodStars": 481,
+      "stars": 4227,
+      "forks": 547,
+      "currentPeriodStars": 495,
       "builtBy": [
         {
           "username": "zhuzilin",
@@ -562,16 +602,16 @@
       ]
     },
     {
-      "rank": 16,
+      "rank": 17,
       "author": "anthropics",
       "repoName": "claude-quickstarts",
       "url": "https://github.com/anthropics/claude-quickstarts",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14279,
-      "forks": 2423,
-      "currentPeriodStars": 399,
+      "stars": 14468,
+      "forks": 2426,
+      "currentPeriodStars": 481,
       "builtBy": [
         {
           "username": "x5a",
@@ -608,16 +648,16 @@
       ]
     },
     {
-      "rank": 17,
+      "rank": 18,
       "author": "databricks-solutions",
       "repoName": "ai-dev-kit",
       "url": "https://github.com/databricks-solutions/ai-dev-kit",
       "description": "Databricks Toolkit for Coding Agents provided by Field Engineering",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 333,
-      "forks": 78,
-      "currentPeriodStars": 115,
+      "stars": 353,
+      "forks": 80,
+      "currentPeriodStars": 129,
       "builtBy": [
         {
           "username": "calreynolds",
@@ -643,16 +683,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 18,
+      "rank": 19,
       "author": "TEN-framework",
       "repoName": "ten-framework",
       "url": "https://github.com/TEN-framework/ten-framework",
       "description": "Open-source framework for conversational voice AI agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10002,
+      "stars": 10013,
       "forks": 1190,
-      "currentPeriodStars": 156,
+      "currentPeriodStars": 161,
       "builtBy": [
         {
           "username": "plutoless",

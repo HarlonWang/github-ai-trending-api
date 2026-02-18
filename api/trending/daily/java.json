@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "daily",
-  "captured_at": "2026-02-17 12:18:03",
+  "captured_at": "2026-02-18 00:17:37",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32573,
-      "forks": 7280,
-      "currentPeriodStars": 1097,
+      "stars": 32796,
+      "forks": 7300,
+      "currentPeriodStars": 510,
       "builtBy": [
         {
           "username": "ashishps1",
@@ -53,9 +53,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 64662,
-      "forks": 7153,
-      "currentPeriodStars": 192,
+      "stars": 64719,
+      "forks": 7156,
+      "currentPeriodStars": 266,
       "builtBy": [
         {
           "username": "ryanmkurtz",
@@ -88,9 +88,9 @@
       "description": "🧩 Patches for ReVanced",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5341,
-      "forks": 681,
-      "currentPeriodStars": 26,
+      "stars": 5343,
+      "forks": 683,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "semantic-release-bot",
@@ -123,9 +123,9 @@
       "description": "Browse media content with your own rules on Android TV",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 28218,
+      "stars": 28231,
       "forks": 1520,
-      "currentPeriodStars": 28,
+      "currentPeriodStars": 26,
       "builtBy": [
         {
           "username": "yuliskov",
@@ -158,9 +158,9 @@
       "description": "A browser automation framework and ecosystem.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 34026,
-      "forks": 8644,
-      "currentPeriodStars": 8,
+      "stars": 34029,
+      "forks": 8645,
+      "currentPeriodStars": 10,
       "builtBy": [
         {
           "username": "shs96c",
@@ -193,9 +193,9 @@
       "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12253,
+      "stars": 12257,
       "forks": 2575,
-      "currentPeriodStars": 15,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
           "username": "mar-v-in",
@@ -229,7 +229,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 2936,
-      "forks": 1885,
+      "forks": 1887,
       "currentPeriodStars": 0,
       "builtBy": [
         {
@@ -298,8 +298,8 @@
       "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25825,
-      "forks": 7390,
+      "stars": 25828,
+      "forks": 7391,
       "currentPeriodStars": 8,
       "builtBy": [
         {
@@ -333,9 +333,9 @@
       "description": "Mirror of Apache Kafka",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 31922,
-      "forks": 14964,
-      "currentPeriodStars": 11,
+      "stars": 31924,
+      "forks": 14965,
+      "currentPeriodStars": 10,
       "builtBy": [
         {
           "username": "ijuma",
@@ -368,9 +368,9 @@
       "description": "A free, secure and open source app for Android to manage your 2-step verification tokens.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 11941,
+      "stars": 11947,
       "forks": 502,
-      "currentPeriodStars": 7,
+      "currentPeriodStars": 8,
       "builtBy": [
         {
           "username": "alexbakker",
@@ -405,7 +405,7 @@
       "languageColor": "#b07219",
       "stars": 660,
       "forks": 80,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "Ninjabrain1",
@@ -420,12 +420,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/93849805?s=40&v=4"
         },
         {
-          "username": "Blu3Smoke",
-          "avatar": "https://avatars.githubusercontent.com/u/99379458?s=40&v=4"
-        },
-        {
           "username": "Slackow",
           "avatar": "https://avatars.githubusercontent.com/u/32826498?s=40&v=4"
+        },
+        {
+          "username": "Blu3Smoke",
+          "avatar": "https://avatars.githubusercontent.com/u/99379458?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -438,9 +438,9 @@
       "description": "A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 2133,
-      "forks": 147,
-      "currentPeriodStars": 12,
+      "stars": 2136,
+      "forks": 146,
+      "currentPeriodStars": 9,
       "builtBy": [
         {
           "username": "jarvis2f",
@@ -465,9 +465,9 @@
       "description": "Customizable and privacy-conscious open-source keyboard",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4651,
-      "forks": 224,
-      "currentPeriodStars": 8,
+      "stars": 4657,
+      "forks": 225,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "Helium314",
@@ -500,9 +500,9 @@
       "description": "电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 2861,
+      "stars": 2864,
       "forks": 288,
-      "currentPeriodStars": 10,
+      "currentPeriodStars": 8,
       "builtBy": [
         {
           "username": "Eanya-Tonic",
@@ -527,9 +527,9 @@
       "description": "MCP Server for Ghidra",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 7610,
+      "stars": 7617,
       "forks": 653,
-      "currentPeriodStars": 26,
+      "currentPeriodStars": 29,
       "builtBy": [
         {
           "username": "LaurieWired",
@@ -562,7 +562,7 @@
       "description": "signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4175,
+      "stars": 4180,
       "forks": 373,
       "currentPeriodStars": 9,
       "builtBy": [
@@ -597,9 +597,9 @@
       "description": "QNotified phoenix - To make OICQ great again",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5425,
-      "forks": 404,
-      "currentPeriodStars": 4,
+      "stars": 5427,
+      "forks": 403,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "cinit",
@@ -632,9 +632,9 @@
       "description": "morphe patches for twitter",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 2693,
+      "stars": 2696,
       "forks": 72,
-      "currentPeriodStars": 12,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "crimera",

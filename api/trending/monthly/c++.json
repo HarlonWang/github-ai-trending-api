@@ -1,7 +1,7 @@
 {
   "count": 25,
   "since": "monthly",
-  "captured_at": "2026-02-17 12:20:08",
+  "captured_at": "2026-02-18 00:19:36",
   "data": [
     {
       "rank": 1,
@@ -13,7 +13,7 @@
       "languageColor": "#f34b7d",
       "stars": 12491,
       "forks": 986,
-      "currentPeriodStars": 537,
+      "currentPeriodStars": 535,
       "builtBy": [
         {
           "username": "beginlner",
@@ -46,9 +46,9 @@
       "description": "MLX: An array framework for Apple silicon",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 23962,
+      "stars": 23970,
       "forks": 1515,
-      "currentPeriodStars": 512,
+      "currentPeriodStars": 509,
       "builtBy": [
         {
           "username": "awni",
@@ -81,9 +81,9 @@
       "description": "The ultimate Geometry Dash modding framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1675,
-      "forks": 300,
-      "currentPeriodStars": 293,
+      "stars": 1681,
+      "forks": 302,
+      "currentPeriodStars": 310,
       "builtBy": [
         {
           "username": "altalk23",
@@ -116,9 +116,9 @@
       "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18714,
+      "stars": 18724,
       "forks": 1655,
-      "currentPeriodStars": 1811,
+      "currentPeriodStars": 1806,
       "builtBy": [
         {
           "username": "k4yt3x",
@@ -151,8 +151,8 @@
       "description": "PC Software for BambuLab and other 3D printers",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4024,
-      "forks": 620,
+      "stars": 4026,
+      "forks": 622,
       "currentPeriodStars": 358,
       "builtBy": [
         {
@@ -186,9 +186,9 @@
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 101829,
-      "forks": 9077,
-      "currentPeriodStars": 589,
+      "stars": 101834,
+      "forks": 9078,
+      "currentPeriodStars": 590,
       "builtBy": [
         {
           "username": "DHowett",
@@ -221,7 +221,7 @@
       "description": "Notepad++ official repository",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 27162,
+      "stars": 27165,
       "forks": 5106,
       "currentPeriodStars": 485,
       "builtBy": [
@@ -256,9 +256,9 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 106731,
-      "forks": 24355,
-      "currentPeriodStars": 1450,
+      "stars": 106747,
+      "forks": 24357,
+      "currentPeriodStars": 1439,
       "builtBy": [
         {
           "username": "akien-mga",
@@ -291,9 +291,9 @@
       "description": "MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1789,
-      "forks": 470,
-      "currentPeriodStars": 92,
+      "stars": 1793,
+      "forks": 469,
+      "currentPeriodStars": 96,
       "builtBy": [
         {
           "username": "kkaefer",
@@ -326,9 +326,9 @@
       "description": "Port of OpenAI's Whisper model in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 46775,
-      "forks": 5217,
-      "currentPeriodStars": 1037,
+      "stars": 46791,
+      "forks": 5218,
+      "currentPeriodStars": 1021,
       "builtBy": [
         {
           "username": "ggerganov",
@@ -361,9 +361,9 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 95171,
-      "forks": 14942,
-      "currentPeriodStars": 2344,
+      "stars": 95205,
+      "forks": 14950,
+      "currentPeriodStars": 2340,
       "builtBy": [
         {
           "username": "ggerganov",
@@ -396,9 +396,9 @@
       "description": "A cross-platform, reimplementation of Notepad++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 13459,
+      "stars": 13461,
       "forks": 811,
-      "currentPeriodStars": 373,
+      "currentPeriodStars": 374,
       "builtBy": [
         {
           "username": "dail8859",
@@ -431,9 +431,9 @@
       "description": "Official Transmission BitTorrent client repository",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14269,
+      "stars": 14271,
       "forks": 1340,
-      "currentPeriodStars": 369,
+      "currentPeriodStars": 364,
       "builtBy": [
         {
           "username": "ckerr",
@@ -466,9 +466,9 @@
       "description": "PlayStation 3 emulator and debugger",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18178,
-      "forks": 2222,
-      "currentPeriodStars": 222,
+      "stars": 18186,
+      "forks": 2223,
+      "currentPeriodStars": 227,
       "builtBy": [
         {
           "username": "Megamouse",
@@ -501,7 +501,7 @@
       "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29316,
+      "stars": 29319,
       "forks": 1853,
       "currentPeriodStars": 709,
       "builtBy": [
@@ -536,9 +536,9 @@
       "description": "🦊 Anti-detect browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5384,
-      "forks": 495,
-      "currentPeriodStars": 598,
+      "stars": 5395,
+      "forks": 496,
+      "currentPeriodStars": 606,
       "builtBy": [
         {
           "username": "daijro",
@@ -571,8 +571,8 @@
       "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19641,
-      "forks": 2113,
+      "stars": 19645,
+      "forks": 2114,
       "currentPeriodStars": 296,
       "builtBy": [
         {
@@ -606,9 +606,9 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10042,
-      "forks": 709,
-      "currentPeriodStars": 479,
+      "stars": 10061,
+      "forks": 711,
+      "currentPeriodStars": 492,
       "builtBy": [
         {
           "username": "pokamest",
@@ -641,9 +641,9 @@
       "description": "Production ready toolkit to run AI locally",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8316,
-      "forks": 254,
-      "currentPeriodStars": 4618,
+      "stars": 8409,
+      "forks": 255,
+      "currentPeriodStars": 4696,
       "builtBy": [
         {
           "username": "sanchitmonga22",
@@ -658,8 +658,8 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "josuediazflores",
-          "avatar": "https://avatars.githubusercontent.com/u/152042011?s=40&v=4"
+          "username": "vaibhav936",
+          "avatar": "https://avatars.githubusercontent.com/u/32448489?s=40&v=4"
         },
         {
           "username": "cursoragent",
@@ -676,9 +676,9 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29868,
-      "forks": 6273,
-      "currentPeriodStars": 345,
+      "stars": 29878,
+      "forks": 6275,
+      "currentPeriodStars": 359,
       "builtBy": [
         {
           "username": "john-preston",
@@ -711,9 +711,9 @@
       "description": "An open-source 3DS emulator project based on Citra.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 6535,
-      "forks": 414,
-      "currentPeriodStars": 317,
+      "stars": 6540,
+      "forks": 416,
+      "currentPeriodStars": 319,
       "builtBy": [
         {
           "username": "bunnei",
@@ -746,8 +746,8 @@
       "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 77128,
-      "forks": 8315,
+      "stars": 77127,
+      "forks": 8316,
       "currentPeriodStars": 256,
       "builtBy": [
         {
@@ -781,9 +781,9 @@
       "description": "Tool to statically recompile N64 games into native executables",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7695,
-      "forks": 417,
-      "currentPeriodStars": 252,
+      "stars": 7697,
+      "forks": 418,
+      "currentPeriodStars": 255,
       "builtBy": [
         {
           "username": "Mr-Wiseguy",
@@ -816,9 +816,9 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2743,
+      "stars": 2745,
       "forks": 216,
-      "currentPeriodStars": 469,
+      "currentPeriodStars": 482,
       "builtBy": [
         {
           "username": "geo-tp",
@@ -851,9 +851,9 @@
       "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 45925,
-      "forks": 8083,
-      "currentPeriodStars": 768,
+      "stars": 45934,
+      "forks": 8085,
+      "currentPeriodStars": 770,
       "builtBy": [
         {
           "username": "alexey-milovidov",
@@ -872,8 +872,8 @@
           "avatar": "https://avatars.githubusercontent.com/u/430798?s=40&v=4"
         },
         {
-          "username": "Avogar",
-          "avatar": "https://avatars.githubusercontent.com/u/48961922?s=40&v=4"
+          "username": "rschu1ze",
+          "avatar": "https://avatars.githubusercontent.com/u/100446237?s=40&v=4"
         }
       ],
       "aiSummaries": null

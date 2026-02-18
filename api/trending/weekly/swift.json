@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "weekly",
-  "captured_at": "2026-02-17 12:19:25",
+  "captured_at": "2026-02-18 00:18:54",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 7137,
-      "forks": 499,
-      "currentPeriodStars": 201,
+      "stars": 7146,
+      "forks": 500,
+      "currentPeriodStars": 212,
       "builtBy": [
         {
           "username": "Alexander5015",
@@ -46,9 +46,9 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 24534,
-      "forks": 651,
-      "currentPeriodStars": 288,
+      "stars": 24548,
+      "forks": 654,
+      "currentPeriodStars": 268,
       "builtBy": [
         {
           "username": "jglogan",
@@ -81,9 +81,9 @@
       "description": "Virtual machines for iOS and macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 32850,
+      "stars": 32856,
       "forks": 1651,
-      "currentPeriodStars": 106,
+      "currentPeriodStars": 103,
       "builtBy": [
         {
           "username": "osy",
@@ -116,9 +116,9 @@
       "description": "A toolkit to make debugging iOS applications easier 🚀",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1577,
+      "stars": 1578,
       "forks": 133,
-      "currentPeriodStars": 424,
+      "currentPeriodStars": 419,
       "builtBy": [
         {
           "username": "MaatheusGois",
@@ -156,9 +156,9 @@
       "description": "AeroSpace is an i3-like tiling window manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 18917,
-      "forks": 419,
-      "currentPeriodStars": 168,
+      "stars": 18937,
+      "forks": 421,
+      "currentPeriodStars": 174,
       "builtBy": [
         {
           "username": "nikitabobko",
@@ -191,9 +191,9 @@
       "description": "A modular Swift SDK for audio processing with MLX on Apple Silicon",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 212,
+      "stars": 214,
       "forks": 27,
-      "currentPeriodStars": 76,
+      "currentPeriodStars": 46,
       "builtBy": [
         {
           "username": "Blaizzy",
@@ -226,9 +226,9 @@
       "description": "Telegram-iOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8009,
-      "forks": 2413,
-      "currentPeriodStars": 27,
+      "stars": 8010,
+      "forks": 2415,
+      "currentPeriodStars": 22,
       "builtBy": [
         {
           "username": "laktyushin",
@@ -261,9 +261,9 @@
       "description": "Elegant HTTP Networking in Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 42349,
+      "stars": 42350,
       "forks": 7673,
-      "currentPeriodStars": 19,
+      "currentPeriodStars": 18,
       "builtBy": [
         {
           "username": "cnoon",
@@ -296,9 +296,9 @@
       "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3809,
-      "forks": 484,
-      "currentPeriodStars": 117,
+      "stars": 3822,
+      "forks": 487,
+      "currentPeriodStars": 161,
       "builtBy": [
         {
           "username": "Beingpax",
@@ -332,8 +332,8 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": 14896,
-      "forks": 473,
-      "currentPeriodStars": 28,
+      "forks": 474,
+      "currentPeriodStars": 26,
       "builtBy": [
         {
           "username": "IsaacMarovitz",
@@ -366,9 +366,9 @@
       "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14352,
+      "stars": 14359,
       "forks": 1636,
-      "currentPeriodStars": 26,
+      "currentPeriodStars": 32,
       "builtBy": [
         {
           "username": "stephencelis",
@@ -401,9 +401,9 @@
       "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 32437,
+      "stars": 32443,
       "forks": 930,
-      "currentPeriodStars": 87,
+      "currentPeriodStars": 90,
       "builtBy": [
         {
           "username": "waydabber",
@@ -436,9 +436,9 @@
       "description": "RSS reader for macOS and iOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 9686,
+      "stars": 9689,
       "forks": 644,
-      "currentPeriodStars": 84,
+      "currentPeriodStars": 68,
       "builtBy": [
         {
           "username": "brentsimmons",
@@ -471,7 +471,7 @@
       "description": "Commonly used data structures for Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 4353,
+      "stars": 4354,
       "forks": 362,
       "currentPeriodStars": 26,
       "builtBy": [
@@ -506,9 +506,9 @@
       "description": "CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 698,
-      "forks": 78,
-      "currentPeriodStars": 105,
+      "stars": 705,
+      "forks": 79,
+      "currentPeriodStars": 108,
       "builtBy": [
         {
           "username": "steipete",
@@ -541,9 +541,9 @@
       "description": "Windows alt-tab on macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14794,
-      "forks": 487,
-      "currentPeriodStars": 128,
+      "stars": 14804,
+      "forks": 488,
+      "currentPeriodStars": 141,
       "builtBy": [
         {
           "username": "lwouis",
@@ -576,9 +576,9 @@
       "description": "📸 Delightful Swift snapshot testing.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 4146,
+      "stars": 4147,
       "forks": 654,
-      "currentPeriodStars": 4,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "stephencelis",
@@ -611,9 +611,9 @@
       "description": "An iOS library to natively render After Effects vector animations",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 26670,
-      "forks": 3837,
-      "currentPeriodStars": 10,
+      "stars": 26669,
+      "forks": 3836,
+      "currentPeriodStars": 11,
       "builtBy": [
         {
           "username": "buba447",
@@ -646,8 +646,8 @@
       "description": "A private messenger for iOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 11855,
-      "forks": 3353,
+      "stars": 11857,
+      "forks": 3352,
       "currentPeriodStars": 23,
       "builtBy": [
         {

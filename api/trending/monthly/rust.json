@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "monthly",
-  "captured_at": "2026-02-17 12:19:58",
+  "captured_at": "2026-02-18 00:19:27",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19415,
-      "forks": 842,
-      "currentPeriodStars": 1942,
+      "stars": 19424,
+      "forks": 843,
+      "currentPeriodStars": 1989,
       "builtBy": [
         {
           "username": "krlvi",
@@ -32,8 +32,8 @@
           "avatar": "https://avatars.githubusercontent.com/u/15010292?s=40&v=4"
         },
         {
-          "username": "Caleb-T-Owens",
-          "avatar": "https://avatars.githubusercontent.com/u/13354155?s=40&v=4"
+          "username": "Byron",
+          "avatar": "https://avatars.githubusercontent.com/u/63622?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -46,9 +46,9 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60767,
-      "forks": 8031,
-      "currentPeriodStars": 4701,
+      "stars": 60866,
+      "forks": 8046,
+      "currentPeriodStars": 4805,
       "builtBy": [
         {
           "username": "bolinfest",
@@ -81,9 +81,9 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30546,
-      "forks": 2762,
-      "currentPeriodStars": 4640,
+      "stars": 30581,
+      "forks": 2765,
+      "currentPeriodStars": 4645,
       "builtBy": [
         {
           "username": "angiejones",
@@ -94,12 +94,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/22990146?s=40&v=4"
         },
         {
-          "username": "dianed-square",
-          "avatar": "https://avatars.githubusercontent.com/u/73617011?s=40&v=4"
-        },
-        {
           "username": "EbonyLouis",
           "avatar": "https://avatars.githubusercontent.com/u/55366651?s=40&v=4"
+        },
+        {
+          "username": "dianed-square",
+          "avatar": "https://avatars.githubusercontent.com/u/73617011?s=40&v=4"
         },
         {
           "username": "michaelneale",
@@ -116,9 +116,9 @@
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 23487,
-      "forks": 2654,
-      "currentPeriodStars": 9608,
+      "stars": 23510,
+      "forks": 2656,
+      "currentPeriodStars": 9400,
       "builtBy": [
         {
           "username": "lbjlaq",
@@ -151,9 +151,9 @@
       "description": "An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1817,
-      "forks": 183,
-      "currentPeriodStars": 1128,
+      "stars": 1823,
+      "forks": 185,
+      "currentPeriodStars": 1092,
       "builtBy": [
         {
           "username": "mikeyobrien",
@@ -186,9 +186,9 @@
       "description": "⚡ Better `pre-commit`, re-engineered in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6236,
-      "forks": 166,
-      "currentPeriodStars": 2686,
+      "stars": 6247,
+      "forks": 167,
+      "currentPeriodStars": 2650,
       "builtBy": [
         {
           "username": "j178",
@@ -221,9 +221,9 @@
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6939,
-      "forks": 435,
-      "currentPeriodStars": 489,
+      "stars": 6948,
+      "forks": 437,
+      "currentPeriodStars": 485,
       "builtBy": [
         {
           "username": "Snowiiii",
@@ -256,9 +256,9 @@
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19929,
-      "forks": 2343,
-      "currentPeriodStars": 2471,
+      "stars": 19983,
+      "forks": 2348,
+      "currentPeriodStars": 2769,
       "builtBy": [
         {
           "username": "cjdsellers",
@@ -302,9 +302,9 @@
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 102781,
-      "forks": 3393,
-      "currentPeriodStars": 1557,
+      "stars": 102809,
+      "forks": 3394,
+      "currentPeriodStars": 1544,
       "builtBy": [
         {
           "username": "lucasfernog",
@@ -337,9 +337,9 @@
       "description": "screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16907,
-      "forks": 1402,
-      "currentPeriodStars": 539,
+      "stars": 16911,
+      "forks": 1403,
+      "currentPeriodStars": 545,
       "builtBy": [
         {
           "username": "louis030195",
@@ -372,9 +372,9 @@
       "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29814,
+      "stars": 29819,
       "forks": 2250,
-      "currentPeriodStars": 308,
+      "currentPeriodStars": 305,
       "builtBy": [
         {
           "username": "sokra",
@@ -407,9 +407,9 @@
       "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29276,
-      "forks": 965,
-      "currentPeriodStars": 1213,
+      "stars": 29284,
+      "forks": 966,
+      "currentPeriodStars": 1219,
       "builtBy": [
         {
           "username": "qarmin",
@@ -424,12 +424,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/2028476?s=40&v=4"
         },
         {
-          "username": "pczarn",
-          "avatar": "https://avatars.githubusercontent.com/u/3356767?s=40&v=4"
-        },
-        {
           "username": "jlesage",
           "avatar": "https://avatars.githubusercontent.com/u/1791123?s=40&v=4"
+        },
+        {
+          "username": "pczarn",
+          "avatar": "https://avatars.githubusercontent.com/u/3356767?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -442,9 +442,9 @@
       "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 24190,
-      "forks": 1201,
-      "currentPeriodStars": 761,
+      "stars": 24198,
+      "forks": 1203,
+      "currentPeriodStars": 753,
       "builtBy": [
         {
           "username": "wez",
@@ -477,9 +477,9 @@
       "description": "A terminal workspace with batteries included",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29082,
-      "forks": 961,
-      "currentPeriodStars": 910,
+      "stars": 29101,
+      "forks": 963,
+      "currentPeriodStars": 914,
       "builtBy": [
         {
           "username": "imsnif",
@@ -512,9 +512,9 @@
       "description": "The user-friendly command line shell.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32583,
-      "forks": 2226,
-      "currentPeriodStars": 537,
+      "stars": 32588,
+      "forks": 2228,
+      "currentPeriodStars": 545,
       "builtBy": [
         {
           "username": "ridiculousfish",
@@ -547,9 +547,9 @@
       "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31105,
+      "stars": 31109,
       "forks": 2940,
-      "currentPeriodStars": 364,
+      "currentPeriodStars": 367,
       "builtBy": [
         {
           "username": "traviscibot",
@@ -582,8 +582,8 @@
       "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 26458,
-      "forks": 2812,
+      "stars": 26465,
+      "forks": 2814,
       "currentPeriodStars": 736,
       "builtBy": [
         {
@@ -617,9 +617,9 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2151,
-      "forks": 80,
-      "currentPeriodStars": 972,
+      "stars": 2174,
+      "forks": 79,
+      "currentPeriodStars": 964,
       "builtBy": [
         {
           "username": "max-sixty",
@@ -652,9 +652,9 @@
       "description": "dev tools, env vars, task runner",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 24641,
-      "forks": 885,
-      "currentPeriodStars": 1576,
+      "stars": 24667,
+      "forks": 886,
+      "currentPeriodStars": 1602,
       "builtBy": [
         {
           "username": "jdx",
@@ -687,9 +687,9 @@
       "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 55944,
+      "stars": 55946,
       "forks": 2378,
-      "currentPeriodStars": 594,
+      "currentPeriodStars": 597,
       "builtBy": [
         {
           "username": "Kerollmops",
@@ -722,9 +722,9 @@
       "description": "Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5440,
-      "forks": 671,
-      "currentPeriodStars": 166,
+      "stars": 5446,
+      "forks": 672,
+      "currentPeriodStars": 169,
       "builtBy": [
         {
           "username": "jrose-signal",

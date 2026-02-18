@@ -1,7 +1,7 @@
 {
   "count": 17,
   "since": "weekly",
-  "captured_at": "2026-02-17 12:19:28",
+  "captured_at": "2026-02-18 00:18:58",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2862,
-      "forks": 203,
-      "currentPeriodStars": 119,
+      "stars": 2865,
+      "forks": 204,
+      "currentPeriodStars": 124,
       "builtBy": [
         {
           "username": "theovilardo",
@@ -46,9 +46,9 @@
       "description": "Android app for streaming and downloading media.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 8903,
-      "forks": 779,
-      "currentPeriodStars": 81,
+      "stars": 8902,
+      "forks": 780,
+      "currentPeriodStars": 76,
       "builtBy": [
         {
           "username": "LagradOst",
@@ -81,9 +81,9 @@
       "description": "Software simulation for Android hardware-backed key pairs with key attestation",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 835,
+      "stars": 838,
       "forks": 82,
-      "currentPeriodStars": 96,
+      "currentPeriodStars": 77,
       "builtBy": [
         {
           "username": "JingMatrix",
@@ -116,9 +116,9 @@
       "description": "Lightweight unofficial Steam client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2633,
-      "forks": 108,
-      "currentPeriodStars": 160,
+      "stars": 2686,
+      "forks": 107,
+      "currentPeriodStars": 206,
       "builtBy": [
         {
           "username": "utkarshdalal",
@@ -151,9 +151,9 @@
       "description": "App to bypass censorship on Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 5033,
+      "stars": 5035,
       "forks": 246,
-      "currentPeriodStars": 35,
+      "currentPeriodStars": 31,
       "builtBy": [
         {
           "username": "dovecoteescapee",
@@ -186,9 +186,9 @@
       "description": "A feature-rich weather app with good visualizations and more than 50 sources.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 9332,
+      "stars": 9340,
       "forks": 308,
-      "currentPeriodStars": 91,
+      "currentPeriodStars": 97,
       "builtBy": [
         {
           "username": "papjul",
@@ -221,9 +221,9 @@
       "description": "The cutest Material 3 Expressive music streaming client for Android, built for performance and extensibility.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 703,
+      "stars": 707,
       "forks": 21,
-      "currentPeriodStars": 107,
+      "currentPeriodStars": 114,
       "builtBy": [
         {
           "username": "koiverse",
@@ -256,9 +256,9 @@
       "description": "去广告、占用低、AI大模型powered的新时代知乎安卓端体验。",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1185,
+      "stars": 1188,
       "forks": 30,
-      "currentPeriodStars": 226,
+      "currentPeriodStars": 228,
       "builtBy": [
         {
           "username": "zly2006",
@@ -291,9 +291,9 @@
       "description": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 18756,
-      "forks": 1486,
-      "currentPeriodStars": 144,
+      "stars": 18760,
+      "forks": 1485,
+      "currentPeriodStars": 130,
       "builtBy": [
         {
           "username": "arm64v8a",
@@ -326,8 +326,8 @@
       "description": "A Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 15024,
-      "forks": 3122,
+      "stars": 15026,
+      "forks": 3123,
       "currentPeriodStars": 76,
       "builtBy": [
         {
@@ -361,9 +361,9 @@
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 21972,
-      "forks": 2022,
-      "currentPeriodStars": 283,
+      "stars": 21991,
+      "forks": 2023,
+      "currentPeriodStars": 290,
       "builtBy": [
         {
           "username": "RikkaW",
@@ -396,9 +396,9 @@
       "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 36027,
+      "stars": 36032,
       "forks": 1749,
-      "currentPeriodStars": 203,
+      "currentPeriodStars": 200,
       "builtBy": [
         {
           "username": "lisonge",
@@ -431,9 +431,9 @@
       "description": "An OSS Android TV client for Jellyfin",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1225,
-      "forks": 39,
-      "currentPeriodStars": 74,
+      "stars": 1232,
+      "forks": 40,
+      "currentPeriodStars": 77,
       "builtBy": [
         {
           "username": "damontecres",
@@ -466,7 +466,7 @@
       "description": "Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 18815,
+      "stars": 18817,
       "forks": 1389,
       "currentPeriodStars": 33,
       "builtBy": [
@@ -501,9 +501,9 @@
       "description": "A shadowsocks client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 36662,
-      "forks": 11540,
-      "currentPeriodStars": 34,
+      "stars": 36664,
+      "forks": 11541,
+      "currentPeriodStars": 32,
       "builtBy": [
         {
           "username": "Mygod",
@@ -536,7 +536,7 @@
       "description": "A app for managing, sharing, and exploring Magisk modules across repositories",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1854,
+      "stars": 1855,
       "forks": 187,
       "currentPeriodStars": 14,
       "builtBy": [
@@ -571,7 +571,7 @@
       "description": "哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3762,
+      "stars": 3763,
       "forks": 463,
       "currentPeriodStars": 39,
       "builtBy": [

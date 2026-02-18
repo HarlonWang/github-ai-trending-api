@@ -1,7 +1,7 @@
 {
   "count": 14,
   "since": "daily",
-  "captured_at": "2026-02-17 12:18:36",
+  "captured_at": "2026-02-18 00:18:08",
   "data": [
     {
       "rank": 1,
@@ -13,7 +13,7 @@
       "languageColor": "#A97BFF",
       "stars": 4690,
       "forks": 562,
-      "currentPeriodStars": 3,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "lizongying",
@@ -46,8 +46,8 @@
       "description": "A Minecraft: Java Edition Launcher for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 782,
-      "forks": 71,
+      "stars": 785,
+      "forks": 72,
       "currentPeriodStars": 10,
       "builtBy": [
         {
@@ -81,9 +81,9 @@
       "description": "📱 Nextcloud Android app",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 5146,
+      "stars": 5149,
       "forks": 1922,
-      "currentPeriodStars": 5,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "AndyScherzinger",
@@ -116,9 +116,9 @@
       "description": "Free and open source manga reader for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3330,
+      "stars": 3332,
       "forks": 135,
-      "currentPeriodStars": 7,
+      "currentPeriodStars": 8,
       "builtBy": [
         {
           "username": "arkon",
@@ -151,9 +151,9 @@
       "description": "安卓电视直播APK：IPTV/網頁視頻支持X5，可自定義源(支持webview://格式)，IPTV支持畫中畫和熄屏播放。 Android TV Live APK: IPTV/web video supports X5, customizable sources (support webview:// format), IPTV supports picture-in-picture and off-screen playback.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1125,
+      "stars": 1124,
       "forks": 133,
-      "currentPeriodStars": 6,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "horsemail",
@@ -186,9 +186,9 @@
       "description": "The Github home of Orbot: Tor on Android (Also available on gitlab!)",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3030,
+      "stars": 3033,
       "forks": 431,
-      "currentPeriodStars": 0,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "n8fr8",
@@ -221,7 +221,7 @@
       "description": "Essential tools, mods and workarounds for Pixels and other Androids",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 979,
+      "stars": 984,
       "forks": 10,
       "currentPeriodStars": 3,
       "builtBy": [
@@ -248,8 +248,8 @@
       "description": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 20595,
-      "forks": 4191,
+      "stars": 20593,
+      "forks": 4192,
       "currentPeriodStars": 4,
       "builtBy": [
         {
@@ -283,9 +283,9 @@
       "description": "privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2862,
-      "forks": 203,
-      "currentPeriodStars": 23,
+      "stars": 2865,
+      "forks": 204,
+      "currentPeriodStars": 15,
       "builtBy": [
         {
           "username": "theovilardo",
@@ -318,8 +318,8 @@
       "description": "video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3011,
-      "forks": 370,
+      "stars": 3014,
+      "forks": 369,
       "currentPeriodStars": 3,
       "builtBy": [
         {
@@ -353,9 +353,9 @@
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 21972,
-      "forks": 2022,
-      "currentPeriodStars": 38,
+      "stars": 21990,
+      "forks": 2023,
+      "currentPeriodStars": 39,
       "builtBy": [
         {
           "username": "RikkaW",
@@ -388,9 +388,9 @@
       "description": "Full-featured audio/video downloader for Android using yt-dlp",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 7712,
+      "stars": 7714,
       "forks": 320,
-      "currentPeriodStars": 13,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "deniscerri",
@@ -419,7 +419,7 @@
       "description": "使用 Material Design 3 全新设计的阅读 3.0",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2062,
+      "stars": 2064,
       "forks": 64,
       "currentPeriodStars": 9,
       "builtBy": [
@@ -454,9 +454,9 @@
       "description": "Bitwarden mobile apps (Password Manager and Authenticator) for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 8439,
-      "forks": 938,
-      "currentPeriodStars": 6,
+      "stars": 8441,
+      "forks": 937,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "david-livefront",

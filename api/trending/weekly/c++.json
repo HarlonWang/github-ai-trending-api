@@ -1,7 +1,7 @@
 {
   "count": 20,
   "since": "weekly",
-  "captured_at": "2026-02-17 12:19:14",
+  "captured_at": "2026-02-18 00:18:45",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4209,
-      "forks": 223,
-      "currentPeriodStars": 2830,
+      "stars": 4473,
+      "forks": 239,
+      "currentPeriodStars": 3815,
       "builtBy": [
         {
           "username": "iaojnh",
@@ -56,9 +56,9 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2743,
+      "stars": 2745,
       "forks": 216,
-      "currentPeriodStars": 169,
+      "currentPeriodStars": 178,
       "builtBy": [
         {
           "username": "geo-tp",
@@ -91,9 +91,9 @@
       "description": "Mumble is an open-source, low-latency, high quality voice chat software.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7731,
-      "forks": 1280,
-      "currentPeriodStars": 139,
+      "stars": 7738,
+      "forks": 1282,
+      "currentPeriodStars": 131,
       "builtBy": [
         {
           "username": "thorvald",
@@ -126,9 +126,9 @@
       "description": "Android real-time display control software",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28364,
-      "forks": 3443,
-      "currentPeriodStars": 333,
+      "stars": 28372,
+      "forks": 3445,
+      "currentPeriodStars": 377,
       "builtBy": [
         {
           "username": "barry-ran",
@@ -161,9 +161,9 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 95171,
-      "forks": 14942,
-      "currentPeriodStars": 492,
+      "stars": 95205,
+      "forks": 14950,
+      "currentPeriodStars": 477,
       "builtBy": [
         {
           "username": "ggerganov",
@@ -196,9 +196,9 @@
       "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12595,
-      "forks": 1753,
-      "currentPeriodStars": 92,
+      "stars": 12602,
+      "forks": 1754,
+      "currentPeriodStars": 97,
       "builtBy": [
         {
           "username": "SoftFever",
@@ -231,9 +231,9 @@
       "description": "Production ready toolkit to run AI locally",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8317,
-      "forks": 254,
-      "currentPeriodStars": 1639,
+      "stars": 8409,
+      "forks": 255,
+      "currentPeriodStars": 1641,
       "builtBy": [
         {
           "username": "sanchitmonga22",
@@ -248,8 +248,8 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "josuediazflores",
-          "avatar": "https://avatars.githubusercontent.com/u/152042011?s=40&v=4"
+          "username": "vaibhav936",
+          "avatar": "https://avatars.githubusercontent.com/u/32448489?s=40&v=4"
         },
         {
           "username": "cursoragent",
@@ -266,9 +266,9 @@
       "description": "The ultimate Geometry Dash modding framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1675,
-      "forks": 300,
-      "currentPeriodStars": 68,
+      "stars": 1681,
+      "forks": 302,
+      "currentPeriodStars": 71,
       "builtBy": [
         {
           "username": "altalk23",
@@ -301,9 +301,9 @@
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19593,
+      "stars": 19596,
       "forks": 2488,
-      "currentPeriodStars": 164,
+      "currentPeriodStars": 145,
       "builtBy": [
         {
           "username": "MistEO",
@@ -336,9 +336,9 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10042,
-      "forks": 709,
-      "currentPeriodStars": 136,
+      "stars": 10061,
+      "forks": 711,
+      "currentPeriodStars": 139,
       "builtBy": [
         {
           "username": "pokamest",
@@ -371,9 +371,9 @@
       "description": "Self-hosted game stream host for Moonlight.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 34541,
-      "forks": 1700,
-      "currentPeriodStars": 225,
+      "stars": 34556,
+      "forks": 1701,
+      "currentPeriodStars": 229,
       "builtBy": [
         {
           "username": "ReenigneArcher",
@@ -406,9 +406,9 @@
       "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14261,
+      "stars": 14264,
       "forks": 3074,
-      "currentPeriodStars": 32,
+      "currentPeriodStars": 33,
       "builtBy": [
         {
           "username": "RomanPudashkin",
@@ -441,9 +441,9 @@
       "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7519,
-      "forks": 530,
-      "currentPeriodStars": 26,
+      "stars": 7521,
+      "forks": 534,
+      "currentPeriodStars": 25,
       "builtBy": [
         {
           "username": "jasnell",
@@ -476,9 +476,9 @@
       "description": "",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 61,
+      "stars": 62,
       "forks": 43,
-      "currentPeriodStars": 23,
+      "currentPeriodStars": 22,
       "builtBy": [
         {
           "username": "Huaweicloud-SDK",
@@ -503,9 +503,9 @@
       "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. ✌️ 🎉",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10661,
+      "stars": 10666,
       "forks": 985,
-      "currentPeriodStars": 66,
+      "currentPeriodStars": 68,
       "builtBy": [
         {
           "username": "Alexays",
@@ -538,9 +538,9 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29868,
-      "forks": 6273,
-      "currentPeriodStars": 93,
+      "stars": 29878,
+      "forks": 6275,
+      "currentPeriodStars": 92,
       "builtBy": [
         {
           "username": "john-preston",
@@ -573,7 +573,7 @@
       "description": "Cross-platform telemetry visualization application for real-time data monitoring and analysis from multiple sources.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 6491,
+      "stars": 6498,
       "forks": 971,
       "currentPeriodStars": 125,
       "builtBy": [
@@ -608,9 +608,9 @@
       "description": "Tesseract Open Source OCR Engine (main repository)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 72421,
+      "stars": 72431,
       "forks": 10506,
-      "currentPeriodStars": 118,
+      "currentPeriodStars": 119,
       "builtBy": [
         {
           "username": "stweil",
@@ -643,9 +643,9 @@
       "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 45925,
-      "forks": 8083,
-      "currentPeriodStars": 182,
+      "stars": 45934,
+      "forks": 8085,
+      "currentPeriodStars": 175,
       "builtBy": [
         {
           "username": "alexey-milovidov",
@@ -664,8 +664,8 @@
           "avatar": "https://avatars.githubusercontent.com/u/430798?s=40&v=4"
         },
         {
-          "username": "Avogar",
-          "avatar": "https://avatars.githubusercontent.com/u/48961922?s=40&v=4"
+          "username": "rschu1ze",
+          "avatar": "https://avatars.githubusercontent.com/u/100446237?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -678,9 +678,9 @@
       "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 16518,
-      "forks": 4022,
-      "currentPeriodStars": 30,
+      "stars": 16521,
+      "forks": 4023,
+      "currentPeriodStars": 33,
       "builtBy": [
         {
           "username": "kou",

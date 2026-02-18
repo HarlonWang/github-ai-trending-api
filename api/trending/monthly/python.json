@@ -1,7 +1,7 @@
 {
-  "count": 17,
+  "count": 18,
   "since": "monthly",
-  "captured_at": "2026-02-17 12:19:38",
+  "captured_at": "2026-02-18 00:19:07",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 15366,
-      "forks": 1113,
-      "currentPeriodStars": 9900,
+      "stars": 15430,
+      "forks": 1120,
+      "currentPeriodStars": 9963,
       "builtBy": [
         {
           "username": "rejojer",
@@ -38,9 +38,9 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8769,
-      "forks": 488,
-      "currentPeriodStars": 7082,
+      "stars": 8827,
+      "forks": 492,
+      "currentPeriodStars": 7150,
       "builtBy": [
         {
           "username": "gverma-openai",
@@ -73,9 +73,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 70869,
-      "forks": 7222,
-      "currentPeriodStars": 28042,
+      "stars": 71067,
+      "forks": 7243,
+      "currentPeriodStars": 27730,
       "builtBy": [
         {
           "username": "klazuka",
@@ -110,7 +110,7 @@
       "languageColor": "#3572A5",
       "stars": 5208,
       "forks": 368,
-      "currentPeriodStars": 2818,
+      "currentPeriodStars": 2822,
       "builtBy": [
         {
           "username": "mssssss123",
@@ -143,9 +143,9 @@
       "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6450,
-      "forks": 612,
-      "currentPeriodStars": 2609,
+      "stars": 6459,
+      "forks": 614,
+      "currentPeriodStars": 2623,
       "builtBy": [
         {
           "username": "stdrc",
@@ -178,9 +178,9 @@
       "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9328,
-      "forks": 717,
-      "currentPeriodStars": 4620,
+      "stars": 9350,
+      "forks": 719,
+      "currentPeriodStars": 4616,
       "builtBy": [
         {
           "username": "sairin1202",
@@ -213,9 +213,9 @@
       "description": "Official inference framework for 1-bit LLMs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 28480,
-      "forks": 2330,
-      "currentPeriodStars": 2805,
+      "stars": 28486,
+      "forks": 2331,
+      "currentPeriodStars": 2811,
       "builtBy": [
         {
           "username": "potassiummmm",
@@ -248,9 +248,9 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 35407,
-      "forks": 3438,
-      "currentPeriodStars": 15213,
+      "stars": 35502,
+      "forks": 3445,
+      "currentPeriodStars": 14990,
       "builtBy": [
         {
           "username": "Prat011",
@@ -283,9 +283,9 @@
       "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 31005,
+      "stars": 31006,
       "forks": 3820,
-      "currentPeriodStars": 2380,
+      "currentPeriodStars": 2362,
       "builtBy": [
         {
           "username": "thinkwee",
@@ -318,9 +318,9 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32781,
-      "forks": 2190,
-      "currentPeriodStars": 11753,
+      "stars": 32874,
+      "forks": 2194,
+      "currentPeriodStars": 11510,
       "builtBy": [
         {
           "username": "aksg87",
@@ -358,9 +358,9 @@
       "description": "Master Claude Code Hooks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3060,
+      "stars": 3065,
       "forks": 552,
-      "currentPeriodStars": 999,
+      "currentPeriodStars": 1004,
       "builtBy": [
         {
           "username": "disler",
@@ -381,9 +381,9 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6695,
-      "forks": 667,
-      "currentPeriodStars": 2438,
+      "stars": 7189,
+      "forks": 724,
+      "currentPeriodStars": 2689,
       "builtBy": [
         {
           "username": "p-e-w",
@@ -427,9 +427,9 @@
       "description": "The absolute trainer to light up AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14805,
-      "forks": 1258,
-      "currentPeriodStars": 4549,
+      "stars": 14840,
+      "forks": 1259,
+      "currentPeriodStars": 4566,
       "builtBy": [
         {
           "username": "actions-user",
@@ -456,15 +456,55 @@
     },
     {
       "rank": 14,
+      "author": "Shubhamsaboo",
+      "repoName": "awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 95693,
+      "forks": 13869,
+      "currentPeriodStars": 7924,
+      "builtBy": [
+        {
+          "username": "Shubhamsaboo",
+          "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&v=4"
+        },
+        {
+          "username": "Madhuvod",
+          "avatar": "https://avatars.githubusercontent.com/u/124294538?s=40&v=4"
+        },
+        {
+          "username": "libw0430",
+          "avatar": "https://avatars.githubusercontent.com/u/102198332?s=40&v=4"
+        },
+        {
+          "username": "awesomekoder",
+          "avatar": "https://avatars.githubusercontent.com/u/258367783?s=40&v=4"
+        },
+        {
+          "username": "AndrewHoh",
+          "avatar": "https://avatars.githubusercontent.com/u/774516?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "deepseek",
+          "zh": "该项目汇集了基于大语言模型的优秀应用案例，重点展示如何利用AI智能体和RAG技术，整合OpenAI、Anthropic、Gemini及开源模型，解决实际场景中的信息处理与智能决策需求。"
+        }
+      ]
+    },
+    {
+      "rank": 15,
       "author": "alirezarezvani",
       "repoName": "claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "description": "A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1841,
+      "stars": 1848,
       "forks": 223,
-      "currentPeriodStars": 1110,
+      "currentPeriodStars": 1091,
       "builtBy": [
         {
           "username": "alirezarezvani",
@@ -490,15 +530,15 @@
       "aiSummaries": null
     },
     {
-      "rank": 15,
+      "rank": 16,
       "author": "KellerJordan",
       "repoName": "modded-nanogpt",
       "url": "https://github.com/KellerJordan/modded-nanogpt",
       "description": "NanoGPT (124M) in 2 minutes",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4640,
-      "forks": 627,
+      "stars": 4641,
+      "forks": 628,
       "currentPeriodStars": 503,
       "builtBy": [
         {
@@ -525,16 +565,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 16,
+      "rank": 17,
       "author": "yt-dlp",
       "repoName": "yt-dlp",
       "url": "https://github.com/yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 147444,
-      "forks": 11940,
-      "currentPeriodStars": 5742,
+      "stars": 147496,
+      "forks": 11949,
+      "currentPeriodStars": 5708,
       "builtBy": [
         {
           "username": "dstftw",
@@ -560,16 +600,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 17,
+      "rank": 18,
       "author": "shareAI-lab",
       "repoName": "learn-claude-code",
       "url": "https://github.com/shareAI-lab/learn-claude-code",
       "description": "A nano Claude Code–like agent, built from 0 to 1",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17153,
-      "forks": 3631,
-      "currentPeriodStars": 2813,
+      "stars": 17175,
+      "forks": 3632,
+      "currentPeriodStars": 2812,
       "builtBy": [
         {
           "username": "CrazyBoyM",

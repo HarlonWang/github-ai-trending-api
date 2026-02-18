@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "daily",
-  "captured_at": "2026-02-17 12:18:33",
+  "captured_at": "2026-02-18 00:18:04",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2162,
-      "forks": 139,
-      "currentPeriodStars": 31,
+      "stars": 2181,
+      "forks": 142,
+      "currentPeriodStars": 34,
       "builtBy": [
         {
           "username": "steipete",
@@ -46,9 +46,9 @@
       "description": "A toolkit for SQLite databases, with a focus on application development",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8194,
+      "stars": 8197,
       "forks": 847,
-      "currentPeriodStars": 5,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "groue",
@@ -81,9 +81,9 @@
       "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3809,
-      "forks": 484,
-      "currentPeriodStars": 49,
+      "stars": 3822,
+      "forks": 487,
+      "currentPeriodStars": 50,
       "builtBy": [
         {
           "username": "Beingpax",
@@ -116,9 +116,9 @@
       "description": "Elegant HTTP Networking in Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 42349,
+      "stars": 42350,
       "forks": 7673,
-      "currentPeriodStars": 3,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "cnoon",
@@ -151,9 +151,9 @@
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 5987,
-      "forks": 385,
-      "currentPeriodStars": 80,
+      "stars": 6017,
+      "forks": 386,
+      "currentPeriodStars": 71,
       "builtBy": [
         {
           "username": "steipete",
@@ -186,9 +186,9 @@
       "description": "CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 698,
-      "forks": 78,
-      "currentPeriodStars": 37,
+      "stars": 705,
+      "forks": 79,
+      "currentPeriodStars": 24,
       "builtBy": [
         {
           "username": "steipete",
@@ -221,7 +221,7 @@
       "description": "Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1017,
+      "stars": 1020,
       "forks": 56,
       "currentPeriodStars": 16,
       "builtBy": [
@@ -256,9 +256,9 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 25114,
-      "forks": 2347,
-      "currentPeriodStars": 33,
+      "stars": 25116,
+      "forks": 2348,
+      "currentPeriodStars": 18,
       "builtBy": [
         {
           "username": "jackjackbits",
@@ -291,9 +291,9 @@
       "description": "A Mac utility that automatically downloads macOS Firmwares / Installers.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 4540,
+      "stars": 4545,
       "forks": 193,
-      "currentPeriodStars": 28,
+      "currentPeriodStars": 11,
       "builtBy": [
         {
           "username": "ninxsoft",
@@ -314,9 +314,9 @@
       "description": "Network logger for Apple platforms",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 6895,
+      "stars": 6897,
       "forks": 359,
-      "currentPeriodStars": 15,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "kean",
@@ -349,9 +349,9 @@
       "description": "💧 A server-side Swift HTTP web framework.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 25973,
+      "stars": 25972,
       "forks": 1521,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "tanner0101",
@@ -386,7 +386,7 @@
       "languageColor": "#F05138",
       "stars": 11279,
       "forks": 1608,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "aure",
@@ -419,9 +419,9 @@
       "description": "Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1170,
-      "forks": 50,
-      "currentPeriodStars": 35,
+      "stars": 1180,
+      "forks": 51,
+      "currentPeriodStars": 21,
       "builtBy": [
         {
           "username": "hamed-elfayome",
@@ -454,9 +454,9 @@
       "description": "On-device Speech Recognition for Apple Silicon",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 5615,
+      "stars": 5617,
       "forks": 501,
-      "currentPeriodStars": 9,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "ZachNagengast",
@@ -489,9 +489,9 @@
       "description": "An ultra-light MacOS utility that helps hide menu bar icons",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 13343,
-      "forks": 375,
-      "currentPeriodStars": 16,
+      "stars": 13345,
+      "forks": 376,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "phucledien",
@@ -524,9 +524,9 @@
       "description": "A tool to identify unused code in Swift projects.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 6008,
+      "stars": 6009,
       "forks": 223,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "ileitch",
@@ -560,7 +560,7 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": 22987,
-      "forks": 3449,
+      "forks": 3448,
       "currentPeriodStars": 0,
       "builtBy": [
         {
@@ -629,9 +629,9 @@
       "description": "Move and resize windows on macOS with keyboard shortcuts and snap areas",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 28417,
+      "stars": 28423,
       "forks": 887,
-      "currentPeriodStars": 6,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "rxhanson",

@@ -1,7 +1,7 @@
 {
-  "count": 8,
+  "count": 9,
   "since": "daily",
-  "captured_at": "2026-02-17 12:18:16",
+  "captured_at": "2026-02-18 00:17:52",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9169,
-      "forks": 608,
-      "currentPeriodStars": 182,
+      "stars": 9319,
+      "forks": 611,
+      "currentPeriodStars": 282,
       "builtBy": [
         {
           "username": "fallenbagel",
@@ -57,8 +57,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 203406,
-      "forks": 36725,
+      "stars": 205294,
+      "forks": 37415,
       "currentPeriodStars": 4201,
       "builtBy": [
         {
@@ -74,8 +74,8 @@
           "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&v=4"
         },
         {
-          "username": "gumadeiras",
-          "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
+          "username": "sebslight",
+          "avatar": "https://avatars.githubusercontent.com/u/19554889?s=40&v=4"
         },
         {
           "username": "claude",
@@ -97,15 +97,61 @@
     },
     {
       "rank": 3,
+      "author": "steipete",
+      "repoName": "summarize",
+      "url": "https://github.com/steipete/summarize",
+      "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 3430,
+      "forks": 217,
+      "currentPeriodStars": 119,
+      "builtBy": [
+        {
+          "username": "steipete",
+          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
+        },
+        {
+          "username": "mvance",
+          "avatar": "https://avatars.githubusercontent.com/u/82473?s=40&v=4"
+        },
+        {
+          "username": "vlnd0",
+          "avatar": "https://avatars.githubusercontent.com/u/42946292?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "philippb",
+          "avatar": "https://avatars.githubusercontent.com/u/374326?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "summarize 是一个基于 TypeScript 的内容提炼工具，支持命令行与 Chrome 扩展。用户只需提供任意网页、YouTube 视频、播客或文件链接，即可快速获取要点摘要，大幅减少信息筛选时间，提升内容理解与决策效率。",
+          "en": "summarize is a TypeScript-based tool offering CLI and Chrome extension to extract concise summaries from URLs, YouTube videos, podcasts, or files, reducing information overload and speeding up content understanding."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "该项目是一个基于 TypeScript 开发的工具，提供 CLI 和 Chrome 扩展。它允许用户通过指向任何 URL、YouTube 视频、播客或文件，快速获取其核心内容摘要，解决了信息过载时高效提取要点的痛点。",
+          "en": "This TypeScript-based tool offers a CLI and Chrome extension. It enables users to quickly obtain summaries from any URL, YouTube video, podcast, or file, addressing the pain point of efficiently extracting key information from content overload."
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "author": "OpenCTI-Platform",
       "repoName": "opencti",
       "url": "https://github.com/OpenCTI-Platform/opencti",
       "description": "Open Cyber Threat Intelligence Platform",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8251,
-      "forks": 1221,
-      "currentPeriodStars": 13,
+      "stars": 8399,
+      "forks": 1227,
+      "currentPeriodStars": 16,
       "builtBy": [
         {
           "username": "SamuelHassine",
@@ -142,16 +188,16 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "author": "Open-Dev-Society",
       "repoName": "OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8693,
+      "stars": 8714,
       "forks": 1125,
-      "currentPeriodStars": 59,
+      "currentPeriodStars": 40,
       "builtBy": [
         {
           "username": "ravixalgorithm",
@@ -177,16 +223,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 5,
+      "rank": 6,
       "author": "rowboatlabs",
       "repoName": "rowboat",
       "url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 7500,
-      "forks": 634,
-      "currentPeriodStars": 432,
+      "stars": 7562,
+      "forks": 644,
+      "currentPeriodStars": 348,
       "builtBy": [
         {
           "username": "ramnique",
@@ -222,16 +268,16 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "author": "supermemoryai",
       "repoName": "supermemory",
       "url": "https://github.com/supermemoryai/supermemory",
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 16474,
-      "forks": 1650,
-      "currentPeriodStars": 22,
+      "stars": 16491,
+      "forks": 1652,
+      "currentPeriodStars": 28,
       "builtBy": [
         {
           "username": "Dhravya",
@@ -257,16 +303,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 7,
+      "rank": 8,
       "author": "open-mercato",
       "repoName": "open-mercato",
       "url": "https://github.com/open-mercato/open-mercato",
       "description": "AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 431,
-      "forks": 73,
-      "currentPeriodStars": 15,
+      "stars": 444,
+      "forks": 75,
+      "currentPeriodStars": 14,
       "builtBy": [
         {
           "username": "pkarw",
@@ -292,16 +338,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 8,
+      "rank": 9,
       "author": "tobi",
       "repoName": "qmd",
       "url": "https://github.com/tobi/qmd",
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8950,
-      "forks": 482,
-      "currentPeriodStars": 266,
+      "stars": 9080,
+      "forks": 492,
+      "currentPeriodStars": 258,
       "builtBy": [
         {
           "username": "tobi",

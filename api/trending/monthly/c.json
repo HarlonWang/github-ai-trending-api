@@ -1,7 +1,7 @@
 {
   "count": 18,
   "since": "monthly",
-  "captured_at": "2026-02-17 12:20:14",
+  "captured_at": "2026-02-18 00:19:40",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5993,
-      "forks": 1003,
-      "currentPeriodStars": 400,
+      "stars": 6000,
+      "forks": 1006,
+      "currentPeriodStars": 419,
       "builtBy": [
         {
           "username": "levlam",
@@ -51,9 +51,9 @@
       "description": "WiFi security auditing tools suite",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6945,
+      "stars": 6946,
       "forks": 1238,
-      "currentPeriodStars": 177,
+      "currentPeriodStars": 179,
       "builtBy": [
         {
           "username": "Mister-X-",
@@ -86,9 +86,9 @@
       "description": "anti-dpi software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1679,
+      "stars": 1686,
       "forks": 52,
-      "currentPeriodStars": 533,
+      "currentPeriodStars": 525,
       "builtBy": [
         {
           "username": "bol-van",
@@ -109,9 +109,9 @@
       "description": "An open and affordable mini quadruped robot based on ESP32.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 904,
-      "forks": 125,
-      "currentPeriodStars": 767,
+      "stars": 911,
+      "forks": 127,
+      "currentPeriodStars": 720,
       "builtBy": [
         {
           "username": "dorianborian",
@@ -144,7 +144,7 @@
       "description": "The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2288,
+      "stars": 2291,
       "forks": 330,
       "currentPeriodStars": 160,
       "builtBy": [
@@ -179,9 +179,9 @@
       "description": "tmux source code",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 41836,
+      "stars": 41851,
       "forks": 2417,
-      "currentPeriodStars": 1048,
+      "currentPeriodStars": 1063,
       "builtBy": [
         {
           "username": "nicm",
@@ -214,9 +214,9 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14482,
-      "forks": 8660,
-      "currentPeriodStars": 308,
+      "stars": 14488,
+      "forks": 8661,
+      "currentPeriodStars": 310,
       "builtBy": [
         {
           "username": "nashif",
@@ -249,9 +249,9 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4455,
-      "forks": 651,
-      "currentPeriodStars": 129,
+      "stars": 4456,
+      "forks": 652,
+      "currentPeriodStars": 126,
       "builtBy": [
         {
           "username": "briaguya0",
@@ -284,9 +284,9 @@
       "description": "Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6828,
-      "forks": 313,
-      "currentPeriodStars": 186,
+      "stars": 6830,
+      "forks": 314,
+      "currentPeriodStars": 189,
       "builtBy": [
         {
           "username": "Mr-Wiseguy",
@@ -319,9 +319,9 @@
       "description": "TLS/SSL and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 29575,
-      "forks": 11051,
-      "currentPeriodStars": 235,
+      "stars": 29579,
+      "forks": 11054,
+      "currentPeriodStars": 236,
       "builtBy": [
         {
           "username": "levitte",
@@ -354,9 +354,9 @@
       "description": "A vector search SQLite extension that runs anywhere!",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6928,
-      "forks": 279,
-      "currentPeriodStars": 265,
+      "stars": 6937,
+      "forks": 281,
+      "currentPeriodStars": 267,
       "builtBy": [
         {
           "username": "asg017",
@@ -389,9 +389,9 @@
       "description": "ehviewer，用爱发电，快乐前行",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 22432,
+      "stars": 22441,
       "forks": 594,
-      "currentPeriodStars": 620,
+      "currentPeriodStars": 611,
       "builtBy": [
         {
           "username": "xiaojieonly",
@@ -424,9 +424,9 @@
       "description": "A simple and easy-to-use library to enjoy videogames programming",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 30997,
-      "forks": 2930,
-      "currentPeriodStars": 698,
+      "stars": 31006,
+      "forks": 2929,
+      "currentPeriodStars": 685,
       "builtBy": [
         {
           "username": "raysan5",
@@ -460,7 +460,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 921,
-      "forks": 1730,
+      "forks": 1731,
       "currentPeriodStars": 13,
       "builtBy": [
         {
@@ -494,9 +494,9 @@
       "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13638,
-      "forks": 1617,
-      "currentPeriodStars": 269,
+      "stars": 13643,
+      "forks": 1618,
+      "currentPeriodStars": 272,
       "builtBy": [
         {
           "username": "dmex",
@@ -529,9 +529,9 @@
       "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12409,
-      "forks": 2745,
-      "currentPeriodStars": 247,
+      "stars": 12413,
+      "forks": 2746,
+      "currentPeriodStars": 251,
       "builtBy": [
         {
           "username": "bonsaiviking",
@@ -564,9 +564,9 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 40721,
+      "stars": 40723,
       "forks": 7061,
-      "currentPeriodStars": 385,
+      "currentPeriodStars": 381,
       "builtBy": [
         {
           "username": "bagder",
@@ -599,9 +599,9 @@
       "description": "Lightweight image viewer for Windows with animated GIF/WEBP support",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1273,
+      "stars": 1274,
       "forks": 72,
-      "currentPeriodStars": 462,
+      "currentPeriodStars": 452,
       "builtBy": [
         {
           "username": "voidtools",

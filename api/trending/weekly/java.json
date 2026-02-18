@@ -1,7 +1,7 @@
 {
   "count": 23,
   "since": "weekly",
-  "captured_at": "2026-02-17 12:18:55",
+  "captured_at": "2026-02-18 00:18:26",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32573,
-      "forks": 7280,
-      "currentPeriodStars": 2484,
+      "stars": 32796,
+      "forks": 7300,
+      "currentPeriodStars": 2995,
       "builtBy": [
         {
           "username": "ashishps1",
@@ -53,9 +53,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 64662,
-      "forks": 7153,
-      "currentPeriodStars": 285,
+      "stars": 64719,
+      "forks": 7156,
+      "currentPeriodStars": 504,
       "builtBy": [
         {
           "username": "ryanmkurtz",
@@ -88,9 +88,9 @@
       "description": "Telegram for Android source",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 28551,
-      "forks": 9288,
-      "currentPeriodStars": 91,
+      "stars": 28556,
+      "forks": 9290,
+      "currentPeriodStars": 74,
       "builtBy": [
         {
           "username": "xaxtix",
@@ -123,9 +123,9 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22191,
-      "forks": 5438,
-      "currentPeriodStars": 333,
+      "stars": 22202,
+      "forks": 5443,
+      "currentPeriodStars": 225,
       "builtBy": [
         {
           "username": "ashishps1",
@@ -158,9 +158,9 @@
       "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 12253,
+      "stars": 12257,
       "forks": 2575,
-      "currentPeriodStars": 86,
+      "currentPeriodStars": 87,
       "builtBy": [
         {
           "username": "mar-v-in",
@@ -193,8 +193,8 @@
       "description": "The automation tower defense RTS",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 26595,
-      "forks": 3347,
+      "stars": 26602,
+      "forks": 3346,
       "currentPeriodStars": 96,
       "builtBy": [
         {
@@ -228,9 +228,9 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32873,
-      "forks": 8055,
-      "currentPeriodStars": 143,
+      "stars": 32886,
+      "forks": 8057,
+      "currentPeriodStars": 149,
       "builtBy": [
         {
           "username": "stianst",
@@ -263,9 +263,9 @@
       "description": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25148,
+      "stars": 25150,
       "forks": 2736,
-      "currentPeriodStars": 97,
+      "currentPeriodStars": 99,
       "builtBy": [
         {
           "username": "shanhexi",
@@ -298,9 +298,9 @@
       "description": "收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5744,
-      "forks": 551,
-      "currentPeriodStars": 102,
+      "stars": 5748,
+      "forks": 552,
+      "currentPeriodStars": 79,
       "builtBy": [
         {
           "username": "Archmage83",
@@ -325,9 +325,9 @@
       "description": "🧩 Patches for ReVanced",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5341,
-      "forks": 681,
-      "currentPeriodStars": 50,
+      "stars": 5343,
+      "forks": 683,
+      "currentPeriodStars": 54,
       "builtBy": [
         {
           "username": "semantic-release-bot",
@@ -361,8 +361,8 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 8699,
-      "forks": 1847,
-      "currentPeriodStars": 25,
+      "forks": 1851,
+      "currentPeriodStars": 27,
       "builtBy": [
         {
           "username": "khanhduytran0",
@@ -395,9 +395,9 @@
       "description": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 11928,
-      "forks": 3266,
-      "currentPeriodStars": 32,
+      "stars": 11929,
+      "forks": 3267,
+      "currentPeriodStars": 25,
       "builtBy": [
         {
           "username": "Machine-Maker",
@@ -430,9 +430,9 @@
       "description": "Sketchware Pro's sources in Java. Now anyone can contribute to Sketchware Pro.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 1461,
+      "stars": 1462,
       "forks": 563,
-      "currentPeriodStars": 22,
+      "currentPeriodStars": 20,
       "builtBy": [
         {
           "username": "j-px",
@@ -465,9 +465,9 @@
       "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 26407,
-      "forks": 2495,
-      "currentPeriodStars": 89,
+      "stars": 26409,
+      "forks": 2496,
+      "currentPeriodStars": 68,
       "builtBy": [
         {
           "username": "tchiotludo",
@@ -500,9 +500,9 @@
       "description": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 10381,
-      "forks": 2427,
-      "currentPeriodStars": 37,
+      "stars": 10383,
+      "forks": 2428,
+      "currentPeriodStars": 31,
       "builtBy": [
         {
           "username": "jon-signal",
@@ -535,9 +535,9 @@
       "description": "Netty project - an event-driven asynchronous network application framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 34803,
-      "forks": 16285,
-      "currentPeriodStars": 33,
+      "stars": 34802,
+      "forks": 16286,
+      "currentPeriodStars": 30,
       "builtBy": [
         {
           "username": "normanmaurer",
@@ -570,9 +570,9 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 22073,
-      "forks": 13098,
-      "currentPeriodStars": 194,
+      "stars": 22077,
+      "forks": 13099,
+      "currentPeriodStars": 191,
       "builtBy": [
         {
           "username": "kunal-kushwaha",
@@ -605,9 +605,9 @@
       "description": "LSPosed Framework resuscitated",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9608,
+      "stars": 9624,
       "forks": 601,
-      "currentPeriodStars": 101,
+      "currentPeriodStars": 107,
       "builtBy": [
         {
           "username": "yujincheng08",
@@ -640,9 +640,9 @@
       "description": "Browse media content with your own rules on Android TV",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 28218,
+      "stars": 28231,
       "forks": 1520,
-      "currentPeriodStars": 176,
+      "currentPeriodStars": 173,
       "builtBy": [
         {
           "username": "yuliskov",
@@ -675,9 +675,9 @@
       "description": "Mirror of Apache Kafka",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 31922,
-      "forks": 14964,
-      "currentPeriodStars": 57,
+      "stars": 31924,
+      "forks": 14965,
+      "currentPeriodStars": 66,
       "builtBy": [
         {
           "username": "ijuma",
@@ -710,9 +710,9 @@
       "description": "morphe patches for twitter",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 2693,
+      "stars": 2696,
       "forks": 72,
-      "currentPeriodStars": 48,
+      "currentPeriodStars": 50,
       "builtBy": [
         {
           "username": "crimera",
@@ -745,9 +745,9 @@
       "description": "google maps for block game",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8653,
-      "forks": 1778,
-      "currentPeriodStars": 36,
+      "stars": 8654,
+      "forks": 1780,
+      "currentPeriodStars": 35,
       "builtBy": [
         {
           "username": "leijurv",
@@ -780,9 +780,9 @@
       "description": "Open-source third-party Telegram client with not many but useful modifications.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 3324,
-      "forks": 142,
-      "currentPeriodStars": 98,
+      "stars": 3328,
+      "forks": 143,
+      "currentPeriodStars": 94,
       "builtBy": [
         {
           "username": "tehcneko",

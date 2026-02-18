@@ -1,7 +1,7 @@
 {
   "count": 14,
   "since": "monthly",
-  "captured_at": "2026-02-17 12:19:33",
+  "captured_at": "2026-02-18 00:19:03",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 203410,
-      "forks": 36726,
-      "currentPeriodStars": 195873,
+      "stars": 205299,
+      "forks": 37416,
+      "currentPeriodStars": 199307,
       "builtBy": [
         {
           "username": "steipete",
@@ -28,12 +28,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&v=4"
         },
         {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+          "username": "sebslight",
+          "avatar": "https://avatars.githubusercontent.com/u/19554889?s=40&v=4"
         },
         {
-          "username": "gumadeiras",
-          "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         }
       ],
       "aiSummaries": [
@@ -57,9 +57,9 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 13011,
-      "forks": 1309,
-      "currentPeriodStars": 10950,
+      "stars": 13163,
+      "forks": 1323,
+      "currentPeriodStars": 11199,
       "builtBy": [
         {
           "username": "badlogic",
@@ -92,9 +92,9 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 23047,
-      "forks": 2303,
-      "currentPeriodStars": 18901,
+      "stars": 23207,
+      "forks": 2316,
+      "currentPeriodStars": 19269,
       "builtBy": [
         {
           "username": "ajmallesh",
@@ -127,9 +127,9 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 36894,
-      "forks": 2253,
-      "currentPeriodStars": 11574,
+      "stars": 36965,
+      "forks": 2258,
+      "currentPeriodStars": 11672,
       "builtBy": [
         {
           "username": "JonnyBurger",
@@ -162,9 +162,9 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 15366,
-      "forks": 1113,
-      "currentPeriodStars": 9900,
+      "stars": 15430,
+      "forks": 1120,
+      "currentPeriodStars": 9963,
       "builtBy": [
         {
           "username": "rejojer",
@@ -189,9 +189,9 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8769,
-      "forks": 488,
-      "currentPeriodStars": 7082,
+      "stars": 8827,
+      "forks": 492,
+      "currentPeriodStars": 7150,
       "builtBy": [
         {
           "username": "gverma-openai",
@@ -224,9 +224,9 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8951,
-      "forks": 482,
-      "currentPeriodStars": 6893,
+      "stars": 9080,
+      "forks": 492,
+      "currentPeriodStars": 7113,
       "builtBy": [
         {
           "username": "tobi",
@@ -259,9 +259,9 @@
       "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 31806,
-      "forks": 5074,
-      "currentPeriodStars": 6667,
+      "stars": 31874,
+      "forks": 5084,
+      "currentPeriodStars": 6796,
       "builtBy": [
         {
           "username": "asgeirtj",
@@ -294,9 +294,9 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3700,
-      "forks": 313,
-      "currentPeriodStars": 2895,
+      "stars": 3856,
+      "forks": 319,
+      "currentPeriodStars": 3238,
       "builtBy": [
         {
           "username": "steipete",
@@ -340,9 +340,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 53136,
-      "forks": 4034,
-      "currentPeriodStars": 27434,
+      "stars": 53582,
+      "forks": 4065,
+      "currentPeriodStars": 26690,
       "builtBy": [
         {
           "username": "obra",
@@ -386,9 +386,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 70869,
-      "forks": 7222,
-      "currentPeriodStars": 28042,
+      "stars": 71067,
+      "forks": 7243,
+      "currentPeriodStars": 27730,
       "builtBy": [
         {
           "username": "klazuka",
@@ -421,9 +421,9 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 16158,
-      "forks": 1219,
-      "currentPeriodStars": 12145,
+      "stars": 16237,
+      "forks": 1222,
+      "currentPeriodStars": 11734,
       "builtBy": [
         {
           "username": "kuishou68",
@@ -461,9 +461,9 @@
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 15083,
-      "forks": 1399,
-      "currentPeriodStars": 11626,
+      "stars": 15339,
+      "forks": 1412,
+      "currentPeriodStars": 11671,
       "builtBy": [
         {
           "username": "glittercowboy",
@@ -496,9 +496,9 @@
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 10501,
-      "forks": 510,
-      "currentPeriodStars": 8333,
+      "stars": 10585,
+      "forks": 513,
+      "currentPeriodStars": 8580,
       "builtBy": [
         {
           "username": "apps/dependabot",

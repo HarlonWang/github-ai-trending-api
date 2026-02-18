@@ -1,7 +1,7 @@
 {
   "count": 11,
   "since": "daily",
-  "captured_at": "2026-02-17 12:17:59",
+  "captured_at": "2026-02-18 00:17:31",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 1064,
-      "forks": 368,
+      "stars": 1192,
+      "forks": 404,
       "currentPeriodStars": 194,
       "builtBy": [
         {
@@ -56,9 +56,9 @@
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 15082,
-      "forks": 1399,
-      "currentPeriodStars": 436,
+      "stars": 15339,
+      "forks": 1412,
+      "currentPeriodStars": 479,
       "builtBy": [
         {
           "username": "glittercowboy",
@@ -91,9 +91,9 @@
       "description": "Introduction to Machine Learning Systems",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 18594,
-      "forks": 2189,
-      "currentPeriodStars": 334,
+      "stars": 19003,
+      "forks": 2235,
+      "currentPeriodStars": 374,
       "builtBy": [
         {
           "username": "profvjreddi",
@@ -126,9 +126,9 @@
       "description": "Watcher - Open Source AI-powered Cyber Threat Intelligence & Hunting Platform. Developed with Django & React JS.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 1224,
+      "stars": 1227,
       "forks": 179,
-      "currentPeriodStars": 16,
+      "currentPeriodStars": 15,
       "builtBy": [
         {
           "username": "Felix83000",
@@ -161,9 +161,9 @@
       "description": "✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 27639,
-      "forks": 4164,
-      "currentPeriodStars": 21,
+      "stars": 27644,
+      "forks": 4165,
+      "currentPeriodStars": 11,
       "builtBy": [
         {
           "username": "apps/github-actions",
@@ -196,9 +196,9 @@
       "description": "The hackable text editor",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 61016,
+      "stars": 61018,
       "forks": 17300,
-      "currentPeriodStars": 4,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "kevinsawicki",
@@ -233,7 +233,7 @@
       "languageColor": "#f1e05a",
       "stars": 44784,
       "forks": 5265,
-      "currentPeriodStars": 3,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "benjamn",
@@ -266,9 +266,9 @@
       "description": "Free Modern URL Shortener.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 10582,
+      "stars": 10585,
       "forks": 1426,
-      "currentPeriodStars": 4,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "poeti8",
@@ -301,9 +301,9 @@
       "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 40912,
-      "forks": 2116,
-      "currentPeriodStars": 29,
+      "stars": 40923,
+      "forks": 2118,
+      "currentPeriodStars": 31,
       "builtBy": [
         {
           "username": "helloanoop",
@@ -336,9 +336,9 @@
       "description": "JavaScript Style Guide",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 148095,
-      "forks": 26762,
-      "currentPeriodStars": 13,
+      "stars": 148100,
+      "forks": 26761,
+      "currentPeriodStars": 8,
       "builtBy": [
         {
           "username": "ljharb",

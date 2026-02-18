@@ -1,7 +1,7 @@
 {
-  "count": 11,
+  "count": 12,
   "since": "weekly",
-  "captured_at": "2026-02-17 12:18:40",
+  "captured_at": "2026-02-18 00:18:13",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2988,
-      "forks": 215,
-      "currentPeriodStars": 2199,
+      "stars": 3040,
+      "forks": 217,
+      "currentPeriodStars": 1872,
       "builtBy": [
         {
           "username": "apps/copilot-swe-agent",
@@ -56,9 +56,9 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2942,
-      "forks": 183,
-      "currentPeriodStars": 2342,
+      "stars": 3012,
+      "forks": 191,
+      "currentPeriodStars": 2461,
       "builtBy": [
         {
           "username": "Jeffallan",
@@ -96,9 +96,9 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32781,
-      "forks": 2190,
-      "currentPeriodStars": 7658,
+      "stars": 32874,
+      "forks": 2194,
+      "currentPeriodStars": 6121,
       "builtBy": [
         {
           "username": "aksg87",
@@ -136,9 +136,9 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6693,
-      "forks": 667,
-      "currentPeriodStars": 1697,
+      "stars": 7188,
+      "forks": 722,
+      "currentPeriodStars": 1778,
       "builtBy": [
         {
           "username": "p-e-w",
@@ -182,9 +182,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 25692,
-      "forks": 1514,
-      "currentPeriodStars": 2041,
+      "stars": 25782,
+      "forks": 1517,
+      "currentPeriodStars": 2059,
       "builtBy": [
         {
           "username": "OrKoN",
@@ -227,9 +227,9 @@
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8611,
-      "forks": 1190,
-      "currentPeriodStars": 2207,
+      "stars": 8669,
+      "forks": 1197,
+      "currentPeriodStars": 2263,
       "builtBy": [
         {
           "username": "danielmiessler",
@@ -240,16 +240,16 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
+          "username": "kaimagnus",
+          "avatar": "https://avatars.githubusercontent.com/u/260860065?s=40&v=4"
+        },
+        {
           "username": "ksylvan",
           "avatar": "https://avatars.githubusercontent.com/u/1226059?s=40&v=4"
         },
         {
           "username": "mvoehringer",
           "avatar": "https://avatars.githubusercontent.com/u/2719466?s=40&v=4"
-        },
-        {
-          "username": "m4nt0de4",
-          "avatar": "https://avatars.githubusercontent.com/u/176330864?s=40&v=4"
         }
       ],
       "aiSummaries": [
@@ -267,9 +267,9 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 13011,
-      "forks": 1309,
-      "currentPeriodStars": 4425,
+      "stars": 13162,
+      "forks": 1323,
+      "currentPeriodStars": 3326,
       "builtBy": [
         {
           "username": "badlogic",
@@ -296,15 +296,61 @@
     },
     {
       "rank": 8,
+      "author": "steipete",
+      "repoName": "summarize",
+      "url": "https://github.com/steipete/summarize",
+      "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 3430,
+      "forks": 217,
+      "currentPeriodStars": 1628,
+      "builtBy": [
+        {
+          "username": "steipete",
+          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
+        },
+        {
+          "username": "mvance",
+          "avatar": "https://avatars.githubusercontent.com/u/82473?s=40&v=4"
+        },
+        {
+          "username": "vlnd0",
+          "avatar": "https://avatars.githubusercontent.com/u/42946292?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "philippb",
+          "avatar": "https://avatars.githubusercontent.com/u/374326?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "summarize 是一个基于 TypeScript 的内容提炼工具，支持命令行与 Chrome 扩展。用户只需提供任意网页、YouTube 视频、播客或文件链接，即可快速获取要点摘要，大幅减少信息筛选时间，提升内容理解与决策效率。",
+          "en": "summarize is a TypeScript-based tool offering CLI and Chrome extension to extract concise summaries from URLs, YouTube videos, podcasts, or files, reducing information overload and speeding up content understanding."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "该项目是一个基于 TypeScript 开发的工具，提供 CLI 和 Chrome 扩展。它允许用户通过指向任何 URL、YouTube 视频、播客或文件，快速获取其核心内容摘要，解决了信息过载时高效提取要点的痛点。",
+          "en": "This TypeScript-based tool offers a CLI and Chrome extension. It enables users to quickly obtain summaries from any URL, YouTube video, podcast, or file, addressing the pain point of efficiently extracting key information from content overload."
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "author": "tambo-ai",
       "repoName": "tambo",
       "url": "https://github.com/tambo-ai/tambo",
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 10501,
-      "forks": 510,
-      "currentPeriodStars": 2273,
+      "stars": 10585,
+      "forks": 513,
+      "currentPeriodStars": 2540,
       "builtBy": [
         {
           "username": "apps/dependabot",
@@ -340,16 +386,16 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "author": "steipete",
       "repoName": "gogcli",
       "url": "https://github.com/steipete/gogcli",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3700,
-      "forks": 313,
-      "currentPeriodStars": 1769,
+      "stars": 3856,
+      "forks": 319,
+      "currentPeriodStars": 2144,
       "builtBy": [
         {
           "username": "steipete",
@@ -386,16 +432,16 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 11,
       "author": "KeygraphHQ",
       "repoName": "shannon",
       "url": "https://github.com/KeygraphHQ/shannon",
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 23047,
-      "forks": 2303,
-      "currentPeriodStars": 6966,
+      "stars": 23207,
+      "forks": 2316,
+      "currentPeriodStars": 4055,
       "builtBy": [
         {
           "username": "ajmallesh",
@@ -421,16 +467,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 11,
+      "rank": 12,
       "author": "hsliuping",
       "repoName": "TradingAgents-CN",
       "url": "https://github.com/hsliuping/TradingAgents-CN",
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17386,
-      "forks": 3735,
-      "currentPeriodStars": 1299,
+      "stars": 17409,
+      "forks": 3740,
+      "currentPeriodStars": 849,
       "builtBy": [
         {
           "username": "hsliuping",

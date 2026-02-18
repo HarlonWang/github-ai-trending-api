@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "daily",
-  "captured_at": "2026-02-17 12:18:21",
+  "captured_at": "2026-02-18 00:17:56",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4209,
-      "forks": 223,
+      "stars": 4473,
+      "forks": 239,
       "currentPeriodStars": 1473,
       "builtBy": [
         {
@@ -56,9 +56,9 @@
       "description": "The ultimate Geometry Dash modding framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1675,
-      "forks": 300,
-      "currentPeriodStars": 12,
+      "stars": 1681,
+      "forks": 302,
+      "currentPeriodStars": 22,
       "builtBy": [
         {
           "username": "altalk23",
@@ -91,9 +91,9 @@
       "description": "Android real-time display control software",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28364,
-      "forks": 3443,
-      "currentPeriodStars": 162,
+      "stars": 28372,
+      "forks": 3445,
+      "currentPeriodStars": 70,
       "builtBy": [
         {
           "username": "barry-ran",
@@ -126,9 +126,9 @@
       "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8071,
-      "forks": 1998,
-      "currentPeriodStars": 5,
+      "stars": 8075,
+      "forks": 1999,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "reuk",
@@ -161,9 +161,9 @@
       "description": "Private, fast, and honest web browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 11379,
-      "forks": 233,
-      "currentPeriodStars": 43,
+      "stars": 11446,
+      "forks": 235,
+      "currentPeriodStars": 74,
       "builtBy": [
         {
           "username": "wukko",
@@ -196,9 +196,9 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 106731,
-      "forks": 24355,
-      "currentPeriodStars": 34,
+      "stars": 106747,
+      "forks": 24358,
+      "currentPeriodStars": 36,
       "builtBy": [
         {
           "username": "akien-mga",
@@ -231,9 +231,9 @@
       "description": "Playstation 2 Static Recompiler & Runtime Tool to make native PC ports",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2660,
-      "forks": 72,
-      "currentPeriodStars": 26,
+      "stars": 2665,
+      "forks": 73,
+      "currentPeriodStars": 20,
       "builtBy": [
         {
           "username": "ran-j",
@@ -248,12 +248,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/2058327?s=40&v=4"
         },
         {
-          "username": "DanielSvoboda",
-          "avatar": "https://avatars.githubusercontent.com/u/28203966?s=40&v=4"
+          "username": "Whoneon",
+          "avatar": "https://avatars.githubusercontent.com/u/65413476?s=40&v=4"
         },
         {
-          "username": "salmanmkc",
-          "avatar": "https://avatars.githubusercontent.com/u/32169182?s=40&v=4"
+          "username": "DanielSvoboda",
+          "avatar": "https://avatars.githubusercontent.com/u/28203966?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -266,9 +266,9 @@
       "description": "Cryptography Toolkit",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3162,
+      "stars": 3163,
       "forks": 629,
-      "currentPeriodStars": 4,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "randombit",
@@ -301,9 +301,9 @@
       "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12595,
-      "forks": 1753,
-      "currentPeriodStars": 17,
+      "stars": 12602,
+      "forks": 1754,
+      "currentPeriodStars": 18,
       "builtBy": [
         {
           "username": "SoftFever",
@@ -336,7 +336,7 @@
       "description": "Diablo build for modern operating systems",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9332,
+      "stars": 9334,
       "forks": 955,
       "currentPeriodStars": 6,
       "builtBy": [
@@ -371,9 +371,9 @@
       "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 17533,
+      "stars": 17538,
       "forks": 4020,
-      "currentPeriodStars": 16,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "blazoncek",
@@ -406,9 +406,9 @@
       "description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 25231,
+      "stars": 25235,
       "forks": 856,
-      "currentPeriodStars": 9,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "kishorenc",
@@ -441,9 +441,9 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 95171,
-      "forks": 14942,
-      "currentPeriodStars": 65,
+      "stars": 95205,
+      "forks": 14950,
+      "currentPeriodStars": 76,
       "builtBy": [
         {
           "username": "ggerganov",
@@ -476,9 +476,9 @@
       "description": "Easy to use device for connecting \"old\" measuring units (water, power, gas, ...) to the digital world",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8072,
-      "forks": 838,
-      "currentPeriodStars": 11,
+      "stars": 8078,
+      "forks": 839,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "jomjol",
@@ -511,9 +511,9 @@
       "description": "Production ready toolkit to run AI locally",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8317,
-      "forks": 254,
-      "currentPeriodStars": 379,
+      "stars": 8409,
+      "forks": 255,
+      "currentPeriodStars": 122,
       "builtBy": [
         {
           "username": "sanchitmonga22",
@@ -528,8 +528,8 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "josuediazflores",
-          "avatar": "https://avatars.githubusercontent.com/u/152042011?s=40&v=4"
+          "username": "vaibhav936",
+          "avatar": "https://avatars.githubusercontent.com/u/32448489?s=40&v=4"
         },
         {
           "username": "cursoragent",
@@ -547,8 +547,8 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 3316,
-      "forks": 2622,
-      "currentPeriodStars": 0,
+      "forks": 2623,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "aleos89",
@@ -581,9 +581,9 @@
       "description": "Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3517,
-      "forks": 582,
-      "currentPeriodStars": 4,
+      "stars": 3518,
+      "forks": 583,
+      "currentPeriodStars": 5,
       "builtBy": [
         {
           "username": "kiwibrowser",
@@ -616,8 +616,8 @@
       "description": "Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2974,
-      "forks": 1123,
+      "stars": 2975,
+      "forks": 1124,
       "currentPeriodStars": 0,
       "builtBy": [
         {
@@ -651,9 +651,9 @@
       "description": "JSON for Modern C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 48903,
-      "forks": 7311,
-      "currentPeriodStars": 10,
+      "stars": 48912,
+      "forks": 7312,
+      "currentPeriodStars": 11,
       "builtBy": [
         {
           "username": "nlohmann",
@@ -686,9 +686,9 @@
       "description": "🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 13282,
+      "stars": 13288,
       "forks": 1340,
-      "currentPeriodStars": 10,
+      "currentPeriodStars": 8,
       "builtBy": [
         {
           "username": "biodranik",
@@ -721,9 +721,9 @@
       "description": "The Swift Programming Language",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 69682,
-      "forks": 10659,
-      "currentPeriodStars": 6,
+      "stars": 69686,
+      "forks": 10660,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "swift-ci",

@@ -1,7 +1,7 @@
 {
-  "count": 12,
+  "count": 13,
   "since": "daily",
-  "captured_at": "2026-02-17 12:17:16",
+  "captured_at": "2026-02-18 00:17:18",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6692,
-      "forks": 667,
-      "currentPeriodStars": 891,
+      "stars": 7187,
+      "forks": 722,
+      "currentPeriodStars": 656,
       "builtBy": [
         {
           "username": "p-e-w",
@@ -57,9 +57,9 @@
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9169,
-      "forks": 608,
-      "currentPeriodStars": 182,
+      "stars": 9319,
+      "forks": 611,
+      "currentPeriodStars": 282,
       "builtBy": [
         {
           "username": "fallenbagel",
@@ -103,9 +103,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 53133,
-      "forks": 4034,
-      "currentPeriodStars": 725,
+      "stars": 53582,
+      "forks": 4065,
+      "currentPeriodStars": 569,
       "builtBy": [
         {
           "username": "obra",
@@ -149,8 +149,8 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3699,
-      "forks": 313,
+      "stars": 3856,
+      "forks": 319,
       "currentPeriodStars": 469,
       "builtBy": [
         {
@@ -195,8 +195,8 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4209,
-      "forks": 222,
+      "stars": 4473,
+      "forks": 239,
       "currentPeriodStars": 1473,
       "builtBy": [
         {
@@ -240,8 +240,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 203403,
-      "forks": 36726,
+      "stars": 205294,
+      "forks": 37415,
       "currentPeriodStars": 4201,
       "builtBy": [
         {
@@ -257,8 +257,8 @@
           "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&v=4"
         },
         {
-          "username": "gumadeiras",
-          "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
+          "username": "sebslight",
+          "avatar": "https://avatars.githubusercontent.com/u/19554889?s=40&v=4"
         },
         {
           "username": "claude",
@@ -286,8 +286,8 @@
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 1064,
-      "forks": 368,
+      "stars": 1192,
+      "forks": 404,
       "currentPeriodStars": 194,
       "builtBy": [
         {
@@ -331,9 +331,9 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 32572,
-      "forks": 7280,
-      "currentPeriodStars": 1097,
+      "stars": 32796,
+      "forks": 7300,
+      "currentPeriodStars": 510,
       "builtBy": [
         {
           "username": "ashishps1",
@@ -367,15 +367,61 @@
     },
     {
       "rank": 9,
+      "author": "steipete",
+      "repoName": "summarize",
+      "url": "https://github.com/steipete/summarize",
+      "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 3430,
+      "forks": 217,
+      "currentPeriodStars": 119,
+      "builtBy": [
+        {
+          "username": "steipete",
+          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4"
+        },
+        {
+          "username": "mvance",
+          "avatar": "https://avatars.githubusercontent.com/u/82473?s=40&v=4"
+        },
+        {
+          "username": "vlnd0",
+          "avatar": "https://avatars.githubusercontent.com/u/42946292?s=40&v=4"
+        },
+        {
+          "username": "claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "username": "philippb",
+          "avatar": "https://avatars.githubusercontent.com/u/374326?s=40&v=4"
+        }
+      ],
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "summarize 是一个基于 TypeScript 的内容提炼工具，支持命令行与 Chrome 扩展。用户只需提供任意网页、YouTube 视频、播客或文件链接，即可快速获取要点摘要，大幅减少信息筛选时间，提升内容理解与决策效率。",
+          "en": "summarize is a TypeScript-based tool offering CLI and Chrome extension to extract concise summaries from URLs, YouTube videos, podcasts, or files, reducing information overload and speeding up content understanding."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "该项目是一个基于 TypeScript 开发的工具，提供 CLI 和 Chrome 扩展。它允许用户通过指向任何 URL、YouTube 视频、播客或文件，快速获取其核心内容摘要，解决了信息过载时高效提取要点的痛点。",
+          "en": "This TypeScript-based tool offers a CLI and Chrome extension. It enables users to quickly obtain summaries from any URL, YouTube video, podcast, or file, addressing the pain point of efficiently extracting key information from content overload."
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "author": "hummingbot",
       "repoName": "hummingbot",
       "url": "https://github.com/hummingbot/hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 16777,
-      "forks": 4407,
-      "currentPeriodStars": 339,
+      "stars": 17024,
+      "forks": 4416,
+      "currentPeriodStars": 568,
       "builtBy": [
         {
           "username": "cardosofede",
@@ -412,16 +458,16 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 11,
       "author": "anthropics",
       "repoName": "claude-quickstarts",
       "url": "https://github.com/anthropics/claude-quickstarts",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14279,
-      "forks": 2423,
-      "currentPeriodStars": 165,
+      "stars": 14468,
+      "forks": 2426,
+      "currentPeriodStars": 87,
       "builtBy": [
         {
           "username": "x5a",
@@ -458,16 +504,16 @@
       ]
     },
     {
-      "rank": 11,
+      "rank": 12,
       "author": "davila7",
       "repoName": "claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 20599,
-      "forks": 1926,
-      "currentPeriodStars": 216,
+      "stars": 20715,
+      "forks": 1935,
+      "currentPeriodStars": 111,
       "builtBy": [
         {
           "username": "davila7",
@@ -504,16 +550,16 @@
       ]
     },
     {
-      "rank": 12,
+      "rank": 13,
       "author": "OpenCTI-Platform",
       "repoName": "opencti",
       "url": "https://github.com/OpenCTI-Platform/opencti",
       "description": "Open Cyber Threat Intelligence Platform",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8251,
-      "forks": 1221,
-      "currentPeriodStars": 13,
+      "stars": 8399,
+      "forks": 1227,
+      "currentPeriodStars": 16,
       "builtBy": [
         {
           "username": "SamuelHassine",

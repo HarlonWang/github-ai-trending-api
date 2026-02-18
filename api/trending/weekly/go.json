@@ -1,7 +1,7 @@
 {
   "count": 18,
   "since": "weekly",
-  "captured_at": "2026-02-17 12:18:59",
+  "captured_at": "2026-02-18 00:18:30",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2988,
-      "forks": 215,
-      "currentPeriodStars": 2199,
+      "stars": 3040,
+      "forks": 217,
+      "currentPeriodStars": 1872,
       "builtBy": [
         {
           "username": "apps/copilot-swe-agent",
@@ -56,9 +56,9 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3700,
-      "forks": 313,
-      "currentPeriodStars": 1769,
+      "stars": 3856,
+      "forks": 319,
+      "currentPeriodStars": 2144,
       "builtBy": [
         {
           "username": "steipete",
@@ -102,9 +102,9 @@
       "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22837,
+      "stars": 22847,
       "forks": 576,
-      "currentPeriodStars": 150,
+      "currentPeriodStars": 153,
       "builtBy": [
         {
           "username": "meowgorithm",
@@ -137,9 +137,9 @@
       "description": "Container runtimes on macOS (and Linux) with minimal setup",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26966,
+      "stars": 26980,
       "forks": 532,
-      "currentPeriodStars": 186,
+      "currentPeriodStars": 166,
       "builtBy": [
         {
           "username": "abiosoft",
@@ -172,8 +172,8 @@
       "description": "MCP server for Grafana",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2316,
-      "forks": 262,
+      "stars": 2318,
+      "forks": 263,
       "currentPeriodStars": 56,
       "builtBy": [
         {
@@ -207,9 +207,9 @@
       "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 60316,
-      "forks": 7052,
-      "currentPeriodStars": 236,
+      "stars": 60322,
+      "forks": 7055,
+      "currentPeriodStars": 243,
       "builtBy": [
         {
           "username": "harshavardhana",
@@ -252,9 +252,9 @@
       "description": "Network-wide ads & trackers blocking DNS server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 32598,
+      "stars": 32612,
       "forks": 2246,
-      "currentPeriodStars": 135,
+      "currentPeriodStars": 133,
       "builtBy": [
         {
           "username": "ainar-g",
@@ -273,8 +273,8 @@
           "avatar": "https://avatars.githubusercontent.com/u/5947035?s=40&v=4"
         },
         {
-          "username": "hmage",
-          "avatar": "https://avatars.githubusercontent.com/u/739119?s=40&v=4"
+          "username": "EugeneOne1",
+          "avatar": "https://avatars.githubusercontent.com/u/38542664?s=40&v=4"
         }
       ],
       "aiSummaries": null
@@ -287,9 +287,9 @@
       "description": "Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4613,
-      "forks": 193,
-      "currentPeriodStars": 341,
+      "stars": 4623,
+      "forks": 194,
+      "currentPeriodStars": 317,
       "builtBy": [
         {
           "username": "rcourtman",
@@ -322,9 +322,9 @@
       "description": "Style definitions for nice terminal layouts 👄",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 10572,
+      "stars": 10577,
       "forks": 310,
-      "currentPeriodStars": 71,
+      "currentPeriodStars": 81,
       "builtBy": [
         {
           "username": "meowgorithm",
@@ -357,9 +357,9 @@
       "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2372,
-      "forks": 245,
-      "currentPeriodStars": 218,
+      "stars": 2379,
+      "forks": 248,
+      "currentPeriodStars": 213,
       "builtBy": [
         {
           "username": "apps/github-actions",
@@ -392,9 +392,9 @@
       "description": "simple terminal UI for git commands",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 72471,
-      "forks": 2510,
-      "currentPeriodStars": 465,
+      "stars": 72502,
+      "forks": 2513,
+      "currentPeriodStars": 463,
       "builtBy": [
         {
           "username": "jesseduffield",
@@ -427,9 +427,9 @@
       "description": "A wizard to facilitate BPB Panel deployment and management.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 391,
+      "stars": 394,
       "forks": 122,
-      "currentPeriodStars": 51,
+      "currentPeriodStars": 49,
       "builtBy": [
         {
           "username": "bia-pain-bache",
@@ -450,9 +450,9 @@
       "description": "scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3147,
-      "forks": 430,
-      "currentPeriodStars": 341,
+      "stars": 3158,
+      "forks": 429,
+      "currentPeriodStars": 361,
       "builtBy": [
         {
           "username": "gosom",
@@ -485,9 +485,9 @@
       "description": "🚤 Cross-platform, unofficial CLI for Cloudflare Warp",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7770,
+      "stars": 7776,
       "forks": 801,
-      "currentPeriodStars": 104,
+      "currentPeriodStars": 108,
       "builtBy": [
         {
           "username": "ViRb3",
@@ -520,9 +520,9 @@
       "description": "The Cloud Native Application Proxy",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 61679,
+      "stars": 61691,
       "forks": 5832,
-      "currentPeriodStars": 165,
+      "currentPeriodStars": 164,
       "builtBy": [
         {
           "username": "ldez",
@@ -555,7 +555,7 @@
       "description": "Send push notifications to your phone or desktop using PUT/POST",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28801,
+      "stars": 28807,
       "forks": 1183,
       "currentPeriodStars": 157,
       "builtBy": [
@@ -590,9 +590,9 @@
       "description": "Dolt – Git for Data",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19825,
+      "stars": 19848,
       "forks": 624,
-      "currentPeriodStars": 104,
+      "currentPeriodStars": 106,
       "builtBy": [
         {
           "username": "zachmu",
@@ -625,7 +625,7 @@
       "description": "PostgreSQL driver and toolkit for Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 13336,
+      "stars": 13340,
       "forks": 997,
       "currentPeriodStars": 37,
       "builtBy": [

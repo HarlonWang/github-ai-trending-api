@@ -1,7 +1,7 @@
 {
   "count": 14,
   "since": "monthly",
-  "captured_at": "2026-02-17 12:20:03",
+  "captured_at": "2026-02-18 00:19:32",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 203411,
-      "forks": 36726,
-      "currentPeriodStars": 195873,
+      "stars": 205300,
+      "forks": 37416,
+      "currentPeriodStars": 199307,
       "builtBy": [
         {
           "username": "steipete",
@@ -28,8 +28,8 @@
           "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&v=4"
         },
         {
-          "username": "gumadeiras",
-          "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4"
+          "username": "sebslight",
+          "avatar": "https://avatars.githubusercontent.com/u/19554889?s=40&v=4"
         },
         {
           "username": "claude",
@@ -57,9 +57,9 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 13011,
-      "forks": 1309,
-      "currentPeriodStars": 10950,
+      "stars": 13163,
+      "forks": 1323,
+      "currentPeriodStars": 11199,
       "builtBy": [
         {
           "username": "badlogic",
@@ -92,9 +92,9 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 23047,
-      "forks": 2303,
-      "currentPeriodStars": 18901,
+      "stars": 23207,
+      "forks": 2316,
+      "currentPeriodStars": 19269,
       "builtBy": [
         {
           "username": "ajmallesh",
@@ -105,12 +105,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
         },
         {
-          "username": "keygraphVarun",
-          "avatar": "https://avatars.githubusercontent.com/u/182007681?s=40&v=4"
-        },
-        {
           "username": "ezl-keygraph",
           "avatar": "https://avatars.githubusercontent.com/u/252853768?s=40&v=4"
+        },
+        {
+          "username": "keygraphVarun",
+          "avatar": "https://avatars.githubusercontent.com/u/182007681?s=40&v=4"
         },
         {
           "username": "Khaushik-keygraph",
@@ -127,9 +127,9 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 36894,
-      "forks": 2253,
-      "currentPeriodStars": 11574,
+      "stars": 36965,
+      "forks": 2258,
+      "currentPeriodStars": 11672,
       "builtBy": [
         {
           "username": "JonnyBurger",
@@ -162,9 +162,9 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8951,
-      "forks": 482,
-      "currentPeriodStars": 6893,
+      "stars": 9080,
+      "forks": 492,
+      "currentPeriodStars": 7113,
       "builtBy": [
         {
           "username": "tobi",
@@ -197,9 +197,9 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 16158,
-      "forks": 1219,
-      "currentPeriodStars": 12145,
+      "stars": 16237,
+      "forks": 1222,
+      "currentPeriodStars": 11734,
       "builtBy": [
         {
           "username": "kuishou68",
@@ -237,9 +237,9 @@
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 10501,
-      "forks": 510,
-      "currentPeriodStars": 8333,
+      "stars": 10585,
+      "forks": 513,
+      "currentPeriodStars": 8580,
       "builtBy": [
         {
           "username": "apps/dependabot",
@@ -282,9 +282,9 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 28712,
-      "forks": 1927,
-      "currentPeriodStars": 14725,
+      "stars": 28786,
+      "forks": 1937,
+      "currentPeriodStars": 14765,
       "builtBy": [
         {
           "username": "thedotmack",
@@ -317,9 +317,9 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15576,
-      "forks": 1860,
-      "currentPeriodStars": 8496,
+      "stars": 15600,
+      "forks": 1865,
+      "currentPeriodStars": 8513,
       "builtBy": [
         {
           "username": "virattt",
@@ -352,9 +352,9 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 105830,
-      "forks": 10343,
-      "currentPeriodStars": 33216,
+      "stars": 106095,
+      "forks": 10380,
+      "currentPeriodStars": 31927,
       "builtBy": [
         {
           "username": "thdxr",
@@ -387,9 +387,9 @@
       "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 3237,
-      "forks": 213,
-      "currentPeriodStars": 2439,
+      "stars": 3430,
+      "forks": 217,
+      "currentPeriodStars": 2532,
       "builtBy": [
         {
           "username": "steipete",
@@ -412,7 +412,18 @@
           "avatar": "https://avatars.githubusercontent.com/u/374326?s=40&v=4"
         }
       ],
-      "aiSummaries": null
+      "aiSummaries": [
+        {
+          "provider": "chatgpt",
+          "zh": "summarize 是一个基于 TypeScript 的内容提炼工具，支持命令行与 Chrome 扩展。用户只需提供任意网页、YouTube 视频、播客或文件链接，即可快速获取要点摘要，大幅减少信息筛选时间，提升内容理解与决策效率。",
+          "en": "summarize is a TypeScript-based tool offering CLI and Chrome extension to extract concise summaries from URLs, YouTube videos, podcasts, or files, reducing information overload and speeding up content understanding."
+        },
+        {
+          "provider": "deepseek",
+          "zh": "该项目是一个基于 TypeScript 开发的工具，提供 CLI 和 Chrome 扩展。它允许用户通过指向任何 URL、YouTube 视频、播客或文件，快速获取其核心内容摘要，解决了信息过载时高效提取要点的痛点。",
+          "en": "This TypeScript-based tool offers a CLI and Chrome extension. It enables users to quickly obtain summaries from any URL, YouTube video, podcast, or file, addressing the pain point of efficiently extracting key information from content overload."
+        }
+      ]
     },
     {
       "rank": 12,
@@ -422,9 +433,9 @@
       "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1513,
-      "forks": 175,
-      "currentPeriodStars": 1146,
+      "stars": 1527,
+      "forks": 176,
+      "currentPeriodStars": 1152,
       "builtBy": [
         {
           "username": "ochafik",
@@ -457,9 +468,9 @@
       "description": "A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents. 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4487,
+      "stars": 4493,
       "forks": 1133,
-      "currentPeriodStars": 2615,
+      "currentPeriodStars": 2589,
       "builtBy": [
         {
           "username": "hellodigua",
@@ -492,9 +503,9 @@
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 16474,
-      "forks": 1650,
-      "currentPeriodStars": 2391,
+      "stars": 16491,
+      "forks": 1652,
+      "currentPeriodStars": 2403,
       "builtBy": [
         {
           "username": "Dhravya",

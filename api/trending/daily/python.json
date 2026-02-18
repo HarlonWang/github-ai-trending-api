@@ -1,7 +1,7 @@
 {
   "count": 14,
   "since": "daily",
-  "captured_at": "2026-02-17 12:17:55",
+  "captured_at": "2026-02-18 00:17:29",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6692,
-      "forks": 667,
-      "currentPeriodStars": 891,
+      "stars": 7187,
+      "forks": 722,
+      "currentPeriodStars": 656,
       "builtBy": [
         {
           "username": "p-e-w",
@@ -57,9 +57,9 @@
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 16777,
-      "forks": 4407,
-      "currentPeriodStars": 339,
+      "stars": 17024,
+      "forks": 4416,
+      "currentPeriodStars": 568,
       "builtBy": [
         {
           "username": "cardosofede",
@@ -103,9 +103,9 @@
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14279,
-      "forks": 2423,
-      "currentPeriodStars": 165,
+      "stars": 14468,
+      "forks": 2426,
+      "currentPeriodStars": 87,
       "builtBy": [
         {
           "username": "x5a",
@@ -149,9 +149,9 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 20599,
-      "forks": 1926,
-      "currentPeriodStars": 216,
+      "stars": 20715,
+      "forks": 1935,
+      "currentPeriodStars": 111,
       "builtBy": [
         {
           "username": "davila7",
@@ -195,9 +195,9 @@
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6932,
-      "forks": 597,
-      "currentPeriodStars": 300,
+      "stars": 6959,
+      "forks": 602,
+      "currentPeriodStars": 258,
       "builtBy": [
         {
           "username": "ruvnet",
@@ -228,9 +228,9 @@
       "description": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1575,
-      "forks": 352,
-      "currentPeriodStars": 25,
+      "stars": 1587,
+      "forks": 353,
+      "currentPeriodStars": 18,
       "builtBy": [
         {
           "username": "GH05TCREW",
@@ -259,9 +259,9 @@
       "description": "🕵️🫆 (2-in-1) Emaill and Username OSINT tool that analyzes username and email presence across multiple platforms, intended for security research, investigations, legitimate analysis",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 708,
-      "forks": 72,
-      "currentPeriodStars": 33,
+      "stars": 725,
+      "forks": 73,
+      "currentPeriodStars": 27,
       "builtBy": [
         {
           "username": "kaifcodec",
@@ -294,9 +294,9 @@
       "description": "Free, open source crypto trading bot",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 46891,
+      "stars": 46913,
       "forks": 9790,
-      "currentPeriodStars": 96,
+      "currentPeriodStars": 49,
       "builtBy": [
         {
           "username": "xmatthias",
@@ -329,9 +329,9 @@
       "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6872,
-      "forks": 1529,
-      "currentPeriodStars": 22,
+      "stars": 6892,
+      "forks": 1533,
+      "currentPeriodStars": 27,
       "builtBy": [
         {
           "username": "0x4m4",
@@ -352,9 +352,9 @@
       "description": "\"AI-Trader: Can AI Beat the Market?\" Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11272,
-      "forks": 1886,
-      "currentPeriodStars": 54,
+      "stars": 11285,
+      "forks": 1887,
+      "currentPeriodStars": 45,
       "builtBy": [
         {
           "username": "TianyuFan0504",
@@ -387,9 +387,9 @@
       "description": "An open-source RAG-based tool for chatting with your documents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 25097,
-      "forks": 2092,
-      "currentPeriodStars": 25,
+      "stars": 25111,
+      "forks": 2094,
+      "currentPeriodStars": 21,
       "builtBy": [
         {
           "username": "taprosoft",
@@ -422,9 +422,9 @@
       "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 23985,
-      "forks": 1415,
-      "currentPeriodStars": 133,
+      "stars": 24049,
+      "forks": 1420,
+      "currentPeriodStars": 115,
       "builtBy": [
         {
           "username": "apps/github-actions",
@@ -457,9 +457,9 @@
       "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17755,
-      "forks": 2920,
-      "currentPeriodStars": 67,
+      "stars": 17776,
+      "forks": 2925,
+      "currentPeriodStars": 54,
       "builtBy": [
         {
           "username": "seanzhougoogle",
@@ -492,9 +492,9 @@
       "description": "Make your job hunt easy by automating your application process with this Auto Applier",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1547,
-      "forks": 436,
-      "currentPeriodStars": 26,
+      "stars": 1575,
+      "forks": 443,
+      "currentPeriodStars": 34,
       "builtBy": [
         {
           "username": "GodsScion",

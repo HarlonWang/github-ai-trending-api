@@ -1,7 +1,7 @@
 {
   "count": 19,
   "since": "monthly",
-  "captured_at": "2026-02-17 12:20:24",
+  "captured_at": "2026-02-18 00:19:48",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "An alternative frontend for YouTube, for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 11407,
+      "stars": 11411,
       "forks": 579,
-      "currentPeriodStars": 342,
+      "currentPeriodStars": 343,
       "builtBy": [
         {
           "username": "Bnyro",
@@ -46,9 +46,9 @@
       "description": "A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6753,
+      "stars": 6767,
       "forks": 258,
-      "currentPeriodStars": 2834,
+      "currentPeriodStars": 2728,
       "builtBy": [
         {
           "username": "rainxchzed",
@@ -81,9 +81,9 @@
       "description": "Painless E2E Automation for Mobile and Web",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 10743,
-      "forks": 612,
-      "currentPeriodStars": 697,
+      "stars": 10754,
+      "forks": 613,
+      "currentPeriodStars": 703,
       "builtBy": [
         {
           "username": "dmitry-zaitsev",
@@ -116,9 +116,9 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 51047,
-      "forks": 6938,
-      "currentPeriodStars": 1586,
+      "stars": 51066,
+      "forks": 6939,
+      "currentPeriodStars": 1582,
       "builtBy": [
         {
           "username": "2dust",
@@ -151,9 +151,9 @@
       "description": "Lightweight unofficial Steam client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2633,
-      "forks": 108,
-      "currentPeriodStars": 564,
+      "stars": 2686,
+      "forks": 107,
+      "currentPeriodStars": 600,
       "builtBy": [
         {
           "username": "utkarshdalal",
@@ -186,9 +186,9 @@
       "description": "Just a music player.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2884,
+      "stars": 2883,
       "forks": 140,
-      "currentPeriodStars": 458,
+      "currentPeriodStars": 457,
       "builtBy": [
         {
           "username": "brahmkshatriya",
@@ -221,7 +221,7 @@
       "description": "More Expressive InstallerX !",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3662,
+      "stars": 3671,
       "forks": 137,
       "currentPeriodStars": 506,
       "builtBy": [
@@ -256,9 +256,9 @@
       "description": "📱 Nextcloud Android app",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 5146,
+      "stars": 5149,
       "forks": 1922,
-      "currentPeriodStars": 86,
+      "currentPeriodStars": 88,
       "builtBy": [
         {
           "username": "AndyScherzinger",
@@ -291,9 +291,9 @@
       "description": "Software simulation for Android hardware-backed key pairs with key attestation",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 835,
+      "stars": 838,
       "forks": 82,
-      "currentPeriodStars": 274,
+      "currentPeriodStars": 282,
       "builtBy": [
         {
           "username": "JingMatrix",
@@ -326,9 +326,9 @@
       "description": "Android app for streaming and downloading media.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 8903,
-      "forks": 779,
-      "currentPeriodStars": 308,
+      "stars": 8902,
+      "forks": 780,
+      "currentPeriodStars": 311,
       "builtBy": [
         {
           "username": "LagradOst",
@@ -361,9 +361,9 @@
       "description": "Bringing Astrid Tasks back from the dead",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 4927,
-      "forks": 600,
-      "currentPeriodStars": 165,
+      "stars": 4930,
+      "forks": 599,
+      "currentPeriodStars": 167,
       "builtBy": [
         {
           "username": "abaker",
@@ -396,9 +396,9 @@
       "description": "An open-source keyboard for Android which respects your privacy. Currently in beta.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 8051,
+      "stars": 8054,
       "forks": 598,
-      "currentPeriodStars": 170,
+      "currentPeriodStars": 166,
       "builtBy": [
         {
           "username": "patrickgold",
@@ -431,9 +431,9 @@
       "description": "A Minecraft: Java Edition Launcher for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 782,
-      "forks": 71,
-      "currentPeriodStars": 225,
+      "stars": 785,
+      "forks": 72,
+      "currentPeriodStars": 216,
       "builtBy": [
         {
           "username": "MovTery",
@@ -466,9 +466,9 @@
       "description": "原生、纯净、可扩展 —— 重新定义你的 B 站体验",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1430,
+      "stars": 1435,
       "forks": 51,
-      "currentPeriodStars": 661,
+      "currentPeriodStars": 630,
       "builtBy": [
         {
           "username": "jay3-yy",
@@ -489,9 +489,9 @@
       "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 24647,
-      "forks": 1060,
-      "currentPeriodStars": 759,
+      "stars": 24649,
+      "forks": 1061,
+      "currentPeriodStars": 754,
       "builtBy": [
         {
           "username": "JunkFood02",
@@ -524,9 +524,9 @@
       "description": "[Deprecated] Thanks for your support!",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 3139,
+      "stars": 3140,
       "forks": 303,
-      "currentPeriodStars": 90,
+      "currentPeriodStars": 88,
       "builtBy": [
         {
           "username": "YenalyLiew",
@@ -551,9 +551,9 @@
       "description": "Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1869,
+      "stars": 1872,
       "forks": 404,
-      "currentPeriodStars": 97,
+      "currentPeriodStars": 102,
       "builtBy": [
         {
           "username": "bmarty",
@@ -586,9 +586,9 @@
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 21972,
-      "forks": 2022,
-      "currentPeriodStars": 1244,
+      "stars": 21991,
+      "forks": 2023,
+      "currentPeriodStars": 1240,
       "builtBy": [
         {
           "username": "RikkaW",
@@ -621,9 +621,9 @@
       "description": "An advanced Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 309,
+      "stars": 311,
       "forks": 55,
-      "currentPeriodStars": 72,
+      "currentPeriodStars": 75,
       "builtBy": [
         {
           "username": "tiann",

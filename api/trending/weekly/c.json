@@ -1,7 +1,7 @@
 {
   "count": 21,
   "since": "weekly",
-  "captured_at": "2026-02-17 12:19:20",
+  "captured_at": "2026-02-18 00:18:49",
   "data": [
     {
       "rank": 1,
@@ -11,9 +11,9 @@
       "description": "anti-dpi software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1679,
+      "stars": 1686,
       "forks": 52,
-      "currentPeriodStars": 161,
+      "currentPeriodStars": 158,
       "builtBy": [
         {
           "username": "bol-van",
@@ -34,9 +34,9 @@
       "description": "This project aims to enhance the working environment on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 31575,
+      "stars": 31578,
       "forks": 1282,
-      "currentPeriodStars": 120,
+      "currentPeriodStars": 114,
       "builtBy": [
         {
           "username": "valinet",
@@ -69,9 +69,9 @@
       "description": "DPI bypass multi platform",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14379,
-      "forks": 991,
-      "currentPeriodStars": 104,
+      "stars": 14386,
+      "forks": 992,
+      "currentPeriodStars": 106,
       "builtBy": [
         {
           "username": "bol-van",
@@ -104,9 +104,9 @@
       "description": "🎥 Command line media player",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 34081,
-      "forks": 3229,
-      "currentPeriodStars": 138,
+      "stars": 34089,
+      "forks": 3228,
+      "currentPeriodStars": 135,
       "builtBy": [
         {
           "username": "kasper93",
@@ -139,9 +139,9 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5993,
-      "forks": 1003,
-      "currentPeriodStars": 337,
+      "stars": 6000,
+      "forks": 1006,
+      "currentPeriodStars": 326,
       "builtBy": [
         {
           "username": "levlam",
@@ -179,9 +179,9 @@
       "description": "Display and control your Android device",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 135772,
-      "forks": 12657,
-      "currentPeriodStars": 393,
+      "stars": 135799,
+      "forks": 12658,
+      "currentPeriodStars": 375,
       "builtBy": [
         {
           "username": "rom1v",
@@ -214,8 +214,8 @@
       "description": "Android application for running Windows applications with Wine and Box86/Box64",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 16562,
-      "forks": 1221,
+      "stars": 16568,
+      "forks": 1223,
       "currentPeriodStars": 91,
       "builtBy": [
         {
@@ -249,9 +249,9 @@
       "description": "Xash3D FWGS engine",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2361,
-      "forks": 375,
-      "currentPeriodStars": 39,
+      "stars": 2362,
+      "forks": 377,
+      "currentPeriodStars": 42,
       "builtBy": [
         {
           "username": "a1batross",
@@ -284,7 +284,7 @@
       "description": "New App Store for GNOME",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1408,
+      "stars": 1410,
       "forks": 114,
       "currentPeriodStars": 33,
       "builtBy": [
@@ -319,9 +319,9 @@
       "description": "OpenCore bootloader",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14741,
-      "forks": 2237,
-      "currentPeriodStars": 34,
+      "stars": 14740,
+      "forks": 2236,
+      "currentPeriodStars": 32,
       "builtBy": [
         {
           "username": "vit9696",
@@ -354,9 +354,9 @@
       "description": "tmux source code",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 41836,
+      "stars": 41851,
       "forks": 2417,
-      "currentPeriodStars": 271,
+      "currentPeriodStars": 251,
       "builtBy": [
         {
           "username": "nicm",
@@ -391,7 +391,7 @@
       "languageColor": "#555555",
       "stars": 4732,
       "forks": 1306,
-      "currentPeriodStars": 19,
+      "currentPeriodStars": 18,
       "builtBy": [
         {
           "username": "pkendall64",
@@ -424,9 +424,9 @@
       "description": "我的电视 电视直播软件，安装即可使用",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 32255,
+      "stars": 32257,
       "forks": 3621,
-      "currentPeriodStars": 56,
+      "currentPeriodStars": 57,
       "builtBy": [
         {
           "username": "lizongying",
@@ -459,7 +459,7 @@
       "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 27913,
+      "stars": 27919,
       "forks": 2131,
       "currentPeriodStars": 63,
       "builtBy": [
@@ -494,9 +494,9 @@
       "description": "Custom firmware for the HackRF+PortaPack H1/H2/H4",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4878,
-      "forks": 832,
-      "currentPeriodStars": 29,
+      "stars": 4879,
+      "forks": 833,
+      "currentPeriodStars": 30,
       "builtBy": [
         {
           "username": "jboone",
@@ -529,9 +529,9 @@
       "description": "A vector search SQLite extension that runs anywhere!",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6928,
-      "forks": 279,
-      "currentPeriodStars": 66,
+      "stars": 6937,
+      "forks": 281,
+      "currentPeriodStars": 65,
       "builtBy": [
         {
           "username": "asg017",
@@ -564,9 +564,9 @@
       "description": "OpenVPN is an open source VPN daemon",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13246,
+      "stars": 13250,
       "forks": 3265,
-      "currentPeriodStars": 51,
+      "currentPeriodStars": 48,
       "builtBy": [
         {
           "username": "schwabe",
@@ -634,9 +634,9 @@
       "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 59136,
-      "forks": 27511,
-      "currentPeriodStars": 133,
+      "stars": 59150,
+      "forks": 27516,
+      "currentPeriodStars": 130,
       "builtBy": [
         {
           "username": "gitster",
@@ -704,9 +704,9 @@
       "description": "A new bootable USB solution.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 74531,
-      "forks": 4703,
-      "currentPeriodStars": 159,
+      "stars": 74542,
+      "forks": 4704,
+      "currentPeriodStars": 158,
       "builtBy": [
         {
           "username": "ventoy",

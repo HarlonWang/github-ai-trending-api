@@ -1,7 +1,7 @@
 {
-  "count": 20,
+  "count": 19,
   "since": "daily",
-  "captured_at": "2026-02-17 12:18:08",
+  "captured_at": "2026-02-18 00:17:42",
   "data": [
     {
       "rank": 1,
@@ -11,8 +11,8 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3699,
-      "forks": 313,
+      "stars": 3856,
+      "forks": 319,
       "currentPeriodStars": 469,
       "builtBy": [
         {
@@ -57,9 +57,9 @@
       "description": "WhatsApp CLI",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 432,
-      "forks": 70,
-      "currentPeriodStars": 21,
+      "stars": 443,
+      "forks": 71,
+      "currentPeriodStars": 18,
       "builtBy": [
         {
           "username": "steipete",
@@ -92,9 +92,9 @@
       "description": "A production-ready QUIC implementation in pure Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 11430,
-      "forks": 1520,
-      "currentPeriodStars": 3,
+      "stars": 11433,
+      "forks": 1521,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "marten-seemann",
@@ -127,9 +127,9 @@
       "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6381,
-      "forks": 1202,
-      "currentPeriodStars": 2,
+      "stars": 6385,
+      "forks": 1203,
+      "currentPeriodStars": 4,
       "builtBy": [
         {
           "username": "Skarlso",
@@ -162,7 +162,7 @@
       "description": "⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 11840,
+      "stars": 11842,
       "forks": 488,
       "currentPeriodStars": 5,
       "builtBy": [
@@ -197,9 +197,9 @@
       "description": "ZITADEL - Identity infrastructure, simplified for you.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12976,
-      "forks": 937,
-      "currentPeriodStars": 8,
+      "stars": 12984,
+      "forks": 939,
+      "currentPeriodStars": 7,
       "builtBy": [
         {
           "username": "livio-a",
@@ -232,7 +232,7 @@
       "description": "Dolt – Git for Data",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19825,
+      "stars": 19848,
       "forks": 624,
       "currentPeriodStars": 17,
       "builtBy": [
@@ -267,8 +267,8 @@
       "description": "WhatsApp MCP server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5327,
-      "forks": 885,
+      "stars": 5330,
+      "forks": 884,
       "currentPeriodStars": 6,
       "builtBy": [
         {
@@ -302,9 +302,9 @@
       "description": "simple terminal UI for git commands",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 72471,
-      "forks": 2510,
-      "currentPeriodStars": 75,
+      "stars": 72502,
+      "forks": 2513,
+      "currentPeriodStars": 84,
       "builtBy": [
         {
           "username": "jesseduffield",
@@ -337,9 +337,9 @@
       "description": "Contrib repository for the OpenTelemetry Collector",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4412,
-      "forks": 3331,
-      "currentPeriodStars": 0,
+      "stars": 4414,
+      "forks": 3333,
+      "currentPeriodStars": 2,
       "builtBy": [
         {
           "username": "apps/renovate",
@@ -372,9 +372,9 @@
       "description": "Generate type-safe code from SQL",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16959,
-      "forks": 994,
-      "currentPeriodStars": 17,
+      "stars": 16964,
+      "forks": 995,
+      "currentPeriodStars": 14,
       "builtBy": [
         {
           "username": "kyleconroy",
@@ -407,8 +407,8 @@
       "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6425,
-      "forks": 604,
+      "stars": 6427,
+      "forks": 606,
       "currentPeriodStars": 5,
       "builtBy": [
         {
@@ -442,9 +442,9 @@
       "description": "Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1916,
+      "stars": 1919,
       "forks": 106,
-      "currentPeriodStars": 5,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "apps/renovate",
@@ -471,50 +471,15 @@
     },
     {
       "rank": 14,
-      "author": "asheshgoplani",
-      "repoName": "agent-deck",
-      "url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 833,
-      "forks": 73,
-      "currentPeriodStars": 27,
-      "builtBy": [
-        {
-          "username": "asheshgoplani",
-          "avatar": "https://avatars.githubusercontent.com/u/36273585?s=40&v=4"
-        },
-        {
-          "username": "claude",
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
-        },
-        {
-          "username": "artwist-polyakov",
-          "avatar": "https://avatars.githubusercontent.com/u/42345388?s=40&v=4"
-        },
-        {
-          "username": "amir-jakoby",
-          "avatar": "https://avatars.githubusercontent.com/u/7036401?s=40&v=4"
-        },
-        {
-          "username": "mtparet",
-          "avatar": "https://avatars.githubusercontent.com/u/754770?s=40&v=4"
-        }
-      ],
-      "aiSummaries": null
-    },
-    {
-      "rank": 15,
       "author": "GoogleCloudPlatform",
       "repoName": "microservices-demo",
       "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
       "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19795,
-      "forks": 9493,
-      "currentPeriodStars": 5,
+      "stars": 19797,
+      "forks": 9492,
+      "currentPeriodStars": 6,
       "builtBy": [
         {
           "username": "renovate-bot",
@@ -540,16 +505,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 16,
+      "rank": 15,
       "author": "mikefarah",
       "repoName": "yq",
       "url": "https://github.com/mikefarah/yq",
       "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 14895,
+      "stars": 14899,
       "forks": 744,
-      "currentPeriodStars": 4,
+      "currentPeriodStars": 3,
       "builtBy": [
         {
           "username": "mikefarah",
@@ -575,16 +540,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 17,
+      "rank": 16,
       "author": "github",
       "repoName": "github-mcp-server",
       "url": "https://github.com/github/github-mcp-server",
       "description": "GitHub's official MCP Server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 27003,
-      "forks": 3592,
-      "currentPeriodStars": 29,
+      "stars": 27021,
+      "forks": 3594,
+      "currentPeriodStars": 30,
       "builtBy": [
         {
           "username": "SamMorrowDrums",
@@ -610,16 +575,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 18,
+      "rank": 17,
       "author": "ipfs",
       "repoName": "kubo",
       "url": "https://github.com/ipfs/kubo",
       "description": "An IPFS implementation in Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16909,
+      "stars": 16911,
       "forks": 3140,
-      "currentPeriodStars": 2,
+      "currentPeriodStars": 0,
       "builtBy": [
         {
           "username": "whyrusleeping",
@@ -645,16 +610,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 19,
+      "rank": 18,
       "author": "danielmiessler",
       "repoName": "Fabric",
       "url": "https://github.com/danielmiessler/Fabric",
       "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 39123,
-      "forks": 3901,
-      "currentPeriodStars": 28,
+      "stars": 39138,
+      "forks": 3904,
+      "currentPeriodStars": 34,
       "builtBy": [
         {
           "username": "danielmiessler",
@@ -680,16 +645,16 @@
       "aiSummaries": null
     },
     {
-      "rank": 20,
+      "rank": 19,
       "author": "filebrowser",
       "repoName": "filebrowser",
       "url": "https://github.com/filebrowser/filebrowser",
       "description": "📂 Web File Browser",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 33459,
-      "forks": 3707,
-      "currentPeriodStars": 14,
+      "stars": 33468,
+      "forks": 3708,
+      "currentPeriodStars": 13,
       "builtBy": [
         {
           "username": "hacdias",
