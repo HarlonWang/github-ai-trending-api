@@ -1,5 +1,5 @@
 import { describe, it, expect, vi } from 'vitest';
-import { onRequest } from './trending.js';
+import { onRequest } from '../../functions/api/trending.js';
 
 describe('Trending API Unit Tests', () => {
     
