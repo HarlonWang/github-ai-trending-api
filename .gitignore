@@ -4,6 +4,5 @@ node_modules/
 .idea/
 .env
 
-# SQLite temp files
-*.db-wal
-*.db-shm
+# Temporary sync files
+sync.sql

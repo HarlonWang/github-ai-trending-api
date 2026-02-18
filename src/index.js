@@ -1,14 +1,14 @@
 import dayjs from 'dayjs';
+import fs from 'node:fs';
 import { LANGUAGES, PERIODS, AI_CONFIG } from './consts.js';
 import { fetchTrending } from './scraper.js';
-import { exportToJson } from './exporter.js';
 import { generateAISummaries } from './ai/index.js';
-import { initDB, upsertRepo, insertSnapshot, runTransaction } from './db.js';
+import { generateRepoSql, generateSnapshotSql, generateAISummarySql } from './utils/sql-gen.js';
 
 async function main() {
-    console.log('Starting GitHub Trending Crawler with SQLite...');
-    initDB();
+    console.log('Starting GitHub Trending Crawler for Cloudflare D1...');
     const startTime = Date.now();
+    const sqlStatements = [];
 
     // 遍历 PERIODS 与 LANGUAGES
     for (const since of PERIODS) {
@@ -25,12 +25,10 @@ async function main() {
                 if (repos.length > 0) {
                     const capturedAt = dayjs().format('YYYY-MM-DD HH:mm:ss');
 
-                    // 2. 仓库信息写入 DB
-                    runTransaction(() => {
-                        for (const repo of repos) {
-                            upsertRepo(repo);
-                        }
-                    });
+                    // 2. 生成仓库 SQL
+                    for (const repo of repos) {
+                        sqlStatements.push(generateRepoSql(repo));
+                    }
 
                     // 3. AI 摘要总结
                     const shouldRunAI = AI_CONFIG.enabled &&
@@ -39,22 +37,22 @@ async function main() {
 
                     if (shouldRunAI) {
                         try {
-                            await generateAISummaries(repos);
+                            const aiResults = await generateAISummaries(repos);
+                            for (const res of aiResults) {
+                                for (const s of res.summaries) {
+                                    sqlStatements.push(generateAISummarySql(res.fullName, s.summary, s.provider));
+                                }
+                            }
                         } catch (aiError) {
                             console.error(`[AI] Error processing summaries for ${lang || 'All'}:`, aiError.message);
                         }
                     }
 
-                    // 4. 记录快照 (Record Snapshots)
-                    runTransaction(() => {
-                        for (const repo of repos) {
-                            const fullName = `${repo.author}/${repo.repoName}`;
-                            insertSnapshot(fullName, since, lang, repo, capturedAt);
-                        }
-                    });
-
-                    // 5. 导出 API (Export JSON)
-                    await exportToJson(since, lang, capturedAt);
+                    // 4. 生成快照 SQL
+                    for (const repo of repos) {
+                        const fullName = `${repo.author}/${repo.repoName}`;
+                        sqlStatements.push(generateSnapshotSql(fullName, since, lang, repo, capturedAt));
+                    }
 
                     console.log(`Success: ${repos.length} repos processed.`);
                 } else {
@@ -70,6 +68,12 @@ async function main() {
                 console.error(`Fatal error processing ${lang}:`, error);
             }
         }
+    }
+
+    // 将所有 SQL 语句写入文件
+    if (sqlStatements.length > 0) {
+        fs.writeFileSync('sync.sql', sqlStatements.join('\n'));
+        console.log(`\nSuccessfully generated sync.sql with ${sqlStatements.length} statements.`);
     }
 
     const duration = ((Date.now() - startTime) / 1000).toFixed(2);

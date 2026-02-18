@@ -1,5 +1,37 @@
+import { execSync } from 'node:child_process';
 import { AI_CONFIG } from '../consts.js';
-import { getCachedAISummaries, saveAISummary } from '../db.js';
+
+// 统一索引：存储格式为 "full_name:provider"
+// 它既包含数据库里已有的，也包含本次运行刚刚生成的
+let aiIndex = null;
+
+/**
+ * 初始化索引：从 D1 获取现有总结列表
+ */
+function initAIIndex() {
+    if (aiIndex !== null) return;
+    
+    aiIndex = new Set();
+    try {
+        console.log('[AI] Loading existing summaries index from Cloudflare D1...');
+        const output = execSync('npx wrangler d1 execute trending --remote --command="SELECT full_name, provider FROM ai_summaries" --format=json', {
+            encoding: 'utf-8',
+            stdio: ['ignore', 'pipe', 'ignore'] 
+        });
+        
+        const data = JSON.parse(output);
+        // wrangler 返回的可能是数组（如果有多条命令），取第一个结果
+        const result = Array.isArray(data) ? data[0] : data;
+        const rows = result?.results || [];
+        
+        rows.forEach(row => aiIndex.add(`${row.full_name}:${row.provider}`));
+        console.log(`[AI] Loaded ${aiIndex.size} existing summary keys.`);
+    } catch (e) {
+        console.warn('[AI] Could not reach D1 to fetch index, will proceed with empty index.');
+        // 即使失败也标记为已初始化，避免重复尝试
+        if (aiIndex === null) aiIndex = new Set();
+    }
+}
 
 /**
  * 核心调用逻辑：针对特定 provider 进行单次调用
@@ -30,68 +62,90 @@ async function callProvider(providerName, prompt) {
 }
 
 /**
- * 针对指定 provider 获取总结并保存
+ * 针对指定 provider 获取总结
+ * @returns {Object|null} { provider, summary }
  */
-async function fetchAndSaveSingleAISummary(repo, providerName, prompt) {
+async function fetchSingleAISummary(repo, providerName, prompt) {
   try {
     const rawContent = await callProvider(providerName, prompt);
-    if (!rawContent) return;
+    if (!rawContent) return null;
 
     let parsedObj = null;
     try {
       parsedObj = JSON.parse(rawContent.trim());
     } catch (e) {
       console.error(`[AI] JSON Parse Error for ${repo.repoName} via ${providerName}: ${e.message}`);
-      return;
+      return null;
     }
 
     if (parsedObj) {
-      const fullName = `${repo.author}/${repo.repoName}`;
-      saveAISummary(fullName, JSON.stringify(parsedObj), providerName);
       console.log(`[AI] Successfully generated summary via ${providerName} for ${repo.repoName}`);
+      return {
+        provider: providerName,
+        summary: JSON.stringify(parsedObj)
+      };
     }
   } catch (error) {
     console.warn(`[AI] ${providerName} failed for ${repo.repoName}: ${error.message}`);
   }
+  return null;
 }
 
 /**
- * 批量确保仓库有所有配置的 AI 总结（增量补齐）
+ * 批量为仓库生成 AI 总结
+ * @param {Array} repos - 仓库列表
+ * @returns {Promise<Array>} 返回产生的总结结果对象数组的 Promise
  */
 export async function generateAISummaries(repos) {
-  console.log(`[AI] Processing ${repos.length} repositories for multiple providers...`);
+  // 初始化索引
+  initAIIndex();
+
+  console.log(`[AI] Processing ${repos.length} repositories...`);
+  const results = [];
 
   for (let i = 0; i < repos.length; i++) {
     const repo = repos[i];
     const fullName = `${repo.author}/${repo.repoName}`;
+    
+    // 找出该仓库真正缺失的 providers
+    const providersToCall = AI_CONFIG.providers.filter(p => !aiIndex.has(`${fullName}:${p}`));
+
+    if (providersToCall.length === 0) {
+        continue;
+    }
+
+    console.log(`[AI] ${fullName} missing summaries from: ${providersToCall.join(', ')}`);
+
     const prompt = AI_CONFIG.promptTemplate
       .replace('{{name}}', fullName)
       .replace('{{url}}', repo.url)
       .replace('{{lang}}', repo.language || 'Unknown')
       .replace('{{desc}}', repo.description || 'No description');
 
-    // 1. 检查已有的总结
-    const existingSummaries = getCachedAISummaries(fullName);
-    const existingProviders = existingSummaries.map(s => s.provider);
-
-    // 2. 找出缺失的提供商
-    const missingProviders = AI_CONFIG.providers.filter(p => !existingProviders.includes(p));
-
-    if (missingProviders.length === 0) {
-      console.log(`[AI] Skip (All Done): ${fullName}`);
-      continue;
-    }
-
-    console.log(`[AI] ${fullName} missing summaries from: ${missingProviders.join(', ')}`);
-
-    // 3. 并行调用缺失的提供商 (尽力而为)
-    await Promise.allSettled(
-      missingProviders.map(p => fetchAndSaveSingleAISummary(repo, p, prompt))
+    const summaries = await Promise.allSettled(
+      providersToCall.map(p => fetchSingleAISummary(repo, p, prompt))
     );
 
+    const repoSummaries = [];
+    for (const res of summaries) {
+        if (res.status === 'fulfilled' && res.value) {
+            repoSummaries.push(res.value);
+            // 立即更新索引，防止本次运行后续周期重复处理
+            aiIndex.add(`${fullName}:${res.value.provider}`);
+        }
+    }
+
+    if (repoSummaries.length > 0) {
+        results.push({
+            fullName,
+            summaries: repoSummaries
+        });
+    }
+
     // 只有在真正请求了 AI 后才进行延迟
-    if (i < repos.length - 1) {
+    if (i < repos.length - 1 && repoSummaries.length > 0) {
       await new Promise(resolve => setTimeout(resolve, AI_CONFIG.delay));
     }
   }
+  return results;
 }

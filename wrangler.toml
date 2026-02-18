@@ -1,0 +1,8 @@
+name = "github-ai-trending-api"
+compatibility_date = "2024-02-17"
+pages_build_output_dir = "./public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "trending"
+database_id = "04d27909-1574-4994-b19d-afb366babd08"

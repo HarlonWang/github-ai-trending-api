@@ -28,18 +28,14 @@ jobs:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           AI_ENABLED: ${{ vars.AI_ENABLED }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: npm start
 
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # 检查是否有文件变更 (包括 data/ 目录下的数据库)
-          if [[ -n $(git status --porcelain api/ data/) ]]; then
-            git add api/ data/
-            git commit -m "chore(data): update trending data and db $(date +'%Y-%m-%d')"
-            git push
-          else
-            echo "No changes to commit."
-          fi
+      - name: Sync to Cloudflare D1
+        if: success()
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: d1 execute trending --remote --file=./sync.sql
