@@ -9,7 +9,7 @@ export async function onRequest(context) {
 
     try {
         // 1. 查找最近一次抓取的时间点
-        const lastCapture = await env.DB.prepare(`
+        const lastCapture = await env.DB.prepare(/* language=SQLite */ `
             SELECT MAX(captured_at) as last_time 
             FROM snapshots 
             WHERE since = ? AND language_scope = ?
@@ -24,7 +24,7 @@ export async function onRequest(context) {
         }
 
         // 2. 查询最新数据，并聚合 AI 总结
-        const { results } = await env.DB.prepare(`
+        const { results } = await env.DB.prepare(/* language=SQLite */ `
             SELECT 
                 s.rank, r.author, r.repo_name as repoName, r.url, r.description, 
                 r.language, r.language_color as languageColor, s.stars, s.forks, 
