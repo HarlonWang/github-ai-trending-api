@@ -1,6 +1,6 @@
 # GitHub AI Trending API
 
-每日定时从 GitHub Trending 抓取热门项目信息，并生成 AI 技术总结，通过 JSON API 形式对外提供数据。
+每日定时从 GitHub Trending 抓取热门项目信息，并利用 AI 模型生成技术总结。
 
 ## 功能特性
 
@@ -8,72 +8,29 @@
 - 🕒 **定时更新**：每日通过 GitHub Actions 自动运行，保持数据新鲜。
 - 🚀 **零成本托管**：利用 GitHub 基础设施实现抓取、处理与存储。
 
-## API 接入指南
+## 📖 API 使用文档
 
-您可以通过以下路径直接获取 JSON 格式的趋势数据：
+**接口地址**: `https://api.trendingai.cn/api/trending`
 
-### 基础 URL
-`https://raw.githubusercontent.com/HarlonWang/github-ai-trending-api/main/api/trending/`
+### 请求参数
 
-### 路径规则
-`/{period}/{language}.json`
+| 参数 | 类型 | 说明 | 示例 |
+| :--- | :--- | :--- | :--- |
+| `lang` | string | 编程语言过滤，缺省为 `all` | `python`, `rust`, `javascript` |
+| `since` | string | 趋势周期，支持 `daily` (默认), `weekly`, `monthly` | `weekly` |
+| `limit` | number | 返回数量限制 (1-100)，默认 `25` | `50` |
+| `provider` | string | AI 提供商过滤，支持多选（逗号分隔） | `deepseek` 或 `chatgpt,deepseek` |
+| `summary_lang`| string | AI 摘要输出语言，支持 `zh`, `en` (默认) | `zh` |
+| `date` | string | 查询历史特定日期，格式 `YYYY-MM-DD` | `2026-02-17` |
+| `batch` | string | 查询特定抓取批次，支持 `am`, `pm` | `am` (对应 UTC 00:17) |
 
-- **period (周期)**: `daily` (每日), `weekly` (每周), `monthly` (每月)
-- **language (语言)**: `all` (所有语言汇总) 或特定语言的小写名称 (如 `javascript`, `python`, `kotlin`)
+### 快速示例
 
-### 请求示例
-
-- 全语言 daily：
-    - https://raw.githubusercontent.com/HarlonWang/github-ai-trending-api/main/api/trending/daily/all.json
-- JavaScript weekly：
-    - https://raw.githubusercontent.com/HarlonWang/github-ai-trending-api/main/api/trending/weekly/javascript.json
-- Kotlin monthly：
-    - https://raw.githubusercontent.com/HarlonWang/github-ai-trending-api/main/api/trending/monthly/kotlin.json
-
-
-
----
-
-## AI 增强特性 (AI-Powered Summaries) 🌟
-
-本项目针对全语种榜单额外提供了 `aiSummary` 字段。
-
-- **功能描述**：由 AI 自动提炼 50-80 字的中文技术摘要，重点突出核心价值与创新点。
-- **数据示例**：
-
-```json
-{
-  "count": 25,
-  "captured_at": "2026-02-13 07:24:12",
-  "data": [
-    {
-      "rank": 1,
-      "author": "tambo-ai",
-      "repoName": "tambo",
-      "url": "https://github.com/tambo-ai/tambo",
-      "description": "Generative UI SDK for React",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 9212,
-      "forks": 441,
-      "currentPeriodStars": 300,
-      "builtBy": [
-        {
-          "username": "alecf",
-          "avatar": "https://avatars.githubusercontent.com/u/135340?s=40&v=4"
-        }
-      ],
-      "aiSummary": {
-        "content": "Tambo 是一个基于 TypeScript 的 React 生成式 UI SDK，旨在简化 AI 驱动的交互界面开发。它通过声明式 API 将 AI 模型响应自动转换为动态 UI 组件，提升了开发效率。",
-        "source": "deepseek"
-      }
-    }
-  ]
-}
-```
+- **获取今日全语言榜单（默认英文总结）**:
+  [https://api.trendingai.cn/api/trending](https://api.trendingai.cn/api/trending)
+- **获取本周 Python 热门项目（带中文总结）**:
+  [https://api.trendingai.cn/api/trending?lang=python&since=weekly&summary_lang=zh](https://api.trendingai.cn/api/trending?lang=python&since=weekly&summary_lang=zh)
+- **获取特定日期的早报批次数据**:
+  [https://api.trendingai.cn/api/trending?date=2026-02-17&batch=am](https://api.trendingai.cn/api/trending?date=2026-02-17&batch=am)
 
 ---
-
-## jsDelivr CDN 方式（可选）
-
-URL ：https://cdn.jsdelivr.net/gh/HarlonWang/github-ai-trending-api@main/api/trending/{since}/{lang}.json
