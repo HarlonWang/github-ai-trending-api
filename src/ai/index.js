@@ -10,24 +10,26 @@ let aiIndex = null;
  */
 function initAIIndex() {
     if (aiIndex !== null) return;
-    
+
     aiIndex = new Set();
     try {
         console.log('[AI] Loading existing summaries index from Cloudflare D1...');
         const output = execSync('npx wrangler d1 execute trending --remote --command="SELECT full_name, provider FROM ai_summaries" --format=json', {
             encoding: 'utf-8',
-            stdio: ['ignore', 'pipe', 'ignore'] 
+            stdio: ['ignore', 'pipe', 'ignore']
         });
-        
+
         const data = JSON.parse(output);
         // wrangler 返回的可能是数组（如果有多条命令），取第一个结果
         const result = Array.isArray(data) ? data[0] : data;
         const rows = result?.results || [];
-        
+
         rows.forEach(row => aiIndex.add(`${row.full_name}:${row.provider}`));
         console.log(`[AI] Loaded ${aiIndex.size} existing summary keys.`);
     } catch (e) {
-        console.warn('[AI] Could not reach D1 to fetch index, will proceed with empty index.');
+
+        console.warn('[AI] Could not reach D1 to fetch index:', e.message);
+        if (e.stderr) console.error('[AI] Wrangler Error:', e.stderr.toString());
         // 即使失败也标记为已初始化，避免重复尝试
         if (aiIndex === null) aiIndex = new Set();
     }
@@ -106,7 +108,7 @@ export async function generateAISummaries(repos) {
   for (let i = 0; i < repos.length; i++) {
     const repo = repos[i];
     const fullName = `${repo.author}/${repo.repoName}`;
-    
+
     // 找出该仓库真正缺失的 providers
     const providersToCall = AI_CONFIG.providers.filter(p => !aiIndex.has(`${fullName}:${p}`));
 
