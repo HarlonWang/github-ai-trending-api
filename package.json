@@ -17,5 +17,8 @@
     "axios": "^1.13.4",
     "cheerio": "^1.2.0",
     "dayjs": "^1.11.19"
+  },
+  "devDependencies": {
+    "wrangler": "4.66.0"
   }
 }

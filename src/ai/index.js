@@ -14,9 +14,9 @@ function initAIIndex() {
     aiIndex = new Set();
     try {
         console.log('[AI] Loading existing summaries index from Cloudflare D1...');
-        const output = execSync('npx wrangler d1 execute trending --remote --command="SELECT full_name, provider FROM ai_summaries" --format=json', {
+        const output = execSync('npx wrangler d1 execute trending --remote --command="SELECT full_name, provider FROM ai_summaries" --json', {
             encoding: 'utf-8',
-            stdio: ['ignore', 'pipe', 'ignore']
+            stdio: ['ignore', 'pipe', 'pipe']
         });
 
         const data = JSON.parse(output);
